@@ -6,7 +6,7 @@ nav_order: 1
 
 # DengYueMed
 
-### Global Pharmaceutical Supply & Strategic Medical Distribution
+### International Pharmaceutical Supply & Strategic Drug Distribution
 
 ---
 
