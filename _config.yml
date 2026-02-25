@@ -11,5 +11,6 @@ color_scheme: light
 
 heading_anchors: true
 logo: "/logo.png"
-sass:
-  style: compressed
+just_the_docs:
+  custom_css:
+    - custom
