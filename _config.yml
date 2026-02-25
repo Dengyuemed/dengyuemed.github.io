@@ -12,3 +12,4 @@ color_scheme: light
 aux_links:
   "Visit GitHub":
     - "https://github.com/dengyuemed"
+heading_anchors: true
