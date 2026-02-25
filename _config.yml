@@ -11,3 +11,4 @@ color_scheme: light
 
 heading_anchors: true
 logo: "/logo.png"
+footer_content: ""
