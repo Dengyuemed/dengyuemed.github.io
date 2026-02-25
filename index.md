@@ -30,8 +30,19 @@ DengYueMed provides reliable global access to high-value pharmaceutical products
 
 ---
 
+## Why Choose DengYueMed
+
+✔ Reliable global sourcing network  
+✔ Experience in oncology & rare disease products  
+✔ Compliance-focused operations  
+✔ Efficient cross-border logistics  
+
 ## 📩 Business Inquiry
 
 For partnership or product sourcing:
 
-Email: your@email.com
+Email: info@dengyuemed.com
+---
+
+© 2026 DengYueMed  
+All Rights Reserved.
