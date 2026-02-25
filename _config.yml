@@ -1,7 +1,9 @@
 title: DengYueMed
 description: Global pharmaceutical supply & medical insights
-theme: minima
+remote_theme: just-the-docs/just-the-docs
 
 header_pages:
   - about.md
   - contact.md
+plugins:
+  - jekyll-remote-theme
