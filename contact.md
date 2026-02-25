@@ -5,4 +5,4 @@ nav_order: 3
 permalink: /contact/
 ---
 
-Email: your@email.com
+Email: info@dengyuemed.com
