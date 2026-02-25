@@ -43,7 +43,7 @@ DengYueMed provides reliable global access to high-value pharmaceutical products
 
 For partnership or product sourcing:
 
-Email: info@dengyuemed.com
+Email: [info@dengyuemed.com](mailto:info@dengyuemed.com)
 ---
 
 © 2026 DengYueMed  
