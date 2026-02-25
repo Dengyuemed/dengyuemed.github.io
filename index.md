@@ -6,7 +6,9 @@ nav_order: 1
 
 # DengYueMed
 
-### International Pharmaceutical Supply & Strategic Drug Distribution
+## Trusted Global Partner in Pharmaceutical Supply
+
+Specializing in oncology, immunotherapy, and rare disease medications.
 
 ---
 
