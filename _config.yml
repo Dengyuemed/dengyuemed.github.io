@@ -11,3 +11,5 @@ color_scheme: light
 
 heading_anchors: true
 logo: "/logo.png"
+sass:
+  style: compressed
