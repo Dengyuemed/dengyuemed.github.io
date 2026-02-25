@@ -1,13 +1,27 @@
 ---
-layout: home
-title: "DengYueMed"
+layout: default
+title: DengYueMed
 ---
 
-Welcome to DengYueMed.
+# DengYueMed
 
-We share insights on:
+Global Pharmaceutical Supply & Medical Insights
 
-- Oncology
-- Immunology
-- Rare Diseases
-- Global Pharmaceutical Supply
+---
+
+## About Us
+
+DengYueMed focuses on:
+
+- Oncology drug supply
+- Immunotherapy insights
+- Rare disease medications
+- International pharmaceutical distribution
+
+---
+
+## Latest Articles
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
