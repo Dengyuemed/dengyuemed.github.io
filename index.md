@@ -1,27 +1,16 @@
 ---
-layout: default
+layout: home
 title: DengYueMed
+nav_order: 1
 ---
 
 # DengYueMed
 
 Global Pharmaceutical Supply & Medical Insights
 
----
+## Core Areas
 
-## About Us
-
-DengYueMed focuses on:
-
-- Oncology drug supply
-- Immunotherapy insights
-- Rare disease medications
-- International pharmaceutical distribution
-
----
-
-## Latest Articles
-
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
+- Oncology
+- Immunotherapy
+- Rare Diseases
+- Global Drug Distribution
