@@ -13,3 +13,4 @@ aux_links:
   "Visit GitHub":
     - "https://github.com/dengyuemed"
 heading_anchors: true
+logo: "/logo.png"
