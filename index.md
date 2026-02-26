@@ -1,6 +1,7 @@
 ---
 layout: default
 title: DengYueMed
+nav_exclude: true
 ---
 
 # DengYueMed
