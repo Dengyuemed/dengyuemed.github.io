@@ -10,7 +10,7 @@ nav_exclude: true
 
 ---
 
-## 🔬 Featured Analysis
+## 🔬 Lead Analysis
 
 {% assign featured = site.posts.first %}
 
