@@ -12,27 +12,46 @@ nav_exclude: true
 
 <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 40px; align-items: start;">
 
-<div style="flex: 2;">
+<div>
 
 ## Lead Analysis
 
 {% assign featured = site.posts.first %}
 
-<div class="featured-box">
-<h2><a href="{{ featured.url }}">{{ featured.title }}</a></h2>
-<p><em>{{ featured.date | date: "%B %d, %Y" }}</em></p>
-<p>{{ featured.excerpt }}</p>
-<p><a href="{{ featured.url }}"><strong>Read Full Analysis →</strong></a></p>
+<div style="background:#f8f9fa; padding:24px; border-radius:8px; border:1px solid #e5e5e5;">
+
+<h2 style="margin-top:0;">
+  <a href="{{ featured.url }}">{{ featured.title }}</a>
+</h2>
+
+<p>
+  <em>{{ featured.date | date: "%B %d, %Y" }}</em>
+</p>
+
+<p>
+  {{ featured.excerpt }}
+</p>
+
+<p>
+  <a href="{{ featured.url }}"><strong>Read Full Analysis →</strong></a>
+</p>
+
 </div>
 
 </div>
+
+<div>
 
 ## Market Watch
 
-- FDA Approvals
-- EMA Decisions
-- China NMPA Updates
-- Rare Disease Policy
+<div style="background:#f8f9fa; padding:20px; border-radius:8px; border:1px solid #e5e5e5;">
+
+- FDA Approvals  
+- EMA Decisions  
+- China NMPA Updates  
+- Rare Disease Policy  
+
+</div>
 
 </div>
 
