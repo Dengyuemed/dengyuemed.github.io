@@ -3,6 +3,10 @@ description: Global pharmaceutical supply & medical insights
 remote_theme: just-the-docs/just-the-docs
 
 header_pages:
+  - oncology.md
+  - rare-diseases.md
+  - supply-chain.md
+  - regulatory.md
   - about.md
   - contact.md
 plugins:
