@@ -10,7 +10,7 @@ nav_exclude: true
 
 ---
 
-<div style="display: flex; gap: 40px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; gap: 40px; align-items: start;">
 
 <div style="flex: 2;">
 
