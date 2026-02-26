@@ -1,7 +1,28 @@
 .site-footer {
   display: none !important;
 }
+
 .page-title {
   font-size: 32px;
   font-weight: 600;
+}
+
+.featured-box {
+  padding: 20px;
+  border: 1px solid #e5e5e5;
+  border-radius: 6px;
+  background: #fafafa;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-weight: 600;
+}
+
+h2 a {
+  text-decoration: none;
+}
+
+h2 a:hover {
+  text-decoration: underline;
 }
