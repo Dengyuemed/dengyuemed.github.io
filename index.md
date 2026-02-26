@@ -10,19 +10,33 @@ nav_exclude: true
 
 ---
 
+<div style="display: flex; gap: 40px;">
+
+<div style="flex: 2;">
+
 ## Lead Analysis
 
 {% assign featured = site.posts.first %}
 
 <div class="featured-box">
-
 <h2><a href="{{ featured.url }}">{{ featured.title }}</a></h2>
-
 <p><em>{{ featured.date | date: "%B %d, %Y" }}</em></p>
-
 <p>{{ featured.excerpt }}</p>
-
 <p><a href="{{ featured.url }}"><strong>Read Full Analysis →</strong></a></p>
+</div>
+
+</div>
+
+<div style="flex: 1;">
+
+## Market Watch
+
+- FDA Approvals
+- EMA Decisions
+- China NMPA Updates
+- Rare Disease Policy
+
+</div>
 
 </div>
 
