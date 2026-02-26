@@ -5,8 +5,7 @@ title: DengYueMed
 
 # DengYueMed
 
-Global Pharmaceutical Industry Insights  
-Oncology · Rare Diseases · Immunotherapy · Drug Access
+Independent Analysis on Global Oncology, Rare Disease Markets and Cross-Border Drug Access.
 
 ---
 
