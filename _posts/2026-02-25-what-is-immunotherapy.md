@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "What Is Immunotherapy?"
-date: 2026-02-25
+categories: oncology
+description: "An overview of immunotherapy mechanisms, applications, and global development trends."
 ---
 
 Immunotherapy is a treatment that uses the body's immune system to fight cancer.
