@@ -1,5 +1,6 @@
 title: DengYueMed
-description: Global pharmaceutical supply & medical insights
+description: Global pharmaceutical industry insights focusing on oncology, rare diseases and cross-border drug access.
+url: https://dengyuemed.github.io
 remote_theme: just-the-docs/just-the-docs
 
 header_pages:
@@ -9,12 +10,15 @@ header_pages:
   - regulatory.md
   - about.md
   - contact.md
+
 plugins:
   - jekyll-remote-theme
-color_scheme: light
+  - jekyll-sitemap
 
+color_scheme: light
 heading_anchors: true
 logo: "/logo.png"
+
 just_the_docs:
   custom_css:
     - custom
