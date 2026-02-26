@@ -27,8 +27,6 @@ nav_exclude: true
 
 </div>
 
-<div style="flex: 1;">
-
 ## Market Watch
 
 - FDA Approvals
