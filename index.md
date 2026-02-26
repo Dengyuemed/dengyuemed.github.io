@@ -13,10 +13,14 @@ Oncology · Rare Diseases · Immunotherapy · Drug Access
 ## Featured Insight
 
 {% assign featured = site.posts.first %}
-### [{{ featured.title }}]({{ featured.url }})
-<small>{{ featured.date | date: "%B %d, %Y" }}</small>
 
-{{ featured.excerpt }}
+### 🔬 [{{ featured.title }}]({{ featured.url }})
+
+*{{ featured.date | date: "%B %d, %Y" }}*
+
+> {{ featured.excerpt }}
+
+[Read Full Article →]({{ featured.url }})
 
 ---
 
