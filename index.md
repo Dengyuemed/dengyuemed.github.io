@@ -6,28 +6,32 @@ nav_exclude: true
 
 # DengYueMed
 
-Independent Analysis on Global Oncology, Rare Disease Markets and Cross-Border Drug Access.
+### Independent Intelligence on Global Oncology & Rare Disease Markets
 
 ---
 
-## Featured Insight
+## 🔬 Featured Analysis
 
 {% assign featured = site.posts.first %}
 
-### 🔬 [{{ featured.title }}]({{ featured.url }})
+<div class="featured-box">
 
-*{{ featured.date | date: "%B %d, %Y" }}*
+<h2><a href="{{ featured.url }}">{{ featured.title }}</a></h2>
 
-> {{ featured.excerpt }}
+<p><em>{{ featured.date | date: "%B %d, %Y" }}</em></p>
 
-[Read Full Article →]({{ featured.url }})
+<p>{{ featured.excerpt }}</p>
+
+<p><a href="{{ featured.url }}"><strong>Read Full Analysis →</strong></a></p>
+
+</div>
 
 ---
 
-## Latest Articles
+## Latest Research Notes
 
 <ul>
-{% for post in site.posts offset:1 limit:6 %}
+{% for post in site.posts offset:1 limit:5 %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
     <small> — {{ post.date | date: "%B %d, %Y" }}</small>
@@ -37,15 +41,9 @@ Independent Analysis on Global Oncology, Rare Disease Markets and Cross-Border D
 
 ---
 
-## Browse by Category
+## Coverage Areas
 
-- [Oncology](/oncology)
-- [Rare Diseases](/rare-diseases)
-- [Supply Chain](/supply-chain)
-- [Regulatory](/regulatory)
-
----
-
-## About DengYueMed
-
-DengYueMed focuses on global pharmaceutical industry analysis, cross-border drug access, oncology and rare disease market insights.
+- [Oncology](/oncology/)
+- [Rare Diseases](/rare-diseases/)
+- [Supply Chain](/supply-chain/)
+- [Regulatory](/regulatory/)
