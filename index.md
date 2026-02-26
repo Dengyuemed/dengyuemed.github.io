@@ -27,7 +27,7 @@ Oncology · Rare Diseases · Immunotherapy · Drug Access
 ## Latest Articles
 
 <ul>
-{% for post in site.posts limit:6 %}
+{% for post in site.posts offset:1 limit:6 %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
     <small> — {{ post.date | date: "%B %d, %Y" }}</small>
