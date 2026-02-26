@@ -1,50 +1,47 @@
 ---
-layout: home
+layout: default
 title: DengYueMed
-nav_order: 1
 ---
 
 # DengYueMed
 
-## Trusted Global Partner in Pharmaceutical Supply
-
-Specializing in oncology, immunotherapy, and rare disease medications.
-
----
-
-## 🌍 About DengYueMed
-
-DengYueMed provides reliable global access to high-value pharmaceutical products, focusing on:
-
-- Oncology therapies
-- Immunotherapy agents
-- Rare disease medications
-- International drug distribution
+Global Pharmaceutical Industry Insights  
+Oncology · Rare Diseases · Immunotherapy · Drug Access
 
 ---
 
-## 💼 What We Offer
+## Featured Insight
 
-✔ International pharmaceutical sourcing  
-✔ Cross-border drug supply chain solutions  
-✔ Regulatory-compliant distribution  
-✔ Medical industry insights  
+{% assign featured = site.posts.first %}
+### [{{ featured.title }}]({{ featured.url }})
+<small>{{ featured.date | date: "%B %d, %Y" }}</small>
+
+{{ featured.excerpt }}
 
 ---
 
-## Why Choose DengYueMed
+## Latest Articles
 
-✔ Reliable global sourcing network  
-✔ Experience in oncology & rare disease products  
-✔ Compliance-focused operations  
-✔ Efficient cross-border logistics  
+<ul>
+{% for post in site.posts limit:6 %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <small> — {{ post.date | date: "%B %d, %Y" }}</small>
+  </li>
+{% endfor %}
+</ul>
 
-## 📩 Business Inquiry
-
-For partnership or product sourcing:
-
-Email: [info@dengyuemed.com](mailto:info@dengyuemed.com)
 ---
 
-© 2026 DengYueMed  
-All Rights Reserved.
+## Browse by Category
+
+- [Oncology](/oncology)
+- [Rare Diseases](/rare-diseases)
+- [Supply Chain](/supply-chain)
+- [Regulatory](/regulatory)
+
+---
+
+## About DengYueMed
+
+DengYueMed focuses on global pharmaceutical industry analysis, cross-border drug access, oncology and rare disease market insights.
