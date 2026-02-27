@@ -20,10 +20,10 @@ We are committed to advancing global pharmaceutical accessibility and cross-bord
 ## 📬 General Inquiries
 
 **📧 Email**  
-info@dengyuemed.com  
+<a href="mailto:info@dengyuemed.com">info@dengyuemed.com</a>
 
 **📱 Telephone / WhatsApp**  
-+852-52881999  
+<a href="https://wa.me/85252881999" target="_blank">+852-52881999</a>
 
 ---
 
@@ -38,13 +38,29 @@ Hong Kong
 
 ## 🌐 Connect With Us
 
-<ul style="list-style: none; padding-left: 0; font-size: 16px;">
-  <li>🔗 <a href="https://hk.linkedin.com/company/hong-kong-dengyue-pharmaceutical-co-limited" target="_blank">LinkedIn</a></li>
-  <li>🐦 <a href="https://x.com/JasonDengyuemed" target="_blank">X (Twitter)</a></li>
-  <li>📘 <a href="https://www.facebook.com" target="_blank">Facebook</a></li>
-  <li>📸 <a href="https://www.instagram.com/balas95073" target="_blank">Instagram</a></li>
-  <li>▶️ <a href="https://www.youtube.com/@Jason_Dengyuemed" target="_blank">YouTube</a></li>
-</ul>
+<p align="center">
+
+<a href="https://hk.linkedin.com/company/hong-kong-dengyue-pharmaceutical-co-limited" target="_blank" style="display:inline-block; padding:8px 16px; margin:6px; border:1px solid #ccc; border-radius:6px; text-decoration:none;">
+🔗 LinkedIn
+</a>
+
+<a href="https://x.com/JasonDengyuemed" target="_blank" style="display:inline-block; padding:8px 16px; margin:6px; border:1px solid #ccc; border-radius:6px; text-decoration:none;">
+🐦 X (Twitter)
+</a>
+
+<a href="https://www.facebook.com" target="_blank" style="display:inline-block; padding:8px 16px; margin:6px; border:1px solid #ccc; border-radius:6px; text-decoration:none;">
+📘 Facebook
+</a>
+
+<a href="https://www.instagram.com/balas95073" target="_blank" style="display:inline-block; padding:8px 16px; margin:6px; border:1px solid #ccc; border-radius:6px; text-decoration:none;">
+📸 Instagram
+</a>
+
+<a href="https://www.youtube.com/@Jason_Dengyuemed" target="_blank" style="display:inline-block; padding:8px 16px; margin:6px; border:1px solid #ccc; border-radius:6px; text-decoration:none;">
+▶️ YouTube
+</a>
+
+</p>
 
 ---
 
