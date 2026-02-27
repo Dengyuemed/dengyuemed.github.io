@@ -11,54 +11,63 @@ permalink: /about/
 
 ## DengYueMed
 
-DengYueMed is a global pharmaceutical intelligence and distribution-focused platform dedicated to oncology and rare disease markets.
+DengYueMed is a global pharmaceutical intelligence and distribution-oriented platform focused on oncology and rare disease markets.
 
-As emerging markets reshape the global innovation landscape, we aim to bridge scientific progress, regulatory transformation, and international pharmaceutical circulation.
+As China’s pharmaceutical industry transitions from a generics-driven participant to an innovation-driven contributor, the global healthcare landscape is entering a new multipolar era.
 
-We position ourselves at the forefront of a new era in global medicine — where innovation is no longer geographically confined.
+DengYueMed was established to document, interpret, and support this transformation — connecting Chinese pharmaceutical advancement with global medical accessibility.
 
 ---
 
 ## Our Mission
 
-To accelerate global access to innovative therapies by:
+To accelerate international access to innovative therapies by:
 
-- Interpreting rare disease and oncology market dynamics  
-- Analyzing regulatory reform and approval pathways  
-- Supporting cross-border pharmaceutical distribution  
-- Promoting data-driven and evidence-based insights  
+- Interpreting rare disease and oncology market evolution  
+- Analyzing regulatory modernization and approval pathways  
+- Supporting compliant cross-border pharmaceutical distribution  
+- Providing structured, evidence-based industry intelligence  
 
-We believe access to life-changing therapies should transcend borders.
+We believe that innovation should not be limited by geography.
 
 ---
 
 ## Strategic Focus
 
-### Rare Disease Leadership  
-Tracking orphan drug pipelines, commercialization pathways, and evolving incentive frameworks.
+### Rare Disease Transformation  
+Tracking orphan drug pipelines, global designations, and the expanding role of Chinese-developed therapies.
 
 ### Oncology Innovation  
-Monitoring immunotherapy, targeted therapy, and next-generation treatment platforms.
+Monitoring immunotherapy, targeted platforms, and next-generation treatment development.
 
-### Regulatory Intelligence  
-Decoding policy evolution, harmonization trends, and global compliance shifts.
+### Regulatory Evolution  
+Analyzing China’s regulatory reform and its integration into global pharmaceutical standards.
 
 ### Global Pharmaceutical Circulation  
-Facilitating insight into international supply chain integration and medicine accessibility.
+Enhancing transparency and efficiency in international medicine distribution networks.
 
 ---
 
 ## Our Perspective
 
-The global pharmaceutical industry is entering a multipolar innovation era.
+The global pharmaceutical ecosystem is becoming increasingly diversified.
 
-DengYueMed was established to document, interpret, and actively participate in this transformation — highlighting the growing strategic role of emerging markets in rare disease and oncology therapeutics.
+China’s expanding R&D capabilities, manufacturing integration, and regulatory modernization are reshaping the balance of innovation.
+
+DengYueMed operates at the intersection of:
+
+- Innovation  
+- Regulation  
+- Distribution  
+- Global accessibility  
+
+Highlighting the growing structural influence of Chinese pharmaceutical enterprises in rare disease and oncology therapeutics.
 
 ---
 
 ## Contact
 
-For strategic collaboration, distribution inquiries, or research dialogue:
+For strategic collaboration, distribution inquiries, or industry research dialogue:
 
 Email: info@dengyuemed.com  
 Website: https://dengyuemed.github.io/
