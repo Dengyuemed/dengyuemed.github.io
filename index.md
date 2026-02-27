@@ -4,25 +4,27 @@ title: DengYueMed
 nav_exclude: true
 ---
 
-# DengYueMed
+<h1 style="margin-bottom: 8px;">DengYueMed</h1>
 
-### Independent Intelligence on Global Oncology & Rare Disease Markets
+<p style="font-size:18px; margin-top:0; margin-bottom:30px; color:#555;">
+Independent Intelligence on Global Oncology & Rare Disease Markets
+</p>
 
----
+<hr style="margin-bottom:40px;">
 
 <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 40px; align-items: start;">
 
 <div>
 
-## Lead Analysis
+<h2>Lead Analysis</h2>
 
 {% assign featured = site.posts.first %}
 
 <div style="background:#f8f9fa; padding:24px; border-radius:8px; border:1px solid #e5e5e5;">
 
-<h2 style="margin-top:0;">
+<h3 style="margin-top:0;">
   <a href="{{ featured.url }}">{{ featured.title }}</a>
-</h2>
+</h3>
 
 <p>
   <em>{{ featured.date | date: "%B %d, %Y" }}</em>
@@ -42,14 +44,16 @@ nav_exclude: true
 
 <div>
 
-## Market Watch
+<h2>Market Watch</h2>
 
 <div style="background:#f8f9fa; padding:20px; border-radius:8px; border:1px solid #e5e5e5;">
 
-- FDA Approvals  
-- EMA Decisions  
-- China NMPA Updates  
-- Rare Disease Policy  
+<ul style="margin:0; padding-left:18px;">
+  <li>FDA Approvals</li>
+  <li>EMA Decisions</li>
+  <li>China NMPA Updates</li>
+  <li>Rare Disease Policy</li>
+</ul>
 
 </div>
 
@@ -57,9 +61,9 @@ nav_exclude: true
 
 </div>
 
----
+<hr style="margin:50px 0;">
 
-## Latest Research Notes
+<h2>Latest Research Notes</h2>
 
 <ul>
 {% for post in site.posts offset:1 limit:5 %}
@@ -70,11 +74,13 @@ nav_exclude: true
 {% endfor %}
 </ul>
 
----
+<hr style="margin:50px 0;">
 
-## Coverage Areas
+<h2>Coverage Areas</h2>
 
-- [Oncology](/oncology/)
-- [Rare Diseases](/rare-diseases/)
-- [Supply Chain](/supply-chain/)
-- [Regulatory](/regulatory/)
+<ul>
+  <li><a href="/oncology/">Oncology</a></li>
+  <li><a href="/rare-diseases/">Rare Diseases</a></li>
+  <li><a href="/supply-chain/">Supply Chain</a></li>
+  <li><a href="/regulatory/">Regulatory</a></li>
+</ul>
