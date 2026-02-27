@@ -1,118 +1,163 @@
 ---
 layout: post
-title: "Globally, Only About 5% of Rare Diseases Have Treatable Medications — Why Does Humanity Continue to Invest Heavily in Orphan Drug Research?"
+title: "Globally, only about 5% of rare diseases have treatable medications — Why does humanity continue to invest heavily in orphan drug research?"
 date: 2026-02-27
 categories: Rare Diseases
-description: "Although only about 5% of rare diseases have approved treatments, governments and institutions worldwide continue to invest heavily in orphan drug research. This article explores the scientific, ethical, and systemic drivers behind sustained global commitment."
+description: "Although only 5% of rare diseases have approved treatments, global investment in orphan drug research continues to expand. This article explores the scientific, ethical, and public health logic behind sustained rare disease innovation."
 ---
 
-## Introduction
+Globally, thousands of rare diseases have been identified, yet only about **5%** currently have approved treatments.  
 
-In recent years, governments around the world have successively introduced policies and funding programs to support rare disease research and orphan drug development.
+Despite this stark reality, governments, research institutions, and pharmaceutical companies continue to invest heavily in orphan drug development.
 
-From the European Union updating its rare disease strategy, to the United States expanding its orphan drug incentive mechanisms, to Asian countries accelerating reforms in regulatory approval and patient accessibility—these coordinated public actions point to a shared reality: although only a small fraction of rare diseases have mature treatment options, global society continues to devote substantial resources to their study and protection.
+From the European Union updating its rare disease strategy, to the United States expanding orphan drug incentives, to Asian countries accelerating regulatory reforms—public action across regions signals a shared recognition:
 
-Today, thousands of rare diseases have been identified worldwide. Yet only about 5% have approved treatments. This means the vast majority of patients are still waiting for meaningful medical breakthroughs. It also means that the research, production, distribution, and accessibility systems surrounding orphan drugs are becoming an increasingly important component of the global public health infrastructure.
-
-As a company deeply involved in the global pharmaceutical supply chain, **DengYueMed** is committed to promoting the accessibility of rare disease therapies, ensuring that research outcomes reach patients more efficiently and reliably.
-
----
-
-## Why Have Rare Diseases Become a Global Public Issue?
-
-Individually, each rare disease affects a relatively small population. Collectively, however, thousands of such conditions form a massive patient group. 
-
-Globally, rare diseases affect hundreds of millions of people—many of them children, individuals with inherited disorders, and patients facing chronic, progressive illnesses. The social impact far exceeds the literal meaning of the word “rare.”
-
-Rare diseases often share several defining characteristics:
-
-- **Early onset and severe progression** – Many begin in childhood and may lead to lifelong disability.
-- **Difficult diagnosis** – Diagnostic journeys are often long, complex, and resource-intensive.
-- **Limited treatment options** – Most conditions lack targeted therapies and rely primarily on supportive care.
-
-For these reasons, rare diseases are not merely medical challenges; they are ethical, social, and public policy issues. When market mechanisms alone fail to meet the needs of vulnerable minority populations, public intervention becomes necessary.
+Rare disease research is no longer peripheral. It is becoming a structural component of modern public health systems.
 
 ---
 
-## Why Continue Investing When Only 5% Have Treatments?
+## Why Has "Rare Disease" Become a Global Public Issue?
 
-From a traditional commercial perspective, rare disease research has long been viewed as high-risk with limited returns. Small patient populations, difficulty in recruiting clinical trial participants, and lengthy, costly development timelines kept orphan drugs on the periphery of pharmaceutical innovation.
+While each rare disease affects a small number of patients, collectively they impact **hundreds of millions of people worldwide**.
 
-However, over the past two decades, this perception has gradually shifted.
+Their characteristics make them socially significant:
 
-### 1. Scientific Breakthroughs Often Begin with Rare Diseases
+- **Early onset & severe progression** — Many begin in childhood and cause lifelong impairment  
+- **Difficult diagnosis** — Long diagnostic journeys and highly specialized resources  
+- **Limited treatment options** — Most rely only on supportive care  
 
-Many major therapeutic pathways were first validated in rare disease research before being applied more broadly to oncology, immunology, and genetic disorders. Rare diseases frequently provide clearer mechanistic models, making them ideal starting points for precision medicine.
+Rare diseases are therefore not merely medical challenges.  
+They are issues of **ethics, equity, and social responsibility**.
 
-Landmark therapies such as gene therapy *Zolgensma*, RNA therapy *Spinraza* for spinal muscular atrophy (SMA), and enzyme replacement therapy *Cerezyme* for Gaucher disease have fundamentally altered the natural course of these conditions. These breakthroughs represent milestones in orphan drug development and demonstrate how innovation in small populations can influence the broader medical landscape.
-
----
-
-### 2. Public Health Ethics Drive Institutional Commitment
-
-Although rare disease patients represent a minority of the population, their unmet medical needs are often among the most urgent.
-
-In response, governments have established institutional frameworks that include:
-
-- Market exclusivity periods  
-- Tax incentives  
-- Accelerated review pathways  
-- Targeted public funding  
-
-These mechanisms enable therapies that might otherwise be commercially unviable to reach the market.
-
-Sustained investment in orphan drugs reflects a broader ethical principle: allocation of healthcare resources should not depend solely on patient numbers, but also on the intrinsic value and dignity of life.
+When market mechanisms alone cannot meet life-saving needs, public intervention becomes essential.
 
 ---
 
-### 3. Rare Diseases as the Testing Ground of Biotechnology
+## Why Invest When Only 5% Are Treatable?
 
-Orphan drug development has increasingly become the entry point for advanced biotechnologies.
+From a traditional business perspective, orphan drugs were long considered commercially unattractive:
 
-Gene editing, cell therapy, targeted molecular design, and precision diagnostics often undergo initial safety and efficacy validation in rare diseases with relatively well-defined mechanisms. Once validated, these technologies can expand into more prevalent conditions.
+- Small patient populations  
+- High clinical trial recruitment difficulty  
+- Long and expensive development cycles  
 
-In this sense, investing in the “5% treatable” diseases is not merely an act of cost-bearing—it is the construction of scientific and institutional foundations for treating a far wider range of diseases in the future.
-
----
-
-## Where Does the Public Value of Orphan Drugs Lie?
-
-### 1. Transforming Individual Lives
-
-For patients and families, an orphan drug can mean:
-
-- From “no available treatment” to “manageable condition”
-- From repeated hospitalization to participation in school and society
-- From severely shortened life expectancy to meaningful long-term survival
-
-Such transformations cannot be measured solely through economic metrics. They concern human dignity and the restoration of possibility.
+However, this perception has shifted dramatically over the past two decades.
 
 ---
 
-### 2. Strengthening Healthcare Systems
+### 1️⃣ Scientific Breakthroughs Often Begin with Rare Diseases
 
-Rare disease initiatives have driven the expansion of diagnostic networks, gene testing capabilities, and cross-regional research collaboration. These advancements enhance efficiency and precision across the entire healthcare system.
+Many modern therapeutic pathways were first validated in rare diseases before expanding into oncology, immunology, and broader genetic disorders.
 
-Technological pathways initially developed for small patient populations often become core infrastructure in modern medicine.
+Examples include:
+
+- Gene therapy **Zolgensma** for spinal muscular atrophy (SMA)  
+- RNA therapy **Spinraza** for SMA  
+- Enzyme replacement therapy **Cerezyme** for Gaucher disease  
+
+These treatments fundamentally altered disease trajectories and became historic milestones in orphan drug development.
+
+<br>
+
+<p align="center">
+  <img src="/assets/images/orphan-drugs-example.png" alt="Examples of orphan drugs including Zolgensma, Spinraza, and Cerezyme" width="75%">
+</p>
+<p align="center"><em>Representative orphan drugs that redefined treatment paradigms for rare genetic disorders.</em></p>
+
+<br>
+
+Rare diseases often provide clearer genetic or mechanistic pathways, making them ideal entry points for precision medicine innovation.
 
 ---
 
-### 3. Advancing Global Pharmaceutical Cooperation
+### 2️⃣ Public Health Ethics Drive Institutional Investment
 
-Because patient populations are geographically dispersed, rare disease research inherently requires international collaboration. Drug development, clinical trials, and regulatory coordination are increasingly global in nature.
+Rare disease patients are disproportionately children and individuals with severe genetic disorders.
 
-Within this framework, a stable and compliant pharmaceutical distribution system is equally essential. Cross-regional supply chain coordination ensures that limited medical breakthroughs can reach every patient who needs them.
+Their unmet needs cannot be addressed by market logic alone.
+
+As a result, many countries established:
+
+- Market exclusivity incentives  
+- Tax credits  
+- Accelerated regulatory review  
+- Dedicated research funding  
+
+This reflects a deeper principle:
+
+Healthcare allocation should not depend solely on patient numbers — it must also respond to the **intrinsic dignity of life**.
+
+---
+
+### 3️⃣ The Clinical Testing Ground of the Biotech Revolution
+
+High-barrier technologies often complete early validation in rare diseases:
+
+- Gene editing  
+- Cell therapy  
+- Targeted molecular design  
+- Precision diagnostics  
+
+Success in rare diseases frequently lays the technological foundation for treating more prevalent conditions.
+
+In this sense, investment in the “5%” builds infrastructure for the future 95%.
+
+---
+
+## Where Does the True Public Value of Orphan Drugs Lie?
+
+### Changing Individual Fates
+
+For families, an orphan drug may mean:
+
+- From “no treatment” to “manageable disease”  
+- From continuous hospitalization to reintegration into school and society  
+- From limited life expectancy to long-term survival  
+
+This transformation transcends economic measurement.
+
+It concerns dignity.
+
+---
+
+### Strengthening Healthcare Systems
+
+Rare disease research drives:
+
+- Advanced diagnostic networks  
+- Expanded genetic testing  
+- Cross-border clinical collaboration  
+
+Technologies developed for small populations often become core infrastructure of modern medicine.
+
+---
+
+### Promoting Global Pharmaceutical Cooperation
+
+Rare disease patients are geographically dispersed, requiring international collaboration in:
+
+- Clinical trials  
+- Regulatory communication  
+- Drug distribution  
+
+A stable and compliant supply chain is essential to ensure breakthroughs reach patients worldwide.
+
+DengYueMed, as a global pharmaceutical distributor deeply involved in rare disease drug supply and service networks, works to transform “medical innovation” into “real accessibility.”
 
 ---
 
 ## Conclusion: When Medicine Faces the Fate of the Few
 
-The compassion of an era’s healthcare system is measured not only by how many common diseases it cures, but by whether it continues striving for the fewest.
+The compassion of a medical era is measured not only by how many common diseases it cures, but by its commitment to the fewest among us.
 
-Although only about 5% of rare diseases currently have approved treatments, humanity continues to invest. This is not solely a scientific decision—it is a commitment to fairness, dignity, and hope.
+Although only 5% of rare diseases currently have treatments, humanity continues to invest — because this is not merely a scientific calculation.
 
-Every link connecting research outcomes to patient access is vital.
+It is a decision about fairness.  
+About dignity.  
+About hope.
 
-DengYueMed, as a global pharmaceutical distributor deeply engaged in the supply and service of rare disease therapies, remains committed to transforming “medical breakthroughs” into real-world accessibility.
+Orphan drugs may not immediately solve every disease.  
 
-Orphan drugs may not immediately change the outcome of every rare disease. Yet they represent one of humanity’s most steadfast responses to vulnerability: even if only a small number of people are affected, we will not abandon the search for answers.
+But they represent humanity’s most steadfast response to vulnerability:
+
+Even if only a very small number of people need them, we will not stop searching for answers.
