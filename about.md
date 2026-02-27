@@ -69,5 +69,11 @@ Highlighting the growing structural influence of Chinese pharmaceutical enterpri
 
 For strategic collaboration, distribution inquiries, or industry research dialogue:
 
-Email: info@dengyuemed.com  
+Email: your-email@example.com  
 Website: https://dengyuemed.github.io/
+
+---
+
+<p align="center">
+<em>Connecting Chinese Pharmaceutical Innovation with Global Medical Access.</em>
+</p>
