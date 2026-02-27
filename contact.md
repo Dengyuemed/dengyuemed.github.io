@@ -13,18 +13,21 @@ permalink: /contact/
 
 DengYueMed welcomes strategic collaboration, international distribution partnerships, regulatory dialogue, and industry research engagement.
 
-We are committed to supporting global pharmaceutical accessibility and cross-border medical innovation.
+We are committed to advancing global pharmaceutical accessibility and cross-border medical innovation.
 
 ---
 
-## General Inquiries
+## 📬 General Inquiries
 
-**Email:** info@dengyuemed.com  
-**Telephone / WhatsApp:** +852-52881999  
+**📧 Email**  
+info@dengyuemed.com  
+
+**📱 Telephone / WhatsApp**  
++852-52881999  
 
 ---
 
-## Corporate Information
+## 🏢 Corporate Information
 
 **DengYueMed**  
 6/F, Tai Tak Industrial Building  
@@ -33,22 +36,15 @@ Hong Kong
 
 ---
 
-## Connect With Us
+## 🌐 Connect With Us
 
-**LinkedIn:**  
-https://hk.linkedin.com/company/hong-kong-dengyue-pharmaceutical-co-limited  
-
-**X (Twitter):**  
-https://x.com/JasonDengyuemed  
-
-**Facebook:**  
-https://www.facebook.com  
-
-**Instagram:**  
-https://www.instagram.com/balas95073  
-
-**YouTube:**  
-https://www.youtube.com/@Jason_Dengyuemed  
+<ul style="list-style: none; padding-left: 0; font-size: 16px;">
+  <li>🔗 <a href="https://hk.linkedin.com/company/hong-kong-dengyue-pharmaceutical-co-limited" target="_blank">LinkedIn</a></li>
+  <li>🐦 <a href="https://x.com/JasonDengyuemed" target="_blank">X (Twitter)</a></li>
+  <li>📘 <a href="https://www.facebook.com" target="_blank">Facebook</a></li>
+  <li>📸 <a href="https://www.instagram.com/balas95073" target="_blank">Instagram</a></li>
+  <li>▶️ <a href="https://www.youtube.com/@Jason_Dengyuemed" target="_blank">YouTube</a></li>
+</ul>
 
 ---
 
