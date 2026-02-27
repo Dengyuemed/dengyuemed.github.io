@@ -44,5 +44,5 @@ Evaluating cross-border distribution networks and manufacturing integration.
 
 ## Contact
 
-📧 Email: your-email@example.com  
+📧 Email: info@dengyuemed.com  
 🌐 https://dengyuemed.github.io/
