@@ -6,43 +6,47 @@ permalink: /about/
 ---
 
 <p align="center">
-  <img src="/logo.png" width="180">
+  <img src="/logo.png" width="160">
 </p>
 
-## About DengYueMed
+## DengYueMed
 
-DengYueMed is an independent pharmaceutical intelligence and distribution-focused platform dedicated to global oncology and rare disease markets.
+DengYueMed is an independent pharmaceutical intelligence platform focused on global oncology and rare disease markets.
 
-We operate at the intersection of medical knowledge, regulatory evolution, and international pharmaceutical circulation — providing structured insights into a rapidly transforming healthcare landscape.
-
----
-
-## Our Mission
-
-- Enhance transparency in rare disease and oncology markets  
-- Interpret regulatory and policy developments  
-- Support cross-border pharmaceutical distribution  
-- Promote evidence-based medical knowledge sharing  
+We provide structured analysis on drug development, regulatory evolution, and cross-border pharmaceutical distribution, with an emphasis on emerging market transformation and innovation dynamics.
 
 ---
 
-## Our Focus Areas
+## Scope of Work
 
-### Rare Diseases  
-Monitoring orphan drug development and global accessibility dynamics.
+**Rare Disease Markets**  
+Monitoring orphan drug pipelines, regulatory incentives, commercialization models, and global access trends.
 
-### Oncology  
-Tracking therapeutic innovation and immunotherapy progress.
+**Oncology Innovation**  
+Tracking immunotherapy progress, targeted therapy development, and international oncology market shifts.
 
-### Regulatory & Policy  
-Analyzing approval pathways and international harmonization.
+**Regulatory & Policy Analysis**  
+Interpreting approval frameworks, harmonization efforts, and evolving compliance standards.
 
-### Pharmaceutical Supply Chain  
-Evaluating cross-border distribution networks and manufacturing integration.
+**Pharmaceutical Distribution**  
+Analyzing international supply chain integration and cross-border circulation of innovative medicines.
+
+---
+
+## Editorial Principles
+
+- Evidence-oriented  
+- Policy-aware  
+- Market-structured  
+- International perspective  
+
+Content published on this platform is intended for informational and analytical purposes.
 
 ---
 
 ## Contact
 
-📧 Email: info@dengyuemed.com  
-🌐 https://dengyuemed.github.io/
+For collaboration or professional inquiries:
+
+Email: your-email@example.com  
+Website: https://dengyuemed.github.io/
