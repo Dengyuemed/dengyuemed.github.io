@@ -14,8 +14,8 @@ permalink: /contact/
 We welcome strategic collaboration, media inquiries, and research partnerships.
 
 **📧 Email:** info@dengyuemed.com  
-**🔗 LinkedIn:** https://linkedin.com/company/dengyuemed  
-**🐦 X (Twitter):** https://x.com/dengyuemed  
+**🔗 LinkedIn:** https://hk.linkedin.com/company/hong-kong-dengyue-pharmaceutical-co-limited  
+**🐦 X (Twitter):** https://x.com/JasonDengyuemed  
 
 <p align="center">
   <strong>Connect with us on social platforms</strong>
