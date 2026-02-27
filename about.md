@@ -48,5 +48,5 @@ Content published on this platform is intended for informational and analytical 
 
 For collaboration or professional inquiries:
 
-Email: your-email@example.com  
+Email: info@dengyuemed.com  
 Website: https://dengyuemed.github.io/
