@@ -23,7 +23,7 @@ We are committed to advancing global pharmaceutical accessibility and cross-bord
 <a href="mailto:info@dengyuemed.com">info@dengyuemed.com</a>
 
 **📱 Telephone / WhatsApp**  
-<a href="https://wa.me/85252881999" target="_blank">+852-52881999</a>
+<a href="https://wa.me/85256986617" target="_blank">+852-56986617</a>
 
 ---
 
