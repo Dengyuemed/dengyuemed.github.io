@@ -12,35 +12,45 @@ nav_exclude: true
 .main-content {
   max-width: 1100px;
   margin: 0 auto;
-  padding: 40px 20px 80px 20px;
+  padding: 50px 20px 90px 20px;
 }
 
+/* ===== Hero Section ===== */
+
 .home-title {
-  font-size: 34px;
+  font-size: 38px;
   font-weight: 700;
-  margin-bottom: 6px;
+  margin-bottom: 8px;
 }
 
 .home-subtitle {
-  font-size: 16px;
-  color: #666;
-  margin-bottom: 12px;
+  font-size: 17px;
+  color: #555;
+  margin-bottom: 14px;
 }
 
 .home-tagline {
   font-size: 15px;
   color: #888;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
+.hero-meta {
+  font-size: 13px;
+  color: #999;
+  letter-spacing: 0.3px;
+}
+
+/* ===== Section ===== */
+
 .section-title {
-  font-size: 20px;
+  font-size: 21px;
   font-weight: 600;
-  margin-bottom: 22px;
+  margin-bottom: 24px;
 }
 
 hr.section-divider {
-  margin: 60px 0;
+  margin: 65px 0;
   border: none;
   border-top: 1px solid #ececec;
 }
@@ -50,7 +60,7 @@ hr.section-divider {
 .section-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 50px;
+  gap: 55px;
 }
 
 @media (max-width: 768px) {
@@ -63,18 +73,19 @@ hr.section-divider {
 
 .card {
   border: 1px solid #eaeaea;
-  padding: 24px;
-  border-radius: 16px;
-  transition: 0.2s ease;
+  padding: 26px;
+  border-radius: 18px;
+  transition: 0.25s ease;
+  background: #ffffff;
 }
 
 .card:hover {
-  box-shadow: 0 8px 25px rgba(0,0,0,0.05);
+  box-shadow: 0 10px 28px rgba(0,0,0,0.05);
 }
 
 .card h3 {
   margin-top: 0;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .card small {
@@ -86,15 +97,28 @@ hr.section-divider {
   font-size: 14px;
 }
 
+/* ===== Lists ===== */
+
 .simple-list {
   padding-left: 18px;
 }
 
 .simple-list li {
-  margin-bottom: 8px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+/* ===== Footer ===== */
+
+.home-footer {
+  font-size: 13px;
+  color: #999;
+  margin-top: 40px;
 }
 
 </style>
+
+<!-- ===== Hero ===== -->
 
 <h1 class="home-title">DengYueMed</h1>
 
@@ -106,11 +130,15 @@ Independent Intelligence on Global Oncology & Rare Disease Markets
 Policy · Innovation · Market Access · Competitive Strategy
 </p>
 
+<p class="hero-meta">
+Focused coverage across FDA · EMA · NMPA · Global Biopharma Markets
+</p>
+
 <hr class="section-divider">
 
 <!-- ===== Lead Analysis ===== -->
 
-{% assign featured = site.posts.first %}
+{% assign featured = site.posts | sort: "date" | reverse | first %}
 
 {% if featured %}
 
@@ -138,7 +166,7 @@ Policy · Innovation · Market Access · Competitive Strategy
 
 {% endif %}
 
-<!-- ===== Category Sections ===== -->
+<!-- ===== Core Intelligence Sections ===== -->
 
 <div class="section-grid">
 
@@ -146,7 +174,7 @@ Policy · Innovation · Market Access · Competitive Strategy
 <div>
 <h2 class="section-title">Rare Diseases</h2>
 
-{% assign rare = site.posts | where: "categories", "rare-diseases" | sort: "date" | reverse %}
+{% assign rare = site.posts | where_exp: "post", "post.categories contains 'rare-diseases'" | sort: "date" | reverse %}
 
 <ul class="simple-list">
 {% for post in rare limit:3 %}
@@ -164,7 +192,7 @@ Policy · Innovation · Market Access · Competitive Strategy
 <div>
 <h2 class="section-title">Oncology</h2>
 
-{% assign oncology = site.posts | where: "categories", "oncology" | sort: "date" | reverse %}
+{% assign oncology = site.posts | where_exp: "post", "post.categories contains 'oncology'" | sort: "date" | reverse %}
 
 <ul class="simple-list">
 {% for post in oncology limit:3 %}
@@ -182,7 +210,7 @@ Policy · Innovation · Market Access · Competitive Strategy
 <div>
 <h2 class="section-title">Regulatory</h2>
 
-{% assign regulatory = site.posts | where: "categories", "regulatory" | sort: "date" | reverse %}
+{% assign regulatory = site.posts | where_exp: "post", "post.categories contains 'regulatory'" | sort: "date" | reverse %}
 
 <ul class="simple-list">
 {% for post in regulatory limit:3 %}
@@ -200,7 +228,7 @@ Policy · Innovation · Market Access · Competitive Strategy
 <div>
 <h2 class="section-title">Supply Chain</h2>
 
-{% assign supply = site.posts | where: "categories", "supply-chain" | sort: "date" | reverse %}
+{% assign supply = site.posts | where_exp: "post", "post.categories contains 'supply-chain'" | sort: "date" | reverse %}
 
 <ul class="simple-list">
 {% for post in supply limit:3 %}
@@ -231,6 +259,6 @@ Policy · Innovation · Market Access · Competitive Strategy
 
 <hr class="section-divider">
 
-<p style="font-size:13px; color:#999;">
+<p class="home-footer">
 © {{ site.time | date: "%Y" }} DengYueMed. Independent pharmaceutical intelligence platform.
 </p>
