@@ -2,20 +2,24 @@
 layout: page
 title: Regulatory
 permalink: /regulatory/
-description: Regulatory policy analysis covering FDA, EMA, NMPA and global pharmaceutical compliance developments.
+description: Global pharmaceutical regulatory intelligence covering FDA, EMA, NMPA reforms, approval pathways and compliance strategy.
 ---
 
-# Regulatory & Policy Insights
+# Regulatory & Policy Intelligence
 
-Coverage of international regulatory reforms, approval pathways and compliance strategy.
+Strategic monitoring of global regulatory evolution, accelerated approval frameworks and pharmaceutical compliance developments.
 
 ---
 
-{% assign posts = site.categories["regulatory"] %}
+> Regulatory reform directly influences drug approval timelines, market access dynamics and innovation incentives across major jurisdictions.
 
-{% if posts and posts.size > 0 %}
+---
 
-{% for post in posts %}
+{% assign posts = site.posts | where: "categories", "regulatory" | sort: "date" | reverse %}
+
+{% if posts.size > 0 %}
+
+{% for post in posts limit:6 %}
 
 ## [{{ post.title }}]({{ post.url }})
 
@@ -29,6 +33,6 @@ Coverage of international regulatory reforms, approval pathways and compliance s
 
 {% else %}
 
-_No regulatory updates available yet._
+_No regulatory intelligence updates available yet._
 
 {% endif %}
