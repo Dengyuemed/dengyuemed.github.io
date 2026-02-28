@@ -2,20 +2,24 @@
 layout: page
 title: Supply Chain
 permalink: /supply-chain/
-description: Pharmaceutical supply chain intelligence including API production, biologics manufacturing and global distribution networks.
+description: Pharmaceutical supply chain intelligence including API production, biologics manufacturing platforms and global distribution resilience.
 ---
 
-# Pharmaceutical Supply Chain Insights
+# Pharmaceutical Supply Chain Intelligence
 
-Analysis of manufacturing capacity, API ecosystems and international logistics strategy.
+Analysis of global API ecosystems, biologics manufacturing expansion, capacity investment and international distribution strategy.
 
 ---
 
-{% assign posts = site.categories["supply-chain"] %}
+> Supply stability and manufacturing scale are strategic determinants in rare disease and oncology drug accessibility.
 
-{% if posts and posts.size > 0 %}
+---
 
-{% for post in posts %}
+{% assign posts = site.posts | where: "categories", "supply-chain" | sort: "date" | reverse %}
+
+{% if posts.size > 0 %}
+
+{% for post in posts limit:6 %}
 
 ## [{{ post.title }}]({{ post.url }})
 
@@ -29,6 +33,6 @@ Analysis of manufacturing capacity, API ecosystems and international logistics s
 
 {% else %}
 
-_No supply chain research notes published yet._
+_No supply chain intelligence reports published yet._
 
 {% endif %}
