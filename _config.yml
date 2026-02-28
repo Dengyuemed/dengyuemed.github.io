@@ -1,15 +1,32 @@
+# ===== Site Identity =====
+
 title: DengYueMed
 description: Independent intelligence on global oncology, rare disease and pharmaceutical market access insights.
 url: https://dengyuemed.github.io
 baseurl: ""
 
-# Google verification
+author: DengYueMed
+lang: en
+timezone: Asia/Shanghai
+
+logo: "/logo.png"
+
+# ===== Google Verification =====
+
 google_site_verification: rBStHqGMyRmXrFeFX8PcKCAz9D3LD6I0mxDEmo-Npoc
 
-# Theme
-remote_theme: just-the-docs/just-the-docs
+# ===== Theme =====
 
-# Navigation
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+heading_anchors: true
+
+just_the_docs:
+  custom_css:
+    - custom
+
+# ===== Navigation =====
+
 header_pages:
   - oncology.md
   - rare-diseases.md
@@ -18,16 +35,14 @@ header_pages:
   - about.md
   - contact.md
 
-# Plugins
+# ===== Plugins (GitHub Pages compatible) =====
+
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# SEO
-author: DengYueMed
-lang: en
-logo: "/logo.png"
+# ===== SEO / Social =====
 
 twitter:
   card: summary_large_image
@@ -37,19 +52,26 @@ social:
   links:
     - https://dengyuemed.github.io
 
-# Just the Docs
-color_scheme: light
-heading_anchors: true
+# ===== Collections & URL Structure (Professional Media Format) =====
 
-just_the_docs:
-  custom_css:
-    - custom
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title/
 
-# Markdown
+# ===== Clean URLs =====
+
+permalink: pretty
+
+# ===== Markdown =====
+
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-# Clean URLs
-permalink: pretty
+# ===== Sitemap Optimization =====
+
+sitemap:
+  changefreq: weekly
+  priority: 0.7
