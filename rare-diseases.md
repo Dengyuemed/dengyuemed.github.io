@@ -2,20 +2,20 @@
 layout: page
 title: Rare Diseases
 permalink: /rare-diseases/
-description: Insights and analysis on global rare disease drug development, policy, innovation and market access.
+description: Insights and strategic analysis on global rare disease drug innovation, orphan policy and international market access.
 ---
 
-# Rare Disease Insights
+# Rare Disease Intelligence
 
-Independent analysis of orphan drug development, regulatory pathways and global market expansion.
+Strategic coverage of orphan drug development, regulatory reform and competitive landscape dynamics.
 
 ---
 
-{% assign posts = site.categories["rare-diseases"] %}
+{% assign posts = site.posts | where: "categories", "rare-diseases" | sort: "date" | reverse %}
 
-{% if posts and posts.size > 0 %}
+{% if posts.size > 0 %}
 
-{% for post in posts %}
+{% for post in posts limit:6 %}
 
 ## [{{ post.title }}]({{ post.url }})
 
@@ -29,6 +29,6 @@ Independent analysis of orphan drug development, regulatory pathways and global 
 
 {% else %}
 
-_No articles have been published in this category yet._
+_No rare disease articles have been published yet._
 
 {% endif %}
