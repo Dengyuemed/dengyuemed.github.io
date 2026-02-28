@@ -2,20 +2,25 @@
 layout: page
 title: Oncology
 permalink: /oncology/
-description: Global oncology drug development trends, clinical innovation and competitive landscape analysis.
+description: Strategic intelligence on global oncology drug development, clinical innovation, immunotherapy and competitive pharmaceutical dynamics.
 ---
 
-# Oncology Insights
+# Oncology Intelligence
 
-Strategic coverage of oncology innovation, clinical pipelines and international competition.
+Focused analysis of global oncology pipelines, immunotherapy breakthroughs, regulatory acceleration pathways and competitive strategy across major pharmaceutical markets.
 
 ---
 
-{% assign posts = site.categories["oncology"] %}
+> Oncology remains the largest therapeutic category globally.  
+> Immuno-oncology, ADCs, targeted therapies and combination regimens are redefining competitive positioning.
 
-{% if posts and posts.size > 0 %}
+---
 
-{% for post in posts %}
+{% assign posts = site.posts | where: "categories", "oncology" | sort: "date" | reverse %}
+
+{% if posts.size > 0 %}
+
+{% for post in posts limit:6 %}
 
 ## [{{ post.title }}]({{ post.url }})
 
@@ -29,6 +34,6 @@ Strategic coverage of oncology innovation, clinical pipelines and international 
 
 {% else %}
 
-_No oncology analysis published yet._
+_No oncology intelligence articles have been published yet._
 
 {% endif %}
