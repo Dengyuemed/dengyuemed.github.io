@@ -7,13 +7,13 @@ nav_exclude: true
 <style>
 
 /* ======================
-   Layout
+   Global Layout
 ====================== */
 
 .home-container {
-  max-width: 1100px;
+  max-width: 980px;
   margin: 0 auto;
-  padding: 40px 20px;
+  padding: 30px 18px;
 }
 
 .home-grid {
@@ -24,6 +24,10 @@ nav_exclude: true
 
 /* 移动端 */
 @media (max-width: 768px) {
+  .home-container {
+    padding: 20px 16px;
+  }
+
   .home-grid {
     grid-template-columns: 1fr;
     gap: 30px;
@@ -35,62 +39,65 @@ nav_exclude: true
 ====================== */
 
 .home-title {
-  font-size: 34px;
+  font-size: 30px;
   font-weight: 700;
-  margin-bottom: 8px;
+  margin-bottom: 6px;
 }
 
 .home-subtitle {
-  font-size: 18px;
+  font-size: 16px;
   color: #666;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
+  line-height: 1.5;
 }
 
 @media (max-width: 768px) {
   .home-title {
-    font-size: 26px;
+    font-size: 24px;
   }
 
   .home-subtitle {
-    font-size: 16px;
+    font-size: 15px;
   }
 }
 
 .section-title {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 600;
-  margin-bottom: 20px;
+  margin-bottom: 16px;
 }
 
 /* ======================
-   Card Style
+   Card
 ====================== */
 
 .card {
-  background: #f9fafb;
-  padding: 24px;
-  border-radius: 12px;
-  border: 1px solid #e6e6e6;
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #e8e8e8;
   transition: all 0.2s ease;
 }
 
 .card:hover {
-  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
-  transform: translateY(-2px);
+  box-shadow: 0 4px 14px rgba(0,0,0,0.05);
 }
 
 .card h3 {
   margin-top: 0;
-  font-size: 18px;
+  font-size: 17px;
+  line-height: 1.4;
 }
 
 .card p {
   color: #555;
-  font-size: 15px;
+  font-size: 14px;
+  line-height: 1.6;
 }
 
-.card a {
-  text-decoration: none;
+.card em {
+  font-size: 13px;
+  color: #888;
 }
 
 .read-link {
@@ -109,14 +116,34 @@ nav_exclude: true
 
 .simple-list li {
   margin-bottom: 8px;
+  font-size: 14px;
+}
+
+.latest-list {
+  padding-left: 18px;
 }
 
 .latest-list li {
-  margin-bottom: 10px;
+  margin-bottom: 12px;
+  font-size: 14px;
 }
 
+/* ======================
+   Divider
+====================== */
+
 hr.section-divider {
-  margin: 60px 0;
+  margin: 40px 0;
+  border: none;
+  border-top: 1px solid #ececec;
+}
+
+/* ======================
+   Hide Footer
+====================== */
+
+.site-footer {
+  display: none !important;
 }
 
 </style>
@@ -155,7 +182,9 @@ Independent Intelligence on Global Oncology & Rare Disease Markets
 </p>
 
 <p>
-  <a href="{{ featured.url }}" class="read-link">Read Full Analysis →</a>
+  <a href="{{ featured.url }}" class="read-link">
+    Read Full Analysis →
+  </a>
 </p>
 
 </div>
