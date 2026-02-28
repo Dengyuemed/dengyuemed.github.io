@@ -1,44 +1,31 @@
 ---
-layout: default
+layout: page
 title: DengYueMed
 nav_exclude: true
 ---
 
 <style>
 
-/* ===== Remove theme background ===== */
+/* ===== Remove Just the Docs layout limits ===== */
+
+.page {
+  max-width: 100% !important;
+}
+
+.main-content {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 30px 20px 60px 20px;
+}
 
 body {
   background: #ffffff !important;
 }
 
-/* Remove sidebar spacing */
-.main {
-  margin-left: 0 !important;
-}
-
-.side-bar {
-  display: none !important;
-}
-
-/* Expand content */
-.main-content {
-  max-width: 1100px !important;
-  margin: 0 auto !important;
-  padding: 40px 20px 80px 20px !important;
-}
-
-/* Remove footer */
-.site-footer,
-.footer,
-.page-footer {
-  display: none !important;
-}
-
 /* ===== Typography ===== */
 
 .home-title {
-  font-size: 30px;
+  font-size: 32px;
   font-weight: 700;
   margin-bottom: 8px;
 }
@@ -46,7 +33,7 @@ body {
 .home-subtitle {
   font-size: 16px;
   color: #666;
-  margin-bottom: 30px;
+  margin-bottom: 28px;
   line-height: 1.5;
 }
 
@@ -86,7 +73,7 @@ body {
   padding: 24px;
   border-radius: 14px;
   border: 1px solid #eaeaea;
-  transition: 0.2s ease;
+  transition: all 0.2s ease;
 }
 
 .card:hover {
@@ -137,6 +124,14 @@ hr.section-divider {
   margin: 50px 0;
   border: none;
   border-top: 1px solid #ececec;
+}
+
+/* ===== Hide Theme Footer ===== */
+
+.site-footer,
+.footer,
+.page-footer {
+  display: none !important;
 }
 
 </style>
