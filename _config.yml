@@ -18,16 +18,18 @@ header_pages:
   - about.md
   - contact.md
 
-# Plugins (SEO + Sitemap)
+# Plugins
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# SEO / Social
+# SEO
 author: DengYueMed
+lang: en
+logo: "/logo.png"
+
 twitter:
-  username: ""
   card: summary_large_image
 
 social:
@@ -35,11 +37,7 @@ social:
   links:
     - https://dengyuemed.github.io
 
-# Open Graph defaults
-logo: "/logo.png"
-lang: en
-
-# Just the Docs settings
+# Just the Docs
 color_scheme: light
 heading_anchors: true
 
@@ -47,16 +45,11 @@ just_the_docs:
   custom_css:
     - custom
 
-# Markdown engine
+# Markdown
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-# Permalink structure
+# Clean URLs
 permalink: pretty
-
-# Sitemap
-sitemap:
-  changefreq: weekly
-  priority: 0.7
