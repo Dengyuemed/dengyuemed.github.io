@@ -1,9 +1,15 @@
 title: DengYueMed
-description: Global pharmaceutical industry insights focusing on oncology, rare diseases and cross-border drug access.
-google_site_verification: rBStHqGMyRmXrFeFX8PcKCAz9D3LD6I0mxDEmo-Npoc
+description: Independent intelligence on global oncology, rare disease and pharmaceutical market access insights.
 url: https://dengyuemed.github.io
+baseurl: ""
+
+# Google verification
+google_site_verification: rBStHqGMyRmXrFeFX8PcKCAz9D3LD6I0mxDEmo-Npoc
+
+# Theme
 remote_theme: just-the-docs/just-the-docs
 
+# Navigation
 header_pages:
   - oncology.md
   - rare-diseases.md
@@ -12,14 +18,45 @@ header_pages:
   - about.md
   - contact.md
 
+# Plugins (SEO + Sitemap)
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
+  - jekyll-seo-tag
 
+# SEO / Social
+author: DengYueMed
+twitter:
+  username: ""
+  card: summary_large_image
+
+social:
+  name: DengYueMed
+  links:
+    - https://dengyuemed.github.io
+
+# Open Graph defaults
+logo: "/logo.png"
+lang: en
+
+# Just the Docs settings
 color_scheme: light
 heading_anchors: true
-logo: "/logo.png"
 
 just_the_docs:
   custom_css:
     - custom
+
+# Markdown engine
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Permalink structure
+permalink: pretty
+
+# Sitemap
+sitemap:
+  changefreq: weekly
+  priority: 0.7
