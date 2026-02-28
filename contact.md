@@ -63,7 +63,7 @@ Hong Kong
 🐦 X
 </a>
 
-<a href="https://www.facebook.com" target="_blank" style="display:inline-block; padding:8px 18px; margin:6px; border:1px solid #d0d0d0; border-radius:8px; text-decoration:none;">
+<a href="https://www.facebook.com/profile.php?id=61574257290610" target="_blank" style="display:inline-block; padding:8px 18px; margin:6px; border:1px solid #d0d0d0; border-radius:8px; text-decoration:none;">
 📘 Facebook
 </a>
 
