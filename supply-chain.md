@@ -1,15 +1,34 @@
 ---
-layout: default
+layout: page
 title: Supply Chain
 permalink: /supply-chain/
+description: Pharmaceutical supply chain intelligence including API production, biologics manufacturing and global distribution networks.
 ---
 
-# Pharma Supply Chain Insights
+# Pharmaceutical Supply Chain Insights
 
-<ul>
-{% for post in site.categories.supply-chain %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
+Analysis of manufacturing capacity, API ecosystems and international logistics strategy.
+
+---
+
+{% assign posts = site.categories["supply-chain"] %}
+
+{% if posts and posts.size > 0 %}
+
+{% for post in posts %}
+
+## [{{ post.title }}]({{ post.url }})
+
+<small>{{ post.date | date: "%B %d, %Y" }}</small>
+
+{{ post.description }}
+
+---
+
 {% endfor %}
-</ul>
+
+{% else %}
+
+_No supply chain research notes published yet._
+
+{% endif %}
