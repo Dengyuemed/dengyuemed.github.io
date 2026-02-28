@@ -1,12 +1,13 @@
 ---
 layout: page
-title: DengYueMed
+title: DengYueMed | Global Pharmaceutical Intelligence
+description: Independent intelligence platform covering global oncology, rare diseases, regulatory strategy and pharmaceutical market access.
 nav_exclude: true
 ---
 
 <style>
 
-/* ===== Remove Just the Docs layout limits ===== */
+/* ===== Layout Optimization ===== */
 
 .page {
   max-width: 100% !important;
@@ -15,7 +16,7 @@ nav_exclude: true
 .main-content {
   max-width: 1100px;
   margin: 0 auto;
-  padding: 30px 20px 60px 20px;
+  padding: 40px 20px 70px 20px;
 }
 
 body {
@@ -25,22 +26,27 @@ body {
 /* ===== Typography ===== */
 
 .home-title {
-  font-size: 32px;
+  font-size: 34px;
   font-weight: 700;
-  margin-bottom: 8px;
+  margin-bottom: 6px;
 }
 
 .home-subtitle {
   font-size: 16px;
   color: #666;
-  margin-bottom: 28px;
-  line-height: 1.5;
+  margin-bottom: 12px;
+}
+
+.home-tagline {
+  font-size: 15px;
+  color: #888;
+  margin-bottom: 35px;
 }
 
 .section-title {
-  font-size: 18px;
+  font-size: 19px;
   font-weight: 600;
-  margin-bottom: 18px;
+  margin-bottom: 20px;
 }
 
 /* ===== Grid ===== */
@@ -48,21 +54,17 @@ body {
 .home-grid {
   display: grid;
   grid-template-columns: 2fr 1fr;
-  gap: 50px;
+  gap: 60px;
 }
 
 @media (max-width: 768px) {
   .home-grid {
     grid-template-columns: 1fr;
-    gap: 30px;
+    gap: 35px;
   }
 
   .home-title {
-    font-size: 24px;
-  }
-
-  .home-subtitle {
-    font-size: 15px;
+    font-size: 26px;
   }
 }
 
@@ -70,14 +72,14 @@ body {
 
 .card {
   background: #ffffff;
-  padding: 24px;
-  border-radius: 14px;
+  padding: 26px;
+  border-radius: 16px;
   border: 1px solid #eaeaea;
   transition: all 0.2s ease;
 }
 
 .card:hover {
-  box-shadow: 0 6px 20px rgba(0,0,0,0.05);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.05);
 }
 
 .featured-card {
@@ -86,13 +88,13 @@ body {
 
 .card h3 {
   margin-top: 0;
-  font-size: 18px;
+  font-size: 19px;
 }
 
 .card p {
-  font-size: 14px;
+  font-size: 14.5px;
   color: #555;
-  line-height: 1.6;
+  line-height: 1.7;
 }
 
 .card em {
@@ -121,12 +123,12 @@ body {
 /* ===== Divider ===== */
 
 hr.section-divider {
-  margin: 50px 0;
+  margin: 55px 0;
   border: none;
   border-top: 1px solid #ececec;
 }
 
-/* ===== Hide Theme Footer ===== */
+/* ===== Hide Footer ===== */
 
 .site-footer,
 .footer,
@@ -142,10 +144,15 @@ hr.section-divider {
 Independent Intelligence on Global Oncology & Rare Disease Markets
 </p>
 
+<p class="home-tagline">
+Policy · Innovation · Market Access · Competitive Strategy
+</p>
+
 <hr class="section-divider">
 
 <div class="home-grid">
 
+<!-- LEFT COLUMN -->
 <div>
 
 <h2 class="section-title">Lead Analysis</h2>
@@ -163,7 +170,7 @@ Independent Intelligence on Global Oncology & Rare Disease Markets
 </p>
 
 <p>
-  {{ featured.excerpt }}
+  {{ featured.description }}
 </p>
 
 <p>
@@ -176,6 +183,7 @@ Independent Intelligence on Global Oncology & Rare Disease Markets
 
 </div>
 
+<!-- RIGHT COLUMN -->
 <div>
 
 <h2 class="section-title">Market Watch</h2>
@@ -183,10 +191,10 @@ Independent Intelligence on Global Oncology & Rare Disease Markets
 <div class="card">
 
 <ul class="simple-list">
-  <li>FDA Approvals</li>
-  <li>EMA Decisions</li>
-  <li>China NMPA Updates</li>
-  <li>Rare Disease Policy</li>
+  <li><a href="/regulatory/">FDA / EMA / NMPA Updates</a></li>
+  <li><a href="/rare-diseases/">Rare Disease Policy</a></li>
+  <li><a href="/oncology/">Oncology Innovation</a></li>
+  <li><a href="/supply-chain/">Supply Chain & API</a></li>
 </ul>
 
 </div>
@@ -200,7 +208,7 @@ Independent Intelligence on Global Oncology & Rare Disease Markets
 <h2 class="section-title">Latest Research Notes</h2>
 
 <ul class="latest-list">
-{% for post in site.posts offset:1 limit:5 %}
+{% for post in site.posts limit:6 %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
     <small> — {{ post.date | date: "%B %d, %Y" }}</small>
@@ -215,6 +223,12 @@ Independent Intelligence on Global Oncology & Rare Disease Markets
 <ul class="simple-list">
   <li><a href="/oncology/">Oncology</a></li>
   <li><a href="/rare-diseases/">Rare Diseases</a></li>
-  <li><a href="/supply-chain/">Supply Chain</a></li>
-  <li><a href="/regulatory/">Regulatory</a></li>
+  <li><a href="/regulatory/">Regulatory & Policy</a></li>
+  <li><a href="/supply-chain/">Pharmaceutical Supply Chain</a></li>
 </ul>
+
+<hr class="section-divider">
+
+<p style="font-size:13px; color:#999;">
+© {{ site.time | date: "%Y" }} DengYueMed. Independent industry research platform.
+</p>
