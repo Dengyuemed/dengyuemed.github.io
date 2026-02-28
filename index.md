@@ -7,30 +7,26 @@ nav_exclude: true
 <style>
 
 /* ======================
-   Global Layout
+   Page Background
+====================== */
+
+body {
+  background-color: #ffffff;
+}
+
+/* ======================
+   Container
 ====================== */
 
 .home-container {
-  max-width: 980px;
+  max-width: 1050px;
   margin: 0 auto;
-  padding: 30px 18px;
+  padding: 28px 20px 60px 20px;
 }
 
-.home-grid {
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  gap: 40px;
-}
-
-/* 移动端 */
 @media (max-width: 768px) {
   .home-container {
-    padding: 20px 16px;
-  }
-
-  .home-grid {
-    grid-template-columns: 1fr;
-    gap: 30px;
+    padding: 20px 16px 50px 16px;
   }
 }
 
@@ -39,15 +35,16 @@ nav_exclude: true
 ====================== */
 
 .home-title {
-  font-size: 30px;
+  font-size: 32px;
   font-weight: 700;
-  margin-bottom: 6px;
+  letter-spacing: -0.5px;
+  margin-bottom: 8px;
 }
 
 .home-subtitle {
   font-size: 16px;
   color: #666;
-  margin-bottom: 30px;
+  margin-bottom: 28px;
   line-height: 1.5;
 }
 
@@ -64,7 +61,24 @@ nav_exclude: true
 .section-title {
   font-size: 18px;
   font-weight: 600;
-  margin-bottom: 16px;
+  margin-bottom: 18px;
+}
+
+/* ======================
+   Grid
+====================== */
+
+.home-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 45px;
+}
+
+@media (max-width: 768px) {
+  .home-grid {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
 }
 
 /* ======================
@@ -73,26 +87,33 @@ nav_exclude: true
 
 .card {
   background: #ffffff;
-  padding: 20px;
-  border-radius: 10px;
-  border: 1px solid #e8e8e8;
+  padding: 22px;
+  border-radius: 12px;
+  border: 1px solid #e6e6e6;
   transition: all 0.2s ease;
 }
 
 .card:hover {
-  box-shadow: 0 4px 14px rgba(0,0,0,0.05);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.05);
 }
+
+/* Lead Article Slight Emphasis */
+.featured-card {
+  border-left: 4px solid #5b5bd6;
+}
+
+/* Card Text */
 
 .card h3 {
   margin-top: 0;
-  font-size: 17px;
+  font-size: 18px;
   line-height: 1.4;
 }
 
 .card p {
-  color: #555;
   font-size: 14px;
   line-height: 1.6;
+  color: #555;
 }
 
 .card em {
@@ -133,16 +154,17 @@ nav_exclude: true
 ====================== */
 
 hr.section-divider {
-  margin: 40px 0;
+  margin: 45px 0;
   border: none;
   border-top: 1px solid #ececec;
 }
 
 /* ======================
-   Hide Footer
+   Hide Theme Footer
 ====================== */
 
-.site-footer {
+.site-footer,
+.footer {
   display: none !important;
 }
 
@@ -160,14 +182,14 @@ Independent Intelligence on Global Oncology & Rare Disease Markets
 
 <div class="home-grid">
 
-<!-- LEFT COLUMN -->
+<!-- LEFT -->
 <div>
 
 <h2 class="section-title">Lead Analysis</h2>
 
 {% assign featured = site.posts.first %}
 
-<div class="card">
+<div class="card featured-card">
 
 <h3>
   <a href="{{ featured.url }}">{{ featured.title }}</a>
@@ -191,7 +213,7 @@ Independent Intelligence on Global Oncology & Rare Disease Markets
 
 </div>
 
-<!-- RIGHT COLUMN -->
+<!-- RIGHT -->
 <div>
 
 <h2 class="section-title">Market Watch</h2>
