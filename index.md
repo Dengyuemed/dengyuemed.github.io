@@ -1,43 +1,32 @@
 ---
-layout: default
+layout: page
 title: DengYueMed
 nav_exclude: true
 ---
 
 <style>
 
-/* ======================
-   Page Background
-====================== */
+/* ===== Remove Just the Docs layout limits ===== */
+
+.page {
+  max-width: 100% !important;
+}
+
+.main-content {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 30px 20px 60px 20px;
+}
 
 body {
-  background-color: #ffffff;
+  background: #ffffff !important;
 }
 
-/* ======================
-   Container
-====================== */
-
-.home-container {
-  max-width: 1050px;
-  margin: 0 auto;
-  padding: 28px 20px 60px 20px;
-}
-
-@media (max-width: 768px) {
-  .home-container {
-    padding: 20px 16px 50px 16px;
-  }
-}
-
-/* ======================
-   Typography
-====================== */
+/* ===== Typography ===== */
 
 .home-title {
   font-size: 32px;
   font-weight: 700;
-  letter-spacing: -0.5px;
   margin-bottom: 8px;
 }
 
@@ -48,7 +37,26 @@ body {
   line-height: 1.5;
 }
 
+.section-title {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 18px;
+}
+
+/* ===== Grid ===== */
+
+.home-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 50px;
+}
+
 @media (max-width: 768px) {
+  .home-grid {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+
   .home-title {
     font-size: 24px;
   }
@@ -58,62 +66,33 @@ body {
   }
 }
 
-.section-title {
-  font-size: 18px;
-  font-weight: 600;
-  margin-bottom: 18px;
-}
-
-/* ======================
-   Grid
-====================== */
-
-.home-grid {
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  gap: 45px;
-}
-
-@media (max-width: 768px) {
-  .home-grid {
-    grid-template-columns: 1fr;
-    gap: 30px;
-  }
-}
-
-/* ======================
-   Card
-====================== */
+/* ===== Card ===== */
 
 .card {
   background: #ffffff;
-  padding: 22px;
-  border-radius: 12px;
-  border: 1px solid #e6e6e6;
+  padding: 24px;
+  border-radius: 14px;
+  border: 1px solid #eaeaea;
   transition: all 0.2s ease;
 }
 
 .card:hover {
-  box-shadow: 0 6px 18px rgba(0,0,0,0.05);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.05);
 }
 
-/* Lead Article Slight Emphasis */
 .featured-card {
   border-left: 4px solid #5b5bd6;
 }
 
-/* Card Text */
-
 .card h3 {
   margin-top: 0;
   font-size: 18px;
-  line-height: 1.4;
 }
 
 .card p {
   font-size: 14px;
-  line-height: 1.6;
   color: #555;
+  line-height: 1.6;
 }
 
 .card em {
@@ -126,51 +105,36 @@ body {
   font-size: 14px;
 }
 
-/* ======================
-   Lists
-====================== */
+/* ===== Lists ===== */
 
-.simple-list {
-  padding-left: 18px;
-  margin: 0;
-}
-
-.simple-list li {
-  margin-bottom: 8px;
-  font-size: 14px;
-}
-
+.simple-list,
 .latest-list {
   padding-left: 18px;
 }
 
+.simple-list li,
 .latest-list li {
-  margin-bottom: 12px;
+  margin-bottom: 10px;
   font-size: 14px;
 }
 
-/* ======================
-   Divider
-====================== */
+/* ===== Divider ===== */
 
 hr.section-divider {
-  margin: 45px 0;
+  margin: 50px 0;
   border: none;
   border-top: 1px solid #ececec;
 }
 
-/* ======================
-   Hide Theme Footer
-====================== */
+/* ===== Hide Theme Footer ===== */
 
 .site-footer,
-.footer {
+.footer,
+.page-footer {
   display: none !important;
 }
 
 </style>
-
-<div class="home-container">
 
 <h1 class="home-title">DengYueMed</h1>
 
@@ -182,7 +146,6 @@ Independent Intelligence on Global Oncology & Rare Disease Markets
 
 <div class="home-grid">
 
-<!-- LEFT -->
 <div>
 
 <h2 class="section-title">Lead Analysis</h2>
@@ -213,7 +176,6 @@ Independent Intelligence on Global Oncology & Rare Disease Markets
 
 </div>
 
-<!-- RIGHT -->
 <div>
 
 <h2 class="section-title">Market Watch</h2>
@@ -256,5 +218,3 @@ Independent Intelligence on Global Oncology & Rare Disease Markets
   <li><a href="/supply-chain/">Supply Chain</a></li>
   <li><a href="/regulatory/">Regulatory</a></li>
 </ul>
-
-</div>
