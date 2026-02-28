@@ -5,121 +5,175 @@ nav_exclude: true
 ---
 
 <style>
-/* ===== Responsive Layout ===== */
-.hero-grid {
-  display: grid;
-  grid-template-columns: 3fr 2fr;
-  gap: 60px;
-  align-items: start;
+
+/* ======================
+   Layout
+====================== */
+
+.home-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 40px 20px;
 }
 
-.notes-grid {
+.home-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: 2fr 1fr;
   gap: 40px;
 }
 
-.coverage-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 30px;
-}
-
-/* ===== Mobile ===== */
+/* 移动端 */
 @media (max-width: 768px) {
-
-  .hero-grid {
+  .home-grid {
     grid-template-columns: 1fr;
-    gap: 40px;
+    gap: 30px;
   }
-
-  .notes-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .coverage-grid {
-    grid-template-columns: 1fr;
-  }
-
 }
+
+/* ======================
+   Typography
+====================== */
+
+.home-title {
+  font-size: 34px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.home-subtitle {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 40px;
+}
+
+@media (max-width: 768px) {
+  .home-title {
+    font-size: 26px;
+  }
+
+  .home-subtitle {
+    font-size: 16px;
+  }
+}
+
+.section-title {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+/* ======================
+   Card Style
+====================== */
+
+.card {
+  background: #f9fafb;
+  padding: 24px;
+  border-radius: 12px;
+  border: 1px solid #e6e6e6;
+  transition: all 0.2s ease;
+}
+
+.card:hover {
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+  transform: translateY(-2px);
+}
+
+.card h3 {
+  margin-top: 0;
+  font-size: 18px;
+}
+
+.card p {
+  color: #555;
+  font-size: 15px;
+}
+
+.card a {
+  text-decoration: none;
+}
+
+.read-link {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+/* ======================
+   Lists
+====================== */
+
+.simple-list {
+  padding-left: 18px;
+  margin: 0;
+}
+
+.simple-list li {
+  margin-bottom: 8px;
+}
+
+.latest-list li {
+  margin-bottom: 10px;
+}
+
+hr.section-divider {
+  margin: 60px 0;
+}
+
 </style>
 
-<div style="max-width:1200px; margin:auto; padding-top:30px; padding-left:20px; padding-right:20px;">
+<div class="home-container">
 
-<h1 style="margin-bottom:8px; font-size:34px; font-weight:600;">
-DengYueMed
-</h1>
+<h1 class="home-title">DengYueMed</h1>
 
-<p style="font-size:18px; color:#666; margin-top:0; margin-bottom:50px;">
+<p class="home-subtitle">
 Independent Intelligence on Global Oncology & Rare Disease Markets
 </p>
 
-<hr style="margin-bottom:60px;">
+<hr class="section-divider">
 
-<!-- HERO SECTION -->
+<div class="home-grid">
 
-<div class="hero-grid">
-
+<!-- LEFT COLUMN -->
 <div>
 
-<h2 style="margin-bottom:25px;">Lead Analysis</h2>
+<h2 class="section-title">Lead Analysis</h2>
 
 {% assign featured = site.posts.first %}
 
-<div style="background:#ffffff; padding:28px; border-radius:12px; border:1px solid #e8e8e8; box-shadow:0 6px 20px rgba(0,0,0,0.04);">
+<div class="card">
 
-<h3 style="margin-top:0; font-size:24px; line-height:1.4;">
-<a href="{{ featured.url }}" style="text-decoration:none;">
-{{ featured.title }}
-</a>
+<h3>
+  <a href="{{ featured.url }}">{{ featured.title }}</a>
 </h3>
 
-<p style="color:#888; font-size:14px;">
-{{ featured.date | date: "%B %d, %Y" }}
+<p>
+  <em>{{ featured.date | date: "%B %d, %Y" }}</em>
 </p>
 
-<p style="font-size:15px; line-height:1.7;">
-{{ featured.excerpt }}
+<p>
+  {{ featured.excerpt }}
 </p>
 
-<p style="margin-top:20px;">
-<a href="{{ featured.url }}" style="font-weight:600;">
-Read Full Analysis →
-</a>
+<p>
+  <a href="{{ featured.url }}" class="read-link">Read Full Analysis →</a>
 </p>
 
 </div>
 
 </div>
 
+<!-- RIGHT COLUMN -->
 <div>
 
-<h2 style="margin-bottom:25px;">Market Watch</h2>
+<h2 class="section-title">Market Watch</h2>
 
-<div style="background:#f5f7fa; padding:28px; border-radius:12px; border:1px solid #e5e5e5;">
+<div class="card">
 
-<ul style="margin:0; padding-left:18px; line-height:1.9;">
-
-<li><strong>FDA Approvals</strong><br>
-<span style="font-size:14px; color:#666;">
-Recent oncology & rare disease approvals
-</span></li>
-
-<li style="margin-top:18px;"><strong>EMA Decisions</strong><br>
-<span style="font-size:14px; color:#666;">
-European regulatory milestones
-</span></li>
-
-<li style="margin-top:18px;"><strong>China NMPA Updates</strong><br>
-<span style="font-size:14px; color:#666;">
-Accelerated pathways & policy signals
-</span></li>
-
-<li style="margin-top:18px;"><strong>Rare Disease Policy</strong><br>
-<span style="font-size:14px; color:#666;">
-Global orphan drug incentives
-</span></li>
-
+<ul class="simple-list">
+  <li>FDA Approvals</li>
+  <li>EMA Decisions</li>
+  <li>China NMPA Updates</li>
+  <li>Rare Disease Policy</li>
 </ul>
 
 </div>
@@ -128,78 +182,28 @@ Global orphan drug incentives
 
 </div>
 
-<hr style="margin:80px 0 60px 0;">
+<hr class="section-divider">
 
-<h2 style="margin-bottom:35px;">Latest Research Notes</h2>
+<h2 class="section-title">Latest Research Notes</h2>
 
-<div class="notes-grid">
-
-{% for post in site.posts offset:1 limit:4 %}
-
-<div style="padding:24px; border:1px solid #eee; border-radius:10px; background:#ffffff;">
-
-<h3 style="margin-top:0; font-size:20px;">
-<a href="{{ post.url }}" style="text-decoration:none;">
-{{ post.title }}
-</a>
-</h3>
-
-<p style="font-size:13px; color:#999;">
-{{ post.date | date: "%B %d, %Y" }}
-</p>
-
-<p style="font-size:14px; line-height:1.6;">
-{{ post.excerpt }}
-</p>
-
-</div>
-
+<ul class="latest-list">
+{% for post in site.posts offset:1 limit:5 %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <small> — {{ post.date | date: "%B %d, %Y" }}</small>
+  </li>
 {% endfor %}
+</ul>
 
-</div>
+<hr class="section-divider">
 
-<hr style="margin:80px 0 60px 0;">
+<h2 class="section-title">Coverage Areas</h2>
 
-<h2 style="margin-bottom:35px;">Coverage Areas</h2>
-
-<div class="coverage-grid">
-
-<a href="/oncology/" style="text-decoration:none;">
-<div style="padding:25px; border:1px solid #eee; border-radius:10px; background:#fafafa;">
-<h3>Oncology</h3>
-<p style="font-size:14px; color:#666;">
-Solid tumors, IO, ADCs, pipeline tracking
-</p>
-</div>
-</a>
-
-<a href="/rare-diseases/" style="text-decoration:none;">
-<div style="padding:25px; border:1px solid #eee; border-radius:10px; background:#fafafa;">
-<h3>Rare Diseases</h3>
-<p style="font-size:14px; color:#666;">
-Orphan markets & pricing dynamics
-</p>
-</div>
-</a>
-
-<a href="/supply-chain/" style="text-decoration:none;">
-<div style="padding:25px; border:1px solid #eee; border-radius:10px; background:#fafafa;">
-<h3>Supply Chain</h3>
-<p style="font-size:14px; color:#666;">
-Manufacturing, CDMO & raw materials
-</p>
-</div>
-</a>
-
-<a href="/regulatory/" style="text-decoration:none;">
-<div style="padding:25px; border:1px solid #eee; border-radius:10px; background:#fafafa;">
-<h3>Regulatory</h3>
-<p style="font-size:14px; color:#666;">
-Policy signals & global harmonization
-</p>
-</div>
-</a>
-
-</div>
+<ul class="simple-list">
+  <li><a href="/oncology/">Oncology</a></li>
+  <li><a href="/rare-diseases/">Rare Diseases</a></li>
+  <li><a href="/supply-chain/">Supply Chain</a></li>
+  <li><a href="/regulatory/">Regulatory</a></li>
+</ul>
 
 </div>
