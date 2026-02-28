@@ -35,12 +35,22 @@ header_pages:
   - about.md
   - contact.md
 
-# ===== Plugins (GitHub Pages compatible) =====
+# ===== Plugins (GitHub Pages Compatible) =====
 
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-paginate
+
+# ===== Pagination (Homepage Only) =====
+
+paginate: 6
+paginate_path: "/page/:num/"
+
+# ⚠️ 注意：
+# GitHub Pages 只支持首页分页
+# 分类页无法自动分页（除非自建插件）
 
 # ===== SEO / Social =====
 
@@ -52,14 +62,12 @@ social:
   links:
     - https://dengyuemed.github.io
 
-# ===== Collections & URL Structure (Professional Media Format) =====
+# ===== URL Structure (Professional Media Format) =====
 
 collections:
   posts:
     output: true
     permalink: /:categories/:year/:month/:day/:title/
-
-# ===== Clean URLs =====
 
 permalink: pretty
 
