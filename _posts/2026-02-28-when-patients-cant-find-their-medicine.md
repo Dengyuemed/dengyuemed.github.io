@@ -6,6 +6,9 @@ categories: supply-chain
 description: "An in-depth analysis of structural changes in China’s pharmaceutical supply chain and the evolving role of specialty exporters in oncology and rare disease markets."
 ---
 
+## When Patients Can’t Find Their Medicine  
+### What Is Changing in China’s Pharmaceutical Supply Chain?
+
 ![DengYueMed Supply Chain](/assets/images/supply-chain.png)
 
 To many people, medicine is simply a box dispensed at a hospital pharmacy.  
