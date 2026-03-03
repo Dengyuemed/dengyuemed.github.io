@@ -14,6 +14,9 @@ description: "China’s rare disease drug industry is transitioning from generic
 author: DengYueMed
 ---
 
+## The Rise of China's Rare Disease Drugs  
+### From Follower to Emerging Global Leader
+
 ## Executive Summary
 
 China’s rare disease pharmaceutical sector is undergoing structural transformation.  
