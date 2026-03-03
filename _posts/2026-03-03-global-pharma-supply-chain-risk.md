@@ -11,7 +11,7 @@ image: /assets/images/supply-chain-risk.jpg
 ## Global Pharmaceutical Supply Chain Risk  
 ### Why On-Time Delivery and Compliance Are Replacing Price as Core Procurement Metrics
 
-![Global Pharmaceutical Supply Chain Risk](/assets/images/supply-chain-risk.jpg)
+![Global Pharmaceutical Supply Chain Risk](/assets/images/supply-chain-risk.png)
 
 In the pharmaceutical industry, what truly shapes long-term partnerships is often not a single successful delivery — but many deliveries in which nothing goes wrong.
 
