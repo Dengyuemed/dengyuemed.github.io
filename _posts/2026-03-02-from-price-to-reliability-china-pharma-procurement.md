@@ -5,6 +5,8 @@ date: 2026-03-02
 categories: supply-chain
 description: "An analysis of how stability, compliance, and system capability are replacing price as the central driver in global specialty pharmaceutical procurement."
 ---
+## From Price to Reliability  
+### How China Is Reshaping Global Pharmaceutical Procurement
 
 ![China Pharmaceutical Supply Chain](/assets/images/hongkong-pharma-license.png)
 
