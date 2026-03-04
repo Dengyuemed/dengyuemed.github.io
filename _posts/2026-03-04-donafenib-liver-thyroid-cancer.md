@@ -5,7 +5,7 @@ date: 2026-03-04
 categories: oncology
 description: "An in-depth analysis of donafenib tosylate tablets, a China-developed multi-kinase inhibitor approved for hepatocellular carcinoma and radioactive iodine-refractory differentiated thyroid cancer."
 keywords: donafenib, hepatocellular carcinoma, thyroid cancer, multi-kinase inhibitor, targeted therapy, Chinese innovative drug, oncology treatment
-image: /assets/images/donafenib.jpg
+image: /assets/images/donafenib.png
 ---
 
 ## Donafenib Tosylate Tablets  
