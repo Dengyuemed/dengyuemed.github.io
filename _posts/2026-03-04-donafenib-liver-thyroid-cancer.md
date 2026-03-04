@@ -13,7 +13,8 @@ image: /assets/images/donafenib.jpg
 
 ![Donafenib Tosylate Tablets](/assets/images/donafenib.png)
 
-In the evolution of modern oncology, targeted therapies represent a major turning point. Among them, **Donafenib Tosylate Tablets** stand out as a Class 1 innovative drug developed in China with independent intellectual property rights.
+In the evolution of modern oncology, targeted therapies represent a major turning point.  
+Within our broader [Oncology Insights](/oncology/) series, Donafenib Tosylate stands out as a Class 1 innovative drug developed in China with independent intellectual property rights.
 
 Approved for hepatocellular carcinoma and radioactive iodine-refractory differentiated thyroid cancer, donafenib reflects China’s growing innovation capability in oncology drug development.
 
@@ -37,7 +38,7 @@ Donafenib was first approved in China for patients with unresectable hepatocellu
 
 HCC remains a major health burden in China, with a high proportion of cases associated with chronic hepatitis B virus infection.
 
-In the pivotal **ZGDH3** clinical trial, donafenib was compared head-to-head with sorafenib, previously the standard first-line therapy.
+In the pivotal ZGDH3 clinical trial, donafenib was compared head-to-head with sorafenib, previously the standard first-line therapy.
 
 Key findings included:
 
@@ -45,7 +46,7 @@ Key findings included:
 - Lower incidence of certain adverse events  
 - Improved tolerability profile  
 
-This marked the first substantial advancement over sorafenib in nearly a decade within this treatment setting. Donafenib has since been incorporated into multiple Chinese clinical guidelines as a recommended first-line treatment option.
+This marked the first substantial advancement over sorafenib in nearly a decade within this treatment setting.
 
 ---
 
@@ -57,9 +58,7 @@ Donafenib is also approved for:
 - Radioactive iodine-refractory  
 - Differentiated thyroid cancer  
 
-Patients with RAIR-DTC have limited treatment options once standard radioactive iodine therapy fails.
-
-Donafenib provides a targeted therapy alternative aimed at delaying disease progression and extending survival.
+For broader analysis on rare and complex treatment landscapes, see our [Rare Disease Insights](/rare-diseases/) section.
 
 ---
 
@@ -67,61 +66,28 @@ Donafenib provides a targeted therapy alternative aimed at delaying disease prog
 
 Donafenib exerts anti-tumor effects through two principal mechanisms:
 
-### 1. Inhibition of Tumor Cell Proliferation
+### Inhibition of Tumor Cell Proliferation
 
-It inhibits Raf kinase and blocks the Raf/MEK/ERK signaling pathway — a critical cascade involved in tumor cell growth and survival.
+It inhibits Raf kinase and blocks the Raf/MEK/ERK signaling pathway.
 
-### 2. Suppression of Tumor Angiogenesis
+### Suppression of Tumor Angiogenesis
 
-Donafenib inhibits multiple receptor tyrosine kinases, including:
+It inhibits receptor tyrosine kinases including:
 
 - VEGFR  
 - PDGFR  
 
-By disrupting angiogenesis, it limits tumor blood supply, thereby restricting nutrient delivery and tumor expansion.
-
-This dual blockade provides a comprehensive anti-tumor effect.
+By disrupting angiogenesis, it limits tumor blood supply and tumor expansion.
 
 ---
 
-## Dosage and Administration
+## Supply and Compliance Considerations
 
-- Recommended dose: 0.2 g (two 0.1 g tablets) twice daily  
-- Administration: On an empty stomach  
-- Swallow whole with water  
-- If a dose is missed, skip it and resume at the next scheduled time  
+For innovative oncology drugs entering cross-border markets, regulatory compliance and temperature-controlled logistics are equally critical.
 
-Dosage adjustments may be required based on tolerability and adverse events.
-
----
-
-## Safety Profile
-
-Common adverse reactions include:
-
-- Hand-foot skin reaction  
-- Diarrhea  
-- Hypertension  
-- Rash  
-- Alopecia  
-- Fatigue  
-- Proteinuria  
-
-Most side effects are manageable with supportive care and dose adjustment.
-
----
-
-## Contraindications
-
-Donafenib is contraindicated in:
-
-- Patients with hypersensitivity to any component  
-- Active bleeding disorders or peptic ulcers  
-- Uncontrolled hypertension  
-- Severe hepatic impairment  
-- Pregnant or breastfeeding women  
-
-Treatment should always follow physician supervision and guideline recommendations.
+You may also read our analysis on  
+[Global Pharmaceutical Supply Chain Risk](/supply-chain/2026/03/03/global-pharma-supply-chain-risk/)  
+to understand how delivery reliability increasingly shapes procurement decisions.
 
 ---
 
@@ -133,7 +99,7 @@ Ongoing research is exploring donafenib in:
 - Postoperative adjuvant settings  
 - Conversion therapy for unresectable liver tumors  
 
-Preliminary data from combination strategies appear promising, and further clinical validation is underway.
+As discussed across our broader [DengYueMed platform](/), innovation is no longer limited to molecule development — it increasingly includes regulatory readiness and supply chain robustness.
 
 ---
 
