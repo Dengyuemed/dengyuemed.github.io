@@ -9,6 +9,9 @@ description: "China’s NMPA has approved a new first-line indication for Biroci
 image: /assets/images/birociclib-tablets.png
 ---
 
+## Birociclib Approved for First-Line Indication  
+### China’s First CDK4/6 Inhibitor Covering the Full Spectrum from First- to Late-Line Treatment
+
 ![NMPA approval notice](/assets/images/birociclib-nmpa.png)
 
 Recently, China’s breast cancer treatment landscape has marked another important milestone.
