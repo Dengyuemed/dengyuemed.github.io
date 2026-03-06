@@ -6,7 +6,7 @@ categories: oncology
 description: "A comparison of Capivasertib and Inavolisib, two targeted therapies acting on different nodes of the PI3K-AKT pathway for HR+/HER2− breast cancer."
 ---
 
-<img src="/assets/images/capivasertib.jpg" alt="Capivasertib tablets" style="max-width:600px;width:100%;margin-bottom:20px;">
+<img src="/assets/images/capivasertib.webp" alt="Capivasertib tablets" style="max-width:600px;width:100%;margin-bottom:20px;">
 
 # Capivasertib vs Inavolisib: Comparing PI3K-AKT Pathway Targeted Therapies in HR+/HER2− Breast Cancer
 
@@ -62,7 +62,7 @@ Therefore, their **potential target population may be broader**.
 
 ---
 
-<img src="/assets/images/inavolisib.jpg" alt="Inavolisib tablets" style="max-width:600px;width:100%;margin:30px 0;">
+<img src="/assets/images/inavolisib.png" alt="Inavolisib tablets" style="max-width:600px;width:100%;margin:30px 0;">
 
 # Inavolisib: A Precision Strategy Targeting PI3Kα
 
@@ -87,7 +87,6 @@ Although both drugs belong to **PI3K-AKT pathway targeted therapies**, they act 
 The pathway can be simplified as:
 
 PI3K → AKT → mTOR
-
 
 Therefore:
 
