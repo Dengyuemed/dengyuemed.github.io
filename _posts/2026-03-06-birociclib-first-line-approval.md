@@ -1,95 +1,99 @@
 ---
 layout: post
-title: "Birociclib Approved for First-Line Indication: China’s First CDK4/6 Inhibitor Covering the Full Spectrum from First- to Late-Line Treatment"
-date: 2026-03-03
-categories:
-  - oncology
-  - regulatory
-description: "China’s NMPA has approved a new first-line indication for Birociclib, making it the first CDK4/6 inhibitor in China to cover the full treatment spectrum for HR+/HER2− advanced breast cancer."
-image: /assets/images/birociclib-tablets.png
+title: "Birociclib Approved for First-Line Indication: China’s First CDK4/6 Inhibitor Covering the Full Spectrum"
+date: 2026-03-06
+categories: [oncology, regulatory]
+tags: breast-cancer CDK4/6 NMPA China-innovative-drugs
 ---
 
-![NMPA approval notice](/assets/images/birociclib-nmpa.png)
+![NMPA approval notice](/assets/images/birociclib-nmpa-approval.png)
+
+# Birociclib Approved for First-Line Indication  
+### China’s First CDK4/6 Inhibitor Covering the Full Spectrum from First- to Late-Line Treatment
+
+Recently, China’s breast cancer treatment landscape reached another milestone.
+
+On March 3, the National Medical Products Administration (NMPA) announced that **Birociclib tablets (brand name: Xuanyue Ning)**, developed by Xuanzhu Biopharmaceutical, has been approved for a new indication.
+
+The drug is now authorized **in combination with aromatase inhibitors (AIs)** for the **first-line treatment of hormone receptor–positive / HER2-negative (HR+/HER2−) advanced breast cancer**.
 
 ![Birociclib tablets](/assets/images/birociclib-tablets.png)
 
-Recently, China’s breast cancer treatment landscape has marked another important milestone.
+With this approval, **Birociclib becomes the first CDK4/6 inhibitor in China covering first-line, second-line and later-line treatment** for HR+/HER2− advanced breast cancer.
 
-On March 3, the National Medical Products Administration (NMPA) announced that **Birociclib tablets (brand name: Xuanyue Ning)**, a CDK4/6 inhibitor independently developed by Xuanzhu Biopharmaceutical, has been approved for a **new indication**. The drug is now authorized in combination with aromatase inhibitors (AIs) for the **first-line treatment of patients with hormone receptor–positive / human epidermal growth factor receptor 2–negative (HR+/HER2−) advanced breast cancer**.
-
-With this latest approval, **Birociclib has become the first and currently the only CDK4/6 inhibitor in China to achieve full coverage across first-line, second-line, and later-line treatment settings** for HR+/HER2− advanced breast cancer.
-
-China pharmaceutical wholesaler **DengYueMed** continues to follow this innovative therapy closely.
+China pharmaceutical wholesaler **DengYueMed** continues to follow the development of this innovative therapy.
 
 ---
 
-# Mechanism Optimization of a Next-Generation CDK4/6 Inhibitor
+## Mechanism and Drug Design
 
-As a next-generation CDK4/6 inhibitor, Birociclib has undergone **structural optimization** to enhance selectivity for **CDK4**, while also demonstrating certain inhibitory activity against **CDK2**.
+As a **next-generation CDK4/6 inhibitor**, Birociclib was structurally optimized to improve selectivity for CDK4 while maintaining inhibitory activity against CDK2.
 
-This mechanistic profile is designed to:
+This design helps:
 
-- Enhance antitumor efficacy  
-- Maintain a favorable safety profile  
-- Support long-term combination use with endocrine therapy  
-
-Such characteristics make the therapy suitable for **long-term disease management in hormone receptor–positive breast cancer**.
+- enhance antitumor activity  
+- maintain tolerability  
+- support long-term combination with endocrine therapy
 
 ---
 
-# Phase III BRIGHT-3 Clinical Results
+## Phase III Clinical Evidence
 
-The newly approved indication is supported by **positive results from the Phase III BRIGHT-3 clinical study**.
+The new indication is supported by results from the **Phase III BRIGHT-3 trial**.
 
-In patients receiving **first-line treatment for HR+/HER2− advanced breast cancer**, Birociclib combined with **letrozole or anastrozole** demonstrated significant benefits compared with placebo plus endocrine therapy:
+Compared with endocrine therapy alone, **Birociclib plus letrozole or anastrozole** showed:
 
-• **47% reduction** in the risk of disease progression or death  
-• **Objective response rate (ORR) of 63.5%**, compared with **42.5%** in the control group  
-• Among patients with **liver metastases**, a **64% reduction in disease progression risk**
+- **47% reduction** in risk of disease progression or death  
+- **63.5% objective response rate**, versus 42.5% in the control group  
+- **64% reduction in progression risk** among patients with liver metastases
 
-These findings significantly strengthen Birociclib’s competitiveness in the **first-line treatment setting**.
-
----
-
-# Competition in the CDK4/6 Inhibitor Market
-
-Breast cancer remains one of the **most prevalent malignancies worldwide**, and the therapeutic market continues to expand rapidly.
-
-Industry forecasts suggest that by **2030**, the **global breast cancer therapeutics market may approach USD 70 billion**, with the Chinese market maintaining stable growth.
-
-Competition within China’s CDK4/6 inhibitor class is already intense. Approved agents include:
-
-- Dalpiciclib (Hengrui Pharma)  
-- Abemaciclib (Eli Lilly)  
-- Ribociclib (Novartis)  
-- Palbociclib (Pfizer)  
-
-Against this competitive landscape, **Birociclib’s unique advantage lies in its full treatment-line coverage**, providing physicians with a **continuous therapy option from first-line through later-line treatment**.
+These results highlight its strong potential as a **first-line therapy**.
 
 ---
 
-# NRDL Inclusion Expands Patient Access
+## Market Landscape of CDK4/6 Inhibitors
 
-Another key milestone occurred in **December 2025**, when Birociclib was included in **China’s National Reimbursement Drug List (NRDL)**.
+Breast cancer remains one of the most common cancers worldwide.
 
-This inclusion significantly improves:
+By **2030**, the global breast cancer treatment market is projected to reach **USD 70 billion**.
 
-- Patient accessibility  
-- Affordability of targeted therapy  
-- Market penetration potential
+Several CDK4/6 inhibitors are already approved in China:
 
-From **initial approval in May 2025**, to **NRDL inclusion**, and now to **first-line indication expansion**, Birociclib’s development trajectory reflects the **accelerating pace of innovative drug development in China**.
+- Dalpiciclib — Hengrui Pharma  
+- Abemaciclib — Eli Lilly  
+- Ribociclib — Novartis  
+- Palbociclib — Pfizer  
 
----
-
-# Outlook for Chinese Innovative Oncology Drugs
-
-As clinical data continue to accumulate and treatment indications expand, Chinese-origin innovative medicines are gradually gaining greater visibility in the global oncology market.
-
-China pharmaceutical wholesaler **DengYueMed** will continue to monitor developments in oncology therapeutics and support international partners in accessing emerging innovative drugs from China.
+Birociclib’s **full-line treatment coverage** offers a differentiated advantage.
 
 ---
 
-👉 **View the February NMPA drug approval summary**
+## NRDL Inclusion Improves Access
 
+In **December 2025**, Birociclib was included in China’s **National Reimbursement Drug List (NRDL)**.
+
+This significantly improves:
+
+- patient affordability  
+- treatment accessibility  
+- market penetration potential
+
+---
+
+## Rapid Growth of China’s Innovative Drugs
+
+From its first approval in **May 2025**, to **NRDL inclusion**, and now **first-line therapy approval**, Birociclib reflects the accelerating pace of China's innovative drug development.
+
+
+---
+
+## Conclusion
+
+As clinical data continue to accumulate, Birociclib may further strengthen its role in global oncology therapy.
+
+China pharmaceutical wholesaler **DengYueMed** will continue monitoring innovations in cancer treatment and the global expansion of Chinese-developed medicines.
+
+---
+
+👉 **View the February NMPA approval list:**  
 [Newly Approved Drugs by the NMPA in February 2026](https://dengyuemed.com/news/nmpa-approved-drugs-list-february-2026/)
