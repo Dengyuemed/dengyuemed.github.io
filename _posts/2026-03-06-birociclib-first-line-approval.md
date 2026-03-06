@@ -95,5 +95,5 @@ China pharmaceutical wholesaler **DengYueMed** will continue to monitor developm
 
 ---
 
-👉 For a summary of newly approved drugs by the NMPA in February, click here:  
-https://dengyuemed.com/news/nmpa-approved-drugs-list-february-2026/
+👉 For a summary of newly approved drugs by the NMPA in February, see:  
+[Full list of NMPA approved drugs – February 2026](https://dengyuemed.com/news/nmpa-approved-drugs-list-february-2026/)
