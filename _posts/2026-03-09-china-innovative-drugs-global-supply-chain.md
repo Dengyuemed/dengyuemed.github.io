@@ -18,7 +18,7 @@ description: "Newly approved innovative drugs in China reflect how Chinese pharm
 
 In recent years, the pace of **innovative drug development in China** has accelerated significantly.
 
-For industry observers who have long followed developments in China’s pharmaceutical sector—including companies engaged in international pharmaceutical distribution and procurement services such as **DengYueMed**—the approval of an increasing number of new drugs not only represents new treatment options but also signals that **Chinese innovative medicines are gradually becoming part of the global healthcare supply chain**.
+For industry observers who have long followed developments in China’s pharmaceutical sector—including companies engaged in international pharmaceutical distribution and procurement services such as **[DengYueMed](https://dengyuemed.com/)**—the approval of an increasing number of new drugs not only represents new treatment options but also signals that **Chinese innovative medicines are gradually becoming part of the global healthcare supply chain**.
 
 Between **October and November 2025**, China’s drug regulatory authorities approved several representative innovative therapies across multiple therapeutic areas, including **cell therapy, targeted oncology treatment, antiviral drugs, and chronic disease management**.
 
@@ -127,4 +127,4 @@ As Chinese innovative medicines gradually enter global markets, **Chinese pharma
 
 The approval of these innovative drugs in late 2025 not only reflects **China’s growing pharmaceutical R&D capabilities**, but also illustrates the ongoing transformation of the **global pharmaceutical supply chain**.
 
-Companies such as **DengYueMed**, which have long served international markets, continue to participate in China’s pharmaceutical import-export system. With extensive experience in supplying **oncology medicines, biologics, and chronic disease treatments**, DengYueMed provides overseas healthcare institutions with reliable pharmaceutical procurement channels.
+Companies such as **[DengYueMed](https://dengyuemed.com/)**, which have long served international markets, continue to participate in China’s pharmaceutical import-export system. With extensive experience in supplying **oncology medicines, biologics, and chronic disease treatments**, DengYueMed provides overseas healthcare institutions with reliable pharmaceutical procurement channels.
