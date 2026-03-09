@@ -4,6 +4,7 @@ title: "China’s Innovative Drugs Are Entering the Global Healthcare Supply Cha
 date: 2026-03-09
 categories:
   - oncology
+  - supply-chain
 tags:
   - china innovative drugs
   - global pharmaceutical supply chain
