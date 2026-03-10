@@ -15,7 +15,7 @@ description: "The FDA has approved the world's first semaglutide nasal spray to 
 
 <img src="/assets/images/semaglutide-fda-ind-approval.png" alt="FDA IND approval semaglutide nasal spray clinical trial" style="max-width:700px;width:100%;display:block;margin:25px auto;">
 
-## World’s First Semaglutide Nasal Spray Approved by the FDA to Enter Clinical Trials
+# World’s First Semaglutide Nasal Spray Approved by the FDA to Enter Clinical Trials
 
 In recent years, **GLP-1 receptor agonists** have demonstrated strong market potential in the treatment of **diabetes and obesity**. Among them, **Semaglutide** has emerged as one of the most successful drugs globally.
 
