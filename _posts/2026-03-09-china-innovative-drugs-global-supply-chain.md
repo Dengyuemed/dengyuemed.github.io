@@ -37,7 +37,7 @@ However, from the perspective of the global pharmaceutical industry structure, t
 
 ---
 
-# 1. Global Hospital Procurement Systems Are Changing
+## 1. Global Hospital Procurement Systems Are Changing
 
 For decades, international hospital procurement systems were largely dominated by **Western pharmaceutical companies**.
 
@@ -58,7 +58,7 @@ As Chinese pharmaceutical companies continue to strengthen their **research and 
 
 <img src="/assets/images/becotatug-vedotin.png" alt="Becotatug Vedotin for Injection" style="max-width:600px;width:100%;display:block;margin:25px auto;">
 
-# 2. Precision Medicine Is Reshaping Global Drug Distribution
+## 2. Precision Medicine Is Reshaping Global Drug Distribution
 
 Examples include **Mefanertinib Maleate** and **Vebecotamab**, both developed for oncology treatment.
 
@@ -76,7 +76,7 @@ As a result, an increasing number of hospitals are turning to **cross-border pro
 
 ---
 
-# 3. Biologics and Cell Therapies Require More Advanced Supply Chains
+## 3. Biologics and Cell Therapies Require More Advanced Supply Chains
 
 Another major shift is being driven by **cell therapies and biologic medicines**.
 
@@ -94,7 +94,7 @@ The global circulation of such therapies therefore depends not only on scientifi
 
 ---
 
-# 4. Chronic Disease Medicines Remain the Largest Global Market
+## 4. Chronic Disease Medicines Remain the Largest Global Market
 
 Beyond high-tech therapies, **chronic disease treatments remain the largest segment of global pharmaceutical demand**.
 
@@ -115,7 +115,7 @@ For this reason, chronic disease medications rely heavily on **stable internatio
 
 ---
 
-# 5. Beyond Innovation: The Critical Role of Pharmaceutical Distribution
+## 5. Beyond Innovation: The Critical Role of Pharmaceutical Distribution
 
 For overseas healthcare institutions, whether a drug can truly enter clinical practice depends on several practical factors, including:
 
