@@ -6,9 +6,9 @@ categories: oncology
 description: "An overview of four innovative targeted therapies in China for non-small cell lung cancer (NSCLC), focusing on EGFR and MET molecular targets."
 ---
 
-# Chinese EGFR and MET Targeted Therapies in Non-Small Cell Lung Cancer
-
 <img src="/assets/images/egfr-met-targeted-therapies.png" alt="EGFR MET targeted therapy lung cancer drugs China" style="max-width:700px;width:100%;margin-bottom:25px;">
+
+# Chinese EGFR and MET Targeted Therapies in Non-Small Cell Lung Cancer
 
 In recent years, with the rapid development of **precision medicine in lung cancer**, targeted therapy has become a core strategy in the treatment of **non-small cell lung cancer (NSCLC)**. Chinese pharmaceutical innovation has also made continuous breakthroughs in this field, gradually forming multiple technological pathways.
 
