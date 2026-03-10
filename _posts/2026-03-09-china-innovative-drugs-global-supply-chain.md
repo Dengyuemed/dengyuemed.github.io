@@ -13,8 +13,6 @@ tags:
 description: "Newly approved innovative drugs in China reflect how Chinese pharmaceutical innovation is increasingly entering the global healthcare supply chain."
 ---
 
-<img src="/assets/images/becotatug-vedotin.png" alt="Becotatug Vedotin for Injection" style="max-width:600px;width:100%;display:block;margin:25px auto;">
-
 # China’s Innovative Drugs Are Entering the Global Healthcare Supply Chain
 
 In recent years, the pace of **innovative drug development in China** has accelerated significantly.
@@ -57,6 +55,8 @@ This trend is particularly visible in areas such as:
 As Chinese pharmaceutical companies continue to strengthen their **research and development capabilities**, more innovative drugs are gaining the potential to enter international markets.
 
 ---
+
+<img src="/assets/images/becotatug-vedotin.png" alt="Becotatug Vedotin for Injection" style="max-width:600px;width:100%;display:block;margin:25px auto;">
 
 # 2. Precision Medicine Is Reshaping Global Drug Distribution
 
