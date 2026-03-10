@@ -8,8 +8,8 @@ description: "Only 5% of rare diseases have approved treatments. Yet global inve
 reading_time: 6 min read
 ---
 
-## Why Humanity Continues to Invest in Orphan Drug Research  
-### Despite Only 5% of Rare Diseases Being Treatable
+# Why Humanity Continues to Invest in Orphan Drug Research  
+## Despite Only 5% of Rare Diseases Being Treatable
 
 Globally, thousands of rare diseases have been identified, yet only about **5%** currently have approved treatments.
 
