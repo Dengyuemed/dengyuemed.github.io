@@ -8,8 +8,8 @@ keywords: donafenib, hepatocellular carcinoma, thyroid cancer, multi-kinase inhi
 image: /assets/images/donafenib.png
 ---
 
-## Donafenib Tosylate Tablets  
-### China’s Innovative Targeted Therapy for Liver and Thyroid Cancer
+# Donafenib Tosylate Tablets  
+## China’s Innovative Targeted Therapy for Liver and Thyroid Cancer
 
 ![Donafenib Tosylate Tablets](/assets/images/donafenib.png)
 
