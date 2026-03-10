@@ -8,8 +8,8 @@ keywords: China innovative drugs 2026, cardiovascular innovation China, RNA inte
 image: /assets/images/aficamten.png
 ---
 
-## New Variables in Global Pharmaceutical Procurement 2026  
-### China’s Innovative Drug Expansion Across Cardiovascular, Oncology and Antiviral Frontiers
+# New Variables in Global Pharmaceutical Procurement 2026  
+## China’s Innovative Drug Expansion Across Cardiovascular, Oncology and Antiviral Frontiers
 
 ![China Innovative Drug Expansion 2026](/assets/images/aficamten.png)
 
@@ -26,7 +26,7 @@ A more balanced portfolio is emerging across cardiovascular disease, precision o
 
 ---
 
-# I. Cardiovascular Therapy Enters the “Mechanism Era”
+## I. Cardiovascular Therapy Enters the “Mechanism Era”
 
 ### Afu Katai Tablets  
 *(Cardiac Myosin Inhibitor | Obstructive Hypertrophic Cardiomyopathy | Approved December 22, 2025)*
@@ -48,7 +48,7 @@ Innovation is moving beyond traditional “cholesterol-lowering” paradigms tow
 
 ---
 
-# II. Oncology: From Mainstream Indications to Rare Segments
+## II. Oncology: From Mainstream Indications to Rare Segments
 
 As detailed in our broader [Oncology Insights](/oncology/) section, oncology remains central to China’s innovative drug strategy — but its internal structure is changing.
 
@@ -69,7 +69,7 @@ It now simultaneously addresses large populations and precision niche segments.
 
 ---
 
-# III. Strengthened Public Health and Antiviral Preparedness
+## III. Strengthened Public Health and Antiviral Preparedness
 
 ### Mapaxavir Capsules  
 *(Cap-dependent Endonuclease Inhibitor | Influenza A & B | Approved December 15, 2025)*
@@ -82,7 +82,7 @@ China’s expansion into this segment reflects broader health security positioni
 
 ---
 
-# Horizontal Technological Expansion: A Structural Signal
+## Horizontal Technological Expansion: A Structural Signal
 
 Reviewing these five approvals reveals three technological trajectories:
 
@@ -96,7 +96,7 @@ It suggests China’s innovative drug ecosystem is evolving from isolated breakt
 
 ---
 
-# Implications for Global Procurement and Supply Chain Structures
+## Implications for Global Procurement and Supply Chain Structures
 
 As discussed in our analysis of  
 [Global Pharmaceutical Supply Chain Risk](/supply-chain/2026/03/03/global-pharma-supply-chain-risk/),  
@@ -113,7 +113,7 @@ In a multi-therapeutic expansion phase, supply chain architecture must evolve in
 
 ---
 
-# Structural Maturity, Not Isolated Growth
+## Structural Maturity, Not Isolated Growth
 
 The December 2025 approvals represent more than numerical expansion.
 
