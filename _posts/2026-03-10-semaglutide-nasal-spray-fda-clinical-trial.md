@@ -24,7 +24,7 @@ Recently, a **semaglutide nasal spray** received approval from the U.S. FDA to e
 This development suggests that **GLP-1 drugs may not be limited to injections or oral tablets in the future**. Nasal spray formulations could become an innovative method of drug delivery.
 
 The growing global interest in innovative pharmaceutical development is also reflected in trends discussed in  
-[China’s Innovative Drugs Are Entering the Global Healthcare Supply Chain](/oncology/china-innovative-drugs-global-supply-chain/).
+[China’s Innovative Drugs Are Entering the Global Healthcare Supply Chain](https://dengyuemed.github.io/oncology/supply-chain/2026/03/09/china-innovative-drugs-global-supply-chain/).
 
 ---
 
@@ -92,7 +92,7 @@ Large-scale trials designed to confirm **safety and therapeutic effectiveness**.
 If these trials are successfully completed, the drug may eventually submit a **New Drug Application (NDA)** to the FDA.
 
 Understanding regulatory pathways has become increasingly important in modern drug development, particularly as more **innovative therapies enter international markets**, similar to trends discussed in  
-[Chinese EGFR and MET Targeted Therapies in NSCLC](/oncology/chinese-egfr-met-targeted-therapies-nsclc/).
+[Chinese EGFR and MET Targeted Therapies in NSCLC](https://dengyuemed.github.io/oncology/2026/03/09/chinese-egfr-met-targeted-therapies-nsclc/).
 
 ---
 
