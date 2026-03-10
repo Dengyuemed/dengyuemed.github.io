@@ -27,7 +27,7 @@ By targeting different key nodes within the same signaling pathway, these two dr
 
 ---
 
-# The Role of the PI3K-AKT Signaling Pathway in Breast Cancer
+## The Role of the PI3K-AKT Signaling Pathway in Breast Cancer
 
 The **PI3K-AKT-mTOR signaling pathway** is a critical molecular network regulating:
 
@@ -51,7 +51,7 @@ Therefore, directly targeting the **PI3K-AKT pathway** has become one of the key
 
 <img src="/assets/images/capivasertib.webp" alt="Capivasertib tablets" style="max-width:600px;width:100%;display:block;margin:20px auto;">
 
-# Capivasertib: A New-Generation AKT Inhibition Strategy
+## Capivasertib: A New-Generation AKT Inhibition Strategy
 
 Capivasertib is an **oral AKT kinase inhibitor** that suppresses tumor cell proliferation and survival by blocking **AKT signal transduction**.
 
@@ -77,7 +77,7 @@ Therefore, their **potential target population may be relatively broad**.
 
 <img src="/assets/images/inavolisib.png" alt="Inavolisib tablets" style="max-width:600px;width:100%;display:block;margin:30px auto;">
 
-# Inavolisib: A Precision Strategy Targeting PI3Kα
+## Inavolisib: A Precision Strategy Targeting PI3Kα
 
 In contrast, **Inavolisib** is a **selective PI3Kα inhibitor** designed primarily for tumors driven by **PIK3CA mutations**.
 
@@ -92,7 +92,7 @@ Because of its highly targeted mechanism, **PI3Kα inhibitors are generally used
 
 ---
 
-# Mechanistic Differences Between Capivasertib and Inavolisib
+## Mechanistic Differences Between Capivasertib and Inavolisib
 
 Although both drugs belong to **PI3K-AKT pathway targeted therapies**, they act at different positions within the signaling pathway.
 
@@ -123,7 +123,7 @@ Overall:
 
 ---
 
-# Future Trends in Precision Oncology
+## Future Trends in Precision Oncology
 
 The emergence of **Capivasertib** and **Inavolisib** reflects the broader shift in oncology toward **mechanism-based precision medicine**.
 
@@ -142,7 +142,7 @@ With continued advances in **molecular diagnostics and targeted drug development
 
 ---
 
-# Conclusion
+## Conclusion
 
 As important representatives of **PI3K-AKT pathway targeted therapy**, **Capivasertib** and **Inavolisib** highlight the potential of different molecular targeting strategies in precision oncology.
 
