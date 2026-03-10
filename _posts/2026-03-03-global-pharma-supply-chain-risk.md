@@ -8,8 +8,8 @@ keywords: pharmaceutical supply chain, GDP compliance, cold chain logistics, cro
 image: /assets/images/supply-chain-risk.png
 ---
 
-## Global Pharmaceutical Supply Chain Risk  
-### Why On-Time Delivery and Compliance Are Replacing Price as Core Procurement Metrics
+# Global Pharmaceutical Supply Chain Risk  
+## Why On-Time Delivery and Compliance Are Replacing Price as Core Procurement Metrics
 
 ![Global Pharmaceutical Supply Chain Risk](/assets/images/supply-chain-risk.png)
 
