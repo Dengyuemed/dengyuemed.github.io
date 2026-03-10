@@ -70,7 +70,7 @@ Highlighting the growing structural influence of Chinese pharmaceutical enterpri
 For strategic collaboration, distribution inquiries, or industry research dialogue:
 
 Email: info@dengyuemed.com  
-Website: dengyuemed.com
+Website: [dengyuemed.com](https://dengyuemed.com/)
 
 ---
 
