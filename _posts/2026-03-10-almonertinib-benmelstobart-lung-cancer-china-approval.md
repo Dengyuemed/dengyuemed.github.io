@@ -106,6 +106,6 @@ These developments offer new treatment strategies for patients at different stag
 
 If you would like to learn more about newly approved lung cancer drugs and treatment developments, you can also read:
 
-👉 https://dengyuemed.com/news/11-new-cancer-drugs-approved/
+👉 [11 New Cancer Drugs Approved in 2026 – Latest Oncology Drug Updates](https://dengyuemed.com/news/11-new-cancer-drugs-approved/)
 
 Hong Kong **DengYueMed** continuously monitors innovative drugs, clinical research, and pharmaceutical supply chain developments in both China and international markets, and is committed to providing reliable pharmaceutical information and drug supply references for medical institutions and industry partners.
