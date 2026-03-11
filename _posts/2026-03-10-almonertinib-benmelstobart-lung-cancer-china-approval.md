@@ -27,7 +27,7 @@ For more insights into China's innovative drug development and global pharmaceut
 
 ---
 
-# Almonertinib Combined with Chemotherapy Approved as First-Line Treatment for EGFR-Mutated Advanced Lung Cancer
+## Almonertinib Combined with Chemotherapy Approved as First-Line Treatment for EGFR-Mutated Advanced Lung Cancer
 
 **Approval date:** January 8, 2026
 
@@ -56,7 +56,7 @@ You can also explore our detailed overview of Chinese targeted therapies for lun
 
 ---
 
-# Benmelstobart Approved for Consolidation Therapy in Unresectable Stage III Lung Cancer
+## Benmelstobart Approved for Consolidation Therapy in Unresectable Stage III Lung Cancer
 
 **Approval date:** February 14, 2026
 
@@ -80,7 +80,7 @@ The drug has also become one of the domestically developed PD-L1 inhibitors appr
 
 ---
 
-# Precision Treatment Still Requires Careful Patient Selection
+## Precision Treatment Still Requires Careful Patient Selection
 
 Although the approval of new drugs and indications brings new hope to lung cancer treatment, oncology care continues to emphasize the principles of **precision medicine**.
 
@@ -96,7 +96,7 @@ Therefore, specific treatment plans should always be determined by professional 
 
 ---
 
-# Conclusion
+## Conclusion
 
 The treatment of non-small cell lung cancer is gradually entering a **more precise and individualized era**.
 
