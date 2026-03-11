@@ -8,7 +8,7 @@ tags: [drug approval, Southeast Asia healthcare, pharmaceutical distribution, in
 
 ![Overcrowded hospital in Southeast Asia](/assets/images/southeast-asia-hospital-demand.jpeg)
 
-## Southeast Asia's Drug Approval Gap: Why is Access to Innovative Therapies Lagging?
+# Southeast Asia's Drug Approval Gap: Why is Access to Innovative Therapies Lagging?
 
 Against the backdrop of accelerating global innovative drug development, targeted cancer therapies, immunotherapies, and drugs with novel mechanisms for chronic diseases are rapidly entering mature markets.
 
