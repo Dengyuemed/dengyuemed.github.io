@@ -6,6 +6,9 @@ categories: [oncology]
 tags: [lung cancer, EGFR, targeted therapy, immunotherapy, China drug approval]
 ---
 
+# New Advances in EGFR-Mutated Lung Cancer Treatment  
+## Two Important New Indications Approved in 2026
+
 At the beginning of 2026, China’s National Medical Products Administration (NMPA) approved two important new indications related to lung cancer. These approvals involve an EGFR-targeted therapy combined with chemotherapy and a PD-L1 immunotherapy consolidation treatment strategy.
 
 ![NMPA Drug Approval Notice](/assets/images/nmpa-lung-cancer-drug-approval-2026.png)
