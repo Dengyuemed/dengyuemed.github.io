@@ -2,7 +2,7 @@
 layout: post
 title: "Southeast Asia's Drug Approval Gap: Why Access to Innovative Therapies Is Lagging"
 date: 2026-03-11
-categories: [pharmaceutical, supply-chain]
+categories: [regulatory, supply-chain]
 tags: [drug approval, Southeast Asia healthcare, pharmaceutical distribution, innovative drugs]
 ---
 
