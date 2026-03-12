@@ -8,7 +8,7 @@ tags: [encorafenib, BRAF V600E, colorectal cancer, targeted therapy, FDA approva
 
 ![FDA approval announcement for encorafenib in BRAF V600E colorectal cancer](/assets/images/fda-encorafenib-approval.png)
 
-## New Advances in BRAF-Mutant Colorectal Cancer
+# New Advances in BRAF-Mutant Colorectal Cancer
 
 In recent years, precision medicine has significantly reshaped the treatment landscape of many cancers. Targeted therapies based on specific genetic mutations are increasingly becoming a central strategy in modern oncology.
 
@@ -22,7 +22,7 @@ The decision was supported by results from a **phase 3 clinical trial** demonstr
 
 ---
 
-# BRAF Mutation: A High-Risk Molecular Subtype in Colorectal Cancer
+## BRAF Mutation: A High-Risk Molecular Subtype in Colorectal Cancer
 
 BRAF mutations occur in approximately **8%–12% of colorectal cancer cases**, with the **V600E mutation** being the most common variant.
 
@@ -56,7 +56,7 @@ to block tumor growth signals through multiple pathways simultaneously.
 
 ---
 
-# Mechanism and Clinical Rationale of the Encorafenib Combination Strategy
+## Mechanism and Clinical Rationale of the Encorafenib Combination Strategy
 
 **Encorafenib** is a selective **BRAF inhibitor** designed to target the **MAPK signaling pathway** activated by the BRAF V600E mutation, thereby inhibiting abnormal tumor cell proliferation.
 
@@ -81,7 +81,7 @@ In clinical practice, encorafenib is typically administered **orally at a dose o
 
 ---
 
-# Phase 3 Trial Confirms Clinical Benefits
+## Phase 3 Trial Confirms Clinical Benefits
 
 Key evidence supporting this treatment strategy comes from the **phase 3 BREAKWATER trial (NCT04607421)**.
 
@@ -132,7 +132,7 @@ In an additional study cohort, the combination of **encorafenib, cetuximab, and 
 
 ---
 
-# Safety Profile and Clinical Management
+## Safety Profile and Clinical Management
 
 Overall, the encorafenib combination regimen demonstrated a **manageable safety profile**.
 
@@ -155,7 +155,7 @@ to ensure safe treatment administration.
 
 ---
 
-# Conclusion: A Changing Treatment Landscape for BRAF-Mutant Colorectal Cancer
+## Conclusion: A Changing Treatment Landscape for BRAF-Mutant Colorectal Cancer
 
 For many years, **BRAF V600E–mutated colorectal cancer** has been considered a particularly challenging molecular subtype with limited treatment options and relatively poor prognosis.
 
@@ -169,7 +169,7 @@ DengYueMed continues to follow global developments in oncology drug research and
 
 ---
 
-# Related Reading
+## Related Reading
 
 If you would like to learn more about colorectal cancer treatment drugs and advances in targeted therapy, you may read:
 
