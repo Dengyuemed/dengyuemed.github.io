@@ -18,8 +18,6 @@ In **February 2026**, the **U.S. Food and Drug Administration (FDA)** granted ap
 
 The decision was supported by results from a **phase 3 clinical trial** demonstrating that this targeted combination therapy significantly improves survival outcomes compared with traditional treatment strategies.
 
-![BRAFTOVI encorafenib capsules for BRAF V600E metastatic colorectal cancer](/assets/images/braftovi-encorafenib.webp)
-
 ---
 
 ## BRAF Mutation: A High-Risk Molecular Subtype in Colorectal Cancer
@@ -64,6 +62,8 @@ In colorectal cancer, combining encorafenib with the **EGFR monoclonal antibody 
 
 - the BRAF-driven signaling pathway  
 - the EGFR-mediated feedback activation that can lead to treatment resistance  
+
+![BRAFTOVI encorafenib capsules for BRAF V600E metastatic colorectal cancer](/assets/images/braftovi-encorafenib.webp)
 
 The rationale behind this combination therapy is **multi-pathway inhibition**.
 
