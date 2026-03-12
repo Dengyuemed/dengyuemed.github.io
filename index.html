@@ -15,7 +15,7 @@ nav_exclude: true
   padding: 50px 20px 90px 20px;
 }
 
-/* ===== Hero Section ===== */
+/* ===== Hero ===== */
 
 .home-title {
   font-size: 38px;
@@ -77,7 +77,7 @@ hr.section-divider {
   }
 }
 
-/* ===== Card ===== */
+/* ===== Cards ===== */
 
 .card {
   border: 1px solid #eaeaea;
@@ -114,6 +114,37 @@ hr.section-divider {
 .simple-list li {
   margin-bottom: 10px;
   font-size: 14px;
+}
+
+/* ===== Latest Insights ===== */
+
+.latest-grid {
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:30px;
+}
+
+@media(max-width:900px){
+.latest-grid{
+grid-template-columns:1fr;
+}
+}
+
+.latest-item{
+border:1px solid #ececec;
+padding:20px;
+border-radius:14px;
+background:#fff;
+}
+
+.latest-item a{
+font-weight:600;
+}
+
+.latest-date{
+font-size:12px;
+color:#999;
+margin-top:6px;
 }
 
 /* ===== Footer ===== */
@@ -178,76 +209,130 @@ Read Full Analysis →
 
 {% endif %}
 
-<!-- ===== Core Intelligence Sections ===== -->
+<!-- ===== Latest Insights ===== -->
+
+<h2 class="section-title">Latest Insights</h2>
+
+<div class="latest-grid">
+
+{% assign latest = site.posts | sort:"date" | reverse %}
+
+{% for post in latest limit:6 %}
+
+<div class="latest-item">
+
+<a href="{{ post.url }}">{{ post.title }}</a>
+
+<div class="latest-date">
+{{ post.date | date: "%B %d, %Y" }}
+</div>
+
+</div>
+
+{% endfor %}
+
+</div>
+
+<hr class="section-divider">
+
+<!-- ===== Core Sections ===== -->
 
 <div class="section-grid">
+
+<!-- Rare Diseases -->
 
 <div>
 <h2 class="section-title">Rare Diseases</h2>
 
-{% assign rare = site.posts | where_exp: "post", "post.categories contains 'rare-diseases'" | sort: "date" | reverse %}
+{% assign rare = site.posts | where_exp:"post","post.categories contains 'rare-diseases'" | sort:"date" | reverse %}
 
 <ul class="simple-list">
+
 {% for post in rare limit:3 %}
+
 <li>
 <a href="{{ post.url }}">{{ post.title }}</a><br>
 <small>{{ post.date | date: "%B %d, %Y" }}</small>
 </li>
+
 {% endfor %}
+
 </ul>
 
 <p><a href="/rare-diseases/" class="read-link">View All →</a></p>
+
 </div>
+
+<!-- Oncology -->
 
 <div>
 <h2 class="section-title">Oncology</h2>
 
-{% assign oncology = site.posts | where_exp: "post", "post.categories contains 'oncology'" | sort: "date" | reverse %}
+{% assign oncology = site.posts | where_exp:"post","post.categories contains 'oncology'" | sort:"date" | reverse %}
 
 <ul class="simple-list">
+
 {% for post in oncology limit:3 %}
+
 <li>
 <a href="{{ post.url }}">{{ post.title }}</a><br>
 <small>{{ post.date | date: "%B %d, %Y" }}</small>
 </li>
+
 {% endfor %}
+
 </ul>
 
 <p><a href="/oncology/" class="read-link">View All →</a></p>
+
 </div>
+
+<!-- Regulatory -->
 
 <div>
 <h2 class="section-title">Regulatory</h2>
 
-{% assign regulatory = site.posts | where_exp: "post", "post.categories contains 'regulatory'" | sort: "date" | reverse %}
+{% assign regulatory = site.posts | where_exp:"post","post.categories contains 'regulatory'" | sort:"date" | reverse %}
 
 <ul class="simple-list">
+
 {% for post in regulatory limit:3 %}
+
 <li>
 <a href="{{ post.url }}">{{ post.title }}</a><br>
 <small>{{ post.date | date: "%B %d, %Y" }}</small>
 </li>
+
 {% endfor %}
+
 </ul>
 
 <p><a href="/regulatory/" class="read-link">View All →</a></p>
+
 </div>
+
+<!-- Supply Chain -->
 
 <div>
 <h2 class="section-title">Supply Chain</h2>
 
-{% assign supply = site.posts | where_exp: "post", "post.categories contains 'supply-chain'" | sort: "date" | reverse %}
+{% assign supply = site.posts | where_exp:"post","post.categories contains 'supply-chain'" | sort:"date" | reverse %}
 
 <ul class="simple-list">
+
 {% for post in supply limit:3 %}
+
 <li>
 <a href="{{ post.url }}">{{ post.title }}</a><br>
 <small>{{ post.date | date: "%B %d, %Y" }}</small>
 </li>
+
 {% endfor %}
+
 </ul>
 
 <p><a href="/supply-chain/" class="read-link">View All →</a></p>
+
 </div>
 
 </div>
