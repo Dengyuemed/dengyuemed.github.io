@@ -8,8 +8,6 @@ description: "KRAS G12C inhibitors have transformed an undruggable oncology targ
 image: /assets/images/kras-g12c-drugs.png
 ---
 
-![KRAS G12C inhibitors Lumakras and Krazati](/assets/images/kras-g12c-drugs.png)
-
 # KRAS G12C: From Undruggable Target to Global Competitive Arena — The Emerging Role of China Pharmaceutical Wholesaler
 
 In the history of oncology drug development, few targets have been as highly anticipated yet as frustratingly persistent as **KRAS**.
@@ -32,7 +30,7 @@ Against this backdrop, **China pharmaceutical wholesaler [DengYueMed](https://de
 
 ---
 
-# I. Breakthroughs in the Global KRAS G12C Inhibitor Market
+## I. Breakthroughs in the Global KRAS G12C Inhibitor Market
 
 Two milestone drugs truly broke the long-standing perception that KRAS was untreatable.
 
@@ -40,7 +38,9 @@ Two milestone drugs truly broke the long-standing perception that KRAS was untre
 
 Developed by **Amgen**, **Lumakras** became the **world’s first approved KRAS G12C inhibitor**.
 
-### 2. Adagrasib (Krazati)
+![KRAS G12C inhibitors Lumakras and Krazati](/assets/images/kras-g12c-drugs.png)
+
+### 2. [Adagrasib (Krazati)](https://dengyuemed.com/product/adagrasib-tablets-lung-cancer/)
 
 Developed by **Mirati Therapeutics**, **Krazati** soon followed as another important therapy targeting KRAS G12C.
 
@@ -52,7 +52,7 @@ With these approvals, the field rapidly moved from **scientific breakthrough to 
 
 ---
 
-# II. From Technological Breakthrough to Red Ocean Competition
+## II. From Technological Breakthrough to Red Ocean Competition
 
 Within just a few years, the KRAS G12C landscape has changed dramatically.
 
@@ -89,7 +89,7 @@ The competitive field is rapidly evolving from **single-product competition into
 
 ---
 
-# III. Strategic Participation of Chinese Companies
+## III. Strategic Participation of Chinese Companies
 
 Chinese biotechnology companies have actively entered the KRAS field.
 
@@ -97,7 +97,7 @@ One representative example is:
 
 ![Fulzerasib KRAS inhibitor China](/assets/images/fulzerasib-china.png)
 
-### Fulzerasib
+### [Fulzerasib](https://dengyuemed.com/product/fulzerasib-non-small-cell-lung-cancer/)
 
 Developed through collaboration involving **Innovent Biologics**, **Fulzerasib** became one of the **first KRAS G12C inhibitors approved in China**.
 
@@ -114,7 +114,7 @@ Chinese biopharmaceutical firms are no longer simply **followers**, but increasi
 
 ---
 
-# IV. The Real Competitive Variables: Market Access and Supply Chain
+## IV. The Real Competitive Variables: Market Access and Supply Chain
 
 As more KRAS inhibitors enter the market, competition is shifting into a **second phase**.
 
@@ -149,7 +149,7 @@ These capabilities are particularly valuable for innovative drug companies seeki
 
 ---
 
-# V. Future Competition: From Molecules to Ecosystems
+## V. Future Competition: From Molecules to Ecosystems
 
 The success of KRAS G12C inhibitors proves that the concept of **“undruggable” targets is no longer absolute**.
 
@@ -166,7 +166,7 @@ As scientific breakthroughs gradually converge, **global distribution capability
 
 ---
 
-# Conclusion
+## Conclusion
 
 The KRAS G12C field has transformed from an **undruggable scientific challenge into a global competitive arena in less than a decade**.
 
@@ -174,7 +174,7 @@ This transformation has reshaped not only oncology drug development but also the
 
 Chinese pharmaceutical companies are increasingly participating in this transformation—not only through R&D innovation but also through the development of **global distribution and market access capabilities**.
 
-Within this evolving ecosystem, **China pharmaceutical wholesaler DengYueMed** is emerging as a strategic connector between **innovative drug development and international markets**.
+Within this evolving ecosystem, **[China pharmaceutical wholesaler DengYueMed](https://dengyuemed.com/)** is emerging as a strategic connector between **innovative drug development and international markets**.
 
 In the era of precision oncology, the ultimate competition may not only occur in laboratories but also in the **efficiency of global market execution**.
 
