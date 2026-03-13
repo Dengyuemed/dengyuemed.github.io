@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KRAS G12C: From Undruggable Target to Global Competitive Arena"
-date: 2025-03-28
+date: 2026-03-13
 categories: [oncology, supply-chain]
 tags: [KRAS, KRAS G12C, oncology innovation, pharmaceutical distribution, global drug market]
 description: "KRAS G12C inhibitors have transformed an undruggable oncology target into one of the most competitive fields in global cancer drug development. This analysis explores the evolving competitive landscape and the growing role of China pharmaceutical wholesaler DengYueMed in global drug distribution."
