@@ -5,10 +5,6 @@ date: 2026-03-14
 categories: oncology
 ---
 
-[![KRAS G12C clinical candidates and targeted oncology pipeline](/assets/images/kras-g12c-clinical-candidates.png)](https://dengyuemed.github.io)
-
-*Illustration: [KRAS G12C targeted therapy pipeline](https://dengyuemed.github.io)*
-
 # A Wave of Newly Approved Innovative Drugs in China in 2026
 
 ## Global Market Opportunities from Metabolic Diseases to Precision Oncology
@@ -25,9 +21,9 @@ The following products demonstrate strong potential in terms of target innovatio
 
 ---
 
-# I. Metabolic Disease Segment: Dual Expansion in GLP-1 and SGLT2
+## I. Metabolic Disease Segment: Dual Expansion in GLP-1 and SGLT2
 
-## 1. Enoglutide Injection
+### 1. Enoglutide Injection
 
 - **Target:** GLP-1 receptor agonist  
 - **Indication:** Adult Type 2 Diabetes  
@@ -43,7 +39,7 @@ For developing markets, competitively priced GLP-1 products may significantly im
 
 ---
 
-## 2. Ologliflozin Capsules
+### 2. Ologliflozin Capsules
 
 - **Target:** SGLT2 inhibitor  
 - **Indication:** Adult Type 2 Diabetes  
@@ -55,7 +51,7 @@ They are now an essential component of long-term chronic disease management.
 
 The launch of domestically developed SGLT2 therapies strengthens the multi-tiered global supply structure for chronic disease treatments.
 
-### International Market Significance
+#### International Market Significance
 
 - Diversified pricing options  
 - Entry opportunities in emerging markets  
@@ -63,9 +59,9 @@ The launch of domestically developed SGLT2 therapies strengthens the multi-tiere
 
 ---
 
-# II. Hematologic Oncology and Immunology
+## II. Hematologic Oncology and Immunology
 
-## 3. Libeiveta Monoclonal Antibody Injection
+### 3. Libeiveta Monoclonal Antibody Injection
 
 - **Target:** CD20  
 - **Indication:** B-cell lymphoma  
@@ -81,7 +77,7 @@ Chinese antibody products are increasingly becoming valuable alternatives in int
 
 ---
 
-## 4. Ruilafup Alpha Injection
+### 4. Ruilafup Alpha Injection
 
 - **Type:** Coagulation factor fusion protein  
 - **Indication:** Hemophilia A  
@@ -93,9 +89,9 @@ Global demand for rare disease therapies continues to grow, especially in emergi
 
 ---
 
-# III. Precision and Rare Disease Therapies
+## III. Precision and Rare Disease Therapies
 
-## 5. Pulesiran Sodium Injection
+### 5. Pulesiran Sodium Injection
 
 - **Technology:** siRNA  
 - **Target:** ALAS1  
@@ -108,7 +104,11 @@ The approval of an siRNA therapy targeting acute hepatic porphyria reflects Chin
 
 ---
 
-## 6. Sotocra Tablets
+### 6. Sotocra Tablets
+
+[![KRAS G12C clinical candidates and targeted oncology pipeline](/assets/images/kras-g12c-clinical-candidates.png)](https://dengyuemed.com/products/)
+
+*Illustration: [KRAS G12C targeted therapy pipeline](https://dengyuemed.com/products/)*
 
 - **Target:** KRAS G12C inhibitor  
 - **Indication:** KRAS G12C-mutated Non-Small Cell Lung Cancer  
@@ -122,7 +122,7 @@ The launch of a domestically developed KRAS inhibitor signals China’s growing 
 
 ---
 
-# Reassessing the Global Value of Chinese Innovative Drugs
+## Reassessing the Global Value of Chinese Innovative Drugs
 
 The six newly approved therapies clearly illustrate a structural shift in China’s pharmaceutical innovation landscape:
 
@@ -138,7 +138,7 @@ Together, these trends reflect a deeper transformation:
 
 ---
 
-# International Procurement & Distribution: Compliance and Supply Chain Matter
+## International Procurement & Distribution: Compliance and Supply Chain Matter
 
 For overseas buyers, evaluation extends beyond the drug itself. Key considerations include:
 
@@ -159,7 +159,7 @@ Services include:
 
 ---
 
-# Conclusion: From “Made in China” to “Innovated in China”
+## Conclusion: From “Made in China” to “Innovated in China”
 
 The concentrated approvals in January 2026 are not coincidental — they represent the cumulative outcome of years of pharmaceutical R&D advancement in China.
 
