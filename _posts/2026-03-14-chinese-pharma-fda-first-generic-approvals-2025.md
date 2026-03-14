@@ -5,7 +5,7 @@ date: 2026-03-14
 categories: regulatory
 ---
 
-![Hong Kong DengYue Pharmaceutical](/assets/images/hongkong-dengyuemed.jpg)
+![Hong Kong DengYue Pharmaceutical](/assets/images/hongkong-dengyuemed.png)
 
 ## Progress of Chinese Pharmaceutical Companies in Obtaining U.S. FDA First Generic Drug Approvals in 2025
 
