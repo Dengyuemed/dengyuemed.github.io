@@ -7,7 +7,7 @@ categories: regulatory
 
 ![Hong Kong DengYue Pharmaceutical](/assets/images/hongkong-dengyuemed.png)
 
-## Progress of Chinese Pharmaceutical Companies in Obtaining U.S. FDA First Generic Drug Approvals in 2025
+# Progress of Chinese Pharmaceutical Companies in Obtaining U.S. FDA First Generic Drug Approvals in 2025
 
 From focusing primarily on the export of active pharmaceutical ingredients (APIs) and pharmaceutical intermediates in the early 2000s to achieving breakthroughs in high-end generics and innovative drugs today, Chinese pharmaceutical companies have steadily increased their influence in the global pharmaceutical market.
 
