@@ -5,7 +5,7 @@ date: 2026-03-16
 categories: regulatory
 ---
 
-## February 2026 Approvals Signal China’s Entry into Core MAPK, JAK, and IL-17 Pathway Competition
+# February 2026 Approvals Signal China’s Entry into Core MAPK, JAK, and IL-17 Pathway Competition
 
 In February 2026, three innovative therapies received regulatory approval in China. For long-term industry observers — including cross-border pharmaceutical distributors such as **[HongKongDengYueMed](https://dengyuemed.com/)** — the significance of these approvals is not simply numerical expansion. Rather, they indicate a structural shift: Chinese drug development is increasingly targeting core biological signaling pathways that define global therapeutic competition.
 
