@@ -45,7 +45,7 @@ For international markets, the implications are structural:
 - **Companion diagnostics** become mandatory infrastructure  
 - **Real-world data** will heavily influence lifecycle value  
 
-Cross-border supply models must therefore integrate diagnostic alignment, batch consistency, and regulatory documentation readiness — requirements increasingly relevant to globally oriented distributors such as **[DengYueMed](https://dengyuemed.com/)**.
+Cross-border supply models must therefore integrate diagnostic alignment, batch consistency, and regulatory documentation readiness — requirements increasingly relevant to globally oriented distributors such as **[DengYueMed](https://dengyuemed.github.io/)**.
 
 ---
 
@@ -98,7 +98,7 @@ Unlike small molecules, biologics introduce additional cross-border complexity:
 - Continuous **temperature-controlled logistics**  
 - **Regulatory file harmonization** across jurisdictions
 
-Companies such as **[DengYueMed](https://dengyuemed.com/)** — long engaged in cross-border pharmaceutical distribution — are gradually evolving from simple trading intermediaries into **compliance coordinators and supply-stability bridges**.
+Companies such as **[DengYueMed](https://dengyuemed.github.io/)** — long engaged in cross-border pharmaceutical distribution — are gradually evolving from simple trading intermediaries into **compliance coordinators and supply-stability bridges**.
 
 ---
 
