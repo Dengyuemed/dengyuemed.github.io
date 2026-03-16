@@ -7,6 +7,8 @@ categories: [oncology, regulatory]
 
 ![NMPA approval information for Herombopag](/assets/images/nmpa-approval-herombopag.png)
 
+# China Approves New Indication for Herombopag in Severe Aplastic Anemia
+
 As China’s innovative drug research and development capabilities continue to advance, an increasing number of medicines with independent intellectual property are entering the global spotlight.
 
 Recently, another important development has emerged from China’s pharmaceutical industry. The Chinese pharmaceutical wholesaler **DengYueMed** has observed that innovative drugs developed in China are continuing to make progress in the treatment of hematologic diseases.
@@ -19,7 +21,7 @@ This marks the **third approved indication** for the drug and represents the **f
 
 ---
 
-# What Is Severe Aplastic Anemia?
+## What Is Severe Aplastic Anemia?
 
 Aplastic anemia is a serious **bone marrow failure disorder** often associated with immune-mediated damage to hematopoietic stem cells.
 
@@ -48,15 +50,15 @@ Epidemiological studies suggest that the incidence of aplastic anemia is general
 
 ---
 
-# Current Treatment Strategies for SAA
+## Current Treatment Strategies for SAA
 
 According to current international clinical guidelines, the primary treatment options include:
 
-## 1. Hematopoietic Stem Cell Transplantation (HSCT)
+### 1. Hematopoietic Stem Cell Transplantation (HSCT)
 
 This treatment is generally recommended for **younger patients with a suitable donor**.
 
-## 2. Immunosuppressive Therapy (IST)
+### 2. Immunosuppressive Therapy (IST)
 
 A commonly used regimen includes:
 
@@ -69,7 +71,7 @@ Because of this limitation, therapies that **stimulate hematopoiesis** have beco
 
 ---
 
-# Phase III Clinical Trial Demonstrates Efficacy
+## Phase III Clinical Trial Demonstrates Efficacy
 
 The approval of the new indication was primarily based on the **HR-TPO-SAA-III Phase III clinical trial**.
 
@@ -89,7 +91,7 @@ The results were presented at the **American Society of Hematology Annual Meetin
 
 ---
 
-## Efficacy Results at 3 Months
+### Efficacy Results at 3 Months
 
 - Complete response (CR): **8.8% vs 5.0%**
 - Overall response (OR): **50.6% vs 25.0%**
@@ -98,7 +100,7 @@ The results were presented at the **American Society of Hematology Annual Meetin
 
 ---
 
-## Efficacy Results at 6 Months
+### Efficacy Results at 6 Months
 
 - CR: **28.1% vs 13.8% (p = 0.0129)**
 - OR: **63.8% vs 42.5%**
@@ -116,7 +118,7 @@ In terms of safety, long-term treatment was generally **well tolerated**, and no
 
 ---
 
-# Mechanism of Action of Herombopag
+## Mechanism of Action of Herombopag
 
 Herombopag olamine is an **oral, non-peptide thrombopoietin receptor agonist (TPO-RA).**
 
@@ -143,7 +145,7 @@ As a result, **TPO receptor agonists are becoming an important strategy in aplas
 
 ---
 
-# Approved and Ongoing Indications
+## Approved and Ongoing Indications
 
 Before this latest approval, **Herombopag** had already been approved in China for:
 
@@ -173,7 +175,7 @@ If approved, these could significantly expand the drug’s clinical applications
 
 ---
 
-# The Growing Global Impact of China’s Innovative Medicines
+## The Growing Global Impact of China’s Innovative Medicines
 
 Over the past decade, China’s pharmaceutical industry has gradually shifted from a **generics-driven model to one increasingly focused on innovation.**
 
@@ -193,7 +195,7 @@ For physicians, researchers, and healthcare institutions worldwide, **tracking t
 
 ---
 
-# DengYueMed and Global Access to Chinese Medicines
+## DengYueMed and Global Access to Chinese Medicines
 
 DengYueMed closely follows developments in China's pharmaceutical industry and regularly shares updates on:
 
@@ -205,7 +207,7 @@ The company also collaborates with multiple Chinese pharmaceutical manufacturers
 
 ---
 
-# Conclusion
+## Conclusion
 
 With the emergence of more innovative therapies, China’s pharmaceutical sector is gradually evolving from a **global manufacturing base into an increasingly important source of medical innovation.**
 
