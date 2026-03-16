@@ -2,7 +2,7 @@
 layout: post
 title: "China Approves New Indication for Herombopag in Severe Aplastic Anemia"
 date: 2026-03-16
-categories: oncology
+categories: [oncology, regulatory]
 ---
 
 ![NMPA approval information for Herombopag](/assets/images/nmpa-approval-herombopag.png)
