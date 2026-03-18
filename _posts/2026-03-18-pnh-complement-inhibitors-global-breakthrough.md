@@ -104,7 +104,7 @@ With the emergence of complement inhibitors and oral therapies, treatment goals 
 - Preventing thrombosis  
 - Restoring long-term quality of life  
 
-As part of the global pharmaceutical supply chain ecosystem, **[DengYueMed](https://dengyuemed.com/)** continues to monitor developments in:
+As part of the global pharmaceutical supply chain ecosystem, **[DengYueMed](https://dengyuemed.github.io/)** continues to monitor developments in:
 
 - Innovative drugs  
 - Clinical research  
