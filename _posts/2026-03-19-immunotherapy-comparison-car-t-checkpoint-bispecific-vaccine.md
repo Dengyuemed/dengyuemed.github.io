@@ -11,7 +11,7 @@ description: "A systematic comparison of checkpoint inhibitors, CAR-T, bispecifi
 
 <img src="/assets/images/immunotherapy-mechanism.png" alt="Cancer Immunotherapy Mechanisms" class="post-image"/>
 
-<h2>From CAR-T to Checkpoint Inhibitors</h2>
+<h1>From CAR-T to Checkpoint Inhibitors</h1>
 
 <p>
 Immunotherapy has fundamentally reshaped the landscape of cancer treatment. From hematologic malignancies to solid tumors, an increasing number of patients are achieving durable remission and even clinical cure.
@@ -23,7 +23,7 @@ As a professional pharmaceutical wholesaler, Hong Kong DengYueMed has long been 
 
 <hr>
 
-<h3>I. The Essence of Immunotherapy</h3>
+<h2>I. The Essence of Immunotherapy</h2>
 
 <p>
 Unlike chemotherapy and targeted therapy that directly kill tumor cells, immunotherapy works by activating or reshaping the body’s immune system to recognize and eliminate cancer.
@@ -43,9 +43,9 @@ These approaches act across different stages of the cancer immunity cycle:
 
 <hr>
 
-<h3>II. Mechanisms of Four Major Modalities</h3>
+<h2>II. Mechanisms of Four Major Modalities</h2>
 
-<h4>1. Checkpoint Inhibitors (ICI)</h4>
+<h3>1. Checkpoint Inhibitors (ICI)</h3>
 
 <p><strong>Mechanism:</strong> Block inhibitory pathways such as PD-1/PD-L1 and CTLA-4 to restore T-cell activity.</p>
 
@@ -55,7 +55,7 @@ These approaches act across different stages of the cancer immunity cycle:
 <li>Trend: Combination therapies (PD-1 + LAG-3 / TIGIT)</li>
 </ul>
 
-<h4>2. CAR-T Cell Therapy</h4>
+<h3>2. CAR-T Cell Therapy</h3>
 
 <p><strong>Mechanism:</strong> Genetically engineered T cells target tumor antigens independently of MHC.</p>
 
@@ -65,7 +65,7 @@ These approaches act across different stages of the cancer immunity cycle:
 <li>Trend: Dual-target CAR-T, in vivo CAR-T</li>
 </ul>
 
-<h4>3. Bispecific Antibodies</h4>
+<h3>3. Bispecific Antibodies</h3>
 
 <p><strong>Mechanism:</strong> Simultaneously bind tumor cells and T cells to induce immune killing.</p>
 
@@ -75,7 +75,7 @@ These approaches act across different stages of the cancer immunity cycle:
 <li>Trend: PD-1/VEGF and multi-target bispecifics</li>
 </ul>
 
-<h4>4. Tumor Vaccines</h4>
+<h3>4. Tumor Vaccines</h3>
 
 <p><strong>Mechanism:</strong> Present tumor antigens to activate immune response and memory.</p>
 
@@ -87,7 +87,7 @@ These approaches act across different stages of the cancer immunity cycle:
 
 <hr>
 
-<h3>III. Key Comparison</h3>
+<h2>III. Key Comparison</h2>
 
 <table>
 <thead>
@@ -133,7 +133,7 @@ These approaches act across different stages of the cancer immunity cycle:
 
 <hr>
 
-<h3>IV. Clinical Strategy and Future Trends</h3>
+<h2>IV. Clinical Strategy and Future Trends</h2>
 
 <p>
 The future of immunotherapy lies in combination strategies:
@@ -151,7 +151,7 @@ Biomarker-driven decision-making using PD-L1, TMB, MSI, and ctDNA is becoming st
 
 <hr>
 
-<h3>Conclusion</h3>
+<h2>Conclusion</h2>
 
 <p>
 The four major immunotherapy modalities are not competing approaches, but complementary tools within a unified immune strategy.
