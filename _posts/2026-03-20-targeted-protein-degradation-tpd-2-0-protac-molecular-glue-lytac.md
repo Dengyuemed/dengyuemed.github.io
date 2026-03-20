@@ -52,6 +52,8 @@ It induces ubiquitination and degradation of target proteins.
 
 In prostate cancer, AR-targeting PROTACs are already in clinical trials.
 
+![E3 Ligase Mechanism](/assets/images/e3-ligase-mechanism.png)
+
 ---
 
 ### 2. Molecular Glue: Simpler, More Drug-Like
