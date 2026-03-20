@@ -7,7 +7,7 @@ tags: [Plerixafor, Stem Cell Transplant, Hematology, CXCR4, DengYueMed]
 description: "Explore how plerixafor improves hematopoietic stem cell mobilization, enhances transplant success rates, and addresses key clinical challenges in hematologic malignancies."
 ---
 
-![Plerixafor Injection](/assets/images/plerixafor.png)
+![Plerixafor Injection](/assets/images/plerixafor.jpeg)
 
 # Precise Mobilization of Hematopoietic Stem Cells Opens a New Transplantation Pathway
 
