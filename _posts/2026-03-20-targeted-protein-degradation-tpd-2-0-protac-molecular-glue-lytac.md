@@ -7,6 +7,8 @@ tags: [TPD, PROTAC, Molecular Glue, LYTAC, Drug Discovery, Oncology Innovation]
 description: "Targeted protein degradation (TPD) is redefining drug discovery. From PROTAC to molecular glue and LYTAC, explore how TPD 2.0 enables elimination of previously undruggable targets."
 ---
 
+# From Inhibition to Elimination: How Targeted Protein Degradation (TPD 2.0) Is Reshaping Drug Development
+
 ![TPD Mechanism](/assets/images/tpd-mechanism.png)
 
 Over the past decades, “inhibition” has been the dominant paradigm in drug development—using small molecules or antibodies to block protein function. However, this strategy faces growing limitations. Many disease-driving proteins remain “undruggable,” and even when successfully inhibited, resistance often emerges through mutation or overexpression.
