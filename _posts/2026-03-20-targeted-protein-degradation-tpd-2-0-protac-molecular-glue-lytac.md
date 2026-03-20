@@ -18,7 +18,7 @@ On one hand, many disease-causing proteins lack suitable binding pockets and are
 Against this backdrop, Targeted Protein Degradation (TPD) has rapidly emerged and entered what is widely recognized as the “2.0 era” in 2025–2026. The core paradigm is no longer about “what a protein does,” but rather “eliminating the protein entirely.”
 
 As a long-term observer of global innovative drug trends,  
-👉 <a href="https://dengyuemed.github.io/" target="_blank">DengYueMed global pharmaceutical intelligence platform</a>  
+👉 <a href="https://dengyuemed.com/" target="_blank">DengYueMed global pharmaceutical intelligence platform</a>  
 believes that TPD represents not only a technological breakthrough but also a fundamental shift in the logic of drug development.
 
 ---
