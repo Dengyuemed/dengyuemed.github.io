@@ -2,7 +2,7 @@
 layout: post
 title: "From 'Inhibition Failure' to 'Precision Elimination': How Targeted Protein Degradation (TPD) 2.0 Is Reshaping Drug Development"
 date: 2026-03-20
-categories: [oncology, drug-development, supply-chain]
+categories: oncology
 tags: [TPD, PROTAC, Molecular Glue, LYTAC, Drug Discovery, DengYueMed]
 description: "A deep dive into TPD 2.0, including PROTAC, molecular glue, and LYTAC technologies, and how they are transforming the future of drug development."
 ---
