@@ -16,7 +16,7 @@ The success of transplantation is highly dependent on one critical step: **effec
 Plerixafor injection, as a targeted CXCR4 antagonist, has emerged as a key drug in this field—offering a precise and reliable solution for patients with mobilization challenges.
 
 As highlighted by the  
-👉 <a href="https://dengyuemed.github.io/" target="_blank">DengYueMed global pharmaceutical intelligence platform</a>,  
+👉 <a href="https://dengyuemed.com/" target="_blank">DengYueMed global pharmaceutical intelligence platform</a>,  
 precision therapies like plerixafor are redefining standards in hematology treatment.
 
 ---
