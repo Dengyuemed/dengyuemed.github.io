@@ -7,8 +7,6 @@ tags: [Plerixafor, Stem Cell Transplant, Hematology, CXCR4, DengYueMed]
 description: "Explore how plerixafor improves hematopoietic stem cell mobilization, enhances transplant success rates, and addresses key clinical challenges in hematologic malignancies."
 ---
 
-![Plerixafor Injection](/assets/images/plerixafor.jpeg)
-
 # Precise Mobilization of Hematopoietic Stem Cells Opens a New Transplantation Pathway
 
 In the treatment of hematological malignancies such as non-Hodgkin’s lymphoma (NHL) and multiple myeloma (MM), autologous hematopoietic stem cell transplantation remains a cornerstone therapy.
@@ -22,6 +20,8 @@ As highlighted by the
 precision therapies like plerixafor are redefining standards in hematology treatment.
 
 ---
+
+![Plerixafor Injection](/assets/images/plerixafor.jpeg)
 
 ## I. The Core Clinical Challenge: Mobilization Failure
 
