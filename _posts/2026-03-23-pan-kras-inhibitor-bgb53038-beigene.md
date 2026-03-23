@@ -9,7 +9,7 @@ description: "BeiGene’s pan-KRAS inhibitor BGB-53038 enters clinical trials, m
 
 ---
 
-## New Progress in China’s Pan-KRAS Inhibitor Development
+# New Progress in China’s Pan-KRAS Inhibitor Development
 
 According to the latest information from China’s Center for Drug Evaluation (CDE), the Class 1 innovative drug **BGB-53038**, developed by BeiGene, has received implicit approval to initiate clinical trials in China.
 
