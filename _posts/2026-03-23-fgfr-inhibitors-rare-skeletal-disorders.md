@@ -19,7 +19,7 @@ The FGFR signaling pathway plays a critical role in cell proliferation, differen
 Against this background, FGFR inhibitors are gradually expanding from traditional oncology indications into rare genetic diseases, showing significant therapeutic potential—particularly in FGFR3-related conditions such as achondroplasia.
 
 From the perspective of global pharmaceutical supply and innovative drug distribution,  
-[DengYueMed](https://dengyuepharma.medium.com/) is continuously monitoring developments in this target class, as it is becoming an important growth segment in both rare diseases and high-value specialty therapeutics.
+[DengYueMed](https://dengyuemed.com/) is continuously monitoring developments in this target class, as it is becoming an important growth segment in both rare diseases and high-value specialty therapeutics.
 
 ---
 
@@ -72,7 +72,7 @@ Overall, small-molecule inhibitors currently show stronger development momentum.
 
 ## 3. Applications in Rare Skeletal Disorders
 
-![Skeletal disorder illustration](/assets/images/skeletal-disorder.png)
+![Skeletal disorder illustration](/assets/images/skeletal-disorder.webp)
 
 Rare skeletal disorders such as achondroplasia are driven by FGFR3 pathway dysregulation.
 
