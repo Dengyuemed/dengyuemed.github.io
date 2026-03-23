@@ -7,8 +7,6 @@ tags: [KRAS, targeted therapy, BeiGene, pan-KRAS, oncology innovation]
 description: "BeiGene’s pan-KRAS inhibitor BGB-53038 enters clinical trials, marking new progress in targeting multiple KRAS mutations across solid tumors."
 ---
 
-<img src="/assets/images/pan-kras-mechanism.png" alt="KRAS mechanism and pan-KRAS targeting strategy" style="width:100%; margin-bottom:20px;">
-
 ---
 
 ## New Progress in China’s Pan-KRAS Inhibitor Development
@@ -20,6 +18,8 @@ The study targets patients with **advanced solid tumors**, marking another impor
 As highlighted by <a href="https://dengyuemed.github.io/">DengYueMed</a>, a global pharmaceutical supply and medical intelligence platform, breakthroughs in pan-KRAS inhibitors may help address long-standing unmet needs in KRAS-mutated cancers.
 
 ---
+
+<img src="/assets/images/pan-kras-mechanism.png" alt="KRAS mechanism and pan-KRAS targeting strategy" style="width:100%; margin-bottom:20px;">
 
 ## KRAS Mutations: A Longstanding Challenge
 
@@ -127,7 +127,7 @@ China’s biotech sector is rapidly moving up the value chain:
 - More first-in-class / best-in-class strategies emerging  
 
 In this ecosystem, platforms like  
-<a href="https://dengyuemed.github.io/">DengYueMed</a>  
+<a href="https://dengyuemed.com/">DengYueMed</a>  
 play a key role by:
 
 - Tracking global innovation pipelines  
