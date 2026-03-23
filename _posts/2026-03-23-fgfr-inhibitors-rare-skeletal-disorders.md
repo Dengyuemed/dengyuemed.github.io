@@ -19,7 +19,7 @@ The FGFR signaling pathway plays a critical role in cell proliferation, differen
 Against this background, FGFR inhibitors are gradually expanding from traditional oncology indications into rare genetic diseases, showing significant therapeutic potential—particularly in FGFR3-related conditions such as achondroplasia.
 
 From the perspective of global pharmaceutical supply and innovative drug distribution,  
-[DengYueMed](https://dengyuemed.com/) is continuously monitoring developments in this target class, as it is becoming an important growth segment in both rare diseases and high-value specialty therapeutics.
+[DengYueMed](https://dengyuepharma.medium.com/) is continuously monitoring developments in this target class, as it is becoming an important growth segment in both rare diseases and high-value specialty therapeutics.
 
 ---
 
@@ -135,7 +135,7 @@ With ongoing clinical progress, these therapies are expected to:
 - Reshape the global rare disease treatment landscape  
 
 For global pharmaceutical distribution and supply chain companies such as  
-[DengYueMed](https://dengyuepharma.medium.com/),  
+[DengYueMed](https://dengyuemed.com/),  
 this trend represents continuous opportunities for international collaboration and market expansion.
 
 ---
