@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guide to Cross-Border Pharmaceutical Distribution: Compliance from Transport to Customs Clearance"
-date: 2026-03-21
+date: 2026-03-24
 categories: [supply-chain, regulatory]
 tags: [Pharmaceutical Logistics, Cold Chain, Customs Clearance, Compliance, DengYueMed]
 description: "A practical guide to cross-border pharmaceutical distribution, covering cold chain logistics, customs declaration, clearance risks, and compliance strategies."
