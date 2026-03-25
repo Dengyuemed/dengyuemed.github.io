@@ -9,8 +9,6 @@ description: "CG-0255, a next-generation P2Y12 inhibitor from China, shows early
 
 # China’s Next-Generation Antiplatelet Drug CG-0255 Shows Clinical Progress
 
-![Antiplatelet Therapy Mechanism](/assets/images/antiplatelet-mechanism.png)
-
 DengYueMed, a global pharmaceutical service platform closely tracking innovative drug development, notes that cardiovascular therapeutics continue to evolve rapidly, with **next-generation antiplatelet agents emerging as a key focus area**.
 
 According to publicly available information, as of March 2026, **CG-0255 benzenesulfonate capsules** remain under clinical development and have not yet been approved in China or globally.
@@ -37,6 +35,8 @@ Currently:
 - 🌍 Global: Some programs reportedly advancing to Phase III  
 
 ---
+
+![Antiplatelet Therapy Mechanism](/assets/images/antiplatelet-mechanism.png)
 
 ## II. A Novel P2Y12 Receptor Antagonist
 
@@ -82,7 +82,7 @@ Despite existing therapies, challenges remain:
 - Drug interactions  
 
 👉 These unmet needs are driving innovation in  
-<a href="https://dengyuemed.github.io/supply-chain/" target="_blank">global cardiovascular drug development</a>
+<a href="https://dengyuemed.github.io/regulatory/" target="_blank">global cardiovascular drug development</a>
 
 ---
 
