@@ -23,7 +23,7 @@ For many first-time buyers, key concerns include:
 - Are all documents compliant?
 
 These are exactly the challenges that  
-👉 <a href="https://dengyuemed.github.io/" target="_blank">professional pharmaceutical supply chain platforms</a> are designed to solve.
+👉 <a href="https://dengyuemed.com/" target="_blank">professional pharmaceutical supply chain platforms</a> are designed to solve.
 
 ---
 
