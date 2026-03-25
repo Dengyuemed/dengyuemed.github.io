@@ -2,7 +2,8 @@
 layout: post
 title: "China’s Next-Generation Antiplatelet Drug CG-0255 Enters Clinical Development"
 date: 2026-03-25
-categories: [cardiovascular, drug-development]
+categories:
+  - oncology
 tags: [Antiplatelet, P2Y12, Cardiovascular, CG-0255, China Pharma]
 description: "CG-0255, a next-generation P2Y12 inhibitor from China, shows early clinical progress with potential advantages in safety and rapid onset."
 ---
