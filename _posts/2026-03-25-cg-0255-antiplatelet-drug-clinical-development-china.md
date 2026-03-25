@@ -83,7 +83,7 @@ Despite existing therapies, challenges remain:
 - Drug interactions  
 
 👉 These unmet needs are driving innovation in  
-<a href="https://dengyuemed.github.io/regulatory/" target="_blank">global cardiovascular drug development</a>
+<a href="https://dengyuemed.github.io/supply-chain/" target="_blank">global cardiovascular drug development</a>
 
 ---
 
