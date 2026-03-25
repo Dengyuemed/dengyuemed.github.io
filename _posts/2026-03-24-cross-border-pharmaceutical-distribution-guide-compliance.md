@@ -143,7 +143,7 @@ Cross-border pharmaceutical distribution is not just logistics—it is a **syste
 - Customs clearance → determines final delivery  
 
 What  
-👉 <a href="https://dengyuemed.github.io/" target="_blank">DengYueMed</a>  
+👉 <a href="https://dengyuemed.com/" target="_blank">DengYueMed</a>  
 delivers is not just shipment—but **predictability, compliance, and reliability**.
 
 In global pharma trade, execution capability is the real competitive edge.
