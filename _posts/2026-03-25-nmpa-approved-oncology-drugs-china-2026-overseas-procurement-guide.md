@@ -14,7 +14,7 @@ tags:
   - Drug Procurement
 ---
 
-![NMPA Oncology Drugs China 2026 Guide](/assets/images/nmpa oncology drugs china 2026 guide.png)
+![NMPA Oncology Drugs China 2026 Guide](/assets/images/nmpa-oncology-drugs-china-2026-guide.png)
 
 ## 2026 List of Approved Oncology Drugs in China (NMPA Guide) and Practical Reference for Overseas Procurement
 
