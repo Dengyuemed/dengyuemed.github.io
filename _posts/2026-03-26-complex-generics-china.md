@@ -14,7 +14,7 @@ tags:
 image: /assets/images/complex-generics-china.png
 ---
 
-## How China Is Becoming a Key Global Supplier of Complex Generic Drugs
+# How China Is Becoming a Key Global Supplier of Complex Generic Drugs
 
 As global healthcare systems face increasing cost pressures and the challenges of an aging population, generic drugs are playing an increasingly important role in improving access to medicines.
 
@@ -178,5 +178,11 @@ From API manufacturing to high-end formulations, China’s pharmaceutical indust
 
 DengYueMed will continue to monitor industry developments and support global partners with reliable pharmaceutical supply solutions.
 
-👉 For more insights, read:  
-https://dengyuemed.com/blog/china-generic-drug-market-2026/
+---
+
+## Learn More
+
+👉 Want a deeper understanding of China’s generic drug market and future opportunities?  
+[Read our full China Generic Drug Market Analysis 2026](https://dengyuemed.com/blog/china-generic-drug-market-2026/)
+
+📩 For sourcing support or partnership inquiries, feel free to contact DengYueMed.
