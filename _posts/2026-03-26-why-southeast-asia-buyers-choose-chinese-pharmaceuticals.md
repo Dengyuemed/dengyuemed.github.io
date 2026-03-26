@@ -9,10 +9,10 @@ tags:
   - API Supply
   - Drug Distribution
   - Pharmaceutical Trade
-image: /images/api-formulation.jpg
+image: /assets/images/api-formulation.jpg
 ---
 
-![API and formulation](../images/api-formulation.png)
+![API and formulation](/assets/images/api-formulation.png)
 
 # Why Are More Southeast Asian Buyers Choosing Chinese Pharmaceuticals?
 ### — Three Structural Reasons Observed by DengYueMed
@@ -26,7 +26,7 @@ This shift is not driven by short-term price fluctuations or temporary trade dyn
 ## Reason 1: Heavy Dependence on Upstream Raw Materials  
 ### China as the Starting Point of the Pharmaceutical Supply Chain  
 
-![API and formulation](../images/api-formulation.png)
+![API and formulation](/assets/images/api-formulation.png)
 
 The first key factor is the long-term dependency on upstream raw material structures.
 
@@ -45,7 +45,7 @@ China is not just a supplier — it is an upstream anchor of the entire pharmace
 ## Reason 2: Supply–Demand Mismatch  
 ### Demand Growth Outpacing Local Capacity  
 
-![Clinical demand growth](../images/clinical-demand.png)
+![Clinical demand growth](/assets/images/clinical-demand.png)
 
 The second factor is a structural imbalance between supply and demand.
 
@@ -66,7 +66,7 @@ As a result, Southeast Asia increasingly relies on external supply — with Chin
 ## Reason 3: Regulatory Evolution  
 ### From “Can Buy” to “Can Enter”  
 
-![Pharma compliance](../images/pharma-compliance.png)
+![Pharma compliance](/assets/images/pharma-compliance.png)
 
 The third factor is the evolution of regulatory and trade systems.
 
@@ -98,7 +98,7 @@ Healthcare systems today are far more sensitive to supply disruptions — especi
 
 ## DengYueMed’s Role in the Supply Chain  
 
-![DengYueMed](../images/dengyuemed-logo.png)
+![DengYueMed](/assets/images/dengyuemed-logo.png)
 
 DengYueMed is evolving into a structural supply chain node connecting China and Southeast Asia.
 
