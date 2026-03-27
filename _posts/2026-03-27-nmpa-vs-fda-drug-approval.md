@@ -17,13 +17,13 @@ image: /assets/images/nmpa-vs-fda.png
 
 # NMPA vs FDA Drug Approval: What Are the Real Differences?
 
-![NMPA vs FDA drug approval comparison China vs US](/assets/images/nmpa-vs-fda.png)
-
 Why are some oncology drugs available in China before they reach the United States?
 
 As global pharmaceutical innovation accelerates, differences between the National Medical Products Administration (NMPA) and the U.S. Food and Drug Administration (FDA) are becoming increasingly relevant for clinicians, researchers, and international buyers.
 
 In particular, the rise of China in oncology innovation—including immunotherapies, targeted therapies, and antibody-drug conjugates (ADCs)—has created noticeable timing gaps in drug availability across markets.
+
+![NMPA vs FDA drug approval comparison China vs US](/assets/images/nmpa-vs-fda.png)
 
 ---
 
