@@ -10,10 +10,9 @@ tags:
   - GMP
   - Drug Quality
   - Pharmaceutical Supply Chain
-image: /assets/images/branded-medicines-global.png
 ---
 
-## Are Branded Medicines Really the Same Across Markets?
+# Are Branded Medicines Really the Same Across Markets?
 
 Against the backdrop of an increasingly integrated global pharmaceutical supply chain, more international buyers are asking a practical question: when the same branded medicine circulates in different countries, is it truly identical?
 
