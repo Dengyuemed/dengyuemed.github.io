@@ -2,8 +2,8 @@
 layout: default
 title: "Why β₁-Selective Beta-Blockers Remain Important in Cardiovascular Therapy"
 date: 2026-03-30
-categories: [oncology, cardiovascular]
-tags: [beta-blocker, bisoprolol, cardiovascular, hypertension, heart failure]
+categories: [oncology, regulatory]
+tags: [beta-blockers, cardiovascular, bisoprolol, hypertension, heart-failure]
 description: "Explore why β₁-selective beta-blockers like bisoprolol remain essential in cardiovascular therapy, with improved safety and targeted mechanisms."
 ---
 
