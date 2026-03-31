@@ -140,7 +140,7 @@ PD-1/PD-L1 inhibitors represent a paradigm shift in oncology by:
 - Reshaping the tumor microenvironment  
 
 From agents like  
-👉 <a href="https://dengyuemed.com/product/socazolimab-cervical-cancer/" target="_blank">PD-L1 antibody therapies</a> :contentReference[oaicite:3]{index=3}  
+👉 <a href="https://dengyuemed.com/product/anniko-penpulimab-injection-pd-1/" target="_blank">Penpulimab (Anniko)</a> 
 
 to emerging RNA-based approaches, modern oncology is evolving toward more precise and system-level treatment strategies.
 
