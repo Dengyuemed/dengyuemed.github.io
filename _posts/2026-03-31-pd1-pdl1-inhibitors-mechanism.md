@@ -10,7 +10,7 @@ image: /assets/images/pd1-pdl1-mechanism.png
 
 ![PD-1 PD-L1 Mechanism](/assets/images/pd1-pdl1-mechanism.png)
 
-## How Do PD-1/PD-L1 Inhibitors Exert Antitumor Effects?
+# How Do PD-1/PD-L1 Inhibitors Exert Antitumor Effects?
 
 Against the backdrop of increasingly precise and individualized cancer treatment, immunotherapy has emerged as a major breakthrough reshaping the clinical landscape. Among these advances, **PD-1/PD-L1 inhibitors** are now widely used across multiple solid tumors and hematologic malignancies.
 
