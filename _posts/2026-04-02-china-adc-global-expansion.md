@@ -187,9 +187,7 @@ Future expansion areas include:
 
 ## V. Further Reading
 
-For a deeper analysis of ADC targets, pipelines, and approvals:
-
-👉 https://dengyuemed.com/blog/adc-drugs-by-target-in-2026/
+For a deeper analysis of ADC targets, pipelines, and approvals, see our detailed report on [ADC drugs by target in 2026](https://dengyuemed.com/blog/adc-drugs-by-target-in-2026/).
 
 ---
 
