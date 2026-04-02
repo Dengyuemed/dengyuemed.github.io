@@ -2,7 +2,7 @@
 layout: post
 title: "China’s ADC Global Expansion: 44 Deals, $53.2B in Value, and a Shift to Technology Leadership"
 date: 2026-04-02
-categories: [Insights, Oncology, Biotech]
+categories: [oncology]
 tags: [ADC, Antibody Drug Conjugate, China Pharma, Globalization, Biotech Deals]
 description: "An in-depth analysis of China’s ADC global expansion, covering 44 deals worth $53.2B and the shift from asset licensing to platform-level innovation."
 image: /assets/images/china-adc-globalization.png
