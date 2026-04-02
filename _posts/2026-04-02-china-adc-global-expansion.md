@@ -201,6 +201,6 @@ As global collaboration deepens, Chinese biopharma is becoming:
 - A **core innovation contributor**  
 - A **strategic partner in global oncology development**
 
-DengYueMed will continue to track these trends and support the global distribution and accessibility of high-quality innovative therapies.
+[DengYueMed](https://dengyuemed.github.io/) will continue to track these trends and support the global distribution and accessibility of high-quality innovative therapies.
 
 ---
