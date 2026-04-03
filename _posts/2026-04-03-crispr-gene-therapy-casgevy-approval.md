@@ -11,7 +11,7 @@ description: "The approval of Casgevy, the world’s first CRISPR-based therapy,
 
 In recent years, gene therapy technologies have advanced rapidly. Among them, **CRISPR-Cas9 gene editing** has emerged as a next-generation precision medicine tool, transitioning from laboratory research into clinical application. In 2023, a landmark milestone was achieved—the world’s first CRISPR-derived therapy, **Casgevy**, received regulatory approval, officially marking the beginning of the “gene editing therapy era.”
 
-This breakthrough not only reshapes the treatment paradigm for genetic diseases but also opens new possibilities for cancer, rare diseases, and even chronic conditions.
+This breakthrough not only reshapes the treatment paradigm for genetic diseases but also opens new possibilities for [cancer](/oncology.md), [rare diseases](/rare-diseases.md), and even chronic conditions.
 
 ## A Milestone Achievement: First CRISPR Therapy Approved
 
@@ -65,11 +65,11 @@ This advancement has far-reaching implications:
 
 *   Providing universal solutions for genetic disorders
 *   Accelerating the development of personalized medicine
-*   Offering new tools for cancer immunotherapy
+*   Offering new tools for [cancer immunotherapy](/oncology.md)
 
 Looking ahead, CRISPR technology may also be applied to:
 
-*   Engineering immune cells (e.g., optimizing CAR-T therapies)
+*   Engineering immune cells (e.g., optimizing [CAR-T therapies](/rare-diseases/2026/04/01/car-t-2-0-rapid-manufacturing-dual-targeting/))
 *   Treating viral infections such as HIV
 *   Addressing neurological disorders
 
@@ -87,11 +87,11 @@ Despite its promise, CRISPR therapy still faces several practical challenges:
 The success of Casgevy marks CRISPR’s transition from a research tool to a clinical therapeutic platform. Future trends include:
 
 *   📈 More CRISPR-based therapies entering clinical trials
-*   🧬 Integration with cell therapies (e.g., CAR-T, TCR-T)
-*   ⚙️ Technological advancements (e.g., base editing, prime editing)
-*   🌍 Gradual improvement of global regulatory frameworks
+*   🧬 Integration with cell therapies (e.g., [CAR-T, TCR-T](/rare-diseases/2026/03/19/immunotherapy-comparison-car-t-checkpoint-bispecific-vaccine/))
+*   ⚙️ Technological advancements (e.g., [RNA therapy](/rare-diseases/2026/03/28/rna-therapy-global-access-cross-border-supply/))
+*   🌍 Gradual improvement of global [regulatory frameworks](/regulatory.md)
 
-At the same time, the global pharmaceutical supply ecosystem is evolving. Platforms like **Dengyue Pharma** are playing a key role by integrating international medical resources and compliant channels, helping improve patient access to cutting-edge therapies.
+At the same time, the global pharmaceutical supply ecosystem is evolving. Platforms like **Dengyue Pharma** are playing a key role by integrating international medical resources and compliant channels, helping improve patient access to cutting-edge therapies through [cross-border pharmaceutical distribution](/supply-chain/2026/03/28/cross-border-pharmaceutical-distribution-global-healthcare/).
 
 ## Conclusion
 
