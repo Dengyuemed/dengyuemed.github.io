@@ -9,6 +9,8 @@ description: "Anti-angiogenic therapy continues to achieve breakthroughs in mech
 
 # Latest Advances in Anti-Angiogenic Therapy (2025–2026)
 
+![Tumor Immune Evasion Mechanisms](/assets/images/tumor-immune-evasion-mechanisms.png)
+
 As one of the key strategies in modern precision oncology, anti-angiogenic therapy has continued to achieve breakthroughs in recent years in terms of mechanistic innovation, combination treatment models, and the development of novel drugs. With a deeper understanding of the tumor microenvironment and the regulatory networks of angiogenesis, therapeutic strategies centered on inhibiting the Vascular Endothelial Growth Factor (VEGF) pathway are evolving toward greater precision, higher efficacy, and more personalized approaches.
 
 ## I. Novel Drug Delivery Systems Enhance Anti-Angiogenic Efficacy
