@@ -37,7 +37,7 @@ The general process includes:
 
 Specifically, this therapy works by editing regulatory genes to increase the production of **fetal hemoglobin (HbF)**, which can replace defective adult hemoglobin. This reduces red blood cell deformation and vascular blockage.
 
-![CRISPR Delivery Strategies](/assets/images/crispr delivery strategies.png)
+![CRISPR Delivery Strategies](/assets/images/crispr-delivery-strategies.png)
 
 This mechanism introduces a fundamental shift:
 
@@ -75,7 +75,7 @@ Looking ahead, CRISPR technology may also be applied to:
 *   Treating viral infections such as HIV
 *   Addressing neurological disorders
 
-![CRISPR Genome Editing Platforms and Mechanisms](/assets/images/crispr genome editing platforms and mechanisms.png)
+![CRISPR Genome Editing Platforms and Mechanisms](/assets/images/crispr-genome-editing-platforms-and-mechanisms.png)
 
 ## Challenges and Limitations: Barriers to Widespread Adoption
 
