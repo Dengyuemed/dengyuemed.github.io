@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Bispecific ADCs Overcome Antigen Escape: Technical Mechanisms and Insights"
-date: 2026-04-02
+date: 2026-04-07
 categories: [oncology]
 tags: [ADC, Bispecific ADC, Oncology, Antigen Escape, Biotech]
 description: "A deep dive into how bispecific ADCs overcome antigen escape through dual targeting, enhanced internalization, and optimized payload delivery."
