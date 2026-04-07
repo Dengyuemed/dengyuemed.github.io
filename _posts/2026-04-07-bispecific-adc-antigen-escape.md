@@ -8,7 +8,7 @@ description: "A deep dive into how bispecific ADCs overcome antigen escape throu
 image: /assets/images/bispecific-adc.png
 ---
 
-## How Bispecific ADCs Overcome Antigen Escape: Technical Mechanisms and Insights
+# How Bispecific ADCs Overcome Antigen Escape: Technical Mechanisms and Insights
 
 ![Bispecific ADC Mechanism](/assets/images/bispecific-adc.png)
 
