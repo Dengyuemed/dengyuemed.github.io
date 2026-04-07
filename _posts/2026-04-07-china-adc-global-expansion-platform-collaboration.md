@@ -7,7 +7,7 @@ tags: [ADC, China Biopharma, Global Expansion, Antibody Drug Conjugates, Oncolog
 description: "An in-depth analysis of China’s ADC global expansion, covering 44 deals worth $53.2B and the shift from asset licensing to platform-level collaboration."
 image: /assets/images/china-adc-globalization.png
 ---
-
+# China’s ADC Global Expansion: 44 Deals, $53.2B in Value, and a Shift from Asset Out-Licensing to Technology Leadership
 ![China ADC Global Expansion](/assets/images/china-adc-globalization.png)
 
 As a China-based pharmaceutical distributor serving global markets, DengYueMed has been closely tracking a notable industry shift: Chinese antibody-drug conjugates (ADCs) are rapidly expanding into global markets, evolving from asset out-licensing toward technology-driven collaboration.
