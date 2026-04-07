@@ -82,7 +82,7 @@ By optimizing linker chemistry and payload stability, modern bispecific ADCs ach
 Breast cancer represents the most active field for bispecific ADC development. HER2/Trop2 bispecific ADCs demonstrate clear advantages in targeting both high- and low-expression tumor cells.
 
 Early clinical data show that bispecific ADCs can extend progression-free survival (PFS) in HER2-low patients, outperforming single-target ADCs. Detailed analyses of clinical strategies, target selection, and efficacy can be found in  
-[Bispecific ADC Development in Breast Cancer: Emerging Targets and Clinical Progress](https://dengyuemed.com/).
+[Bispecific ADC Development in Breast Cancer: Emerging Targets and Clinical Progress](https://dengyuemed.com/blog/bispecific-adc-development-in-breast-cancer/).
 
 ---
 
@@ -121,4 +121,4 @@ They show considerable potential in breast cancer, hematologic malignancies, and
 Global pharmaceutical distributor DengYueMed continues to support healthcare institutions with access to the latest ADC therapeutics, facilitating clinical research and adoption of innovative treatments.
 
 For a deeper understanding of clinical progress, target selection, and efficacy data for bispecific ADCs in breast cancer, please refer to  
-[Bispecific ADC Development in Breast Cancer: Emerging Targets and Clinical Progress](https://dengyuemed.com/).
+[Bispecific ADC Development in Breast Cancer: Emerging Targets and Clinical Progress](https://dengyuemed.com/blog/bispecific-adc-development-in-breast-cancer/).
