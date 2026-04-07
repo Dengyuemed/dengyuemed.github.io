@@ -76,6 +76,6 @@ Future innovation will likely focus on overcoming resistance mechanisms, develop
 
 ## Learn More
 
-- [Encorafenib Braf Colorectal Cancer](/oncology/2026/03/12/encorafenib-braf-colorectal-cancer/)  
+- [Encorafenib Braf Colorectal Cancer](/oncology/regulatory/2026/03/12/encorafenib-braf-colorectal-cancer/)  
 - [China Adc Global Expansion](/oncology/2026/04/02/china-adc-global-expansion/)  
 - [Semaglutide Nasal Spray Fda Clinical Trial](/regulatory/2026/03/10/semaglutide-nasal-spray-fda-clinical-trial/)
