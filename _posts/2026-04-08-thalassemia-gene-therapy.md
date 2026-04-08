@@ -9,7 +9,7 @@ keywords: "thalassemia gene therapy, TDT treatment, CRISPR thalassemia, gene the
 ---
 
 # Global Access to Thalassemia Gene Therapy in 2026  
-## USA vs Europe vs China
+### USA vs Europe vs China
 
 As gene therapy rapidly transforms the treatment landscape for thalassemia, a critical question is emerging for patients worldwide:
 
@@ -21,17 +21,17 @@ Today, gene therapy is shifting treatment from **disease management → potentia
 
 ---
 
-# 🔬 What Is Thalassemia Gene Therapy?
+## 🔬 What Is Thalassemia Gene Therapy?
 
 Thalassemia gene therapy aims to correct or compensate for defective hemoglobin production using advanced biotechnology.
 
 Two main approaches dominate:
 
-### 1. Gene Addition Therapy
+#### 1. Gene Addition Therapy
 - Introduces a functional copy of the beta-globin gene  
 - Typically uses viral vectors  
 
-### 2. CRISPR Gene Editing
+#### 2. CRISPR Gene Editing
 - Edits patient DNA directly  
 - Reactivates fetal hemoglobin (HbF) production  
 
@@ -41,22 +41,22 @@ Two main approaches dominate:
 
 ---
 
-# 🌍 Where Is Gene Therapy Actually Available?
+## 🌍 Where Is Gene Therapy Actually Available?
 
 While results are promising, **real-world access varies significantly by region**.
 
 ---
 
-# 🇺🇸 United States: Advanced but Extremely Expensive
+## 🇺🇸 United States: Advanced but Extremely Expensive
 
 The United States leads in gene therapy innovation and commercialization.
 
-### ✅ Strengths:
+#### ✅ Strengths:
 - FDA-approved therapies available  
 - Highly advanced treatment centers  
 - Strong biotech ecosystem  
 
-### ❗ Challenges:
+#### ❗ Challenges:
 - Cost often exceeds **$1–2 million per treatment**
 - Limited number of certified hospitals  
 - Complex treatment process (conditioning + reinfusion)
@@ -66,15 +66,15 @@ Access exists—but only for a small number of patients.
 
 ---
 
-# 🇪🇺 Europe: Approved but Uneven Access
+## 🇪🇺 Europe: Approved but Uneven Access
 
 Europe benefits from centralized approval via the EMA.
 
-### ✅ Strengths:
+#### ✅ Strengths:
 - Regulatory clarity  
 - Availability in select countries  
 
-### ❗ Challenges:
+#### ❗ Challenges:
 - Reimbursement varies by country  
 - Budget constraints limit adoption  
 - Access concentrated in Western Europe  
@@ -84,20 +84,20 @@ Approved—but not equally accessible.
 
 ---
 
-# 🇨🇳 China: Fast-Growing and More Accessible Pathways
+## 🇨🇳 China: Fast-Growing and More Accessible Pathways
 
 China is rapidly emerging as a key player in gene therapy development.
 
-### ✅ Strengths:
+#### ✅ Strengths:
 - Highly active clinical trials  
 - Increasing number of hospitals involved  
 - Large patient base accelerating innovation  
 
-### 💡 Opportunities:
+#### 💡 Opportunities:
 - Potential **lower treatment cost in the future**
 - Faster clinical translation  
 
-### ⚠️ Current Limitations:
+#### ⚠️ Current Limitations:
 - Mostly in clinical trial stage  
 - Infrastructure still developing  
 
@@ -106,7 +106,7 @@ Not fully commercialized—but **more accessible via trials**.
 
 ---
 
-# 📊 Comparison: USA vs Europe vs China
+## 📊 Comparison: USA vs Europe vs China
 
 | Factor | USA | Europe | China |
 |------|-----|--------|--------|
@@ -118,28 +118,28 @@ Not fully commercialized—but **more accessible via trials**.
 
 ---
 
-# 💡 Key Factors Affecting Patient Access
+## 💡 Key Factors Affecting Patient Access
 
 Patients should evaluate:
 
-### 1. Regulatory Approval
+#### 1. Regulatory Approval
 Different timelines across regions
 
-### 2. Treatment Infrastructure
+#### 2. Treatment Infrastructure
 Requires specialized gene therapy centers
 
-### 3. Cost & Insurance
+#### 3. Cost & Insurance
 Major barrier globally
 
-### 4. Clinical Trial Availability
+#### 4. Clinical Trial Availability
 Often the most realistic access pathway
 
-### 5. Cross-Border Medical Information
+#### 5. Cross-Border Medical Information
 Critical for informed decision-making
 
 ---
 
-# 🧭 How Patients Can Choose the Right Path
+## 🧭 How Patients Can Choose the Right Path
 
 Instead of focusing only on efficacy, patients should consider:
 
@@ -150,7 +150,7 @@ Instead of focusing only on efficacy, patients should consider:
 
 ---
 
-# 🌐 The Future of Global Access
+## 🌐 The Future of Global Access
 
 While disparities still exist, the gap is narrowing.
 
@@ -161,7 +161,7 @@ In the next few years:
 
 ---
 
-# 📩 About DengYueMed
+## 📩 About DengYueMed
 
 DengYueMed connects global patients with innovative pharmaceutical solutions and treatment pathways in China.
 
