@@ -161,7 +161,7 @@ In the next few years:
 
 ---
 
-## 📩 About DengYueMed
+## 📩 [About DengYueMed](https://dengyuemed.github.io/about/)
 
 DengYueMed connects global patients with innovative pharmaceutical solutions and treatment pathways in China.
 
@@ -170,4 +170,4 @@ We help patients:
 - Explore clinical trial access  
 - Navigate cross-border treatment opportunities  
 
-👉 Contact us to learn more about thalassemia gene therapy access pathways.
+👉 [Contact us to learn more about thalassemia gene therapy access pathways.](https://dengyuemed.github.io/contact/)
