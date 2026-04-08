@@ -2,7 +2,7 @@
 layout: post
 title: "Global Access to Thalassemia Gene Therapy in 2026: USA vs Europe vs China"
 date: 2026-04-08
-categories: [Rare-Diseases]
+categories: [rare-diseases]
 tags: [Thalassemia, Gene Therapy, CRISPR, TDT, Global Healthcare]
 description: "Where can patients access thalassemia gene therapy? Compare the United States, Europe, and China in terms of cost, availability, and clinical access."
 keywords: "thalassemia gene therapy, TDT treatment, CRISPR thalassemia, gene therapy cost USA Europe China"
