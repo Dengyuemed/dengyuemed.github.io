@@ -6,7 +6,7 @@ categories: [Industry Insights]
 tags: [Pharmaceutical Market, Obesity Drugs, Oncology, GLP-1, ADC, Biotech]
 ---
 
-![Global Pharmaceutical Market Outlook](../images/global-obesity-drug-market-2026.png)
+![Global Pharmaceutical Market Outlook](/assets/images/global-obesity-drug-market-2026.png)
 
 # Global Pharmaceutical Market Outlook 2026: How Obesity and Oncology Drugs Are Driving the Next Growth Breakthrough
 
