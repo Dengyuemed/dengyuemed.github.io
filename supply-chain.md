@@ -19,7 +19,7 @@ Analysis of global API ecosystems, biologics manufacturing expansion, capacity i
 
 {% if posts.size > 0 %}
 
-{% for post in posts limit:6 %}
+{% for post in posts limit:20 %}
 
 ## [{{ post.title }}]({{ post.url }})
 
