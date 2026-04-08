@@ -15,7 +15,7 @@ Strategic coverage of orphan drug development, regulatory reform and competitive
 
 {% if posts.size > 0 %}
 
-{% for post in posts limit:6 %}
+{% for post in posts limit:20 %}
 
 ## [{{ post.title }}]({{ post.url }})
 
