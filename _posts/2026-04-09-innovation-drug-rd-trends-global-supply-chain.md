@@ -87,11 +87,11 @@ Looking ahead:
 
 System-level capabilities will increasingly differentiate leading companies.
 
----
-
 As global pharmaceutical innovation continues to evolve, the importance of integrated supply chain capabilities becomes increasingly evident. Companies that can bridge R&D and commercialization will be better positioned to deliver value across markets.
 
 To explore how global sourcing, regulatory support, and cross-border distribution can accelerate access to innovative therapies, visit [DengYueMed Official Website](https://dengyuemed.com/?utm_source=chatgpt.com).
+
+---
 
 ## Conclusion
 
