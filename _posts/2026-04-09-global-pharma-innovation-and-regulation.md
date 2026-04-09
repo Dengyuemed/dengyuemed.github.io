@@ -3,8 +3,8 @@ title: "Global Pharmaceutical Innovation and Regulatory Dynamics in 2026: Breakt
 author: ""
 date: 2026-04-09 00:00:00 +0800
 categories:
-  - Oncology
-  - Regulatory
+  - oncology
+  - regulatory
   - rare-diseases
 ---
 
