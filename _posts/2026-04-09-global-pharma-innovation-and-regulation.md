@@ -1,16 +1,16 @@
 ---
 title: "Global Pharmaceutical Innovation and Regulatory Dynamics in 2026: Breakthroughs in Oncology and Rare Diseases"
-author: "Manus AI"
+author: ""
 date: 2026-04-09 00:00:00 +0800
 categories:
   - Oncology
   - Regulatory
-  - Rare Diseases
+  - rare-diseases
 ---
 
 # Global Pharmaceutical Innovation and Regulatory Dynamics in 2026: Breakthroughs in Oncology and Rare Diseases
 
-**Author: Manus AI**
+
 
 ## Introduction
 
@@ -50,13 +50,13 @@ In 2026, global innovative drug R&D has achieved remarkable success in oncology 
 
 ## References
 
-[1] Gilead to Acquire Tubulis Adding Potentially Best in Class ... - Gilead.com
-[2] Gilead continues M&A surge with $3.1B deal for ADC ... - Biopharma Dive
-[3] Celltrion secures back-to-back FDA fast-track nods for ADC ... - biz.chosun.com
-[4] Global Pharmaceutical Market Outlook 2026: How Obesity and Oncology Drugs Are Driving the Next Growth Breakthrough - DengYueMed.github.io
-[5] Novel Drug Approvals for 2026 | FDA - FDA.gov
-[6] 国家药监局：助力创新药“中国首发” - NMPA.gov.cn
-[7] 2025 NMPA Approvals: China Clears Record Number of New Drugs - globalforum.diaglobal.org
-[8] FDA Approvals in Oncology: January-March 2026 | Blog - AACR.org
-[9] Navigating China\'s New 2026 Implementing Regulations of ... - Morganlewis.com
-[10] China Announces the Implementing Regulation of the Drug ... - Ropesgray.com
+1. [Gilead to Acquire Tubulis Adding Potentially Best in Class ...](https://www.gilead.com/news/news-details/2026/gilead-to-acquire-tubulis-adding-potentially-best-in-class-antibody-drug-conjugate-and-next-generation-platform-to-further-strengthen-oncology-pipeline)
+2. [Gilead continues M&A surge with $3.1B deal for ADC ...](https://www.biopharmadive.com/news/gilead-tubulis-acquire-deal-adc-cancer/816823/)
+3. [Celltrion secures back-to-back FDA fast-track nods for ADC ...](https://biz.chosun.com/en/en-science/2026/04/09/OBL3TYOFAJDWPMCE25OD5R5DBI/)
+4. [Global Pharmaceutical Market Outlook 2026: How Obesity and Oncology Drugs Are Driving the Next Growth Breakthrough](https://dengyuemed.github.io/industry%20insights/2026/04/08/global-pharma-market-outlook-2026/)
+5. [Novel Drug Approvals for 2026 | FDA](https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026)
+6. [国家药监局：助力创新药“中国首发”](https://www.nmpa.gov.cn/yaowen/ypjgyw/zhyw/20260108085003119.html?type=pc&m=)
+7. [2025 NMPA Approvals: China Clears Record Number of New Drugs](https://globalforum.diaglobal.org/issue/march-2026/2025-nmpa-approvals-china-clears-record-number-of-new-drugs/)
+8. [FDA Approvals in Oncology: January-March 2026 | Blog](https://www.aacr.org/blog/2026/04/01/fda-approvals-in-oncology-january-march-2026/)
+9. [Navigating China's New 2026 Implementing Regulations of ...](https://www.morganlewis.com/pubs/2026/02/navigating-chinas-new-2026-implementing-regulations-of-the-drug-administration-law)
+10. [China Announces the Implementing Regulation of the Drug ...](https://www.ropesgray.com/en/insights/alerts/2026/01/china-announces-the-implementing-regulation-of-the-drug-administration-law)
