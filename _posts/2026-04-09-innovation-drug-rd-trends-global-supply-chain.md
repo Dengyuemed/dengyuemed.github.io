@@ -72,7 +72,7 @@ At the same time, industrial chain coordination is becoming critical:
 - Manufacturing ensures quality and cost control  
 - Distribution defines accessibility  
 
-Platforms like DengYueMed play a key role in connecting global pharmaceutical resources and enabling cross-border access.
+Platforms like [DengYueMed](https://dengyuemed.com/) play a key role in connecting global pharmaceutical resources and enabling cross-border access. Through integrated services such as import/export, clinical supply, and regulatory support, companies can accelerate the delivery of innovative therapies worldwide (learn more about [Pharmaceutical Wholesaler Services](https://dengyuemed.com/pharmaceutical-wholesaler/?utm_source=chatgpt.com)).
 
 ---
 
@@ -89,6 +89,10 @@ System-level capabilities will increasingly differentiate leading companies.
 
 ---
 
+As global pharmaceutical innovation continues to evolve, the importance of integrated supply chain capabilities becomes increasingly evident. Companies that can bridge R&D and commercialization will be better positioned to deliver value across markets.
+
+To explore how global sourcing, regulatory support, and cross-border distribution can accelerate access to innovative therapies, visit [DengYueMed Official Website](https://dengyuemed.com/?utm_source=chatgpt.com).
+
 ## Conclusion
 
 The evolution of innovative drug technology reflects a broader industry transition toward high-quality development.
@@ -102,3 +106,14 @@ Companies that successfully integrate:
 will lead the next phase of pharmaceutical growth.
 
 As the industry continues to mature, innovation will become more structured, efficient, and globally interconnected.
+
+---
+
+## 🌐 About DengYueMed
+
+DengYueMed is a Hong Kong-based pharmaceutical distributor specializing in global drug import and export, clinical supply, and innovative therapy access.
+
+Learn more about our capabilities here:  
+👉 [About DengYueMed](https://dengyuemed.com/about-us/?utm_source=chatgpt.com)  
+
+📩 Contact us to explore partnership opportunities, clinical supply solutions, and global drug access pathways.
