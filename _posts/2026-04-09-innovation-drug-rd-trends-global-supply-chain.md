@@ -6,7 +6,7 @@ categories: [supply-chain]
 tags: [Drug Innovation, R&D Strategy, ADC, Biotech, Global Pharma, Platform Innovation]
 ---
 
-![Innovation Drug Technology and R&D Trends](/assets/images/global-obesity-drug-market-2026.png)
+![Innovation Drug Technology and R&D Trends](/assets/images/innovation-drug-rd-trends-2026.png)
 
 # Innovation Drug Technology and R&D Trends  
 ## From Platform-Based Innovation to Global Supply Chain Synergy
