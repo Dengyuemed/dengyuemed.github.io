@@ -2,7 +2,7 @@
 layout: post
 title: "Global Pharmaceutical Market Outlook 2026: How Obesity and Oncology Drugs Are Driving the Next Growth Breakthrough"
 date: 2026-04-08
-categories: [Industry Insights]
+categories: [supply-chain]
 tags: [Pharmaceutical Market, Obesity Drugs, Oncology, GLP-1, ADC, Biotech]
 ---
 
