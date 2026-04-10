@@ -2,13 +2,18 @@
 layout: post
 title: "2026 Global Innovative Drug R&D and Regulatory Dynamics: ADC and Gene Therapies Lead a New Era"
 date: 2026-04-10
-categories: innovation, regulatory, oncology, rare-diseases
+categories:  
+  - regulatory
+  - oncology
+  - rare-diseases
 description: "In 2026, global innovative drug R&D continues to accelerate, with Antibody-Drug Conjugates (ADCs) and gene therapies taking center stage. This article deeply analyzes the latest approval dynamics from the FDA and NMPA, and explores how these cutting-edge technologies are reshaping the landscape of oncology and rare disease treatments."
 keywords: Global Innovative Drugs, ADC, Gene Therapy, FDA Approval, NMPA Approval, Oncology, Rare Diseases, Pharmaceutical Regulation
 image: /assets/images/innovation-regulatory-2026.png
 ---
 
 # 2026 Global Innovative Drug R&D and Regulatory Dynamics: ADC and Gene Therapies Lead a New Era
+
+![Innovation Regulatory 2026](/assets/images/innovation-regulatory-2026.png)
 
 ## Introduction
 
