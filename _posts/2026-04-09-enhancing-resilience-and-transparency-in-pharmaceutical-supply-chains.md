@@ -99,6 +99,6 @@ The pharmaceutical supply chain landscape in 2026 demands a paradigm shift from 
 
 ## Learn More
 
-- [When Patients Cant Find Their Medicine](/oncology/2026/02/28/when-patients-cant-find-their-medicine/)
+- [When Patients Cant Find Their Medicine](/supply-chain/2026/02/28/when-patients-cant-find-their-medicine/)
 - [Cg 0255 Antiplatelet Drug Clinical Development China](/oncology/2026/03/25/cg-0255-antiplatelet-drug-clinical-development-china/)
 - [Immunotherapy Comparison Car T Checkpoint Bispecific Vaccine](/oncology/2026/03/19/immunotherapy-comparison-car-t-checkpoint-bispecific-vaccine/)
