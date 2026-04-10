@@ -21,15 +21,15 @@ In 2026, a surging wave of global pharmaceutical innovation, centered on advance
 
 ## Breakthrough Advances in Antibody-Drug Conjugates (ADCs)
 
-ADC drugs achieve precise targeting of cancer cells by conjugating highly potent cytotoxic drugs with specific antibodies, thereby reducing toxicity to normal tissues. In 2026, the ADC field continues to witness new breakthroughs. For instance, Gilead's acquisition of Tubulis, with a particular focus on its **TUB-030 (5T4 targeted ADC)**, has shown promising early clinical data across various solid tumor types, signaling the further maturation and expanded application of next-generation ADC platform technologies [1].
+ADC drugs achieve precise targeting of cancer cells by conjugating highly potent cytotoxic drugs with specific antibodies, thereby reducing toxicity to normal tissues. In 2026, the ADC field continues to witness new breakthroughs. For instance, Gilead's acquisition of Tubulis, with a particular focus on its **TUB-030 (5T4 targeted ADC)**, has shown promising early clinical data across various solid tumor types, signaling the further maturation and expanded application of next-generation ADC platform technologies.
 
-ADC technology is evolving from single-target to multi-target approaches, and from traditional conjugation methods to novel conjugation techniques, aiming to improve drug stability, homogeneity, and therapeutic window. These innovations not only enhance the efficacy of ADC drugs but also provide new strategies for overcoming tumor resistance and expanding indications. In oncology, ADC drugs have become a crucial pillar following traditional chemotherapy, targeted therapy, and immunotherapy, achieving significant progress particularly in breast cancer, lung cancer, and gastric cancer [2].
+ADC technology is evolving from single-target to multi-target approaches, and from traditional conjugation methods to novel conjugation techniques, aiming to improve drug stability, homogeneity, and therapeutic window. These innovations not only enhance the efficacy of ADC drugs but also provide new strategies for overcoming tumor resistance and expanding indications. In oncology, ADC drugs have become a crucial pillar following traditional chemotherapy, targeted therapy, and immunotherapy, achieving significant progress particularly in breast cancer, lung cancer, and gastric cancer.
 
 ## Gene Therapy: An Accelerated Journey from Lab to Clinic
 
-Gene therapy, especially therapies based on CRISPR gene editing technology, reached a landmark clinical application in 2026. The **approval of Casgevy** marked the official dawn of the gene editing treatment era, offering hope for a cure to patients with genetic disorders such as sickle cell disease and β-thalassemia [3].
+Gene therapy, especially therapies based on CRISPR gene editing technology, reached a landmark clinical application in 2026. The **approval of Casgevy** marked the official dawn of the gene editing treatment era, offering hope for a cure to patients with genetic disorders such as sickle cell disease and β-thalassemia.
 
-Beyond CRISPR technology, adeno-associated virus (AAV)-mediated gene therapies continue to make strides in the rare disease sector. These therapies fundamentally treat diseases by delivering normal genes to correct defective ones. The FDA approved several gene therapies in Q1 2026, including innovative drugs for rare diseases, such as **Avlayah (tividenofusp alfa-eknm)** for Hunter syndrome (MPS II) [4].
+Beyond CRISPR technology, adeno-associated virus (AAV)-mediated gene therapies continue to make strides in the rare disease sector. These therapies fundamentally treat diseases by delivering normal genes to correct defective ones. The FDA approved several gene therapies in Q1 2026, including innovative drugs for rare diseases, such as **Avlayah (tividenofusp alfa-eknm)** for Hunter syndrome (MPS II).
 
 Gene therapy R&D not only focuses on technological innovation itself but also increasingly emphasizes clinical trial design, optimization of manufacturing processes, and drug accessibility. As more gene therapies enter late-stage clinical development and gain approval, ensuring equitable access to these high-value drugs will become a significant challenge for global healthcare systems.
 
@@ -37,7 +37,7 @@ Gene therapy R&D not only focuses on technological innovation itself but also in
 
 ### FDA Novel Drug Approvals in Q1 2026
 
-The FDA maintained an active stance on approving innovative drugs in Q1 2026, particularly in oncology, rare diseases, and metabolic disorders. The following table highlights some notable new drug approvals [4]:
+The FDA maintained an active stance on approving innovative drugs in Q1 2026, particularly in oncology, rare diseases, and metabolic disorders. The following table highlights some notable new drug approvals:
 
 | No. | Drug Name (Brand Name) | Active Ingredient | Approval Date | FDA-Approved Use |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ These approvals reflect the FDA's commitment to addressing unmet clinical needs 
 
 ### NMPA Innovative Drug Approvals in Q1 2026
 
-China's National Medical Products Administration (NMPA) also demonstrated strong support for innovative drugs in Q1 2026, with a particular focus on domestic innovation. As of March 27, the NMPA approved 10 innovative drugs for market, 8 of which are original Chinese drugs, covering various therapeutic areas including oncology, autoimmune diseases, and rare diseases [5].
+China's National Medical Products Administration (NMPA) also demonstrated strong support for innovative drugs in Q1 2026, with a particular focus on domestic innovation. As of March 27, the NMPA approved 10 innovative drugs for market, 8 of which are original Chinese drugs, covering various therapeutic areas including oncology, autoimmune diseases, and rare diseases.
 
 | Drug Name | Approval Date | Key Features/Indications |
 |---|---|---|
@@ -64,7 +64,7 @@ China's National Medical Products Administration (NMPA) also demonstrated strong
 | Technetium [Tc] Pexiretide Peptide Injection | 2026-04-02 | Radiodiagnostic agent |
 | Noradrenaline Hydrochloride Injection | 2026-04-02 | |
 
-Through improving the conditional approval system for drugs and strengthening communication and guidance with enterprises, the NMPA actively supports the "China First Launch" of innovative drugs [6]. Furthermore, local governments, such as Beijing, have introduced policies to support the high-quality development of innovative medicine, providing strong guarantees for the R&D, review, approval, and clinical application of innovative drugs [7]. The optimization of these policy environments will further stimulate China's pharmaceutical innovation vitality and promote more innovative drugs to benefit patients.
+Through improving the conditional approval system for drugs and strengthening communication and guidance with enterprises, the NMPA actively supports the "China First Launch" of innovative drugs. Furthermore, local governments, such as Beijing, have introduced policies to support the high-quality development of innovative medicine, providing strong guarantees for the R&D, review, approval, and clinical application of innovative drugs. The optimization of these policy environments will further stimulate China's pharmaceutical innovation vitality and promote more innovative drugs to benefit patients.
 
 ## Conclusion
 
