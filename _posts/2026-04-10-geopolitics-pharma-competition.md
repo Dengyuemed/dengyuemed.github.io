@@ -85,7 +85,7 @@ Amid these changes, pharmaceutical distribution is becoming a critical strategic
 
 👉 From “logistics providers” to “global resource allocators.”
 
-Platforms like [DengYueMed](https://dengyuemed.com/) are increasingly important in bridging innovation and market access.
+Platforms like [DengYueMed global pharmaceutical platform](https://dengyuemed.com/) are increasingly important in bridging innovation and market access.
 
 ### 1. Bridging Fragmented Markets
 - Cross-border distribution networks  
@@ -108,7 +108,7 @@ Platforms like [DengYueMed](https://dengyuemed.com/) are increasingly important 
 - Global expansion strategy  
 
 Learn more about global distribution solutions:  
-👉 https://dengyuemed.com/pharmaceutical-wholesaler/
+👉 [Pharmaceutical Wholesaler Services](https://dengyuemed.com/pharmaceutical-wholesaler/)
 
 ---
 
@@ -140,6 +140,6 @@ The global pharmaceutical landscape is being reshaped at a structural level.
 
 DengYueMed is a global pharmaceutical distribution platform specializing in cross-border drug supply, regulatory support, and market access solutions.
 
-👉 https://dengyuemed.com/about-us/  
+👉 [About DengYueMed](https://dengyuemed.com/about-us/)  
 
 📩 Contact us to explore global sourcing and distribution partnerships.
