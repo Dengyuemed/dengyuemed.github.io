@@ -2,7 +2,7 @@
 layout: post
 title: "Global Liver Cancer Drug Market Size and Outlook 2026: Innovation Driving a New Growth Cycle"
 date: 2026-04-11
-categories: [Oncology]
+categories: [oncology]
 tags: [Liver Cancer, HCC, Oncology Market, Immunotherapy, Targeted Therapy, ADC, Global Pharma]
 ---
 
