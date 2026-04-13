@@ -5,7 +5,6 @@ date: 2026-04-13
 categories:
   - supply-chain
 tags: [pharma, cold-chain, global-access, logistics]
-image: /assets/images/global-supply-network.jpg
 description: "How global pharmaceutical supply networks are enabling innovation, compliance, and patient access in the era of advanced therapies."
 ---
 
@@ -50,7 +49,7 @@ With the development of innovative therapies such as monoclonal antibodies and c
 
 More than 60% of biologics require strict temperature control (2–8°C), increasing logistics complexity.
 
-![Cold Chain Storage](/assets/images/cold-chain.jpg)
+![Cold Chain Storage](/assets/images/cold-chain.png)
 
 👉 Platforms like [DengYue Medicine](https://dengyuemed.com/) emphasize **temperature-controlled transport and GDP-compliant logistics systems** to ensure drug stability.
 
