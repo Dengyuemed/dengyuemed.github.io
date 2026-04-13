@@ -8,7 +8,7 @@ tags: [pharma, cold-chain, global-access, logistics]
 description: "How global pharmaceutical supply networks are enabling innovation, compliance, and patient access in the era of advanced therapies."
 ---
 
-## Global Pharmaceutical Supply Network: A Core Engine Driving Medical Innovation and Accessibility
+# Global Pharmaceutical Supply Network: A Core Engine Driving Medical Innovation and Accessibility
 
 Against the backdrop of continuous upgrades in the global pharmaceutical industry, the **global pharmaceutical supply network** is becoming a critical hub connecting innovative drug R&D, manufacturing, and patient accessibility.
 
