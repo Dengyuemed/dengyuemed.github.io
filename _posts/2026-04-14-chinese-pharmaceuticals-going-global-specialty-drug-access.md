@@ -8,7 +8,7 @@ tags: [china pharma, global access, specialty drugs, cold-chain, cross-border]
 description: "How Chinese-listed pharmaceuticals are expanding globally and improving international access to specialty drugs through supply chain innovation."
 ---
 
-## Chinese-Listed Pharmaceuticals Going Global: New Trends in the International Accessibility of Specialty Drugs
+# Chinese-Listed Pharmaceuticals Going Global: New Trends in the International Accessibility of Specialty Drugs
 
 Against the backdrop of growing global healthcare demand, **Chinese-listed pharmaceuticals going global** and the **international accessibility of specialty drugs** are becoming key industry themes.
 
