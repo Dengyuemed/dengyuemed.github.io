@@ -10,7 +10,7 @@ image: /assets/images/china-innovative-drug-weekly.png
 description: "Weekly update on China’s innovative drug landscape covering RNA therapies, ADC, CAR-T, GLP-1 and global expansion trends."
 ---
 
-## China Innovative Drug Weekly: RNA, ADC, CAR-T and GLP-1 Drive Global Expansion
+# China Innovative Drug Weekly: RNA, ADC, CAR-T and GLP-1 Drive Global Expansion
 
 ![China Innovative Drug Weekly](/assets/images/china-innovative-drug-weekly.png)
 
