@@ -125,7 +125,11 @@ It is not only a technological breakthrough, but also a transformation in how we
 
 ## Related Posts
 
-- [Global Pharmaceutical Supply Network: A Core Engine Driving Medical Innovation and Accessibility](https://dengyuemed.github.io/supply-chain/global-pharmaceutical-supply-network/)
-- [Chinese-Listed Pharmaceuticals Going Global: Specialty Drug Accessibility Trends](https://dengyuemed.github.io/supply-chain/chinese-pharmaceuticals-going-global-specialty-drug-access/)
-- [China Innovative Drug Weekly: RNA, ADC, CAR-T and GLP-1 Drive Global Expansion](https://dengyuemed.github.io/oncology/china-innovative-drug-weekly-rna-adc-cart-glp1-global-expansion/)
-- [Emerging Trends in Rare Disease Innovation and Gene Therapy](https://dengyuemed.github.io/rare-diseases/)
+<ul>
+{% assign related_posts = site.posts | where_exp: "post", "post.categories contains 'oncology' or post.tags contains 'gene therapy'" %}
+{% for post in related_posts limit:4 %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>
