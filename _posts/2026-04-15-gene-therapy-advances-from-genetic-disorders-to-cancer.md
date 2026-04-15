@@ -126,10 +126,15 @@ It is not only a technological breakthrough, but also a transformation in how we
 ## Related Posts
 
 <ul>
-{% assign related_posts = site.posts | where_exp: "post", "post.categories contains 'oncology' or post.tags contains 'gene therapy'" %}
-{% for post in related_posts limit:4 %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
+{% assign count = 0 %}
+{% for post in site.posts %}
+  {% if post.categories contains "oncology" or post.tags contains "gene therapy" %}
+    {% if count < 4 %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+      {% assign count = count | plus: 1 %}
+    {% endif %}
+  {% endif %}
 {% endfor %}
 </ul>
