@@ -35,7 +35,7 @@ header_pages:
   - about.md
   - contact.md
 
-# ===== Plugins (GitHub Pages Compatible) =====
+# ===== Plugins =====
 
 plugins:
   - jekyll-remote-theme
@@ -43,14 +43,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-# ===== Pagination (Homepage Only) =====
+# ===== Pagination =====
 
 paginate: 6
 paginate_path: "/page/:num/"
-
-# ⚠️ 注意：
-# GitHub Pages 只支持首页分页
-# 分类页无法自动分页（除非自建插件）
 
 # ===== SEO / Social =====
 
@@ -62,7 +58,16 @@ social:
   links:
     - https://dengyuemed.github.io
 
-# ===== URL Structure (Professional Media Format) =====
+# ✅ SEO增强（新增）
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: DengYueMed
+
+# ===== URL Structure（保留你当前结构） =====
 
 collections:
   posts:
@@ -83,3 +88,15 @@ kramdown:
 sitemap:
   changefreq: weekly
   priority: 0.7
+
+# ===== Performance（新增） =====
+
+exclude:
+  - README.md
+  - node_modules
+  - vendor
+
+# ===== Future-proof SEO（新增） =====
+
+future: true
+show_drafts: false
