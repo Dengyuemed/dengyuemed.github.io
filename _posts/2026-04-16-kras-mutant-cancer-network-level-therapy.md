@@ -9,11 +9,9 @@ description: "Explore how KRAS-mutant cancer therapy is evolving from single-tar
 permalink: /oncology/2026/04/16/kras-mutant-cancer-network-therapy/
 ---
 
-![KRAS signaling pathway](/assets/images/kras-pathway.png)
-
 ## Introduction
 
-Over the past two decades, precision medicine has transformed oncology from an empirical discipline into a molecularly driven field. The strategy of identifying and targeting key mutations has long been central to cancer therapy.
+Over the past two decades, precision medicine has transformed oncology from an empirical discipline into a molecularly driven field. The strategy of identifying and targeting key mutations has long been central to [cancer therapy](https://dengyuemed.github.io/oncology/).
 
 However, this model is now facing clear limitations in complex malignancies, where targeting a single mutation does not always translate into durable clinical benefit.
 
