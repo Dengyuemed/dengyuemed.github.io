@@ -8,7 +8,6 @@ nav_exclude: true
 <style>
 
 /* ===== Layout ===== */
-
 .main-content {
 max-width:1100px;
 margin:0 auto;
@@ -16,7 +15,6 @@ padding:50px 20px 90px 20px;
 }
 
 /* ===== Hero ===== */
-
 .home-title{
 font-size:38px;
 font-weight:700;
@@ -50,7 +48,6 @@ margin-bottom:35px;
 }
 
 /* ===== Section ===== */
-
 .section-title{
 font-size:21px;
 font-weight:600;
@@ -64,7 +61,6 @@ border-top:1px solid #ececec;
 }
 
 /* ===== Grid ===== */
-
 .section-grid{
 display:grid;
 grid-template-columns:repeat(2,1fr);
@@ -78,12 +74,10 @@ grid-template-columns:1fr;
 }
 
 /* ===== Cards ===== */
-
 .card{
 border:1px solid #eaeaea;
 padding:26px;
 border-radius:18px;
-transition:0.25s ease;
 background:#fff;
 }
 
@@ -100,13 +94,7 @@ font-size:20px;
 color:#888;
 }
 
-.read-link{
-font-weight:600;
-font-size:14px;
-}
-
-/* ===== Latest Insights ===== */
-
+/* ===== Latest ===== */
 .latest-grid{
 display:grid;
 grid-template-columns:repeat(3,1fr);
@@ -126,55 +114,13 @@ border-radius:14px;
 background:#fff;
 }
 
-.latest-item a{
-font-weight:600;
-}
-
 .latest-date{
 font-size:12px;
 color:#999;
 margin-top:6px;
 }
 
-/* ===== Intelligence Modules ===== */
-
-.intel-grid{
-display:grid;
-grid-template-columns:repeat(3,1fr);
-gap:30px;
-}
-
-@media(max-width:900px){
-.intel-grid{
-grid-template-columns:1fr;
-}
-}
-
-.intel-card{
-border:1px solid #eaeaea;
-padding:22px;
-border-radius:14px;
-background:#fff;
-}
-
-.intel-card h3{
-margin-top:0;
-font-size:18px;
-margin-bottom:12px;
-}
-
-.intel-card ul{
-padding-left:18px;
-margin-bottom:10px;
-}
-
-.intel-card li{
-margin-bottom:8px;
-font-size:14px;
-}
-
 /* ===== Lists ===== */
-
 .simple-list{
 padding-left:18px;
 }
@@ -184,14 +130,6 @@ margin-bottom:10px;
 font-size:14px;
 }
 
-/* ===== Footer ===== */
-
-.home-footer{
-font-size:13px;
-color:#999;
-margin-top:40px;
-}
-
 </style>
 
 <!-- ===== Hero ===== -->
@@ -199,239 +137,138 @@ margin-top:40px;
 <h1 class="home-title">DengYueMed</h1>
 
 <p class="home-subtitle">
-Independent Intelligence on Global Oncology & Rare Disease Markets
-</p>
-
-<p class="home-tagline">
-Policy · Innovation · Market Access · Competitive Strategy
-</p>
-
-<p class="hero-meta">
-Focused coverage across FDA · EMA · NMPA · Global Biopharma Markets
+Global Pharmaceutical Intelligence Platform
 </p>
 
 <p class="home-intro">
-DengYueMed is an independent pharmaceutical intelligence platform delivering insights on drug innovation, pharmaceutical markets, and global regulatory policy. The platform covers oncology, rare diseases, regulatory developments, and pharmaceutical supply chains across major global markets including the United States, Europe, and China.
+Insights on oncology, rare diseases, regulatory strategy and global drug markets.
 </p>
 
 <hr class="section-divider">
 
-<!-- ===== Featured Research ===== -->
+<!-- ===== Featured ===== -->
 
-{% assign featured_posts = site.posts | where:"featured",true | sort:"date" | reverse %}
+{% assign featured_posts = "" | split: "" %}
+{% for post in site.posts %}
+  {% if post.featured == true %}
+    {% assign featured_posts = featured_posts | push: post %}
+  {% endif %}
+{% endfor %}
 
 {% if featured_posts.size > 0 %}
 
 <h2 class="section-title">Featured Research</h2>
 
 <div class="latest-grid">
-
 {% for post in featured_posts limit:3 %}
-
 <div class="latest-item">
-
 <a href="{{ post.url }}">{{ post.title }}</a>
-
-<div class="latest-date">
-{{ post.date | date:"%B %d, %Y" }}
+<div class="latest-date">{{ post.date | date:"%B %d, %Y" }}</div>
 </div>
-
-</div>
-
 {% endfor %}
-
 </div>
 
 <hr class="section-divider">
 
 {% endif %}
 
-<!-- ===== Lead Analysis ===== -->
-
-{% assign featured = site.posts | sort:"date" | reverse | first %}
-
-{% if featured %}
-
-<h2 class="section-title">Lead Analysis</h2>
-
-<div class="card">
-
-<h3>
-<a href="{{ featured.url }}">{{ featured.title }}</a>
-</h3>
-
-<p><small>{{ featured.date | date:"%B %d, %Y" }}</small></p>
-
-<p>{{ featured.description | default: featured.excerpt }}</p>
-
-<p>
-<a href="{{ featured.url }}" class="read-link">
-Read Full Analysis →
-</a>
-</p>
-
-</div>
-
-<hr class="section-divider">
-
-{% endif %}
-
-<!-- ===== Latest Insights ===== -->
+<!-- ===== Latest ===== -->
 
 <h2 class="section-title">Latest Insights</h2>
 
-<div class="latest-grid">
-
 {% assign latest = site.posts | sort:"date" | reverse %}
 
+<div class="latest-grid">
 {% for post in latest limit:6 %}
-
 <div class="latest-item">
-
 <a href="{{ post.url }}">{{ post.title }}</a>
-
-<div class="latest-date">
-{{ post.date | date:"%B %d, %Y" }}
+<div class="latest-date">{{ post.date | date:"%B %d, %Y" }}</div>
 </div>
-
-</div>
-
 {% endfor %}
-
 </div>
 
 <hr class="section-divider">
 
-<!-- ===== Industry Intelligence ===== -->
+<!-- ===== Recommended（新增） ===== -->
 
-<h2 class="section-title">Industry Intelligence</h2>
+<h2 class="section-title">Recommended for You</h2>
 
-<div class="intel-grid">
-
-<div class="intel-card">
-<h3>Drug Intelligence</h3>
-<ul>
-<li><a href="/oncology/">Oncology Drug Innovation</a></li>
-<li><a href="/rare-diseases/">Rare Disease Therapies</a></li>
-<li><a href="/oncology/">Cell & Gene Therapy Trends</a></li>
-</ul>
+<div class="latest-grid">
+{% assign rec = site.posts | sample:6 %}
+{% for post in rec %}
+<div class="latest-item">
+<a href="{{ post.url }}">{{ post.title }}</a>
+<div class="latest-date">{{ post.date | date:"%B %d, %Y" }}</div>
 </div>
-
-<div class="intel-card">
-<h3>Market Intelligence</h3>
-<ul>
-<li><a href="/supply-chain/">Pharmaceutical Supply Chains</a></li>
-<li><a href="/supply-chain/">Global Drug Distribution</a></li>
-<li><a href="/oncology/">Biopharma Market Trends</a></li>
-</ul>
-</div>
-
-<div class="intel-card">
-<h3>Policy Intelligence</h3>
-<ul>
-<li><a href="/regulatory/">FDA Approvals</a></li>
-<li><a href="/regulatory/">NMPA Drug Regulation</a></li>
-<li><a href="/regulatory/">Global Market Access Policy</a></li>
-</ul>
-</div>
-
+{% endfor %}
 </div>
 
 <hr class="section-divider">
 
-<!-- ===== Core Sections ===== -->
+<!-- ===== 分类推荐（已修复 where_exp） ===== -->
+
+{% assign oncology = "" | split: "" %}
+{% assign rare = "" | split: "" %}
+{% assign regulatory = "" | split: "" %}
+{% assign supply = "" | split: "" %}
+
+{% for post in site.posts %}
+  {% if post.categories contains "oncology" %}
+    {% assign oncology = oncology | push: post %}
+  {% endif %}
+  {% if post.categories contains "rare-diseases" %}
+    {% assign rare = rare | push: post %}
+  {% endif %}
+  {% if post.categories contains "regulatory" %}
+    {% assign regulatory = regulatory | push: post %}
+  {% endif %}
+  {% if post.categories contains "supply-chain" %}
+    {% assign supply = supply | push: post %}
+  {% endif %}
+{% endfor %}
 
 <div class="section-grid">
 
 <div>
-<h2 class="section-title">Rare Diseases</h2>
-
-{% assign rare = site.posts | where_exp:"post","post.categories contains 'rare-diseases'" | sort:"date" | reverse %}
-
+<h2 class="section-title">Oncology</h2>
 <ul class="simple-list">
-{% for post in rare limit:3 %}
-<li>
-<a href="{{ post.url }}">{{ post.title }}</a><br>
-<small>{{ post.date | date:"%B %d, %Y" }}</small>
-</li>
+{% for post in oncology limit:3 %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
-
-<p><a href="/rare-diseases/" class="read-link">View All →</a></p>
-
 </div>
 
 <div>
-<h2 class="section-title">Oncology</h2>
-
-{% assign oncology = site.posts | where_exp:"post","post.categories contains 'oncology'" | sort:"date" | reverse %}
-
+<h2 class="section-title">Rare Diseases</h2>
 <ul class="simple-list">
-{% for post in oncology limit:3 %}
-<li>
-<a href="{{ post.url }}">{{ post.title }}</a><br>
-<small>{{ post.date | date:"%B %d, %Y" }}</small>
-</li>
+{% for post in rare limit:3 %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
-
-<p><a href="/oncology/" class="read-link">View All →</a></p>
-
 </div>
 
 <div>
 <h2 class="section-title">Regulatory</h2>
-
-{% assign regulatory = site.posts | where_exp:"post","post.categories contains 'regulatory'" | sort:"date" | reverse %}
-
 <ul class="simple-list">
 {% for post in regulatory limit:3 %}
-<li>
-<a href="{{ post.url }}">{{ post.title }}</a><br>
-<small>{{ post.date | date:"%B %d, %Y" }}</small>
-</li>
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
-
-<p><a href="/regulatory/" class="read-link">View All →</a></p>
-
 </div>
 
 <div>
 <h2 class="section-title">Supply Chain</h2>
-
-{% assign supply = site.posts | where_exp:"post","post.categories contains 'supply-chain'" | sort:"date" | reverse %}
-
 <ul class="simple-list">
 {% for post in supply limit:3 %}
-<li>
-<a href="{{ post.url }}">{{ post.title }}</a><br>
-<small>{{ post.date | date:"%B %d, %Y" }}</small>
-</li>
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
-
-<p><a href="/supply-chain/" class="read-link">View All →</a></p>
-
 </div>
 
 </div>
 
 <hr class="section-divider">
 
-<!-- ===== Market Watch ===== -->
-
-<h2 class="section-title">Market Watch</h2>
-
-<ul class="simple-list">
-<li><a href="/regulatory/">FDA / EMA / NMPA Updates</a></li>
-<li><a href="/rare-diseases/">Rare Disease Policy</a></li>
-<li><a href="/oncology/">Oncology Innovation</a></li>
-<li><a href="/supply-chain/">API & Manufacturing Trends</a></li>
-</ul>
-
-<hr class="section-divider">
-
-<p class="home-footer">
-© {{ site.time | date:"%Y" }} DengYueMed. Independent pharmaceutical intelligence platform.
+<p style="font-size:13px;color:#999;">
+© {{ site.time | date:"%Y" }} DengYueMed
 </p>
