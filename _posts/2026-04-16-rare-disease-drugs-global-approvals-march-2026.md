@@ -2,7 +2,7 @@
 layout: post
 title: "Covering Nearly 20 Rare Diseases: A Comprehensive Overview of Newly Approved Rare Disease Drugs Worldwide in March 2026"
 date: 2026-04-16
-categories: [rare-diseases]
+categories: [rare-diseases, regulatory]
 tags: [rare diseases, drug approval, gene therapy, hematology, immunology, oncology]
 description: "A comprehensive review of nearly 20 newly approved rare disease drugs worldwide in March 2026, covering hematology, oncology, metabolic disorders, and gene therapy."
 permalink: /rare-diseases/2026/04/16/rare-disease-drugs-global-approvals-march-2026/
