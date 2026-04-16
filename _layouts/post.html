@@ -2,13 +2,54 @@
 layout: default
 ---
 
-<article>
-  <h1>{{ page.title }}</h1>
-  <p><em>{{ page.date | date: "%B %d, %Y" }}</em></p>
+<article class="post">
 
-  <div>
+  <h1>{{ page.title }}</h1>
+
+  <p class="meta">
+    {{ page.date | date: "%B %d, %Y" }} · 
+    {% assign words = content | number_of_words %}
+    {{ words | divided_by:200 | plus:1 }} min read
+  </p>
+
+  {% if page.image %}
+  <img src="{{ page.image }}" alt="{{ page.title }}" style="width:100%; border-radius:8px; margin:20px 0;">
+  {% endif %}
+
+  <!-- TOC -->
+  <div class="toc">
+    <strong>Contents</strong>
+    <ul id="toc"></ul>
+  </div>
+
+  <div class="content">
     {{ content }}
   </div>
 
   {% include related-posts.html %}
+
 </article>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const toc = document.getElementById("toc");
+  const headers = document.querySelectorAll(".content h2, .content h3");
+
+  headers.forEach((header, i) => {
+    const id = "section-" + i;
+    header.id = id;
+
+    const li = document.createElement("li");
+    li.innerHTML = `<a href="#${id}">${header.innerText}</a>`;
+    toc.appendChild(li);
+  });
+});
+</script>
+
+<style>
+.post { max-width: 800px; margin: auto; line-height: 1.7; }
+.meta { color: #777; font-size: 14px; }
+.toc { background:#f7f7f7; padding:15px; border-radius:8px; margin:20px 0; }
+.toc ul { padding-left: 20px; }
+.toc a { text-decoration:none; color:#333; }
+</style>
