@@ -120,6 +120,6 @@ Rare diseases are transitioning from *untreatable* to *manageable conditions*.
 
 As innovation accelerates, global access and supply chain efficiency will become increasingly critical.
 
-DengYueMed will continue to track global rare disease advancements and support the accessibility of innovative therapies worldwide.
+[DengYueMed](https://dengyuemed.com/) will continue to track global rare disease advancements and support the accessibility of innovative therapies worldwide.
 
 ---
