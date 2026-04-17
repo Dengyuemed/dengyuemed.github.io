@@ -16,13 +16,35 @@ Focused analysis of global oncology pipelines, immunotherapy breakthroughs, regu
 
 ---
 
-{% assign posts = site.posts | where: "categories", "oncology" | sort: "date" | reverse %}
+## Subcategories
+
+- [Targeted Therapy](/oncology/targeted-therapy/)
+- [Immunotherapy](/oncology/immunotherapy/)
+- [ADC / KRAS](/oncology/adc-kras/)
+
+---
+
+{% assign posts = site.posts | where_exp: "post", "post.categories contains 'oncology'" | sort: "date" | reverse %}
 
 {% if posts.size > 0 %}
 
-{% for post in posts limit:20 %}
+## Featured Insight
 
-## [{{ post.title }}]({{ post.url }})
+{% assign featured = posts.first %}
+
+### [{{ featured.title }}]({{ featured.url }})
+
+<small>{{ featured.date | date: "%B %d, %Y" }}</small>
+
+{{ featured.description }}
+
+---
+
+## Latest Oncology Intelligence
+
+{% for post in posts offset:1 limit:20 %}
+
+### [{{ post.title }}]({{ post.url }})
 
 <small>{{ post.date | date: "%B %d, %Y" }}</small>
 
