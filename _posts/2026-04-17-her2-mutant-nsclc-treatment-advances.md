@@ -109,11 +109,3 @@ Future directions:
 - Brain metastasis optimization  
 
 [DengYueMed](https://dengyuemed.github.io/) will continue to track global advances and support access to innovative oncology therapies.
-
----
-
-## Related Posts
-
-- [Gene Therapy Advances: From Genetic Disorders to Cancer Treatment](/oncology/2026/04/15/gene-therapy-advances/)
-- [KRAS-Mutant Cancer: From Single Target to Network Therapy](/oncology/2026/04/16/kras-network-therapy/)
-- [Chinese Innovative Drugs Going Global](/supply-chain/2026/04/16/china-pharma-globalization/)
