@@ -9,288 +9,313 @@ nav_exclude: true
 
 /* ===== Layout ===== */
 
-.main-content {
-max-width:1100px;
+.main-content{
+max-width:1180px;
 margin:0 auto;
-padding:50px 20px 90px 20px;
+padding:40px 20px 100px;
 }
 
-/* ===== Hero ===== */
+/* ===== HERO（升级重点） ===== */
 
-.home-title{
-font-size:38px;
-font-weight:700;
-margin-bottom:8px;
-}
-
-.home-subtitle{
-font-size:17px;
-color:#555;
-margin-bottom:14px;
-}
-
-.home-tagline{
-font-size:15px;
-color:#888;
-margin-bottom:20px;
-}
-
-.hero-meta{
-font-size:13px;
-color:#999;
-letter-spacing:0.3px;
-}
-
-.home-intro{
-max-width:750px;
-font-size:15px;
-line-height:1.6;
-color:#555;
-margin-bottom:35px;
-}
-
-/* ===== Section ===== */
-
-.section-title{
-font-size:21px;
-font-weight:600;
-margin-bottom:24px;
-}
-
-hr.section-divider{
-margin:65px 0;
-border:none;
-border-top:1px solid #ececec;
-}
-
-/* ===== Grid ===== */
-
-.section-grid{
+.hero{
 display:grid;
-grid-template-columns:repeat(2,1fr);
-gap:55px;
-}
-
-@media (max-width:768px){
-.section-grid{
-grid-template-columns:1fr;
-}
-}
-
-/* ===== Cards ===== */
-
-.card{
-border:1px solid #eaeaea;
-padding:26px;
-border-radius:18px;
-transition:0.25s ease;
-background:#fff;
-}
-
-.card:hover{
-box-shadow:0 10px 28px rgba(0,0,0,0.05);
-}
-
-.card h3{
-margin-top:0;
-font-size:20px;
-}
-
-.card small{
-color:#888;
-}
-
-.read-link{
-font-weight:600;
-font-size:14px;
-}
-
-/* ===== Latest Insights ===== */
-
-.latest-grid{
-display:grid;
-grid-template-columns:repeat(3,1fr);
-gap:30px;
+grid-template-columns:1.2fr 1fr;
+gap:40px;
+align-items:center;
+margin-bottom:60px;
 }
 
 @media(max-width:900px){
-.latest-grid{
+.hero{
 grid-template-columns:1fr;
 }
 }
 
-.latest-item{
-border:1px solid #ececec;
-padding:20px;
-border-radius:14px;
-background:#fff;
+.hero-title{
+font-size:42px;
+font-weight:800;
+line-height:1.2;
+margin-bottom:10px;
 }
 
-.latest-item a{
-font-weight:600;
-}
-
-.latest-date{
-font-size:12px;
-color:#999;
-margin-top:6px;
-}
-
-/* ===== Intelligence Modules ===== */
-
-.intel-grid{
-display:grid;
-grid-template-columns:repeat(3,1fr);
-gap:30px;
-}
-
-@media(max-width:900px){
-.intel-grid{
-grid-template-columns:1fr;
-}
-}
-
-.intel-card{
-border:1px solid #eaeaea;
-padding:22px;
-border-radius:14px;
-background:#fff;
-}
-
-.intel-card h3{
-margin-top:0;
+.hero-sub{
 font-size:18px;
+color:#555;
 margin-bottom:12px;
 }
 
-.intel-card ul{
-padding-left:18px;
-margin-bottom:10px;
-}
-
-.intel-card li{
-margin-bottom:8px;
+.hero-tag{
 font-size:14px;
+color:#888;
+margin-bottom:18px;
 }
 
-/* ===== Lists ===== */
-
-.simple-list{
-padding-left:18px;
+.hero-desc{
+font-size:15px;
+color:#555;
+line-height:1.6;
 }
 
-.simple-list li{
-margin-bottom:10px;
-font-size:14px;
+.hero-img{
+width:100%;
+border-radius:18px;
+object-fit:cover;
 }
 
-/* ===== Footer ===== */
+/* ===== SECTION ===== */
 
-.home-footer{
+.section-title{
+font-size:22px;
+font-weight:700;
+margin-bottom:20px;
+}
+
+.section-divider{
+margin:60px 0;
+border-top:1px solid #eee;
+}
+
+/* ===== FEATURED ===== */
+
+.featured-grid{
+display:grid;
+grid-template-columns:2fr 1fr;
+gap:30px;
+}
+
+@media(max-width:900px){
+.featured-grid{
+grid-template-columns:1fr;
+}
+}
+
+.featured-main{
+border:1px solid #eee;
+border-radius:18px;
+padding:28px;
+}
+
+.featured-side{
+display:grid;
+gap:20px;
+}
+
+.featured-item{
+border:1px solid #eee;
+padding:20px;
+border-radius:14px;
+}
+
+.featured-item a{
+font-weight:600;
+}
+
+.date{
+font-size:12px;
+color:#999;
+}
+
+/* ===== LATEST ===== */
+
+.latest-grid{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:25px;
+}
+
+@media(max-width:900px){
+.latest-grid{
+grid-template-columns:1fr;
+}
+}
+
+.latest-card{
+border:1px solid #eee;
+padding:18px;
+border-radius:14px;
+}
+
+.latest-card a{
+font-weight:600;
+}
+
+/* ===== CATEGORY GRID ===== */
+
+.cat-grid{
+display:grid;
+grid-template-columns:repeat(4,1fr);
+gap:25px;
+}
+
+@media(max-width:900px){
+.cat-grid{
+grid-template-columns:1fr;
+}
+}
+
+.cat-card{
+border:1px solid #eee;
+padding:20px;
+border-radius:14px;
+}
+
+.cat-card h3{
+margin-top:0;
+font-size:18px;
+}
+
+/* ===== DATA PANEL（新增） ===== */
+
+.data-panel{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:25px;
+}
+
+@media(max-width:900px){
+.data-panel{
+grid-template-columns:1fr;
+}
+}
+
+.data-box{
+background:#fafafa;
+padding:25px;
+border-radius:16px;
+text-align:center;
+}
+
+.data-box h3{
+margin:0;
+font-size:28px;
+}
+
+.data-box p{
+margin:5px 0 0;
+font-size:13px;
+color:#666;
+}
+
+/* ===== FOOTER ===== */
+
+.footer{
 font-size:13px;
 color:#999;
-margin-top:40px;
+margin-top:50px;
 }
 
 </style>
 
-<!-- ===== Hero ===== -->
+<!-- ===== HERO ===== -->
 
-<h1 class="home-title">DengYueMed</h1>
+<div class="hero">
 
-<p class="home-subtitle">
-Independent Intelligence on Global Oncology & Rare Disease Markets
+<div>
+
+<h1 class="hero-title">
+Global Pharmaceutical Intelligence
+</h1>
+
+<p class="hero-sub">
+Oncology · Rare Diseases · Market Access · Policy Strategy
 </p>
 
-<p class="home-tagline">
-Policy · Innovation · Market Access · Competitive Strategy
+<p class="hero-tag">
+FDA · EMA · NMPA · Global Biopharma Markets
 </p>
 
-<p class="hero-meta">
-Focused coverage across FDA · EMA · NMPA · Global Biopharma Markets
+<p class="hero-desc">
+DengYueMed delivers independent insights on drug innovation, regulatory strategy, and pharmaceutical market access.  
+We analyze global oncology, rare disease therapies, and supply chain dynamics to support industry decision-making.
 </p>
 
-<p class="home-intro">
-DengYueMed is an independent pharmaceutical intelligence platform delivering insights on drug innovation, pharmaceutical markets, and global regulatory policy. The platform covers oncology, rare diseases, regulatory developments, and pharmaceutical supply chains across major global markets including the United States, Europe, and China.
-</p>
+</div>
+
+<div>
+<img src="/assets/images/lung-cancer.jpg" class="hero-img">
+</div>
+
+</div>
 
 <hr class="section-divider">
 
-<!-- ===== Featured Research ===== -->
+<!-- ===== FEATURED ===== -->
 
-{% assign featured_posts = site.posts | where:"featured",true | sort:"date" | reverse %}
+<h2 class="section-title">Featured Analysis</h2>
 
-{% if featured_posts.size > 0 %}
+{% assign posts = site.posts | sort:"date" | reverse %}
 
-<h2 class="section-title">Featured Research</h2>
+<div class="featured-grid">
 
-<div class="latest-grid">
+<div class="featured-main">
 
-{% for post in featured_posts limit:3 %}
+<h2>
+<a href="{{ posts[0].url }}">{{ posts[0].title }}</a>
+</h2>
 
-<div class="latest-item">
+<p class="date">
+{{ posts[0].date | date:"%B %d, %Y" }}
+</p>
 
-<a href="{{ post.url }}">{{ post.title }}</a>
+<p>{{ posts[0].excerpt }}</p>
 
-<div class="latest-date">
-{{ post.date | date:"%B %d, %Y" }}
+<p><a href="{{ posts[0].url }}">Read Full Analysis →</a></p>
+
 </div>
 
+<div class="featured-side">
+
+{% for post in posts offset:1 limit:3 %}
+
+<div class="featured-item">
+<a href="{{ post.url }}">{{ post.title }}</a>
+<div class="date">{{ post.date | date:"%B %d, %Y" }}</div>
 </div>
 
 {% endfor %}
 
 </div>
 
+</div>
+
 <hr class="section-divider">
 
-{% endif %}
+<!-- ===== DATA PANEL（增强专业感） ===== -->
 
-<!-- ===== Lead Analysis ===== -->
+<div class="data-panel">
 
-{% assign featured = site.posts | sort:"date" | reverse | first %}
+<div class="data-box">
+<h3>20+</h3>
+<p>Rare Disease Drugs Approved (Mar 2026)</p>
+</div>
 
-{% if featured %}
+<div class="data-box">
+<h3>70%+</h3>
+<p>ORR in Next-Gen Targeted Therapies</p>
+</div>
 
-<h2 class="section-title">Lead Analysis</h2>
-
-<div class="card">
-
-<h3>
-<a href="{{ featured.url }}">{{ featured.title }}</a>
-</h3>
-
-<p><small>{{ featured.date | date:"%B %d, %Y" }}</small></p>
-
-<p>{{ featured.description | default: featured.excerpt }}</p>
-
-<p>
-<a href="{{ featured.url }}" class="read-link">
-Read Full Analysis →
-</a>
-</p>
+<div class="data-box">
+<h3>3–5%</h3>
+<p>HER2 Mutation Rate in NSCLC</p>
+</div>
 
 </div>
 
 <hr class="section-divider">
 
-{% endif %}
-
-<!-- ===== Latest Insights ===== -->
+<!-- ===== LATEST ===== -->
 
 <h2 class="section-title">Latest Insights</h2>
 
 <div class="latest-grid">
 
-{% assign latest = site.posts | sort:"date" | reverse %}
+{% for post in posts limit:6 %}
 
-{% for post in latest limit:6 %}
-
-<div class="latest-item">
+<div class="latest-card">
 
 <a href="{{ post.url }}">{{ post.title }}</a>
 
-<div class="latest-date">
+<div class="date">
 {{ post.date | date:"%B %d, %Y" }}
 </div>
 
@@ -302,36 +327,43 @@ Read Full Analysis →
 
 <hr class="section-divider">
 
-<!-- ===== Industry Intelligence ===== -->
+<!-- ===== CATEGORY ===== -->
 
-<h2 class="section-title">Industry Intelligence</h2>
+<div class="cat-grid">
 
-<div class="intel-grid">
-
-<div class="intel-card">
-<h3>Drug Intelligence</h3>
+<div class="cat-card">
+<h3>Oncology</h3>
 <ul>
-<li><a href="/oncology/">Oncology Drug Innovation</a></li>
-<li><a href="/rare-diseases/">Rare Disease Therapies</a></li>
-<li><a href="/oncology/">Cell & Gene Therapy Trends</a></li>
+<li><a href="/oncology/">Targeted Therapy</a></li>
+<li><a href="/oncology/">Immunotherapy</a></li>
+<li><a href="/oncology/">ADC / KRAS</a></li>
 </ul>
 </div>
 
-<div class="intel-card">
-<h3>Market Intelligence</h3>
+<div class="cat-card">
+<h3>Rare Diseases</h3>
 <ul>
-<li><a href="/supply-chain/">Pharmaceutical Supply Chains</a></li>
-<li><a href="/supply-chain/">Global Drug Distribution</a></li>
-<li><a href="/oncology/">Biopharma Market Trends</a></li>
+<li><a href="/rare-diseases/">Gene Therapy</a></li>
+<li><a href="/rare-diseases/">Metabolic Disorders</a></li>
+<li><a href="/rare-diseases/">Neurology</a></li>
 </ul>
 </div>
 
-<div class="intel-card">
-<h3>Policy Intelligence</h3>
+<div class="cat-card">
+<h3>Regulatory</h3>
 <ul>
-<li><a href="/regulatory/">FDA Approvals</a></li>
-<li><a href="/regulatory/">NMPA Drug Regulation</a></li>
-<li><a href="/regulatory/">Global Market Access Policy</a></li>
+<li><a href="/regulatory/">FDA</a></li>
+<li><a href="/regulatory/">EMA</a></li>
+<li><a href="/regulatory/">NMPA</a></li>
+</ul>
+</div>
+
+<div class="cat-card">
+<h3>Supply Chain</h3>
+<ul>
+<li><a href="/supply-chain/">Global Distribution</a></li>
+<li><a href="/supply-chain/">API Manufacturing</a></li>
+<li><a href="/supply-chain/">Access Strategy</a></li>
 </ul>
 </div>
 
@@ -339,99 +371,6 @@ Read Full Analysis →
 
 <hr class="section-divider">
 
-<!-- ===== Core Sections ===== -->
-
-<div class="section-grid">
-
-<div>
-<h2 class="section-title">Rare Diseases</h2>
-
-{% assign rare = site.posts | where_exp:"post","post.categories contains 'rare-diseases'" | sort:"date" | reverse %}
-
-<ul class="simple-list">
-{% for post in rare limit:3 %}
-<li>
-<a href="{{ post.url }}">{{ post.title }}</a><br>
-<small>{{ post.date | date:"%B %d, %Y" }}</small>
-</li>
-{% endfor %}
-</ul>
-
-<p><a href="/rare-diseases/" class="read-link">View All →</a></p>
-
-</div>
-
-<div>
-<h2 class="section-title">Oncology</h2>
-
-{% assign oncology = site.posts | where_exp:"post","post.categories contains 'oncology'" | sort:"date" | reverse %}
-
-<ul class="simple-list">
-{% for post in oncology limit:3 %}
-<li>
-<a href="{{ post.url }}">{{ post.title }}</a><br>
-<small>{{ post.date | date:"%B %d, %Y" }}</small>
-</li>
-{% endfor %}
-</ul>
-
-<p><a href="/oncology/" class="read-link">View All →</a></p>
-
-</div>
-
-<div>
-<h2 class="section-title">Regulatory</h2>
-
-{% assign regulatory = site.posts | where_exp:"post","post.categories contains 'regulatory'" | sort:"date" | reverse %}
-
-<ul class="simple-list">
-{% for post in regulatory limit:3 %}
-<li>
-<a href="{{ post.url }}">{{ post.title }}</a><br>
-<small>{{ post.date | date:"%B %d, %Y" }}</small>
-</li>
-{% endfor %}
-</ul>
-
-<p><a href="/regulatory/" class="read-link">View All →</a></p>
-
-</div>
-
-<div>
-<h2 class="section-title">Supply Chain</h2>
-
-{% assign supply = site.posts | where_exp:"post","post.categories contains 'supply-chain'" | sort:"date" | reverse %}
-
-<ul class="simple-list">
-{% for post in supply limit:3 %}
-<li>
-<a href="{{ post.url }}">{{ post.title }}</a><br>
-<small>{{ post.date | date:"%B %d, %Y" }}</small>
-</li>
-{% endfor %}
-</ul>
-
-<p><a href="/supply-chain/" class="read-link">View All →</a></p>
-
-</div>
-
-</div>
-
-<hr class="section-divider">
-
-<!-- ===== Market Watch ===== -->
-
-<h2 class="section-title">Market Watch</h2>
-
-<ul class="simple-list">
-<li><a href="/regulatory/">FDA / EMA / NMPA Updates</a></li>
-<li><a href="/rare-diseases/">Rare Disease Policy</a></li>
-<li><a href="/oncology/">Oncology Innovation</a></li>
-<li><a href="/supply-chain/">API & Manufacturing Trends</a></li>
-</ul>
-
-<hr class="section-divider">
-
-<p class="home-footer">
-© {{ site.time | date:"%Y" }} DengYueMed. Independent pharmaceutical intelligence platform.
+<p class="footer">
+© {{ site.time | date:"%Y" }} DengYueMed · Global Pharmaceutical Intelligence Platform
 </p>
