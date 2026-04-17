@@ -15,7 +15,7 @@ margin:0 auto;
 padding:40px 20px 100px;
 }
 
-/* ===== HERO（升级重点） ===== */
+/* ===== HERO ===== */
 
 .hero{
 display:grid;
@@ -139,7 +139,7 @@ border-radius:14px;
 font-weight:600;
 }
 
-/* ===== CATEGORY GRID ===== */
+/* ===== CATEGORY ===== */
 
 .cat-grid{
 display:grid;
@@ -164,7 +164,7 @@ margin-top:0;
 font-size:18px;
 }
 
-/* ===== DATA PANEL（新增） ===== */
+/* ===== DATA PANEL ===== */
 
 .data-panel{
 display:grid;
@@ -185,16 +185,42 @@ border-radius:16px;
 text-align:center;
 }
 
-.data-box h3{
-margin:0;
-font-size:28px;
+/* ===== DRUG SECTION（新增） ===== */
+
+.drug-grid{
+display:grid;
+grid-template-columns:repeat(4,1fr);
+gap:20px;
 }
 
-.data-box p{
-margin:5px 0 0;
-font-size:13px;
-color:#666;
+@media(max-width:900px){
+.drug-grid{
+grid-template-columns:1fr;
 }
+}
+
+.drug-card{
+border:1px solid #eee;
+padding:15px;
+border-radius:12px;
+background:#fff;
+}
+
+.drug-card h4{
+margin:0 0 6px 0;
+font-size:16px;
+}
+
+.tag{
+font-size:11px;
+padding:3px 6px;
+border-radius:8px;
+margin-right:4px;
+}
+
+.tag-blue{background:#eef4ff;color:#3a6fd8;}
+.tag-green{background:#f0fff5;color:#1a8f5c;}
+.tag-orange{background:#fff6ea;color:#d67a00;}
 
 /* ===== FOOTER ===== */
 
@@ -212,9 +238,7 @@ margin-top:50px;
 
 <div>
 
-<h1 class="hero-title">
-Global Pharmaceutical Intelligence
-</h1>
+<h1 class="hero-title">Global Pharmaceutical Intelligence</h1>
 
 <p class="hero-sub">
 Oncology · Rare Diseases · Market Access · Policy Strategy
@@ -225,8 +249,13 @@ FDA · EMA · NMPA · Global Biopharma Markets
 </p>
 
 <p class="hero-desc">
-DengYueMed delivers independent insights on drug innovation, regulatory strategy, and pharmaceutical market access.  
-We analyze global oncology, rare disease therapies, and supply chain dynamics to support industry decision-making.
+DengYueMed delivers independent insights on drug innovation, regulatory strategy, and pharmaceutical market access.
+</p>
+
+<p>
+<a href="/drug-database/" style="font-weight:600;">
+Explore Drug Database →
+</a>
 </p>
 
 </div>
@@ -239,6 +268,45 @@ We analyze global oncology, rare disease therapies, and supply chain dynamics to
 
 <hr class="section-divider">
 
+<!-- ===== DRUG DATABASE入口（新增核心） ===== -->
+
+<h2 class="section-title">Drug Intelligence</h2>
+
+<div class="drug-grid">
+
+<div class="drug-card">
+<h4>Enhertu</h4>
+<span class="tag tag-blue">ADC</span>
+<span class="tag tag-orange">HER2</span>
+<span class="tag tag-green">FDA</span>
+</div>
+
+<div class="drug-card">
+<h4>Zongertinib</h4>
+<span class="tag tag-blue">TKI</span>
+<span class="tag tag-orange">HER2</span>
+</div>
+
+<div class="drug-card">
+<h4>Sevabertinib</h4>
+<span class="tag tag-blue">TKI</span>
+<span class="tag tag-green">China</span>
+</div>
+
+<div class="drug-card">
+<h4>Zynteglo</h4>
+<span class="tag tag-blue">Gene Therapy</span>
+<span class="tag tag-orange">β-thalassemia</span>
+</div>
+
+</div>
+
+<p style="margin-top:15px;">
+<a href="/drug-database/">View Full Drug Database →</a>
+</p>
+
+<hr class="section-divider">
+
 <!-- ===== FEATURED ===== -->
 
 <h2 class="section-title">Featured Analysis</h2>
@@ -248,55 +316,18 @@ We analyze global oncology, rare disease therapies, and supply chain dynamics to
 <div class="featured-grid">
 
 <div class="featured-main">
-
-<h2>
-<a href="{{ posts[0].url }}">{{ posts[0].title }}</a>
-</h2>
-
-<p class="date">
-{{ posts[0].date | date:"%B %d, %Y" }}
-</p>
-
+<h2><a href="{{ posts[0].url }}">{{ posts[0].title }}</a></h2>
+<p class="date">{{ posts[0].date | date:"%B %d, %Y" }}</p>
 <p>{{ posts[0].excerpt }}</p>
-
-<p><a href="{{ posts[0].url }}">Read Full Analysis →</a></p>
-
 </div>
 
 <div class="featured-side">
-
 {% for post in posts offset:1 limit:3 %}
-
 <div class="featured-item">
 <a href="{{ post.url }}">{{ post.title }}</a>
 <div class="date">{{ post.date | date:"%B %d, %Y" }}</div>
 </div>
-
 {% endfor %}
-
-</div>
-
-</div>
-
-<hr class="section-divider">
-
-<!-- ===== DATA PANEL（增强专业感） ===== -->
-
-<div class="data-panel">
-
-<div class="data-box">
-<h3>20+</h3>
-<p>Rare Disease Drugs Approved (Mar 2026)</p>
-</div>
-
-<div class="data-box">
-<h3>70%+</h3>
-<p>ORR in Next-Gen Targeted Therapies</p>
-</div>
-
-<div class="data-box">
-<h3>3–5%</h3>
-<p>HER2 Mutation Rate in NSCLC</p>
 </div>
 
 </div>
@@ -308,69 +339,16 @@ We analyze global oncology, rare disease therapies, and supply chain dynamics to
 <h2 class="section-title">Latest Insights</h2>
 
 <div class="latest-grid">
-
 {% for post in posts limit:6 %}
-
 <div class="latest-card">
-
 <a href="{{ post.url }}">{{ post.title }}</a>
-
-<div class="date">
-{{ post.date | date:"%B %d, %Y" }}
+<div class="date">{{ post.date | date:"%B %d, %Y" }}</div>
 </div>
-
-</div>
-
 {% endfor %}
-
-</div>
-
-<hr class="section-divider">
-
-<!-- ===== CATEGORY ===== -->
-
-<div class="cat-grid">
-
-<div class="cat-card">
-<h3>Oncology</h3>
-<ul>
-<li><a href="/oncology/">Targeted Therapy</a></li>
-<li><a href="/oncology/">Immunotherapy</a></li>
-<li><a href="/oncology/">ADC / KRAS</a></li>
-</ul>
-</div>
-
-<div class="cat-card">
-<h3>Rare Diseases</h3>
-<ul>
-<li><a href="/rare-diseases/">Gene Therapy</a></li>
-<li><a href="/rare-diseases/">Metabolic Disorders</a></li>
-<li><a href="/rare-diseases/">Neurology</a></li>
-</ul>
-</div>
-
-<div class="cat-card">
-<h3>Regulatory</h3>
-<ul>
-<li><a href="/regulatory/">FDA</a></li>
-<li><a href="/regulatory/">EMA</a></li>
-<li><a href="/regulatory/">NMPA</a></li>
-</ul>
-</div>
-
-<div class="cat-card">
-<h3>Supply Chain</h3>
-<ul>
-<li><a href="/supply-chain/">Global Distribution</a></li>
-<li><a href="/supply-chain/">API Manufacturing</a></li>
-<li><a href="/supply-chain/">Access Strategy</a></li>
-</ul>
-</div>
-
 </div>
 
 <hr class="section-divider">
 
 <p class="footer">
-© {{ site.time | date:"%Y" }} DengYueMed · Global Pharmaceutical Intelligence Platform
+© {{ site.time | date:"%Y" }} DengYueMed
 </p>
