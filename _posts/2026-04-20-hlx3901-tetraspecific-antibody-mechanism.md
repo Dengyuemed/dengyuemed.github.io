@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mechanism of Action of HLX3901: How a Tetraspecific Antibody Simultaneously Targets DLL3, CD3, and CD28"
-date: 2026-04-18
+date: 2026-04-20
 categories: [oncology]
 tags: [immunotherapy, bispecific, tetraspecific antibody, DLL3, CD3, CD28, SCLC]
 image: /assets/images/hlx3901.png
