@@ -3,189 +3,69 @@ layout: default
 title: Home
 ---
 
-<style>
+<div class="home-container">
 
-/* ===== HERO ===== */
-.hero {
-  position: relative;
-  border-radius: 14px;
-  overflow: hidden;
-  margin-bottom: 40px;
-}
-.hero img {
-  width: 100%;
-  height: 420px;
-  object-fit: cover;
-}
-.hero-text {
-  position: absolute;
-  bottom: 30px;
-  left: 30px;
-  color: white;
-  max-width: 680px;
-}
-.hero-text h1 {
-  font-size: 34px;
-  margin-bottom: 10px;
-}
-.hero-text p {
-  opacity: 0.9;
-}
-
-/* ===== SECTION ===== */
-.section-title {
-  border-left: 4px solid #2f6fed;
-  padding-left: 10px;
-  margin: 40px 0 20px;
-  font-weight: 600;
-}
-
-/* ===== GRID ===== */
-.grid-3 {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 18px;
-}
-.card {
-  background: #fff;
-  border-radius: 10px;
-  overflow: hidden;
-  border: 1px solid #eee;
-  transition: 0.2s;
-}
-.card:hover {
-  transform: translateY(-3px);
-}
-.card img {
-  width: 100%;
-  height: 160px;
-  object-fit: cover;
-}
-.card-body {
-  padding: 12px;
-}
-.card-title {
-  font-size: 15px;
-  font-weight: 600;
-}
-.meta {
-  font-size: 12px;
-  color: #888;
-  margin-top: 6px;
-}
-
-/* ===== FEATURE STRIP ===== */
-.feature-strip {
-  display: grid;
-  grid-template-columns: 1.2fr 1fr;
-  gap: 20px;
-}
-.feature-main img {
-  height: 260px;
-}
-.feature-main h2 {
-  font-size: 22px;
-  margin-top: 10px;
-}
-.feature-side .card img {
-  height: 120px;
-}
-
-/* ===== CATEGORY ===== */
-.category-row {
-  display: flex;
-  gap: 10px;
-}
-.category-btn {
-  padding: 8px 14px;
-  border-radius: 20px;
-  background: #f2f4f8;
-  font-size: 14px;
-}
-
-</style>
-
-<!-- ================= HERO ================= -->
-<div class="hero">
-  <img src="/assets/images/lung.jpg">
-  <div class="hero-text">
-    <h1>Global Pharmaceutical Intelligence</h1>
-    <p>Oncology · Rare Diseases · Regulatory · Supply Chain</p>
-  </div>
-</div>
-
-<!-- ================= FEATURED ================= -->
-<h3 class="section-title">Featured Analysis</h3>
-
-<div class="feature-strip">
-
-  <!-- 主文章 -->
-  {% assign main = site.posts.first %}
-  <div class="feature-main">
-    <a href="{{ main.url }}">
-      <img src="{{ main.image }}">
-      <h2>{{ main.title }}</h2>
-      <p class="meta">{{ main.date | date: "%b %d, %Y" }}</p>
-    </a>
-  </div>
-
-  <!-- 侧边 -->
-  <div class="feature-side">
-    {% for post in site.posts limit:3 offset:1 %}
-    <div class="card">
-      <a href="{{ post.url }}">
-        <img src="{{ post.image }}">
-        <div class="card-body">
-          <div class="card-title">{{ post.title }}</div>
-        </div>
-      </a>
-    </div>
-    {% endfor %}
-  </div>
-
-</div>
-
-<!-- ================= LATEST ================= -->
-<h3 class="section-title">Latest Insights</h3>
-
-<div class="grid-3">
-  {% for post in site.posts limit:6 %}
-  <div class="card">
-    <a href="{{ post.url }}">
-      <img src="{{ post.image }}">
-      <div class="card-body">
-        <div class="card-title">{{ post.title }}</div>
-        <div class="meta">{{ post.date | date: "%b %d" }}</div>
+  <!-- 🔥 HERO 主头条 -->
+  {% assign hero = site.posts.first %}
+  <section class="hero">
+    <a href="{{ hero.url }}">
+      <img src="{{ hero.image }}" class="hero-img">
+      <div class="hero-overlay">
+        <h1>{{ hero.title }}</h1>
+        <p>{{ hero.description }}</p>
       </div>
     </a>
-  </div>
-  {% endfor %}
-</div>
+  </section>
 
-<!-- ================= CATEGORY ================= -->
-<h3 class="section-title">Explore by Category</h3>
-
-<div class="category-row">
-  <div class="category-btn">Oncology</div>
-  <div class="category-btn">Rare Diseases</div>
-  <div class="category-btn">Regulatory</div>
-  <div class="category-btn">Supply Chain</div>
-</div>
-
-<!-- ================= SUPPLY CHAIN ================= -->
-<h3 class="section-title">Supply Chain & Global Access</h3>
-
-<div class="grid-3">
-  {% for post in site.posts %}
-    {% if post.categories contains "supply-chain" %}
-    <div class="card">
-      <a href="{{ post.url }}">
-        <img src="{{ post.image }}">
-        <div class="card-body">
-          <div class="card-title">{{ post.title }}</div>
-        </div>
-      </a>
+  <!-- 📰 最新文章 -->
+  <section class="latest">
+    <h2>Latest Intelligence</h2>
+    <div class="post-grid">
+      {% for post in site.posts limit:6 offset:1 %}
+      <div class="card">
+        <a href="{{ post.url }}">
+          <img src="{{ post.image }}">
+          <div class="card-content">
+            <h3>{{ post.title }}</h3>
+            <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
+          </div>
+        </a>
+      </div>
+      {% endfor %}
     </div>
-    {% endif %}
-  {% endfor %}
+  </section>
+
+  <!-- 📈 Trending -->
+  <section class="trending">
+    <h2>Trending Topics</h2>
+    <div class="trending-list">
+      {% assign trending = site.posts | where_exp: "post", "post.tags contains 'oncology'" | limit:4 %}
+      {% for post in trending %}
+      <a href="{{ post.url }}" class="trend-item">
+        {{ post.title }}
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+
+  <!-- 🧬 分类入口 -->
+  <section class="categories">
+    <h2>Explore by Category</h2>
+    <div class="cat-grid">
+      <a href="/oncology/" class="cat">Oncology</a>
+      <a href="/rare-diseases/" class="cat">Rare Diseases</a>
+      <a href="/supply-chain/" class="cat">Supply Chain</a>
+      <a href="/regulatory/" class="cat">Regulatory</a>
+    </div>
+  </section>
+
+  <!-- 🧠 About -->
+  <section class="about">
+    <h2>About DengYueMed</h2>
+    <p>
+      DengYueMed delivers independent intelligence on global oncology,
+      rare diseases, pharmaceutical innovation and market access.
+    </p>
+  </section>
+
 </div>
