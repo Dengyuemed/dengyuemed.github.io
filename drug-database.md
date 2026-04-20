@@ -163,89 +163,31 @@ Structured insights into global innovative drugs across oncology, rare diseases,
 <span class="filter-btn" onclick="filterCategory('gene')">Gene Therapy</span>
 </div>
 
-<!-- ===== Grid ===== -->
+<!-- ===== Grid（JSON驱动） ===== -->
 
 <div class="db-grid" id="drugGrid">
 
-<!-- ENHERTU -->
-<div class="drug-card" data-category="oncology">
-<div class="drug-name">Enhertu</div>
-<div class="drug-meta">Daiichi Sankyo / AstraZeneca</div>
+{% for drug in site.data.drugs %}
 
-<span class="tag tag-mech">ADC</span>
-<span class="tag tag-area">HER2</span>
-<span class="tag tag-status">FDA / China</span>
+<div class="drug-card" data-category="{{ drug.category }}">
 
-<p class="drug-meta">
-HER2-targeted antibody-drug conjugate with strong efficacy in HER2-mutant NSCLC.
-</p>
+<div class="drug-name">{{ drug.name }}</div>
 
-<a href="/oncology/" class="read-link">View Analysis →</a>
-</div>
+<div class="drug-meta">{{ drug.company }}</div>
 
-<!-- ZONGERTINIB -->
-<div class="drug-card" data-category="oncology">
-<div class="drug-name">Zongertinib</div>
-<div class="drug-meta">Boehringer Ingelheim</div>
-
-<span class="tag tag-mech">TKI</span>
-<span class="tag tag-area">HER2 TKD</span>
-<span class="tag tag-status">FDA</span>
+<span class="tag tag-mech">{{ drug.mechanism }}</span>
+<span class="tag tag-area">{{ drug.target }}</span>
+<span class="tag tag-status">{{ drug.status }}</span>
 
 <p class="drug-meta">
-Selective HER2 TKI showing high ORR in NSCLC.
+{{ drug.description }}
 </p>
 
-<a href="/oncology/" class="read-link">View Analysis →</a>
+<a href="{{ drug.link }}" class="read-link">View Analysis →</a>
+
 </div>
 
-<!-- SEVABERTINIB -->
-<div class="drug-card" data-category="oncology">
-<div class="drug-name">Sevabertinib</div>
-<div class="drug-meta">Bayer</div>
-
-<span class="tag tag-mech">TKI</span>
-<span class="tag tag-area">HER2/EGFR</span>
-<span class="tag tag-status">China</span>
-
-<p class="drug-meta">
-Dual HER2/EGFR inhibitor for previously treated NSCLC.
-</p>
-
-<a href="/oncology/" class="read-link">View Analysis →</a>
-</div>
-
-<!-- GENE THERAPY -->
-<div class="drug-card" data-category="gene">
-<div class="drug-name">Zynteglo</div>
-<div class="drug-meta">Bluebird Bio</div>
-
-<span class="tag tag-mech">Gene Therapy</span>
-<span class="tag tag-area">β-thalassemia</span>
-<span class="tag tag-status">FDA / EMA</span>
-
-<p class="drug-meta">
-Lentiviral gene therapy correcting β-globin deficiency.
-</p>
-
-<a href="/rare-diseases/" class="read-link">View Analysis →</a>
-</div>
-
-<!-- LENIOLISIB -->
-<div class="drug-card" data-category="rare">
-<div class="drug-name">Leniolisib</div>
-<div class="drug-meta">Pharming Group</div>
-
-<span class="tag tag-mech">PI3Kδ inhibitor</span>
-<span class="tag tag-area">APDS</span>
-<span class="tag tag-status">Japan</span>
-
-<p class="drug-meta">
-Precision immune pathway modulation therapy.
-</p>
-
-<a href="/rare-diseases/" class="read-link">View Analysis →</a>
-</div>
+{% endfor %}
 
 </div>
 
@@ -257,6 +199,7 @@ Precision immune pathway modulation therapy.
 
 function filterCategory(category){
 let cards=document.querySelectorAll('.drug-card');
+
 cards.forEach(card=>{
 if(category==='all'||card.dataset.category===category){
 card.style.display='block';
@@ -271,7 +214,8 @@ let value=this.value.toLowerCase();
 let cards=document.querySelectorAll('.drug-card');
 
 cards.forEach(card=>{
-card.style.display=card.innerText.toLowerCase().includes(value)?'block':'none';
+card.style.display=
+card.innerText.toLowerCase().includes(value)?'block':'none';
 });
 });
 
