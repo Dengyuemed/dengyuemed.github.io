@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Enhertu",
+    "company": "Daiichi Sankyo / AstraZeneca",
+    "category": "oncology",
+    "mechanism": "ADC",
+    "target": "HER2",
+    "status": "FDA / China",
+    "link": "/oncology/",
+    "description": "HER2-targeted antibody-drug conjugate with strong efficacy in NSCLC."
+  },
+  {
+    "name": "Zongertinib",
+    "company": "Boehringer Ingelheim",
+    "category": "oncology",
+    "mechanism": "TKI",
+    "target": "HER2 TKD",
+    "status": "FDA",
+    "link": "/oncology/",
+    "description": "Selective HER2 TKI with high response rates."
+  },
+  {
+    "name": "Sevabertinib",
+    "company": "Bayer",
+    "category": "oncology",
+    "mechanism": "TKI",
+    "target": "HER2/EGFR",
+    "status": "China",
+    "link": "/oncology/",
+    "description": "Dual HER2/EGFR inhibitor for NSCLC."
+  },
+  {
+    "name": "Zynteglo",
+    "company": "Bluebird Bio",
+    "category": "gene",
+    "mechanism": "Gene Therapy",
+    "target": "β-thalassemia",
+    "status": "FDA / EMA",
+    "link": "/rare-diseases/",
+    "description": "Gene therapy correcting β-globin deficiency."
+  }
+]
