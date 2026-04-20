@@ -3,205 +3,89 @@ layout: default
 title: DengYueMed | Global Pharmaceutical Intelligence
 ---
 
-<style>
-/* ===== GLOBAL ===== */
-.container {
-  max-width: 1100px;
-  margin: auto;
-}
-
-/* ===== HERO ===== */
-.hero {
-  position: relative;
-  height: 420px;
-  border-radius: 12px;
-  overflow: hidden;
-  margin-bottom: 40px;
-}
-
-.hero img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.hero-overlay {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  padding: 30px;
-  background: linear-gradient(transparent, rgba(0,0,0,0.8));
-  color: #fff;
-}
-
-.hero h1 {
-  font-size: 30px;
-  margin-bottom: 10px;
-}
-
-.hero p {
-  font-size: 14px;
-  opacity: 0.9;
-}
-
-/* ===== SECTION ===== */
-.section-title {
-  font-size: 18px;
-  font-weight: bold;
-  margin: 40px 0 15px;
-  border-left: 4px solid #2563eb;
-  padding-left: 10px;
-}
-
-/* ===== GRID ===== */
-.grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 18px;
-}
-
-.card {
-  border: 1px solid #eee;
-  border-radius: 10px;
-  overflow: hidden;
-  background: #fff;
-  transition: 0.2s;
-}
-
-.card:hover {
-  transform: translateY(-4px);
-}
-
-.card img {
-  width: 100%;
-  height: 160px;
-  object-fit: cover;
-}
-
-.card-content {
-  padding: 12px;
-}
-
-.card-title {
-  font-size: 14px;
-  font-weight: bold;
-  margin-bottom: 6px;
-}
-
-.card-meta {
-  font-size: 12px;
-  color: #777;
-}
-
-/* ===== FEATURED ===== */
-.featured {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
-}
-
-.featured-card {
-  padding: 20px;
-  border-radius: 12px;
-  background: #f5f7fa;
-}
-
-/* ===== CATEGORY ===== */
-.categories {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 12px;
-}
-
-.category-box {
-  padding: 18px;
-  text-align: center;
-  border-radius: 10px;
-  background: #eef2ff;
-  font-weight: bold;
-}
-
-.category-box:hover {
-  background: #dbeafe;
-}
-</style>
-
-<div class="container">
-
 <!-- ===== HERO ===== -->
-{% assign hero = site.posts.first %}
 <div class="hero">
-  <a href="{{ hero.url }}">
-    <img src="{{ hero.image | default: '/assets/images/default.jpg' }}">
+  <a href="{{ site.posts.first.url }}">
+    <img src="{{ site.posts.first.image }}" class="hero-img">
+    <div class="hero-overlay">
+      <h1>{{ site.posts.first.title }}</h1>
+      <p>{{ site.posts.first.excerpt | strip_html | truncate: 140 }}</p>
+    </div>
   </a>
-  <div class="hero-overlay">
-    <h1>{{ hero.title }}</h1>
-    <p>{{ hero.description }}</p>
-  </div>
 </div>
 
-<!-- ===== LATEST ===== -->
-<div class="section-title">Latest Insights</div>
+<!-- ===== LATEST INSIGHTS ===== -->
+<h2 class="section-title">Latest Insights</h2>
 
-<div class="grid">
+<div class="card-grid">
 {% for post in site.posts limit:6 %}
-  <div class="card">
-    <a href="{{ post.url }}">
-      <img src="{{ post.image | default: '/assets/images/default.jpg' }}">
-    </a>
-    <div class="card-content">
-      <div class="card-title">
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </div>
-      <div class="card-meta">
-        {{ post.date | date: "%b %d, %Y" }} · 
-        {{ post.content | number_of_words | divided_by:200 }} min read
-      </div>
+  <a href="{{ post.url }}" class="card">
+    <img src="{{ post.image }}">
+    <div class="card-body">
+      <h3>{{ post.title }}</h3>
+      <p class="meta">
+        {{ post.date | date: "%b %d, %Y" }} · {{ post.read_time | default: "2 min read" }}
+      </p>
     </div>
-  </div>
+  </a>
 {% endfor %}
 </div>
 
-<!-- ===== FEATURED ===== -->
-<div class="section-title">Featured Analysis</div>
+<!-- ===== FEATURED ANALYSIS（权重最高） ===== -->
+<h2 class="section-title">Featured Analysis</h2>
 
 <div class="featured">
+{% assign featured = site.posts | where: "featured", true | slice: 0, 2 %}
+{% for post in featured %}
+  <a href="{{ post.url }}" class="featured-card">
+    <img src="{{ post.image }}">
+    <div class="overlay">
+      <h3>{{ post.title }}</h3>
+    </div>
+  </a>
+{% endfor %}
+</div>
+
+<!-- ===== CATEGORY NAV（SEO核心） ===== -->
+<h2 class="section-title">Explore by Category</h2>
+
+<div class="category-grid">
+  <a href="/oncology/" class="cat">Oncology</a>
+  <a href="/rare-diseases/" class="cat">Rare Diseases</a>
+  <a href="/supply-chain/" class="cat">Supply Chain</a>
+  <a href="/regulatory/" class="cat">Regulatory</a>
+</div>
+
+<!-- ===== SUPPLY CHAIN（商业转化区） ===== -->
+<h2 class="section-title">Supply Chain & Global Access</h2>
+
+<div class="card-grid">
 {% for post in site.posts %}
-  {% if post.featured == true %}
-  <div class="featured-card">
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
-  </div>
+  {% if post.categories contains "supply-chain" %}
+  <a href="{{ post.url }}" class="card">
+    <img src="{{ post.image }}">
+    <div class="card-body">
+      <h3>{{ post.title }}</h3>
+    </div>
+  </a>
   {% endif %}
 {% endfor %}
 </div>
 
-<!-- ===== CATEGORY ===== -->
-<div class="section-title">Explore by Category</div>
+<!-- ===== TREND SECTION（增强专业感） ===== -->
+<h2 class="section-title">Industry Trends</h2>
 
-<div class="categories">
-  <a href="/oncology/" class="category-box">Oncology</a>
-  <a href="/rare-diseases/" class="category-box">Rare Diseases</a>
-  <a href="/supply-chain/" class="category-box">Supply Chain</a>
-  <a href="/regulatory/" class="category-box">Regulatory</a>
-</div>
-
-<!-- ===== SUPPLY CHAIN ===== -->
-<div class="section-title">Supply Chain & Global Access</div>
-
-<div class="grid">
-{% for post in site.categories.supply-chain limit:6 %}
-  <div class="card">
-    <a href="{{ post.url }}">
-      <img src="{{ post.image | default: '/assets/images/default.jpg' }}">
-    </a>
-    <div class="card-content">
-      <div class="card-title">
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </div>
-    </div>
+<div class="trend-grid">
+  <div class="trend-card">
+    <h3>Oncology Innovation</h3>
+    <p>ADC, CAR-T, KRAS, HER2</p>
   </div>
-{% endfor %}
-</div>
-
+  <div class="trend-card">
+    <h3>Rare Disease</h3>
+    <p>Gene Therapy, Enzyme Replacement</p>
+  </div>
+  <div class="trend-card">
+    <h3>Global Expansion</h3>
+    <p>MENA, Southeast Asia, China</p>
+  </div>
 </div>
