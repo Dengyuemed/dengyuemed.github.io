@@ -1,376 +1,188 @@
 ---
 layout: default
-title: DengYueMed | Global Pharmaceutical Intelligence
-description: Independent intelligence platform covering global oncology, rare diseases, regulatory strategy and pharmaceutical market access.
-nav_exclude: true
+title: Home
 ---
 
 <style>
+/* ===== MEDIA STYLE ===== */
 
-/* ===== Layout ===== */
-
-.main-content{
-max-width:1180px;
-margin:0 auto;
-padding:40px 20px 100px;
+.hero {
+  position: relative;
+  height: 420px;
+  background: url('/assets/images/her2-nsclc-cover.jpg') center/cover no-repeat;
+  border-radius: 12px;
+  margin-bottom: 30px;
 }
 
-/* ===== HERO（升级重点） ===== */
-
-.hero{
-display:grid;
-grid-template-columns:1.2fr 1fr;
-gap:40px;
-align-items:center;
-margin-bottom:60px;
+.hero-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 30px;
+  background: linear-gradient(transparent, rgba(0,0,0,0.75));
+  color: white;
 }
 
-@media(max-width:900px){
-.hero{
-grid-template-columns:1fr;
-}
-}
-
-.hero-title{
-font-size:42px;
-font-weight:800;
-line-height:1.2;
-margin-bottom:10px;
+.hero h1 {
+  font-size: 28px;
+  margin-bottom: 10px;
 }
 
-.hero-sub{
-font-size:18px;
-color:#555;
-margin-bottom:12px;
+.section-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 30px 0 15px;
+  border-left: 4px solid #2563eb;
+  padding-left: 10px;
 }
 
-.hero-tag{
-font-size:14px;
-color:#888;
-margin-bottom:18px;
+/* 卡片 */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
 }
 
-.hero-desc{
-font-size:15px;
-color:#555;
-line-height:1.6;
+.card {
+  border: 1px solid #eee;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+  transition: 0.2s;
 }
 
-.hero-img{
-width:100%;
-border-radius:18px;
-object-fit:cover;
+.card:hover {
+  transform: translateY(-4px);
 }
 
-/* ===== SECTION ===== */
-
-.section-title{
-font-size:22px;
-font-weight:700;
-margin-bottom:20px;
+.card img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
 }
 
-.section-divider{
-margin:60px 0;
-border-top:1px solid #eee;
+.card-content {
+  padding: 12px;
 }
 
-/* ===== FEATURED ===== */
-
-.featured-grid{
-display:grid;
-grid-template-columns:2fr 1fr;
-gap:30px;
+.card-title {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 6px;
 }
 
-@media(max-width:900px){
-.featured-grid{
-grid-template-columns:1fr;
-}
-}
-
-.featured-main{
-border:1px solid #eee;
-border-radius:18px;
-padding:28px;
+.card-meta {
+  font-size: 12px;
+  color: #666;
 }
 
-.featured-side{
-display:grid;
-gap:20px;
+/* 分类入口 */
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 12px;
 }
 
-.featured-item{
-border:1px solid #eee;
-padding:20px;
-border-radius:14px;
+.category-box {
+  padding: 20px;
+  border-radius: 10px;
+  background: #f5f7fa;
+  text-align: center;
+  font-weight: bold;
 }
 
-.featured-item a{
-font-weight:600;
+.category-box:hover {
+  background: #e0e7ff;
 }
-
-.date{
-font-size:12px;
-color:#999;
-}
-
-/* ===== LATEST ===== */
-
-.latest-grid{
-display:grid;
-grid-template-columns:repeat(3,1fr);
-gap:25px;
-}
-
-@media(max-width:900px){
-.latest-grid{
-grid-template-columns:1fr;
-}
-}
-
-.latest-card{
-border:1px solid #eee;
-padding:18px;
-border-radius:14px;
-}
-
-.latest-card a{
-font-weight:600;
-}
-
-/* ===== CATEGORY GRID ===== */
-
-.cat-grid{
-display:grid;
-grid-template-columns:repeat(4,1fr);
-gap:25px;
-}
-
-@media(max-width:900px){
-.cat-grid{
-grid-template-columns:1fr;
-}
-}
-
-.cat-card{
-border:1px solid #eee;
-padding:20px;
-border-radius:14px;
-}
-
-.cat-card h3{
-margin-top:0;
-font-size:18px;
-}
-
-/* ===== DATA PANEL（新增） ===== */
-
-.data-panel{
-display:grid;
-grid-template-columns:repeat(3,1fr);
-gap:25px;
-}
-
-@media(max-width:900px){
-.data-panel{
-grid-template-columns:1fr;
-}
-}
-
-.data-box{
-background:#fafafa;
-padding:25px;
-border-radius:16px;
-text-align:center;
-}
-
-.data-box h3{
-margin:0;
-font-size:28px;
-}
-
-.data-box p{
-margin:5px 0 0;
-font-size:13px;
-color:#666;
-}
-
-/* ===== FOOTER ===== */
-
-.footer{
-font-size:13px;
-color:#999;
-margin-top:50px;
-}
-
 </style>
 
 <!-- ===== HERO ===== -->
 
+{% assign latest = site.posts.first %}
+
 <div class="hero">
-
-<div>
-
-<h1 class="hero-title">
-Global Pharmaceutical Intelligence
-</h1>
-
-<p class="hero-sub">
-Oncology · Rare Diseases · Market Access · Policy Strategy
-</p>
-
-<p class="hero-tag">
-FDA · EMA · NMPA · Global Biopharma Markets
-</p>
-
-<p class="hero-desc">
-DengYueMed delivers independent insights on drug innovation, regulatory strategy, and pharmaceutical market access.  
-We analyze global oncology, rare disease therapies, and supply chain dynamics to support industry decision-making.
-</p>
-
+  <div class="hero-overlay">
+    <h1>
+      <a href="{{ latest.url }}" style="color:white;">
+        {{ latest.title }}
+      </a>
+    </h1>
+    <p>{{ latest.description }}</p>
+  </div>
 </div>
 
-<div>
-<img src="/assets/images/dengyuemed-company.png" class="hero-img">
-</div>
+<!-- ===== LATEST NEWS ===== -->
 
-</div>
+<div class="section-title">Latest Insights</div>
 
-<hr class="section-divider">
+<div class="card-grid">
+{% for post in site.posts limit:6 %}
+  <div class="card">
+    <a href="{{ post.url }}">
+      <img src="{{ post.image | default: '/assets/images/default.jpg' }}">
+    </a>
+    <div class="card-content">
+      <div class="card-title">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </div>
+      <div class="card-meta">
+        {{ post.date | date: "%b %d, %Y" }}
+      </div>
+    </div>
+  </div>
+{% endfor %}
+</div>
 
 <!-- ===== FEATURED ===== -->
 
-<h2 class="section-title">Featured Analysis</h2>
+<div class="section-title">Featured Analysis</div>
 
-{% assign posts = site.posts | sort:"date" | reverse %}
-
-<div class="featured-grid">
-
-<div class="featured-main">
-
-<h2>
-<a href="{{ posts[0].url }}">{{ posts[0].title }}</a>
-</h2>
-
-<p class="date">
-{{ posts[0].date | date:"%B %d, %Y" }}
-</p>
-
-<p>{{ posts[0].excerpt }}</p>
-
-<p><a href="{{ posts[0].url }}">Read Full Analysis →</a></p>
-
-</div>
-
-<div class="featured-side">
-
-{% for post in posts offset:1 limit:3 %}
-
-<div class="featured-item">
-<a href="{{ post.url }}">{{ post.title }}</a>
-<div class="date">{{ post.date | date:"%B %d, %Y" }}</div>
-</div>
-
+<div class="card-grid">
+{% for post in site.posts %}
+  {% if post.tags contains "analysis" %}
+  <div class="card">
+    <a href="{{ post.url }}">
+      <img src="{{ post.image }}">
+    </a>
+    <div class="card-content">
+      <div class="card-title">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </div>
+    </div>
+  </div>
+  {% endif %}
 {% endfor %}
-
 </div>
 
+<!-- ===== CATEGORIES ===== -->
+
+<div class="section-title">Explore by Category</div>
+
+<div class="category-grid">
+  <a href="/oncology/" class="category-box">Oncology</a>
+  <a href="/rare-diseases/" class="category-box">Rare Diseases</a>
+  <a href="/supply-chain/" class="category-box">Supply Chain</a>
+  <a href="/regulatory/" class="category-box">Regulatory</a>
 </div>
 
-<hr class="section-divider">
+<!-- ===== SUPPLY CHAIN / INSIGHTS ===== -->
 
-<!-- ===== DATA PANEL（增强专业感） ===== -->
+<div class="section-title">Supply Chain & Global Access</div>
 
-<div class="data-panel">
-
-<div class="data-box">
-<h3>20+</h3>
-<p>Rare Disease Drugs Approved (Mar 2026)</p>
-</div>
-
-<div class="data-box">
-<h3>70%+</h3>
-<p>ORR in Next-Gen Targeted Therapies</p>
-</div>
-
-<div class="data-box">
-<h3>3–5%</h3>
-<p>HER2 Mutation Rate in NSCLC</p>
-</div>
-
-</div>
-
-<hr class="section-divider">
-
-<!-- ===== LATEST ===== -->
-
-<h2 class="section-title">Latest Insights</h2>
-
-<div class="latest-grid">
-
-{% for post in posts limit:6 %}
-
-<div class="latest-card">
-
-<a href="{{ post.url }}">{{ post.title }}</a>
-
-<div class="date">
-{{ post.date | date:"%B %d, %Y" }}
-</div>
-
-</div>
-
+<div class="card-grid">
+{% for post in site.posts %}
+  {% if post.categories contains "supply-chain" %}
+  <div class="card">
+    <a href="{{ post.url }}">
+      <img src="{{ post.image }}">
+    </a>
+    <div class="card-content">
+      <div class="card-title">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </div>
+    </div>
+  </div>
+  {% endif %}
 {% endfor %}
-
 </div>
-
-<hr class="section-divider">
-
-<!-- ===== CATEGORY ===== -->
-
-<div class="cat-grid">
-
-<div class="cat-card">
-<h3>Oncology</h3>
-<ul>
-<li><a href="/oncology/">Targeted Therapy</a></li>
-<li><a href="/oncology/">Immunotherapy</a></li>
-<li><a href="/oncology/">ADC / KRAS</a></li>
-</ul>
-</div>
-
-<div class="cat-card">
-<h3>Rare Diseases</h3>
-<ul>
-<li><a href="/rare-diseases/">Gene Therapy</a></li>
-<li><a href="/rare-diseases/">Metabolic Disorders</a></li>
-<li><a href="/rare-diseases/">Neurology</a></li>
-</ul>
-</div>
-
-<div class="cat-card">
-<h3>Regulatory</h3>
-<ul>
-<li><a href="/regulatory/">FDA</a></li>
-<li><a href="/regulatory/">EMA</a></li>
-<li><a href="/regulatory/">NMPA</a></li>
-</ul>
-</div>
-
-<div class="cat-card">
-<h3>Supply Chain</h3>
-<ul>
-<li><a href="/supply-chain/">Global Distribution</a></li>
-<li><a href="/supply-chain/">API Manufacturing</a></li>
-<li><a href="/supply-chain/">Access Strategy</a></li>
-</ul>
-</div>
-
-</div>
-
-<hr class="section-divider">
-
-<p class="footer">
-© {{ site.time | date:"%Y" }} DengYueMed · Global Pharmaceutical Intelligence Platform
-</p>
