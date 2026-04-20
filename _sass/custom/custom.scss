@@ -1,0 +1,82 @@
+.home-container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+/* HERO */
+.hero {
+  position: relative;
+  margin-bottom: 40px;
+}
+
+.hero-img {
+  width: 100%;
+  border-radius: 12px;
+}
+
+.hero-overlay {
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+  color: white;
+  max-width: 600px;
+}
+
+.hero-overlay h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+/* GRID */
+.post-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.card-content {
+  padding: 10px 0;
+}
+
+.card h3 {
+  font-size: 18px;
+}
+
+/* TRENDING */
+.trending-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.trend-item {
+  padding: 10px 0;
+  border-bottom: 1px solid #eee;
+}
+
+/* CATEGORY */
+.cat-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+.cat {
+  padding: 20px;
+  text-align: center;
+  background: #f5f7fa;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+/* ABOUT */
+.about {
+  margin-top: 50px;
+  padding: 30px;
+  background: #f9f9f9;
+  border-radius: 10px;
+}
