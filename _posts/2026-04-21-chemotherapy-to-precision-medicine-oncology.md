@@ -8,7 +8,7 @@ description: "A deep analysis of how cancer treatment evolved from cytotoxic che
 image: /assets/images/precision-medicine-cover.jpeg
 ---
 
-#From the Chemotherapy Era to the Precision Medicine Era: What Has Changed in Medical Logic?
+# From the Chemotherapy Era to the Precision Medicine Era: What Has Changed in Medical Logic?
 
 Throughout humanity’s long battle against [cancer](https://dengyuemed.github.io/oncology/), the medical paradigm has undergone a profound and continuous transformation. From the early chemotherapy era—centered on broad, non-specific cytotoxicity—to today’s precision medicine era, which emphasizes targeted intervention, this shift represents not only technological advancement but also a fundamental reconstruction of underlying medical logic.
 
