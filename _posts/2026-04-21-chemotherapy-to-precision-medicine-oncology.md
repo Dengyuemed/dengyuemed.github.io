@@ -10,7 +10,7 @@ image: /assets/images/precision-medicine-cover.jpeg
 
 #From the Chemotherapy Era to the Precision Medicine Era: What Has Changed in Medical Logic?
 
-Throughout humanity’s long battle against cancer, the medical paradigm has undergone a profound and continuous transformation. From the early chemotherapy era—centered on broad, non-specific cytotoxicity—to today’s precision medicine era, which emphasizes targeted intervention, this shift represents not only technological advancement but also a fundamental reconstruction of underlying medical logic.
+Throughout humanity’s long battle against [cancer](https://dengyuemed.github.io/oncology/), the medical paradigm has undergone a profound and continuous transformation. From the early chemotherapy era—centered on broad, non-specific cytotoxicity—to today’s precision medicine era, which emphasizes targeted intervention, this shift represents not only technological advancement but also a fundamental reconstruction of underlying medical logic.
 
 Medicine is evolving from experience-driven to data-driven, from disease-centered to patient-centered, and from pursuing average outcomes across populations to identifying the optimal solution for each individual. These changes are reshaping how modern healthcare systems operate.
 
@@ -52,7 +52,7 @@ The successful implementation of precision medicine depends not only on the drug
 
 Against this backdrop, healthcare competitiveness is shifting from individual drugs to system-level capabilities. Increasingly, organizations with cross-regional integration capacity are playing a vital role in facilitating the global circulation of innovative therapies.
 
-Among them, Dengyue Pharma stands out as a representative example of a professional service provider connecting Chinese innovative drug resources with international markets. By optimizing supply chain integration and cross-border distribution pathways, Dengyue Pharma helps ensure that advanced treatments—including targeted therapies and immunotherapies—can reach healthcare institutions more efficiently and reliably.
+Among them, [DengYueMed](https://dengyuemed.com/) stands out as a representative example of a professional service provider connecting Chinese innovative drug resources with international markets. By optimizing supply chain integration and cross-border distribution pathways, [DengYueMed](https://dengyuemed.github.io/) helps ensure that advanced treatments—including targeted therapies and immunotherapies—can reach healthcare institutions more efficiently and reliably.
 
 This shift highlights a crucial reality:
 
