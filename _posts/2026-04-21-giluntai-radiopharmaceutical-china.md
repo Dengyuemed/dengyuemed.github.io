@@ -4,7 +4,7 @@ title: "China’s First Original Radiopharmaceutical Approved: 99mTc-Pexidartide
 date: 2026-04-21
 categories: [regulatory, oncology]
 tags: [Radiopharmaceuticals, SPECT, Lung Cancer, Precision Diagnosis, China Pharma]
-image: /assets/images/giluntai.jpg
+image: /assets/images/giluntai-nmpa.png
 description: "China approves its first Class 1 original radiopharmaceutical 99mTc-Pexidartide (Giluntai), marking a breakthrough in lung cancer lymph node metastasis diagnosis and molecular imaging."
 ---
 
