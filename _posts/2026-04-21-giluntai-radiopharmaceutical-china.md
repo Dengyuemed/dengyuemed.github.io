@@ -23,7 +23,7 @@ This marks:
 
 ## Clinical Challenge: Lymph Node Metastasis in Lung Cancer
 
-Lung cancer remains one of the leading causes of cancer-related mortality globally.
+[Lung cancer](https://dengyuemed.com/product/lung-cancer/) remains one of the leading causes of cancer-related mortality globally.
 
 👉 A critical issue:
 
