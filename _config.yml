@@ -25,16 +25,6 @@ just_the_docs:
   custom_css:
     - custom
 
-# ===== Navigation =====
-
-header_pages:
-  - oncology.md
-  - rare-diseases.md
-  - supply-chain.md
-  - regulatory.md
-  - about.md
-  - contact.md
-
 # ===== Plugins =====
 
 plugins:
