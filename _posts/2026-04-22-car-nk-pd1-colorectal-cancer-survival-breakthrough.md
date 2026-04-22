@@ -10,7 +10,7 @@ image: /assets/images/car-nk-pd1.png
 
 Breakthrough with CAR-NK Plus PD-1: Survival in Advanced Colorectal Cancer Exceeds 700 Days
 
-In the treatment of advanced colorectal cancer (CRC), limited efficacy and high resistance rates have long posed major challenges. After failure of multiple lines of therapy, the median overall survival (OS) for patients is often less than one year, leaving very few effective treatment options.
+In the [treatment of advanced colorectal cancer (CRC)](https://dengyuemed.com/product/colorectal-cancer/), limited efficacy and high resistance rates have long posed major challenges. After failure of multiple lines of therapy, the median overall survival (OS) for patients is often less than one year, leaving very few effective treatment options.
 
 Against this backdrop, a recent study on CAR-NK combined with PD-1 immunotherapy has delivered a notable breakthrough—some patients achieved an overall survival exceeding 700 days, reshaping current understanding of immunotherapy in advanced CRC.
 
@@ -91,7 +91,7 @@ Compared with the severe toxicities often associated with CAR-T therapy, CAR-NK 
 
 Industry Implications: A New Path for Solid Tumor Cell Therapy
 
-While CAR-T has achieved success in hematologic malignancies, progress in solid tumors has been limited.
+While CAR-T has achieved success in [hematologic malignancies](https://dengyuepharma.com/product-categorie/hematologia/), progress in solid tumors has been limited.
 
 The emergence of CAR-NK combined with PD-1 offers a new solution:
 ● Enables off-the-shelf cell therapy approaches  
@@ -100,7 +100,7 @@ The emergence of CAR-NK combined with PD-1 offers a new solution:
 
 This strategy is rapidly becoming a global research focus and is widely regarded as a key direction for next-generation immunotherapy.
 
-At the same time, as innovative therapies like CAR-NK enter clinical practice, demand for cross-border access, compliant drug supply, and patient support is increasing. Service platforms such as Dengyue Pharma are playing an increasingly important role in helping patients access cutting-edge treatments more efficiently.
+At the same time, as innovative therapies like CAR-NK enter clinical practice, demand for cross-border access, compliant drug supply, and patient support is increasing. Service platforms such as [DengYueMed](https://dengyuemed.github.io/) are playing an increasingly important role in helping patients access cutting-edge treatments more efficiently.
 
 Future Outlook: Combination Therapy as the New Standard
 
