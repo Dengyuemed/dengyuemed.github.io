@@ -8,8 +8,6 @@ image: /assets/images/bispecific-antibody-mechanism.png
 description: "Bispecific antibodies are rapidly becoming a core platform in cancer immunotherapy, with breakthroughs in both hematologic malignancies and solid tumors."
 ---
 
-# Bispecific Antibodies Surge in 2026: From Hematologic Malignancies to Solid Tumors — New Data on T-Cell Engagers and Multispecific Antibodies
-
 As we enter 2026, bispecific antibodies (BsAbs) are rapidly transitioning from an innovation-driven modality to a mainstream clinical tool. Represented by T-cell engagers (TCEs), these therapies are reshaping the landscape of cancer immunotherapy—establishing standardized use in hematologic malignancies while achieving meaningful breakthroughs in solid tumors.  
 According to recent market forecasts, [Dengyue](https://dengyuemed.com/) finds that the global T-cell engager market is expected to grow from approximately $1.6 billion in 2025 to $1.94 billion in 2026, with sustained high growth projected through 2030. This expansion is driven not only by the commercialization of approved agents, but also by continued innovation in multispecific antibody design and combination strategies.  
 Compared with conventional monoclonal antibodies, BsAbs simultaneously bind tumor-associated antigens and immune effector cells (e.g., CD3), enabling precise T-cell redirection and cytotoxicity. This mechanism significantly enhances tumor cell killing while reducing the risk of antigen escape–mediated resistance.
