@@ -6,47 +6,91 @@ nav_exclude: true
 ---
 
 <style>
+
 /* ===== HERO ===== */
 .hero {
   position: relative;
-  height: 460px;
+  height: 420px;
+  background: url('/assets/images/her2-nsclc-cover.jpg') center/cover no-repeat;
   border-radius: 14px;
-  overflow: hidden;
-  margin-bottom: 30px;
-}
-.hero img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+  margin-bottom: 40px;
 }
 .hero-overlay {
   position: absolute;
   bottom: 0;
   padding: 30px;
-  background: linear-gradient(transparent, rgba(0,0,0,0.85));
+  background: linear-gradient(transparent, rgba(0,0,0,0.75));
   color: #fff;
 }
 .hero h1 {
   font-size: 30px;
-  margin: 0;
 }
 
-/* ===== SECTION ===== */
-.section-title {
-  font-size: 20px;
-  margin: 35px 0 15px;
-  border-left: 4px solid #2563eb;
-  padding-left: 10px;
+/* ===== TABS ===== */
+.tabs {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+.tab-btn {
+  padding: 8px 16px;
+  border-radius: 20px;
+  background: #f3f4f6;
+  cursor: pointer;
+  font-size: 14px;
+  transition: 0.2s;
+}
+.tab-btn.active {
+  background: #2563eb;
+  color: white;
+}
+
+/* ===== CONTENT ===== */
+.tab-content {
+  display: none;
+}
+.tab-content.active {
+  display: block;
+}
+
+/* ===== FEATURE CARD ===== */
+.feature-card {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+.feature-card img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+.feature-text h2 {
+  margin: 0;
+  font-size: 22px;
+}
+.meta {
+  font-size: 12px;
+  color: #888;
+  margin: 8px 0;
+}
+.tag {
+  display: inline-block;
+  font-size: 11px;
+  background: #e5e7eb;
+  padding: 3px 8px;
+  border-radius: 6px;
+  margin-right: 6px;
 }
 
 /* ===== GRID ===== */
-.grid-3 {
+.grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 18px;
 }
-
-/* ===== CARD ===== */
 .card {
   border: 1px solid #eee;
   border-radius: 10px;
@@ -58,154 +102,136 @@ nav_exclude: true
 }
 .card img {
   width: 100%;
-  height: 160px;
+  height: 150px;
   object-fit: cover;
 }
 .card-content {
   padding: 12px;
 }
-
-/* ===== LIST ===== */
-.small-list a {
-  display: block;
-  margin-bottom: 10px;
+.card-content strong {
+  font-size: 14px;
 }
 
-/* ===== TABS ===== */
-.tabs {
-  display: flex;
-  gap: 10px;
-  margin-bottom: 15px;
-  flex-wrap: wrap;
+/* ===== RESPONSIVE ===== */
+@media (max-width: 900px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+  .feature-card {
+    grid-template-columns: 1fr;
+  }
 }
 
-.tab-btn {
-  padding: 6px 14px;
-  border: 1px solid #ddd;
-  background: #f9f9f9;
-  cursor: pointer;
-  border-radius: 6px;
-}
-
-.tab-btn.active {
-  background: #2563eb;
-  color: white;
-  border-color: #2563eb;
-}
-
-.tab-pane {
-  display: none;
-}
-
-.tab-pane.active {
-  display: block;
-}
 </style>
 
 <!-- ================= HERO ================= -->
-{% assign hero = site.posts.first %}
+{% assign latest = site.posts.first %}
+
 <div class="hero">
-  <img src="{{ hero.image | default: '/assets/images/default.jpg' }}">
   <div class="hero-overlay">
-    <h1><a href="{{ hero.url }}" style="color:white;">{{ hero.title }}</a></h1>
-    <p>{{ hero.excerpt | strip_html | truncate: 120 }}</p>
+    <h1><a href="{{ latest.url }}" style="color:white;">{{ latest.title }}</a></h1>
+    <p>{{ latest.description }}</p>
   </div>
 </div>
 
-<!-- ================= CATEGORY TABS ================= -->
-<h2 class="section-title">Explore</h2>
-
+<!-- ================= TABS ================= -->
 <div class="tabs">
-  <button class="tab-btn active" onclick="showTab(event,'oncology')">Oncology</button>
-  <button class="tab-btn" onclick="showTab(event,'therapeutics')">Therapeutics</button>
-  <button class="tab-btn" onclick="showTab(event,'rare')">Rare Diseases</button>
-  <button class="tab-btn" onclick="showTab(event,'regulatory')">Regulatory</button>
-  <button class="tab-btn" onclick="showTab(event,'supply')">Supply Chain</button>
+  <div class="tab-btn active" onclick="showTab('all')">All</div>
+  <div class="tab-btn" onclick="showTab('oncology')">Oncology</div>
+  <div class="tab-btn" onclick="showTab('rare')">Rare Diseases</div>
+  <div class="tab-btn" onclick="showTab('cell')">Cell & Gene</div>
+  <div class="tab-btn" onclick="showTab('policy')">Policy & Access</div>
+  <div class="tab-btn" onclick="showTab('frontier')">Frontier Tech</div>
 </div>
 
-<div class="tab-content">
+<!-- ================= ALL ================= -->
+<div id="all" class="tab-content active">
 
-  <div id="oncology" class="tab-pane active">
-    {% for post in site.categories.oncology limit:6 %}
-      <div class="small-list">
-        <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
-      </div>
-    {% endfor %}
-  </div>
+  {% assign featured = site.posts[1] %}
 
-  <div id="therapeutics" class="tab-pane">
-    {% for post in site.categories.therapeutics limit:6 %}
-      <div class="small-list">
-        <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
-      </div>
-    {% endfor %}
-  </div>
-
-  <div id="rare" class="tab-pane">
-    {% for post in site.categories.rare-diseases limit:6 %}
-      <div class="small-list">
-        <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
-      </div>
-    {% endfor %}
-  </div>
-
-  <div id="regulatory" class="tab-pane">
-    {% for post in site.categories.regulatory limit:6 %}
-      <div class="small-list">
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </div>
-    {% endfor %}
-  </div>
-
-  <div id="supply" class="tab-pane">
-    {% for post in site.categories.supply-chain limit:6 %}
-      <div class="small-list">
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </div>
-    {% endfor %}
-  </div>
-
-</div>
-
-<!-- ================= LATEST ================= -->
-<h2 class="section-title">Latest</h2>
-
-<div class="grid-3">
-  {% for post in site.posts limit:6 offset:1 %}
-  <div class="card">
-    <a href="{{ post.url }}">
-      <img src="{{ post.image | default: '/assets/images/default.jpg' }}">
+  <div class="feature-card">
+    <a href="{{ featured.url }}">
+      <img src="{{ featured.image | default: '/assets/images/default.jpg' }}">
     </a>
-    <div class="card-content">
-      <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
-      <p>{{ post.excerpt | strip_html | truncate: 80 }}</p>
+    <div class="feature-text">
+      <div class="meta">
+        <span class="tag">Featured</span>
+        {{ featured.date | date: "%b %d, %Y" }}
+      </div>
+      <h2><a href="{{ featured.url }}">{{ featured.title }}</a></h2>
+      <p>{{ featured.excerpt | strip_html | truncate: 120 }}</p>
     </div>
   </div>
-  {% endfor %}
+
+  <div class="grid">
+    {% for post in site.posts offset:2 limit:6 %}
+    <div class="card">
+      <a href="{{ post.url }}">
+        <img src="{{ post.image | default: '/assets/images/default.jpg' }}">
+      </a>
+      <div class="card-content">
+        <div class="meta">
+          <span class="tag">{{ post.categories[0] }}</span>
+        </div>
+        <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
 </div>
 
-<!-- ================= FEATURED ================= -->
-<h2 class="section-title">Featured Analysis</h2>
+<!-- ================= CATEGORY TEMPLATE ================= -->
+{% assign categories = "oncology,rare-diseases,cell-gene,policy,frontier-tech" | split: "," %}
 
-<div class="grid-3">
-  {% assign featured = site.posts | where_exp: "post", "post.tags contains 'analysis'" %}
-  {% for post in featured limit:3 %}
-  <div class="card">
-    <img src="{{ post.image | default: '/assets/images/default.jpg' }}">
-    <div class="card-content">
-      <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+{% for cat in categories %}
+<div id="{{ cat | replace: '-', '' }}" class="tab-content">
+
+  {% assign posts = site.categories[cat] %}
+
+  {% if posts.size > 0 %}
+
+  <div class="feature-card">
+    <a href="{{ posts[0].url }}">
+      <img src="{{ posts[0].image | default: '/assets/images/default.jpg' }}">
+    </a>
+    <div class="feature-text">
+      <div class="meta">
+        <span class="tag">{{ cat }}</span>
+        {{ posts[0].date | date: "%b %d, %Y" }}
+      </div>
+      <h2><a href="{{ posts[0].url }}">{{ posts[0].title }}</a></h2>
+      <p>{{ posts[0].excerpt | strip_html | truncate: 120 }}</p>
     </div>
   </div>
-  {% endfor %}
-</div>
 
-<!-- ================= JS ================= -->
+  <div class="grid">
+    {% for post in posts offset:1 limit:6 %}
+    <div class="card">
+      <a href="{{ post.url }}">
+        <img src="{{ post.image | default: '/assets/images/default.jpg' }}">
+      </a>
+      <div class="card-content">
+        <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  {% else %}
+  <p>No content yet.</p>
+  {% endif %}
+
+</div>
+{% endfor %}
+
+<!-- ================= SCRIPT ================= -->
 <script>
-function showTab(event, tabId) {
-  document.querySelectorAll('.tab-pane').forEach(el => el.classList.remove('active'));
+function showTab(tab) {
+  document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
   document.querySelectorAll('.tab-btn').forEach(el => el.classList.remove('active'));
 
-  document.getElementById(tabId).classList.add('active');
-  event.currentTarget.classList.add('active');
+  document.getElementById(tab.replace('-', '')).classList.add('active');
+  event.target.classList.add('active');
 }
 </script>
