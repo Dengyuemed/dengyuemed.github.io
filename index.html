@@ -6,6 +6,7 @@ nav_exclude: true
 ---
 
 <style>
+/* ===== HERO ===== */
 .hero {
   position: relative;
   height: 460px;
@@ -22,13 +23,15 @@ nav_exclude: true
   position: absolute;
   bottom: 0;
   padding: 30px;
-  background: linear-gradient(transparent, rgba(0,0,0,0.8));
+  background: linear-gradient(transparent, rgba(0,0,0,0.85));
   color: #fff;
 }
 .hero h1 {
   font-size: 30px;
+  margin: 0;
 }
 
+/* ===== SECTION ===== */
 .section-title {
   font-size: 20px;
   margin: 35px 0 15px;
@@ -36,18 +39,14 @@ nav_exclude: true
   padding-left: 10px;
 }
 
-.grid-2 {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 25px;
-}
-
+/* ===== GRID ===== */
 .grid-3 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 18px;
 }
 
+/* ===== CARD ===== */
 .card {
   border: 1px solid #eee;
   border-radius: 10px;
@@ -65,9 +64,41 @@ nav_exclude: true
 .card-content {
   padding: 12px;
 }
+
+/* ===== LIST ===== */
 .small-list a {
   display: block;
   margin-bottom: 10px;
+}
+
+/* ===== TABS ===== */
+.tabs {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+  flex-wrap: wrap;
+}
+
+.tab-btn {
+  padding: 6px 14px;
+  border: 1px solid #ddd;
+  background: #f9f9f9;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.tab-btn.active {
+  background: #2563eb;
+  color: white;
+  border-color: #2563eb;
+}
+
+.tab-pane {
+  display: none;
+}
+
+.tab-pane.active {
+  display: block;
 }
 </style>
 
@@ -81,25 +112,55 @@ nav_exclude: true
   </div>
 </div>
 
-<!-- ================= DUAL CORE ================= -->
-<div class="grid-2">
+<!-- ================= CATEGORY TABS ================= -->
+<h2 class="section-title">Explore</h2>
 
-  <!-- Oncology -->
-  <div>
-    <h2 class="section-title">Oncology</h2>
-    {% for post in site.categories.oncology limit:4 %}
+<div class="tabs">
+  <button class="tab-btn active" onclick="showTab(event,'oncology')">Oncology</button>
+  <button class="tab-btn" onclick="showTab(event,'therapeutics')">Therapeutics</button>
+  <button class="tab-btn" onclick="showTab(event,'rare')">Rare Diseases</button>
+  <button class="tab-btn" onclick="showTab(event,'regulatory')">Regulatory</button>
+  <button class="tab-btn" onclick="showTab(event,'supply')">Supply Chain</button>
+</div>
+
+<div class="tab-content">
+
+  <div id="oncology" class="tab-pane active">
+    {% for post in site.categories.oncology limit:6 %}
       <div class="small-list">
         <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
       </div>
     {% endfor %}
   </div>
 
-  <!-- Therapeutics -->
-  <div>
-    <h2 class="section-title">Therapeutics</h2>
-    {% for post in site.categories.therapeutics limit:4 %}
+  <div id="therapeutics" class="tab-pane">
+    {% for post in site.categories.therapeutics limit:6 %}
       <div class="small-list">
         <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+      </div>
+    {% endfor %}
+  </div>
+
+  <div id="rare" class="tab-pane">
+    {% for post in site.categories.rare-diseases limit:6 %}
+      <div class="small-list">
+        <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+      </div>
+    {% endfor %}
+  </div>
+
+  <div id="regulatory" class="tab-pane">
+    {% for post in site.categories.regulatory limit:6 %}
+      <div class="small-list">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </div>
+    {% endfor %}
+  </div>
+
+  <div id="supply" class="tab-pane">
+    {% for post in site.categories.supply-chain limit:6 %}
+      <div class="small-list">
+        <a href="{{ post.url }}">{{ post.title }}</a>
       </div>
     {% endfor %}
   </div>
@@ -123,31 +184,6 @@ nav_exclude: true
   {% endfor %}
 </div>
 
-<!-- ================= INSIGHTS ================= -->
-<div class="grid-2">
-
-  <!-- Regulatory -->
-  <div>
-    <h2 class="section-title">Regulatory</h2>
-    {% for post in site.categories.regulatory limit:4 %}
-      <div class="small-list">
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </div>
-    {% endfor %}
-  </div>
-
-  <!-- Supply Chain -->
-  <div>
-    <h2 class="section-title">Supply Chain</h2>
-    {% for post in site.categories.supply-chain limit:4 %}
-      <div class="small-list">
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </div>
-    {% endfor %}
-  </div>
-
-</div>
-
 <!-- ================= FEATURED ================= -->
 <h2 class="section-title">Featured Analysis</h2>
 
@@ -162,3 +198,14 @@ nav_exclude: true
   </div>
   {% endfor %}
 </div>
+
+<!-- ================= JS ================= -->
+<script>
+function showTab(event, tabId) {
+  document.querySelectorAll('.tab-pane').forEach(el => el.classList.remove('active'));
+  document.querySelectorAll('.tab-btn').forEach(el => el.classList.remove('active'));
+
+  document.getElementById(tabId).classList.add('active');
+  event.currentTarget.classList.add('active');
+}
+</script>
