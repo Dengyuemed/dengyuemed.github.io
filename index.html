@@ -6,20 +6,12 @@ nav_exclude: true
 ---
 
 <style>
-
-/* ===== LAYOUT ===== */
-.main-grid {
-  display: grid;
-  grid-template-columns: 2.5fr 1fr;
-  gap: 30px;
-}
-
-/* ===== HERO ===== */
 .hero {
   position: relative;
-  height: 420px;
+  height: 460px;
   border-radius: 14px;
   overflow: hidden;
+  margin-bottom: 30px;
 }
 .hero img {
   width: 100%;
@@ -30,20 +22,40 @@ nav_exclude: true
   position: absolute;
   bottom: 0;
   padding: 30px;
-  width: 100%;
-  background: linear-gradient(transparent, rgba(0,0,0,0.85));
-  color: white;
+  background: linear-gradient(transparent, rgba(0,0,0,0.8));
+  color: #fff;
 }
-.hero-overlay h1 {
+.hero h1 {
   font-size: 30px;
 }
 
-/* ===== CARDS ===== */
+.section-title {
+  font-size: 20px;
+  margin: 35px 0 15px;
+  border-left: 4px solid #2563eb;
+  padding-left: 10px;
+}
+
+.grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 25px;
+}
+
+.grid-3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+}
+
 .card {
   border: 1px solid #eee;
   border-radius: 10px;
   overflow: hidden;
-  background: #fff;
+  transition: 0.2s;
+}
+.card:hover {
+  transform: translateY(-4px);
 }
 .card img {
   width: 100%;
@@ -53,148 +65,100 @@ nav_exclude: true
 .card-content {
   padding: 12px;
 }
-
-/* ===== GRID ===== */
-.grid-2 {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 15px;
-}
-
-/* ===== SIDEBAR ===== */
-.sidebar-section {
-  margin-bottom: 30px;
-}
-.sidebar-section h3 {
-  font-size: 16px;
-  margin-bottom: 10px;
-  border-bottom: 2px solid #2563eb;
-}
-.sidebar-section a {
+.small-list a {
   display: block;
-  padding: 8px 0;
-  font-size: 14px;
-  border-bottom: 1px solid #eee;
+  margin-bottom: 10px;
 }
-
-/* ===== SECTION ===== */
-.section-title {
-  font-size: 22px;
-  margin: 30px 0 15px;
-  border-left: 4px solid #2563eb;
-  padding-left: 10px;
-}
-
-/* ===== TAG ===== */
-.tag {
-  display: inline-block;
-  background: #eef2ff;
-  padding: 4px 8px;
-  margin: 4px;
-  border-radius: 6px;
-  font-size: 12px;
-}
-
 </style>
 
-{% assign latest = site.posts.first %}
-
-<div class="main-grid">
-
-<!-- ================= LEFT ================= -->
-<div>
-
-  <!-- HERO -->
-  <div class="hero">
-    <img src="{{ latest.image | default: '/assets/images/default.jpg' }}">
-    <div class="hero-overlay">
-      <h1><a href="{{ latest.url }}" style="color:white;">{{ latest.title }}</a></h1>
-      <p>{{ latest.description }}</p>
-    </div>
+<!-- ================= HERO ================= -->
+{% assign hero = site.posts.first %}
+<div class="hero">
+  <img src="{{ hero.image | default: '/assets/images/default.jpg' }}">
+  <div class="hero-overlay">
+    <h1><a href="{{ hero.url }}" style="color:white;">{{ hero.title }}</a></h1>
+    <p>{{ hero.excerpt | strip_html | truncate: 120 }}</p>
   </div>
+</div>
 
-  <!-- SECONDARY STORIES -->
-  <h2 class="section-title">Top Stories</h2>
+<!-- ================= DUAL CORE ================= -->
+<div class="grid-2">
 
-  <div class="grid-2">
-    {% for post in site.posts offset:1 limit:2 %}
-    <div class="card">
-      <a href="{{ post.url }}">
-        <img src="{{ post.image | default: '/assets/images/default.jpg' }}">
-      </a>
-      <div class="card-content">
+  <!-- Oncology -->
+  <div>
+    <h2 class="section-title">Oncology</h2>
+    {% for post in site.categories.oncology limit:4 %}
+      <div class="small-list">
         <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
       </div>
-    </div>
     {% endfor %}
   </div>
 
-  <!-- LATEST -->
-  <h2 class="section-title">Latest Coverage</h2>
+  <!-- Therapeutics -->
+  <div>
+    <h2 class="section-title">Therapeutics</h2>
+    {% for post in site.categories.therapeutics limit:4 %}
+      <div class="small-list">
+        <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+      </div>
+    {% endfor %}
+  </div>
 
-  {% for post in site.posts offset:3 limit:6 %}
-    <div style="margin-bottom:15px;">
-      <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a><br>
-      <small>{{ post.excerpt | strip_html | truncate: 120 }}</small>
-    </div>
-  {% endfor %}
+</div>
 
-  <!-- ANALYSIS -->
-  <h2 class="section-title">In-Depth Analysis</h2>
+<!-- ================= LATEST ================= -->
+<h2 class="section-title">Latest</h2>
 
-  <div class="grid-2">
-    {% for post in site.posts limit:4 %}
-    <div class="card">
+<div class="grid-3">
+  {% for post in site.posts limit:6 offset:1 %}
+  <div class="card">
+    <a href="{{ post.url }}">
       <img src="{{ post.image | default: '/assets/images/default.jpg' }}">
-      <div class="card-content">
+    </a>
+    <div class="card-content">
+      <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+      <p>{{ post.excerpt | strip_html | truncate: 80 }}</p>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<!-- ================= INSIGHTS ================= -->
+<div class="grid-2">
+
+  <!-- Regulatory -->
+  <div>
+    <h2 class="section-title">Regulatory</h2>
+    {% for post in site.categories.regulatory limit:4 %}
+      <div class="small-list">
         <a href="{{ post.url }}">{{ post.title }}</a>
       </div>
+    {% endfor %}
+  </div>
+
+  <!-- Supply Chain -->
+  <div>
+    <h2 class="section-title">Supply Chain</h2>
+    {% for post in site.categories.supply-chain limit:4 %}
+      <div class="small-list">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </div>
+    {% endfor %}
+  </div>
+
+</div>
+
+<!-- ================= FEATURED ================= -->
+<h2 class="section-title">Featured Analysis</h2>
+
+<div class="grid-3">
+  {% assign featured = site.posts | where_exp: "post", "post.tags contains 'analysis'" %}
+  {% for post in featured limit:3 %}
+  <div class="card">
+    <img src="{{ post.image | default: '/assets/images/default.jpg' }}">
+    <div class="card-content">
+      <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
     </div>
-    {% endfor %}
   </div>
-
-</div>
-
-<!-- ================= RIGHT SIDEBAR ================= -->
-<div>
-
-  <!-- TRENDING -->
-  <div class="sidebar-section">
-    <h3>Trending</h3>
-    {% assign sorted = site.posts | sort: 'date' | reverse %}
-    {% for post in sorted limit:6 %}
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    {% endfor %}
-  </div>
-
-  <!-- CATEGORIES -->
-  <div class="sidebar-section">
-    <h3>Categories</h3>
-    <a href="/oncology/">Oncology</a>
-    <a href="/rare-diseases/">Rare Diseases</a>
-    <a href="/regulatory/">Regulatory</a>
-    <a href="/supply-chain/">Supply Chain</a>
-  </div>
-
-  <!-- HOT TOPICS -->
-  <div class="sidebar-section">
-    <h3>Hot Topics</h3>
-    <span class="tag">KRAS</span>
-    <span class="tag">HER2</span>
-    <span class="tag">ADC</span>
-    <span class="tag">CAR-T</span>
-    <span class="tag">Gene Therapy</span>
-    <span class="tag">Rare Diseases</span>
-  </div>
-
-  <!-- ABOUT -->
-  <div class="sidebar-section">
-    <h3>About</h3>
-    <p style="font-size:13px;">
-      DengYueMed provides independent intelligence on global oncology, rare diseases, and pharmaceutical market access.
-    </p>
-  </div>
-
-</div>
-
+  {% endfor %}
 </div>
