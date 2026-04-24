@@ -39,7 +39,6 @@ nav_exclude: true
   background: #f3f4f6;
   cursor: pointer;
   font-size: 14px;
-  transition: 0.2s;
 }
 .tab-btn.active {
   background: #2563eb;
@@ -47,12 +46,8 @@ nav_exclude: true
 }
 
 /* ===== CONTENT ===== */
-.tab-content {
-  display: none;
-}
-.tab-content.active {
-  display: block;
-}
+.tab-content { display: none; }
+.tab-content.active { display: block; }
 
 /* ===== FEATURE ===== */
 .feature-card {
@@ -67,22 +62,16 @@ nav_exclude: true
   object-fit: cover;
   border-radius: 10px;
 }
-.feature-text h2 {
-  margin: 0;
-  font-size: 22px;
-}
 .meta {
   font-size: 12px;
   color: #888;
   margin: 8px 0;
 }
 .tag {
-  display: inline-block;
-  font-size: 11px;
   background: #e5e7eb;
   padding: 3px 8px;
   border-radius: 6px;
-  margin-right: 6px;
+  font-size: 11px;
 }
 
 /* ===== GRID ===== */
@@ -95,10 +84,6 @@ nav_exclude: true
   border: 1px solid #eee;
   border-radius: 10px;
   overflow: hidden;
-  transition: 0.2s;
-}
-.card:hover {
-  transform: translateY(-4px);
 }
 .card img {
   width: 100%;
@@ -108,47 +93,36 @@ nav_exclude: true
 .card-content {
   padding: 12px;
 }
-.card-content strong {
-  font-size: 14px;
-}
 
-/* ===== RESPONSIVE ===== */
+/* ===== MOBILE ===== */
 @media (max-width: 900px) {
-  .grid {
-    grid-template-columns: 1fr;
-  }
-  .feature-card {
-    grid-template-columns: 1fr;
-  }
+  .grid { grid-template-columns: 1fr; }
+  .feature-card { grid-template-columns: 1fr; }
 }
 
 </style>
 
-<!-- ================= HERO ================= -->
+<!-- HERO -->
 {% assign latest = site.posts.first %}
 
 <div class="hero">
   <div class="hero-overlay">
-    <h1>
-      <a href="{{ latest.url }}" style="color:white;">
-        {{ latest.title }}
-      </a>
-    </h1>
+    <h1><a href="{{ latest.url }}" style="color:white;">{{ latest.title }}</a></h1>
     <p>{{ latest.description }}</p>
   </div>
 </div>
 
-<!-- ================= TABS（真实分类） ================= -->
+<!-- TABS -->
 <div class="tabs">
-  <div class="tab-btn active" onclick="showTab('all')">All</div>
-  <div class="tab-btn" onclick="showTab('oncology')">Oncology</div>
-  <div class="tab-btn" onclick="showTab('rare-diseases')">Rare Diseases</div>
-  <div class="tab-btn" onclick="showTab('cell-gene')">Cell & Gene</div>
-  <div class="tab-btn" onclick="showTab('policy')">Policy & Access</div>
-  <div class="tab-btn" onclick="showTab('frontier-tech')">Frontier Tech</div>
+  <div class="tab-btn active" onclick="showTab(event,'all')">All</div>
+  <div class="tab-btn" onclick="showTab(event,'oncology')">Oncology</div>
+  <div class="tab-btn" onclick="showTab(event,'therapeutics')">Therapeutics</div>
+  <div class="tab-btn" onclick="showTab(event,'rare')">Rare Diseases</div>
+  <div class="tab-btn" onclick="showTab(event,'regulatory')">Regulatory</div>
+  <div class="tab-btn" onclick="showTab(event,'supply')">Supply Chain</div>
 </div>
 
-<!-- ================= ALL ================= -->
+<!-- ALL -->
 <div id="all" class="tab-content active">
 
   {% assign featured = site.posts[1] %}
@@ -157,7 +131,7 @@ nav_exclude: true
     <a href="{{ featured.url }}">
       <img src="{{ featured.image | default: '/assets/images/default.jpg' }}">
     </a>
-    <div class="feature-text">
+    <div>
       <div class="meta">
         <span class="tag">Featured</span>
         {{ featured.date | date: "%b %d, %Y" }}
@@ -174,10 +148,9 @@ nav_exclude: true
         <img src="{{ post.image | default: '/assets/images/default.jpg' }}">
       </a>
       <div class="card-content">
-        <div class="meta">
-          <span class="tag">{{ post.categories[0] }}</span>
-        </div>
-        <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
+        <span class="tag">{{ post.categories[0] }}</span>
+        <br>
+        <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
       </div>
     </div>
     {% endfor %}
@@ -185,8 +158,8 @@ nav_exclude: true
 
 </div>
 
-<!-- ================= 分类内容（核心修正） ================= -->
-{% assign categories = "oncology,rare-diseases,cell-gene,policy,frontier-tech" | split: "," %}
+<!-- CATEGORY LOOP -->
+{% assign categories = "oncology,therapeutics,rare,regulatory,supply" | split: "," %}
 
 {% for cat in categories %}
 <div id="{{ cat }}" class="tab-content">
@@ -195,12 +168,11 @@ nav_exclude: true
 
   {% if posts and posts.size > 0 %}
 
-  <!-- FEATURE -->
   <div class="feature-card">
     <a href="{{ posts[0].url }}">
       <img src="{{ posts[0].image | default: '/assets/images/default.jpg' }}">
     </a>
-    <div class="feature-text">
+    <div>
       <div class="meta">
         <span class="tag">{{ cat }}</span>
         {{ posts[0].date | date: "%b %d, %Y" }}
@@ -210,7 +182,6 @@ nav_exclude: true
     </div>
   </div>
 
-  <!-- GRID -->
   <div class="grid">
     {% for post in posts offset:1 limit:6 %}
     <div class="card">
@@ -218,7 +189,7 @@ nav_exclude: true
         <img src="{{ post.image | default: '/assets/images/default.jpg' }}">
       </a>
       <div class="card-content">
-        <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
+        <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
       </div>
     </div>
     {% endfor %}
@@ -231,13 +202,12 @@ nav_exclude: true
 </div>
 {% endfor %}
 
-<!-- ================= JS（修正版） ================= -->
 <script>
-function showTab(tab) {
+function showTab(evt, tab) {
   document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
   document.querySelectorAll('.tab-btn').forEach(el => el.classList.remove('active'));
 
   document.getElementById(tab).classList.add('active');
-  event.target.classList.add('active');
+  evt.currentTarget.classList.add('active');
 }
 </script>
