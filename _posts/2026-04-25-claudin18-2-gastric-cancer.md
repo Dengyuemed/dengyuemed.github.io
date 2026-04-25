@@ -2,9 +2,10 @@
 layout: post
 title: "The Rise of Claudin18.2: Gastric Cancer Precision Therapy Enters an Accelerated Phase"
 date: 2026-04-25
-categories: [Oncology, Targeted Therapy]
-tags: [CLDN18.2, Gastric Cancer, Zolbetuximab, CAR-T, ADC]
+categories: [Oncology]
+tags: [Targeted Therapy, CLDN18.2, Gastric Cancer, CAR-T, ADC, Zolbetuximab]
 image: /assets/images/claudin18-2-cover.png
+description: "Claudin18.2 is emerging as a high-value target in gastric cancer, with breakthroughs from zolbetuximab and rapid expansion across CAR-T and ADC pipelines."
 ---
 
 ## The Rise of Claudin18.2 in Gastric Cancer
@@ -33,9 +34,11 @@ Studies show:
 
 ---
 
-## Clinical Breakthrough: [Zolbetuximab](https://dengyuemed.com/product/zolbetuximab-clzb-for-injection/)
+## Clinical Breakthrough: Zolbetuximab
 
-A major milestone is the approval of **Zolbetuximab**, a monoclonal antibody targeting CLDN18.2.
+![Zolbetuximab](/assets/images/zolbetuximab-vial.png)
+
+A major milestone is the approval of **[Zolbetuximab](https://dengyuemed.com/product/zolbetuximab-clzb-for-injection/)**, a monoclonal antibody targeting CLDN18.2.
 
 It is approved for:
 
@@ -118,18 +121,15 @@ From monoclonal antibodies to CAR-T and ADCs, this target is reshaping the solid
 
 ---
 
-## About DengYueMed
+## [About DengYueMed](https://dengyuemed.github.io/about/)
 
 DengYueMed focuses on:
 
-- Oncology  
-- Rare diseases  
-- Advanced therapies  
+- [Oncology](https://dengyuemed.github.io/oncology/)  
+- [Rare diseases](https://dengyuemed.github.io/rare-diseases/)  
 
 Through global distribution and compliant supply systems, we connect:
 
 > Innovative pharmaceutical companies → Healthcare providers → Patients worldwide
 
 As next-generation therapies accelerate, **efficient global access** becomes just as important as scientific innovation.
-
----
