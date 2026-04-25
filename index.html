@@ -6,7 +6,6 @@ nav_exclude: true
 ---
 
 <style>
-/* ===== HERO ===== */
 .hero {
   position: relative;
   height: 420px;
@@ -28,7 +27,6 @@ nav_exclude: true
   margin: 0;
 }
 
-/* ===== TITLES ===== */
 .section-title {
   font-size: 22px;
   margin: 35px 0 15px;
@@ -36,7 +34,6 @@ nav_exclude: true
   padding-left: 10px;
 }
 
-/* ===== GRID ===== */
 .grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -62,7 +59,6 @@ nav_exclude: true
   padding: 12px;
 }
 
-/* ===== TABS ===== */
 .tabs {
   display: flex;
   gap: 10px;
@@ -83,7 +79,6 @@ nav_exclude: true
   border-color: #2563eb;
 }
 
-/* ===== TAB CONTENT ===== */
 .tab-pane {
   display: none;
 }
@@ -96,7 +91,6 @@ nav_exclude: true
   border-bottom: 1px solid #eee;
 }
 
-/* ===== MORE BUTTON ===== */
 .more-btn {
   margin-top: 12px;
   text-align: right;
@@ -111,7 +105,6 @@ nav_exclude: true
   text-decoration: underline;
 }
 
-/* ===== RESPONSIVE ===== */
 @media (max-width: 900px) {
   .grid {
     grid-template-columns: 1fr;
@@ -119,7 +112,7 @@ nav_exclude: true
 }
 </style>
 
-<!-- ================= HERO ================= -->
+<!-- HERO -->
 {% assign latest = site.posts.first %}
 
 <div class="hero">
@@ -133,7 +126,7 @@ nav_exclude: true
   </div>
 </div>
 
-<!-- ================= LATEST ================= -->
+<!-- LATEST -->
 <h2 class="section-title">Latest</h2>
 
 <div class="grid">
@@ -150,7 +143,7 @@ nav_exclude: true
   {% endfor %}
 </div>
 
-<!-- ================= CATEGORY TABS ================= -->
+<!-- CATEGORY TABS -->
 <h2 class="section-title">Explore</h2>
 
 <div class="tabs">
@@ -171,7 +164,7 @@ nav_exclude: true
   </div>
   {% endfor %}
   <div class="more-btn">
-    <a href="/categories/oncology/">View More →</a>
+    <a href="/oncology/">View All Oncology →</a>
   </div>
 </div>
 
@@ -183,7 +176,7 @@ nav_exclude: true
   </div>
   {% endfor %}
   <div class="more-btn">
-    <a href="/categories/therapeutics/">View More →</a>
+    <a href="/therapeutics/">View All →</a>
   </div>
 </div>
 
@@ -195,7 +188,7 @@ nav_exclude: true
   </div>
   {% endfor %}
   <div class="more-btn">
-    <a href="/categories/rare-diseases/">View More →</a>
+    <a href="/rare-diseases/">View All →</a>
   </div>
 </div>
 
@@ -207,7 +200,7 @@ nav_exclude: true
   </div>
   {% endfor %}
   <div class="more-btn">
-    <a href="/categories/regulatory/">View More →</a>
+    <a href="/regulatory/">View All →</a>
   </div>
 </div>
 
@@ -219,13 +212,13 @@ nav_exclude: true
   </div>
   {% endfor %}
   <div class="more-btn">
-    <a href="/categories/supply-chain/">View More →</a>
+    <a href="/supply-chain/">View All →</a>
   </div>
 </div>
 
 </div>
 
-<!-- ================= TRENDING ================= -->
+<!-- TRENDING -->
 <h2 class="section-title">Trending</h2>
 
 <div class="grid">
@@ -240,7 +233,7 @@ nav_exclude: true
   {% endfor %}
 </div>
 
-<!-- ================= ABOUT ================= -->
+<!-- ABOUT -->
 <h2 class="section-title">About DengYueMed</h2>
 
 <p>
@@ -248,7 +241,7 @@ DengYueMed delivers independent intelligence on global oncology, rare diseases,
 and pharmaceutical market access insights, bridging innovation and global healthcare demand.
 </p>
 
-<!-- ================= SCRIPT ================= -->
+<!-- SCRIPT -->
 <script>
 function showTab(tabId) {
   document.querySelectorAll('.tab-pane').forEach(el => el.classList.remove('active'));
