@@ -9,21 +9,18 @@ nav_exclude: true
 /* ===== HERO ===== */
 .hero {
   position: relative;
-  height: 460px;
-  border-radius: 14px;
-  overflow: hidden;
+  height: 420px;
+  background: url('/assets/images/her2-nsclc-cover.jpg') center/cover no-repeat;
+  border-radius: 12px;
   margin-bottom: 30px;
-}
-.hero img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
 }
 .hero-overlay {
   position: absolute;
   bottom: 0;
+  left: 0;
+  right: 0;
   padding: 30px;
-  background: linear-gradient(transparent, rgba(0,0,0,0.8));
+  background: linear-gradient(transparent, rgba(0,0,0,0.75));
   color: #fff;
 }
 .hero h1 {
@@ -33,25 +30,25 @@ nav_exclude: true
 
 /* ===== TITLES ===== */
 .section-title {
-  font-size: 20px;
+  font-size: 22px;
   margin: 35px 0 15px;
   border-left: 4px solid #2563eb;
   padding-left: 10px;
 }
 
 /* ===== GRID ===== */
-.grid-3 {
+.grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 18px;
 }
 
-/* ===== CARD ===== */
 .card {
   border: 1px solid #eee;
   border-radius: 10px;
   overflow: hidden;
   transition: 0.2s;
+  background: #fff;
 }
 .card:hover {
   transform: translateY(-4px);
@@ -72,48 +69,85 @@ nav_exclude: true
   margin-bottom: 15px;
   flex-wrap: wrap;
 }
-
 .tab-btn {
   padding: 6px 14px;
   border: 1px solid #ddd;
   background: #f9f9f9;
   cursor: pointer;
-  border-radius: 6px;
+  border-radius: 20px;
+  font-size: 14px;
 }
-
 .tab-btn.active {
   background: #2563eb;
-  color: white;
+  color: #fff;
   border-color: #2563eb;
 }
 
+/* ===== TAB CONTENT ===== */
 .tab-pane {
   display: none;
 }
-
 .tab-pane.active {
   display: block;
 }
 
-/* ===== LIST ===== */
-.small-list a {
-  display: block;
-  margin-bottom: 10px;
+.small-list {
+  padding: 8px 0;
+  border-bottom: 1px solid #eee;
+}
+
+/* ===== MORE BUTTON ===== */
+.more-btn {
+  margin-top: 12px;
+  text-align: right;
+}
+.more-btn a {
+  font-size: 14px;
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 500;
+}
+.more-btn a:hover {
+  text-decoration: underline;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 900px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
 }
 </style>
 
 <!-- ================= HERO ================= -->
-{% assign hero = site.posts.first %}
+{% assign latest = site.posts.first %}
+
 <div class="hero">
-  <img src="{{ hero.image | default: '/assets/images/default.jpg' }}">
   <div class="hero-overlay">
     <h1>
-      <a href="{{ hero.url }}" style="color:white;">
-        {{ hero.title }}
+      <a href="{{ latest.url }}" style="color:white;">
+        {{ latest.title }}
       </a>
     </h1>
-    <p>{{ hero.excerpt | strip_html | truncate: 120 }}</p>
+    <p>{{ latest.description }}</p>
   </div>
+</div>
+
+<!-- ================= LATEST ================= -->
+<h2 class="section-title">Latest</h2>
+
+<div class="grid">
+  {% for post in site.posts limit:6 offset:1 %}
+  <div class="card">
+    <a href="{{ post.url }}">
+      <img src="{{ post.image | default: '/assets/images/default.jpg' }}">
+    </a>
+    <div class="card-content">
+      <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+      <p>{{ post.excerpt | strip_html | truncate: 90 }}</p>
+    </div>
+  </div>
+  {% endfor %}
 </div>
 
 <!-- ================= CATEGORY TABS ================= -->
@@ -129,75 +163,78 @@ nav_exclude: true
 
 <div class="tab-content">
 
-  <div id="oncology" class="tab-pane active">
-    {% for post in site.categories.oncology limit:6 %}
-      <div class="small-list">
-        <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
-      </div>
-    {% endfor %}
-  </div>
-
-  <div id="therapeutics" class="tab-pane">
-    {% for post in site.categories.therapeutics limit:6 %}
-      <div class="small-list">
-        <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
-      </div>
-    {% endfor %}
-  </div>
-
-  <div id="rare" class="tab-pane">
-    {% for post in site.categories.rare-diseases limit:6 %}
-      <div class="small-list">
-        <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
-      </div>
-    {% endfor %}
-  </div>
-
-  <div id="regulatory" class="tab-pane">
-    {% for post in site.categories.regulatory limit:6 %}
-      <div class="small-list">
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </div>
-    {% endfor %}
-  </div>
-
-  <div id="supply" class="tab-pane">
-    {% for post in site.categories.supply-chain limit:6 %}
-      <div class="small-list">
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </div>
-    {% endfor %}
-  </div>
-
-</div>
-
-<!-- ================= LATEST ================= -->
-<h2 class="section-title">Latest</h2>
-
-<div class="grid-3">
-  {% for post in site.posts limit:6 offset:1 %}
-  <div class="card">
-    <a href="{{ post.url }}">
-      <img src="{{ post.image | default: '/assets/images/default.jpg' }}">
-    </a>
-    <div class="card-content">
-      <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
-      <p>{{ post.excerpt | strip_html | truncate: 80 }}</p>
-    </div>
+<!-- Oncology -->
+<div id="oncology" class="tab-pane active">
+  {% for post in site.categories.oncology limit:6 %}
+  <div class="small-list">
+    <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
   </div>
   {% endfor %}
+  <div class="more-btn">
+    <a href="/categories/oncology/">View More →</a>
+  </div>
 </div>
 
-<!-- ================= FEATURED ================= -->
-<h2 class="section-title">Featured Analysis</h2>
+<!-- Therapeutics -->
+<div id="therapeutics" class="tab-pane">
+  {% for post in site.categories.therapeutics limit:6 %}
+  <div class="small-list">
+    <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+  </div>
+  {% endfor %}
+  <div class="more-btn">
+    <a href="/categories/therapeutics/">View More →</a>
+  </div>
+</div>
 
-<div class="grid-3">
-  {% assign featured = site.posts | where_exp: "post", "post.tags contains 'analysis'" %}
-  {% for post in featured limit:3 %}
+<!-- Rare -->
+<div id="rare" class="tab-pane">
+  {% for post in site.categories.rare-diseases limit:6 %}
+  <div class="small-list">
+    <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+  </div>
+  {% endfor %}
+  <div class="more-btn">
+    <a href="/categories/rare-diseases/">View More →</a>
+  </div>
+</div>
+
+<!-- Regulatory -->
+<div id="regulatory" class="tab-pane">
+  {% for post in site.categories.regulatory limit:6 %}
+  <div class="small-list">
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </div>
+  {% endfor %}
+  <div class="more-btn">
+    <a href="/categories/regulatory/">View More →</a>
+  </div>
+</div>
+
+<!-- Supply -->
+<div id="supply" class="tab-pane">
+  {% for post in site.categories.supply-chain limit:6 %}
+  <div class="small-list">
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </div>
+  {% endfor %}
+  <div class="more-btn">
+    <a href="/categories/supply-chain/">View More →</a>
+  </div>
+</div>
+
+</div>
+
+<!-- ================= TRENDING ================= -->
+<h2 class="section-title">Trending</h2>
+
+<div class="grid">
+  {% assign sorted = site.posts | sort: 'date' | reverse %}
+  {% for post in sorted limit:3 %}
   <div class="card">
     <img src="{{ post.image | default: '/assets/images/default.jpg' }}">
     <div class="card-content">
-      <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </div>
   </div>
   {% endfor %}
@@ -208,10 +245,10 @@ nav_exclude: true
 
 <p>
 DengYueMed delivers independent intelligence on global oncology, rare diseases,
-and pharmaceutical innovation, bridging cutting-edge therapies with real-world access.
+and pharmaceutical market access insights, bridging innovation and global healthcare demand.
 </p>
 
-<!-- ================= JS ================= -->
+<!-- ================= SCRIPT ================= -->
 <script>
 function showTab(tabId) {
   document.querySelectorAll('.tab-pane').forEach(el => el.classList.remove('active'));
