@@ -8,9 +8,7 @@ image: /assets/images/rna-hero.png
 description: "RNA therapeutics enter commercialization phase with breakthroughs in siRNA, ASO, and global competition dynamics."
 ---
 
-RNA Therapeutics Trends: Commercial Breakthrough and Global Competitive Landscape in 2026
-
-Since 2026, RNA therapeutics have continued to gain momentum, emerging as one of the most closely watched sectors in the global biopharmaceutical industry.
+Since 2026, [RNA therapeutics](https://dengyuemed.com/products/) have continued to gain momentum, emerging as one of the most closely watched sectors in the global biopharmaceutical industry.
 
 From siRNA to antisense oligonucleotides (ASOs), and from rare diseases to chronic conditions, RNA-based technologies are rapidly advancing toward large-scale commercialization and clinical application. 
 A new wave of competition that could reshape the industry landscape is now fully underway.
@@ -18,7 +16,7 @@ A new wave of competition that could reshape the industry landscape is now fully
 In the Chinese market, several key developments are reinforcing this trend, including the approval of lipid-lowering siRNA therapies, innovative companies entering capital markets, continuous breakthroughs in delivery technologies, and increasing participation of domestic players in global collaborations. 
 RNA therapeutics are approaching a true inflection point for industrialization.
 
-DengYueMed provides a comprehensive overview of the latest developments and future trends in RNA therapeutics from the perspectives of commercialization progress, technological innovation, and global competition.
+[DengYueMed](https://dengyuemed.github.io/) provides a comprehensive overview of the latest developments and future trends in RNA therapeutics from the perspectives of commercialization progress, technological innovation, and global competition.
 
 
 ---
@@ -34,10 +32,10 @@ In this process, Alnylam Pharmaceuticals has taken the lead in establishing a ma
 Building on a unified technology platform, the company has continued to expand its product portfolio, forming a well-structured pipeline:
 
 1.Approved products span rare and metabolic diseases  
-2.Representative drugs include Vutrisiran, Lumasiran, and Givosiran  
+2.Representative drugs include [Vutrisiran](https://dengyuemed.com/product/amvuttra-vutrisiran-injection-polyneuropathy/), Lumasiran, and Givosiran  
 3.Among them, Vutrisiran surpassed USD 2 billion in sales in 2025, becoming a flagship blockbuster in the RNA therapeutics space  
 
-In the ASO field, Ionis Pharmaceuticals has also achieved steady commercial success. Its key product Nusinersen has reshaped the treatment paradigm for spinal muscular atrophy (SMA) while generating sustained revenue.
+In the ASO field, Ionis Pharmaceuticals has also achieved steady commercial success. Its key product [Nusinersen](https://dengyuemed.com/product/nusinersen-injection/) has reshaped the treatment paradigm for spinal muscular atrophy (SMA) while generating sustained revenue.
 
 Meanwhile, Inclisiran, commercialized with the involvement of Novartis, has experienced rapid uptake in the chronic disease market. Its success is mainly driven by:
 
@@ -64,7 +62,7 @@ GalNAc-conjugated delivery systems, in particular, enable efficient targeting of
 ● Supporting drug development against key targets such as PCSK9 and APOC3  
 ● Significantly improving molecular stability and delivery efficiency  
 
-Products such as Inclisiran, with twice-yearly dosing, are reshaping the treatment paradigm for chronic diseases.
+Products such as [Inclisiran](https://dengyuemed.com/product/leqvio-inclisiran-ascvd/), with twice-yearly dosing, are reshaping the treatment paradigm for chronic diseases.
 
 In addition, multiple pipelines targeting key molecules are advancing, including:
 
@@ -74,7 +72,7 @@ In addition, multiple pipelines targeting key molecules are advancing, including
 
 Together, these developments indicate a clear trend: RNA therapeutics are becoming an important tool for long-term management of chronic diseases.
 
-👉For a deeper understanding of RNA therapeutics in cardiovascular diseases and key targets such as PCSK9, Lp(a), and AGT, see RNA Based Therapeutic Approaches for Cardiovascular Disease: Key Targets and Clinical Advances.
+👉For a deeper understanding of RNA therapeutics in cardiovascular diseases and key targets such as PCSK9, Lp(a), and AGT, see [RNA Based Therapeutic Approaches for Cardiovascular Disease: Key Targets and Clinical Advances](https://dengyuemed.com/blog/rna-based-therapeutic-approaches-for-cardiovascular-disease/).
 
 ---
 
@@ -96,7 +94,7 @@ At the same time, Chinese companies are accelerating their efforts and seeking b
 
 ![Global Supply Chain](/assets/images/global-supply.png)
 
-Amid rapid global growth, Chinese biotech companies are transitioning from followers to co-competitors, demonstrating competitiveness across multiple dimensions.
+Amid rapid global growth, [Chinese biotech companies](https://dengyuemed.com/blog/drug-wholesalers-in-china-top-10-company/) are transitioning from followers to co-competitors, demonstrating competitiveness across multiple dimensions.
 
 In terms of international collaboration, Chinese companies are increasingly forming strategic partnerships with multinational pharmaceutical companies, such as Eli Lilly and Roche. These collaborations typically feature:
 
@@ -130,6 +128,6 @@ From the historic breakthrough of Patisiran to the commercial success of Inclisi
 
 Looking ahead, over the next decade, RNA-based therapies are expected to evolve from innovative alternatives to mainstream treatment modalities, continuously reshaping the global pharmaceutical landscape.
 
-👉For a systematic understanding of RNA therapeutics in cardiovascular diseases and key target development, please refer to RNA Based Therapeutic Approaches for Cardiovascular Disease: Key Targets and Clinical Advances.
+👉For a systematic understanding of RNA therapeutics in cardiovascular diseases and key target development, please refer to [RNA Based Therapeutic Approaches for Cardiovascular Disease: Key Targets and Clinical Advances](https://dengyuemed.com/blog/rna-based-therapeutic-approaches-for-cardiovascular-disease/).
 
-As a key connector of global innovative drug resources, DengYueMed continues to expand its presence in RNA therapeutics and high-end innovative medicines, focusing on cross-border pharmaceutical distribution, international supply chain integration, and access to rare and specialty drugs, serving global clients and partners.
+[As a key connector of global innovative drug resources](https://dengyuemed.com/pharmaceutical-wholesaler/), DengYueMed continues to expand its presence in RNA therapeutics and high-end innovative medicines, focusing on cross-border pharmaceutical distribution, international supply chain integration, and access to rare and specialty drugs, serving global clients and partners.
