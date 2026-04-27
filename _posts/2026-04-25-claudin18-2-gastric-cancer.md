@@ -2,7 +2,7 @@
 layout: post
 title: "The Rise of Claudin18.2: Gastric Cancer Precision Therapy Enters an Accelerated Phase"
 date: 2026-04-25
-categories: [Oncology]
+categories: [oncology]
 tags: [Targeted Therapy, CLDN18.2, Gastric Cancer, CAR-T, ADC, Zolbetuximab]
 image: /assets/images/claudin18-2-cover.png
 description: "Claudin18.2 is emerging as a high-value target in gastric cancer, with breakthroughs from zolbetuximab and rapid expansion across CAR-T and ADC pipelines."
