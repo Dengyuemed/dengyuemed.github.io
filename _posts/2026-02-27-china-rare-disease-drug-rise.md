@@ -4,7 +4,6 @@ title: "The Rise of China's Rare Disease Drugs: From Follower to Emerging Global
 date: 2026-02-27
 categories:
   - rare-diseases
-  - china
 tags:
   - orphan drugs
   - pharmaceutical innovation
