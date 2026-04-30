@@ -11,6 +11,7 @@ tags:
   - multiple-myeloma
   - targeted-therapy
   - oncology
+image: /assets/images/bcma-adc.jpeg
 ---
 
 In the field of targeted therapy for multiple myeloma (MM), BCMA (B-cell maturation antigen) has emerged as one of the most valuable therapeutic targets due to its high expression on plasma cells and limited presence in normal tissues. Based on this, BCMA-targeted ADC (antibody-drug conjugate) therapy is gradually becoming an important technological bridge between traditional drugs and cell therapies.
