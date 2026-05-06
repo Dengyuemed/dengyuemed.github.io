@@ -14,8 +14,6 @@ tags:
 image: /assets/images/cm336-breakthrough.png
 ---
 
-Proposed Breakthrough Therapy Designation: Keymed’s CM336 Poised to Reshape the Treatment Landscape of AL Amyloidosis
-
 On April 28, 2026, the Center for Drug Evaluation (CDE) of China’s National Medical Products Administration (NMPA) released its latest public announcement: CM336 injection, independently developed by Keymed Biosciences, is proposed to be included in the Breakthrough Therapy designation for the treatment of relapsed or refractory primary light-chain (AL) amyloidosis. This development marks another significant breakthrough in innovative therapies for rare diseases and hematologic disorders in China, bringing new hope to patients who have long lacked effective treatment options.
 
 ## Breakthrough Therapy Designation: A Key Milestone in Accelerated Drug Development
