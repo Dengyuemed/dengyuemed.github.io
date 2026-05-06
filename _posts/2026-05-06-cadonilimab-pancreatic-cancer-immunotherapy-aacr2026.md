@@ -12,12 +12,12 @@ tags:
   - aacr 2026
   - pd-1
   - ctla-4
-image: /images/cadonilimab-pancreatic-cancer.png
+image: /images/aacr-2026.png
 ---
 
 # Breakthrough in Pancreatic Cancer Immunotherapy: PD-1/CTLA-4 Bispecific Antibody Cadonilimab Shows Promising Signals at AACR 2026
 
-Pancreatic cancer has long been regarded as one of the most challenging malignancies among solid tumors. Its insidious onset, rapid progression, and late-stage diagnosis contribute to poor prognosis. More critically, the tumor microenvironment (TME) is highly immunosuppressive, making it largely resistant to immunotherapy—often described as an **“immune desert.”**
+Pancreatic cancer has long been regarded as one of the most challenging malignancies among [solid tumors](https://dengyuemed.com/oncology-diseases/). Its insidious onset, rapid progression, and late-stage diagnosis contribute to poor prognosis. More critically, the tumor microenvironment (TME) is highly immunosuppressive, making it largely resistant to immunotherapy—often described as an **“immune desert.”**
 
 However, new data presented at **AACR Annual Meeting 2026** may signal a turning point. A study evaluating the **PD-1/CTLA-4 bispecific antibody cadonilimab** has introduced renewed hope in this historically resistant disease.
 
@@ -38,7 +38,7 @@ The **COMPASSION-26 (Phase II)** study evaluated cadonilimab in combination with
 
 ### Context vs standard therapies:
 - FOLFIRINOX: ~11 months OS  
-- Gemcitabine + nab-paclitaxel: ~8.5 months OS  
+- [Gemcitabine](https://dengyuemed.com/product/gemcitabine-hydrochloride-injection/) + nab-paclitaxel: ~8.5 months OS  
 
 👉 These results compare favorably with historical benchmarks and represent one of the most encouraging signals in pancreatic cancer immunotherapy in recent years.
 
@@ -46,7 +46,9 @@ The **COMPASSION-26 (Phase II)** study evaluated cadonilimab in combination with
 
 ## 2. Cadonilimab: Dual-Checkpoint Innovation
 
-Cadonilimab (developed by Akeso) is a **bispecific antibody targeting PD-1 and CTLA-4**.
+![Cadonilimab Injection](/images/cadonilimab.png)
+
+[Cadonilimab](https://dengyuemed.com/product/kaitaini-cadonilimab-oncologic/) (developed by Akeso) is a **bispecific antibody targeting PD-1 and CTLA-4**.
 
 ### Mechanistic advantages:
 - **PD-1 blockade:** restores exhausted T cells  
@@ -69,19 +71,19 @@ Cadonilimab was combined with chemotherapy, which plays a critical role:
 
 **Chemotherapy + Immunotherapy + Bispecific Antibody Platform**
 
-Particularly important for **immune-cold tumors like pancreatic cancer**.
-
 ---
 
-## 4. Historical Context: Why This Matters
+## 4. Disease Context: Why Pancreatic Cancer Is So Challenging
 
-Pancreatic cancer treatment has seen limited progress over the past decade.
+![Pancreatic Tumor Illustration](/images/pancreatic-cancer.png)
 
-- Immunotherapy largely ineffective (except MSI-H subgroup)  
-- Multiple failed PD-1/PD-L1 trials  
-- Survival gains modest with chemotherapy alone  
+Pancreatic cancer presents multiple biological barriers:
 
-👉 The cadonilimab data suggest immunotherapy may finally be **breaking biological resistance barriers**.
+- Dense stromal structure  
+- Low immune cell infiltration  
+- High immunosuppressive signaling  
+
+👉 These features collectively create an **immune-resistant environment**, limiting the effectiveness of traditional immunotherapy.
 
 ---
 
@@ -96,19 +98,17 @@ Despite promising signals:
 
 👉 These results represent **proof of concept**, not yet practice-changing evidence.
 
-Phase III trials will be critical.
-
 ---
 
 ## 6. Industry Signals: Three Key Trends
 
-### 1️⃣ Immunotherapy is entering pancreatic cancer
+### 1️⃣ Immunotherapy is entering pancreatic cancer  
 From resistance → emerging responsiveness  
 
-### 2️⃣ Bispecific antibodies are expanding
+### 2️⃣ Bispecific antibodies are expanding  
 Moving into high-difficulty solid tumors  
 
-### 3️⃣ Treatment models are evolving
+### 3️⃣ Treatment models are evolving  
 From single modality → **multi-mechanism integration**
 
 ---
@@ -116,8 +116,6 @@ From single modality → **multi-mechanism integration**
 ## Conclusion
 
 Pancreatic cancer has long been considered a “no-go zone” for immunotherapy. The cadonilimab data presented at AACR 2026 provide a meaningful signal of change.
-
-While still early, one trend is becoming clear:
 
 👉 Pancreatic cancer may be transitioning from an **“immune desert” to a partially immunologically responsive disease**.
 
