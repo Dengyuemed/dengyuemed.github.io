@@ -12,7 +12,7 @@ tags:
   - aacr 2026
   - pd-1
   - ctla-4
-image: /images/aacr-2026.png
+image: /assets/images/aacr-2026.png
 ---
 
 # Breakthrough in Pancreatic Cancer Immunotherapy: PD-1/CTLA-4 Bispecific Antibody Cadonilimab Shows Promising Signals at AACR 2026
@@ -46,7 +46,7 @@ The **COMPASSION-26 (Phase II)** study evaluated cadonilimab in combination with
 
 ## 2. Cadonilimab: Dual-Checkpoint Innovation
 
-![Cadonilimab Injection](/images/cadonilimab.png)
+![Cadonilimab Injection](/assets/images/cadonilimab.png)
 
 [Cadonilimab](https://dengyuemed.com/product/kaitaini-cadonilimab-oncologic/) (developed by Akeso) is a **bispecific antibody targeting PD-1 and CTLA-4**.
 
@@ -75,7 +75,7 @@ Cadonilimab was combined with chemotherapy, which plays a critical role:
 
 ## 4. Disease Context: Why Pancreatic Cancer Is So Challenging
 
-![Pancreatic Tumor Illustration](/images/pancreatic-cancer.png)
+![Pancreatic Tumor Illustration](/assets/images/pancreatic-cancer.png)
 
 Pancreatic cancer presents multiple biological barriers:
 
