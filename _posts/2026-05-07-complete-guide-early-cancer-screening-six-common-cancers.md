@@ -19,7 +19,7 @@ tags:
   - Cervical Cancer
   - Preventive Medicine
 
-image: "/assets/images/lung-cancer-screening.jpg"
+image: "/assets/images/lung-cancer-screening.png"
 ---
 
 Compiled by [DengYueMed](https://dengyuemed.github.io/) based on publicly available medical guidelines and screening consensus.
@@ -142,7 +142,7 @@ Average-risk women: start screening at 45 years old; high-risk women may begin s
 
 # Cervical Cancer｜The Only Preventable and Interceptable Malignancy
 
-![Cervical Cancer Screening](/assets/images/cervical-cancer-screening.jpg)
+![Cervical Cancer Screening](/assets/images/cervical-cancer-screening.png)
 
 ## ✅ Primary Screening: HPV Nucleic Acid Test
 
