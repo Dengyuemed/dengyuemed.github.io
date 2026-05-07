@@ -10,7 +10,7 @@ tags:
   - Healthcare Industry
   - Compliance
   - Market Access
-image: "/assets/images/global-pharmaceutical-market-policy-impact.jpg"
+image: "/assets/images/global-pharmaceutical-market-policy-impact.png"
 ---
 
 [Hong Kong Dengyue Medicine](https://dengyuemed.github.io/) learned that Against the backdrop of steadily growing global healthcare demand and accelerating population aging, the pharmaceutical industry is entering a new phase of structural transformation. In this process, pharmaceutical policy has become a key variable shaping the direction of the global market. From drug approval and pricing control to reimbursement systems and cross-border distribution, policies not only influence corporate strategies but are also profoundly reshaping the competitive landscape of the industry.
