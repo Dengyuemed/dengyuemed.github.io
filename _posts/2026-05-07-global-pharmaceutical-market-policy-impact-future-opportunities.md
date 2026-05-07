@@ -3,6 +3,11 @@ title: "Global Pharmaceutical Market Under Policy Influence: Reshaping the Lands
 date: 2026-05-07
 description: "How pharmaceutical policies are reshaping the global market, influencing innovation, pricing, compliance, and future opportunities in the healthcare industry."
 slug: "global-pharmaceutical-market-policy-impact-future-opportunities"
+
+categories:
+  - supply-chain
+  - regulatory
+
 tags:
   - Global Pharma
   - Pharmaceutical Policy
@@ -10,6 +15,7 @@ tags:
   - Healthcare Industry
   - Compliance
   - Market Access
+
 image: "/assets/images/global-pharmaceutical-market-policy-impact.png"
 ---
 
