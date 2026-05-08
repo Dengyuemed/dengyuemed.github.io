@@ -1,33 +1,27 @@
 ---
 title: "China’s First IL-1β Monoclonal Antibody Approved: Firsekibart Brings New Breakthrough to Gout Treatment"
 date: 2026-05-08
-description: "China approves Firsekibart, the country’s first IL-1β monoclonal antibody for acute gouty arthritis, marking a new era in precision anti-inflammatory therapy."
-slug: "china-first-il1b-monoclonal-antibody-firsekibart-gout-treatment"
-
-categories:
-  - autoimmune
-  - innovative-drugs
-
+description: "China approves its first IL-1β monoclonal antibody Firsekibart for acute gouty arthritis, marking a breakthrough in precision-targeted anti-inflammatory therapy."
+slug: "china-first-il1b-monoclonal-antibody-firsekibart-gout"
 tags:
+  - Autoimmune Disease
   - Gout
   - IL-1β
-  - Firsekibart
-  - Autoimmune Disease
-  - Biologics
+  - Monoclonal Antibody
+  - Innovative Drug
   - China Pharma
-  - Innovative Drugs
-  - NMPA
-
-image: "/assets/images/china-first-il1b-monoclonal-antibody-firsekibart-nmpa-approval.png"
+categories:
+  - regulatory
+image: "/assets/images/china-first-il1b-monoclonal-antibody-firsekibart-gout-cover.png"
 ---
 
 Gout, often referred to as the “King of Pain,” has become one of the fastest-growing metabolic diseases in China. During acute attacks, patients frequently experience severe joint pain, swelling, redness, and mobility limitations, significantly affecting daily life and work productivity.
 
-On April 30, 2026, the official website of China’s National Medical Products Administration (NMPA) announced the approval of Firsekibart Injection (brand name: Jinbeixin®), a Class 1 innovative biologic independently developed by Changchun GeneScience Pharmaceuticals. The drug is approved for:
+On April 30, 2026, the official website of China’s National Medical Products Administration (NMPA) announced the approval of [Firsekibart Injection (brand name: Jinbeixin®)](https://dengyuemed.com/product/jinbeixin-firsekibart-gouty-arthritis-ga/), a Class 1 innovative biologic independently developed by Changchun GeneScience Pharmaceuticals. The drug is approved for:
 
-> Adult patients with acute gouty arthritis who are contraindicated, intolerant, or inadequately responsive to nonsteroidal anti-inflammatory drugs (NSAIDs) and/or colchicine, and who are not suitable for repeated corticosteroid use.
+Adult patients with acute gouty arthritis who are contraindicated, intolerant, or inadequately responsive to nonsteroidal anti-inflammatory drugs (NSAIDs) and/or colchicine, and who are not suitable for repeated corticosteroid use.
 
-👉 For an overview of the latest major approvals, see [China Innovative Drug Approvals April 2026: 6 Approved, 5 by Chinese Companies](https://dengyuemed.github.io/blog/china-innovative-drug-approvals-april-2026/).
+👉For an overview of the latest major approvals, see [China Innovative Drug Approvals April 2026: 6 Approved, 5 by Chinese Companies](https://dengyuemed.com/news/china-innovative-drug-approvals-april-2026/).
 
 As a China-based pharmaceutical wholesaler focused on global innovative therapies and developments in the Chinese pharmaceutical industry, [DengYueMed](https://dengyuemed.github.io/) will introduce the approval background, mechanism of action, clinical data, and potential impact of Firsekibart on China’s gout treatment landscape in this article.
 
@@ -35,16 +29,16 @@ As a China-based pharmaceutical wholesaler focused on global innovative therapie
 
 This approval marks the official clinical launch of China’s first and currently the only fully human anti-IL-1β monoclonal antibody approved for gout indications, representing a major breakthrough in long-acting targeted anti-inflammatory treatment for gout in China.
 
+![Firsekibart Injection Product](/assets/images/firsekibart-injection-product.png)
+
 According to publicly available information, Firsekibart is a fully human anti-interleukin-1 beta (IL-1β) monoclonal antibody independently developed by Changchun GeneScience Pharmaceuticals and classified as a Class 1 therapeutic biologic innovative drug in China.
 
 Notably, the product has been developed in two formulations:
 
 - Lyophilized Firsekibart for Injection  
-- Firsekibart Injection (liquid formulation)  
+- Firsekibart Injection (liquid formulation)
 
 The lyophilized formulation was first approved in July 2025, while the newly approved liquid formulation further simplifies clinical administration and improves patient convenience.
-
-![Firsekibart Injection Product](/assets/images/china-first-il1b-monoclonal-antibody-firsekibart-product.png)
 
 More importantly, the approval of Jinbeixin® liquid formulation fills the long-standing gap in long-acting targeted anti-inflammatory therapy for gout in China.
 
@@ -157,6 +151,6 @@ These strengths provide a new treatment option for patients suffering from recur
 
 For patients struggling with chronic gout attacks, this innovative therapy may reshape the current treatment landscape while further demonstrating China’s growing capabilities in inflammatory and autoimmune disease drug development.
 
-👉 Related reading: [China Innovative Drug Approvals April 2026: 6 Approved, 5 by Chinese Companies](https://dengyuemed.github.io/blog/china-innovative-drug-approvals-april-2026/).
+👉Related reading: [China Innovative Drug Approvals April 2026: 6 Approved, 5 by Chinese Companies](https://dengyuemed.com/news/china-innovative-drug-approvals-april-2026/).
 
-China-based pharmaceutical wholesaler [DengYueMed](https://dengyuemed.github.io/) will continue to follow the latest developments in oncology, autoimmune diseases, rare diseases, metabolic disorders, and other cutting-edge therapeutic areas, bringing more updates on Chinese innovative medicines and pharmaceutical industry trends to the global market.
+[China-based pharmaceutical wholesaler](https://dengyuemed.com/) DengYueMed will continue to follow the latest developments in oncology, autoimmune diseases, rare diseases, metabolic disorders, and other cutting-edge therapeutic areas, bringing more updates on Chinese innovative medicines and pharmaceutical industry trends to the global market.
