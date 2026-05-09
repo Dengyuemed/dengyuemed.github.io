@@ -16,15 +16,11 @@ tags:
 image: "/assets/images/cystic-fibrosis-child-oxygen-mask.png"
 ---
 
-# Recurrent Respiratory Infections with Malnutrition and Growth Delay — Beware of the Rare Pediatric Disease: Cystic Fibrosis (CF)
-
 Some children seem to suffer from chronic respiratory problems that never fully resolve: recurrent pneumonia, persistent productive cough, poor weight gain, and difficulty gaining weight despite having a good appetite.
 
 Many patients are repeatedly diagnosed with bronchitis, asthma, or simple malnutrition, yet their symptoms continue to recur. In some cases, the underlying cause may actually be Cystic Fibrosis (CF), a rare inherited disorder that is still underrecognized in many regions.
 
 As a [global pharmaceutical distributor](https://dengyuemed.com/) focused on innovative therapies, rare diseases, and healthcare accessibility, DengYueMed introduces this often-overlooked pediatric disease to help more families understand its typical symptoms, diagnostic methods, and recent advances in treatment.
-
-![Child with cystic fibrosis receiving oxygen therapy](/assets/images/cystic-fibrosis-child-oxygen-mask.png)
 
 ---
 
