@@ -71,6 +71,8 @@ Although these habits do not directly “create” Helicobacter pylori, they may
 
 ## Does Helicobacter pylori Infection Always Lead to Stomach Cancer?
 
+![Helicobacter pylori and stomach cancer](/assets/images/helicobacter-pylori-stomach-cancer-medical-diagram.png)
+
 This is one of the biggest misunderstandings surrounding the infection.
 
 The answer is:
