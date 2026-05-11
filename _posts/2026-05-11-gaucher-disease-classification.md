@@ -2,7 +2,7 @@
 layout: post
 title: "New Advances in Gaucher Disease Classification: Clinical Characteristics of Type I, Type II, Type III, and Rare Subtypes"
 date: 2026-05-11
-categories: rare-disease
+categories: rare-diseases
 tags:
   - Gaucher Disease
   - GBA Mutation
