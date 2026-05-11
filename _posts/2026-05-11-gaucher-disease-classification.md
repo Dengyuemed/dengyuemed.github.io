@@ -12,7 +12,7 @@ tags:
   - Lysosomal Storage Disorder
   - Enzyme Replacement Therapy
 excerpt: "Comprehensive overview of Gaucher disease classification, including Type I, Type II, Type III, and rare subtypes with clinical characteristics, neurological involvement, and emerging therapies."
-image: /assets/images/posts/gaucher/gaucher-body-diagram.png
+image: /assets/images/gaucher-body-diagram.png
 ---
 
 ## Introduction
@@ -81,7 +81,7 @@ However, recent studies suggest that certain patients may later develop:
 
 Notably, mutations in the **GBA gene** are now recognized as important genetic risk factors for Parkinson’s disease.
 
-![GBA Gene and Precision Medicine Research](/assets/images/posts/gaucher/gaucher-dna.png)
+![GBA Gene and Precision Medicine Research](/assets/images/gaucher-dna.png)
 
 ---
 
