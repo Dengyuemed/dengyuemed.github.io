@@ -15,7 +15,7 @@ tags:
   - Oncology
   - Healthcare in China
 excerpt: "Explore leading JCI-accredited hospitals in China for international patients, including cancer treatment, international healthcare services, precision medicine, and cross-border medical support."
-image: /assets/images/jci-hospitals-china/cover.png
+image: /assets/images/cover.png
 ---
 
 ## Introduction
@@ -72,7 +72,7 @@ However, based on publicly available information and JCI accreditation records, 
 | TEDA International Cardiovascular Hospital | Tianjin | Internationally advanced cardiovascular treatment technologies |
 | Shanghai Blue Cross Brain Hospital | Shanghai | Specialized neurological hospital accredited under JCI 6th Edition standards |
 
-![International Healthcare Services in China](/assets/images/jci-hospitals-china/hospital-service.png)
+![International Healthcare Services in China](/assets/images/hospital-service.png)
 
 ---
 
