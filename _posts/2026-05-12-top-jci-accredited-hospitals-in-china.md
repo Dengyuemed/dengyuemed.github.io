@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Which Are the Top JCI-Accredited Hospitals in China for International Patients?"
-date: 2026-05-11
+date: 2026-05-12
 categories: regulatory
 tags:
   - JCI Accreditation
