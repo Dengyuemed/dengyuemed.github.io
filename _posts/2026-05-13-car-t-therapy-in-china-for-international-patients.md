@@ -30,7 +30,7 @@ However, with the rapid development of China’s biopharmaceutical industry, con
 
 Particularly in areas such as:
 
-- Leukemia
+- [Leukemia](https://dengyuemed.com/product/hematology/)
 - Lymphoma
 - Multiple myeloma
 
@@ -76,7 +76,7 @@ In recent years, CAR-T research targeting solid tumors has also advanced rapidly
 
 # Why Are More International Patients Paying Attention to CAR-T Therapy in China?
 
-Over the past few years, China’s development in the CAR-T field has progressed rapidly.
+Over the past few years, China’s development in the [CAR-T field](https://dengyuemed.com/blog/approved-cell-and-gene-therapy-drugs-in-china/) has progressed rapidly.
 
 In areas such as:
 
@@ -184,7 +184,7 @@ Cross-border treatment requires extensive communication and coordination beyond 
 
 As a result, more international patients are seeking assistance through professional cross-border healthcare service platforms.
 
-Platforms such as DengYueMed help overseas patients connect more efficiently with Chinese medical resources, including:
+Platforms such as [DengYueMed](https://dengyuemed.github.io/) help overseas patients connect more efficiently with Chinese medical resources, including:
 
 - Hospital consultations
 - Medical record communication
