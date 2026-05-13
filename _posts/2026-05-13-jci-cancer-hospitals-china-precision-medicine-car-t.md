@@ -44,7 +44,7 @@ China is gradually reshaping the perception that high-quality cancer care can on
 
 ---
 
-# Precision Medicine: Building International Trust Through Personalized Cancer Care
+## Precision Medicine: Building International Trust Through Personalized Cancer Care
 
 One of the core strengths of China’s JCI cancer hospitals is precision medicine.
 
@@ -96,7 +96,7 @@ can be obtained through DengYueMed, helping patients navigate the medical proces
 
 ---
 
-# CAR-T Therapy: New Hope for Advanced Cancer Patients
+## CAR-T Therapy: New Hope for Advanced Cancer Patients
 
 If precision medicine forms the foundation of China’s oncology advancement, CAR-T cell therapy represents one of its most important breakthroughs.
 
@@ -134,7 +134,7 @@ These technologies help create a diversified cancer treatment system tailored to
 
 ---
 
-# Key Strengths of China’s JCI Cancer Hospitals
+## Key Strengths of China’s JCI Cancer Hospitals
 
 China’s JCI cancer hospitals have several important advantages in innovative oncology technologies:
 
@@ -146,7 +146,7 @@ China’s JCI cancer hospitals have several important advantages in innovative o
 
 ---
 
-# International Standardized Services: Solving Cross-Border Healthcare Challenges
+## International Standardized Services: Solving Cross-Border Healthcare Challenges
 
 For international patients, treatment quality is only part of the equation.
 
@@ -187,7 +187,7 @@ Based on international patient experiences, the main service advantages include:
 
 ---
 
-# Strong Momentum and Future Growth
+## Strong Momentum and Future Growth
 
 China’s JCI cancer hospitals have developed growing international competitiveness.
 
@@ -219,7 +219,7 @@ Leveraging its strategic location in the Greater Bay Area, Guangzhou RoyalLee Ca
 
 ---
 
-# Recommendations for International Patients
+## Recommendations for International Patients
 
 For international patients considering treatment in China, several practical recommendations include:
 
@@ -231,7 +231,7 @@ For international patients considering treatment in China, several practical rec
 
 ---
 
-# Conclusion
+## Conclusion
 
 From precision medicine to CAR-T therapy, and from international-standard services to cost-effective healthcare, China’s JCI cancer hospitals are becoming increasingly important destinations for global cancer patients seeking advanced treatment.
 
