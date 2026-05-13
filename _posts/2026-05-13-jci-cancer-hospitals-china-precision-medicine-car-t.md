@@ -14,7 +14,7 @@ tags:
   - Proton Therapy
   - Guangzhou RoyalLee Cancer Hospital
 excerpt: "Explore why China’s JCI-accredited cancer hospitals are gaining global recognition through precision medicine, CAR-T therapy, innovative oncology technologies, and international-standard healthcare services."
-image: /assets/images/posts/jci-cancer-hospitals-china/china-jci-cancer-hospital-robotic-treatment-room.png
+image: /assets/images/china-jci-cancer-hospital-robotic-treatment-room.png
 ---
 
 ## Introduction
