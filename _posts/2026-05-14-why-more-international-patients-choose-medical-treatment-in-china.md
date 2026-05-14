@@ -15,8 +15,8 @@ tags:
   - Precision medicine
   - Oncology treatment
   - International patients
-image: /assets/images/posts/china-cross-border-healthcare-main.webp
-featured_image: /assets/images/posts/china-cross-border-healthcare-main.webp
+image: /assets/images/posts/china-cross-border-healthcare-main.png
+featured_image: /assets/images/posts/china-cross-border-healthcare-main.png
 toc: true
 ---
 
@@ -26,7 +26,7 @@ As economic globalization continues to deepen, the cross-border flow of medical 
 
 The rise of this “reverse medical tourism” not only reflects the growing international competitiveness of China’s healthcare industry, but also marks China’s gradual transformation from a “medical resource importer” into a “global healthcare service provider.”
 
-![Cross-Border Healthcare in China](/assets/images/posts/china-cross-border-healthcare-main.webp)
+![Cross-Border Healthcare in China](/assets/images/posts/china-cross-border-healthcare-main.png)
 
 ---
 
@@ -50,7 +50,7 @@ JCI accreditation evaluates hospitals across multiple areas, including patient s
 
 Currently, many hospitals in China have obtained JCI accreditation and established international medical centers to provide more standardized and internationally oriented healthcare services for overseas patients.
 
-![International Medical Services in China](/assets/images/posts/china-international-medical-department.webp)
+![International Medical Services in China](/assets/images/posts/china-international-medical-department.png)
 
 ---
 
@@ -88,7 +88,7 @@ Medical institutions including Ruijin Hainan Hospital, West China Lecheng Hospit
 
 These hospitals not only have access to leading Chinese medical experts, but also provide patients with innovative international drugs and medical technologies. Most of them also offer international patient centers with multilingual interpretation, visa assistance, and insurance coordination services.
 
-![Boao Lecheng International Medical Tourism Pilot Zone](/assets/images/posts/boao-lecheng-medical-tourism.webp)
+![Boao Lecheng International Medical Tourism Pilot Zone](/assets/images/posts/boao-lecheng-medical-tourism.png)
 
 ---
 
@@ -100,7 +100,7 @@ The hospital specializes in precision oncology treatment and has accumulated ext
 
 With multilingual services and comprehensive international patient support systems, the hospital has attracted patients from Southeast Asia, the Middle East, and Africa.
 
-![Fuda Cancer Hospital](/assets/images/posts/fuda-cancer-hospital.webp)
+![Fuda Cancer Hospital](/assets/images/posts/fuda-cancer-hospital.png)
 
 ---
 
@@ -112,7 +112,7 @@ The hospital is equipped with advanced medical technologies including the da Vin
 
 In addition, the hospital has established a comprehensive international medical service system that provides visa assistance, multilingual interpretation, and international insurance direct billing services, further improving convenience for overseas patients seeking treatment in China.
 
-![Royal Lee Cancer Hospital](/assets/images/posts/royallee-cancer-hospital-crossborder.webp)
+![Royal Lee Cancer Hospital](/assets/images/posts/royallee-cancer-hospital-crossborder.png)
 
 ---
 
