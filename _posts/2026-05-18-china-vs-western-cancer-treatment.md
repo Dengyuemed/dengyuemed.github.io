@@ -14,7 +14,7 @@ tags:
   - International Patients
   - Oncology
 
-image: /assets/images/china-vs-western-cancer-treatment-cover.png
+image: /assets/images/china-oncology-research.png
 ---
 
 As more international patients seek cross-border cancer care, one question has become increasingly common:
