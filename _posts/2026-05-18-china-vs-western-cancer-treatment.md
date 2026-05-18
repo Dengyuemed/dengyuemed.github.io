@@ -14,7 +14,7 @@ tags:
   - International Patients
   - Oncology
 
-image: /images/blog/china-vs-western-cancer-treatment-cover.png
+image: /assets/images/china-vs-western-cancer-treatment-cover.png
 ---
 
 As more international patients seek cross-border cancer care, one question has become increasingly common:
@@ -115,7 +115,7 @@ In oncology, clinical experience volume is a key factor influencing treatment co
 
 ## Advantages of Cancer Treatment in Western Countries
 
-![International Medical Consultation](/images/blog/international-medical-consultation.png)
+![International Medical Consultation](/assets/images/international-medical-consultation.png)
 
 It is important to note that China is not superior in all aspects.
 
@@ -237,7 +237,7 @@ This is often one of the most challenging parts of the process for patients.
 
 ## DengYueMed: Connecting International Patients with Chinese Hospitals
 
-![DengYueMed Cross-Border Services](/images/blog/dengyuemed-crossborder-services.png)
+![DengYueMed Cross-Border Services](/assets/images/dengyuemed-crossborder-services.png)
 
 For overseas patients, the biggest challenge in cross-border cancer care is often not the treatment itself, but the communication, coordination, and system navigation.
 
