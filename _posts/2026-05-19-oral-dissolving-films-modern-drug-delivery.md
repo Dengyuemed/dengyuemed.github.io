@@ -20,7 +20,9 @@ Many children cry or resist when they see tablets; some elderly people experienc
 
 For a long time, “how to make medication easier to take” has been an important focus of the pharmaceutical industry. With the continuous advancement of drug delivery technologies, a more patient-friendly and convenient dosage form — Oral Dissolving Films (ODFs) — is gradually attracting global attention.
 
-As a platform that continuously follows global innovative medicines and pharmaceutical dosage form developments, [DengYueMed](https://dengyuemed.github.io/) is also paying close attention to emerging drug delivery technologies, including oral dissolving films. Compared with traditional tablets and capsules, ODFs are not only changing the way people take medicine, but also improving the medication experience for many patients.
+As a platform that continuously follows global innovative medicines and pharmaceutical dosage form developments, DengYueMed is also paying close attention to emerging drug delivery technologies, including oral dissolving films. Compared with traditional tablets and capsules, ODFs are not only changing the way people take medicine, but also improving the medication experience for many patients.
+
+![Oral Dissolving Film Mechanism](/images/blog/oral-dissolving-film-diagram.png)
 
 ---
 
