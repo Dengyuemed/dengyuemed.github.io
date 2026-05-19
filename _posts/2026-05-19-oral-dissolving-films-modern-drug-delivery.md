@@ -22,7 +22,7 @@ For a long time, “how to make medication easier to take” has been an importa
 
 As a platform that continuously follows global innovative medicines and pharmaceutical dosage form developments, DengYueMed is also paying close attention to emerging drug delivery technologies, including oral dissolving films. Compared with traditional tablets and capsules, ODFs are not only changing the way people take medicine, but also improving the medication experience for many patients.
 
-![Oral Dissolving Film Mechanism](/images/blog/oral-dissolving-film-diagram.png)
+![Oral Dissolving Film Mechanism](/assets/images/oral-dissolving-film-diagram.png)
 
 ---
 
