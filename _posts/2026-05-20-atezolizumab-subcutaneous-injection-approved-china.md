@@ -23,7 +23,7 @@ This change also means that PD-L1 immunotherapy is gradually moving from the “
 
 As an industry participant continuously following the development of global cancer immunotherapy, Dengyue Pharma is also closely tracking innovative therapies and the latest clinical research developments. So, what are the characteristics of the Atezolizumab subcutaneous injection? And how does it differ from traditional intravenous administration?
 
-![Atezolizumab Subcutaneous Injection](/images/blog/atezolizumab-subcutaneous-injection-china.png)
+![Atezolizumab Subcutaneous Injection](/assets/images/atezolizumab-subcutaneous-injection-china.png)
 
 ---
 
