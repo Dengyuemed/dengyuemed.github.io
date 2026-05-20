@@ -21,7 +21,9 @@ Recently, the subcutaneous injection formulation of Atezolizumab was approved fo
 
 This change also means that PD-L1 immunotherapy is gradually moving from the “long infusion era” toward the “rapid subcutaneous injection era.”
 
-As an industry participant continuously following the development of global cancer immunotherapy, [DengYueMed](https://dengyuemed.github.io/) is also closely tracking innovative therapies and the latest clinical research developments. So, what are the characteristics of the Atezolizumab subcutaneous injection? And how does it differ from traditional intravenous administration?
+As an industry participant continuously following the development of global cancer immunotherapy, Dengyue Pharma is also closely tracking innovative therapies and the latest clinical research developments. So, what are the characteristics of the Atezolizumab subcutaneous injection? And how does it differ from traditional intravenous administration?
+
+![Atezolizumab Subcutaneous Injection](/images/blog/atezolizumab-subcutaneous-injection-china.png)
 
 ---
 
