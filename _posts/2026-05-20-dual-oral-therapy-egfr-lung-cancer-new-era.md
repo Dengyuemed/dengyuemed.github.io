@@ -19,8 +19,6 @@ image: "/assets/images/dual-oral-egfr-lung-cancer.png"
 caption: "Dual oral targeted and immunotherapy combination may reshape future EGFR-mutant lung cancer treatment."
 ---
 
-# Dual Oral Therapy, Chemotherapy-Free! EGFR-Mutant Lung Cancer Treatment May Enter a New Era
-
 In recent years, precision treatment for lung cancer has continued to advance, and EGFR-mutant non-small cell lung cancer (NSCLC) has entered the era of targeted therapy. In particular, the emergence of third-generation EGFR-TKI drugs has enabled more patients to achieve longer survival and better quality of life. However, drug resistance remains an unavoidable core challenge in the treatment of EGFR-mutant lung cancer.
 
 Today, a new treatment strategy is attracting widespread attention in the industry: the oral PD-L1 small-molecule inhibitor ABSK043 combined with Furmonertinib, offering a completely oral, chemotherapy-free treatment approach for patients with EGFR-mutant, PD-L1-positive advanced lung cancer. This may not only reshape the traditional treatment landscape of EGFR-mutant lung cancer, but also signal that the combination of targeted therapy and immunotherapy is entering a new stage.
