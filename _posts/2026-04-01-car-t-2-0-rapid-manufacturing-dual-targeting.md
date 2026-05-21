@@ -8,8 +8,6 @@ description: "Explore the CAR-T 2.0 era in 2026, featuring rapid manufacturing, 
 image: /assets/images/car-t-2-0.png
 ---
 
-![CAR-T 2.0 Mechanism](/assets/images/car-t-2-0.png)
-
 # The CAR-T 2.0 Era Has Arrived
 
 In April 2026, CAR-T cell therapy is undergoing a pivotal transformation — evolving from the “1.0 era” characterized by high cost, long production timelines, and significant toxicity, into a more clinically accessible 2.0 era.
