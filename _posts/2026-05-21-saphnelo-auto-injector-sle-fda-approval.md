@@ -1,6 +1,6 @@
 ---
 title: "FDA Officially Approves Saphnelo Auto-Injector: SLE Patients May Soon Say Goodbye to Long Infusion Sessions"
-date: 2026-05-20
+date: 2026-05-21
 draft: false
 description: "The FDA has officially approved the Saphnelo auto-injector for self-administration, marking a new era of home-based treatment and long-term management for SLE patients."
 slug: "fda-approves-saphnelo-auto-injector-for-sle"
