@@ -6,6 +6,7 @@ description: "The FDA has officially approved the Saphnelo auto-injector for sel
 slug: "fda-approves-saphnelo-auto-injector-for-sle"
 categories:
   - rare-diseases
+  - regulatory
 tags:
   - SLE
   - Lupus
