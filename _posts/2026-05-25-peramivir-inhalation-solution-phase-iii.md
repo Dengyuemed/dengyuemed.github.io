@@ -15,7 +15,7 @@ tags:
   - influenza treatment
   - pharmaceutical innovation
   - DengYueMed
-image: /images/blog/peramivir-inhalation-therapy-cover.png
+image: /assets/images/peramivir-inhalation-therapy-cover.png
 ---
 
 In the field of influenza treatment, traditional therapies have long relied on oral and intravenous administration routes. While these approaches are clinically effective in inhibiting viral replication, they still present limitations in onset speed, tissue distribution, and patient adherence.
@@ -36,7 +36,7 @@ According to publicly available information and typical study designs, Phase III
 
 The completion of enrollment in Phase III indicates that the product has transitioned from early exploratory research into the final stage of confirmatory clinical evaluation. The upcoming results will serve as critical evidence for regulatory submission and clinical assessment, marking a key milestone in its development program.
 
-![Peramivir Clinical Pipeline](/images/blog/peramivir-clinical-pipeline.png)
+![Peramivir Clinical Pipeline](/assets/images/peramivir-clinical-pipeline.png)
 
 ---
 
