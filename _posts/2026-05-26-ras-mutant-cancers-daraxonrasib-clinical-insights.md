@@ -19,7 +19,7 @@ images:
 author: "DengYueMed"
 ---
 
-![Daraxonrasib and RAS-mutant cancer research](/images/blog/daraxonrasib-cover.png)
+![Daraxonrasib and RAS-mutant cancer research](/assets/images/daraxonrasib-cover.png)
 
 RAS gene mutations have long been regarded as one of the most challenging targets in oncology. Due to the unique structure of RAS proteins and the lack of obvious drug-binding pockets, “RAS is undruggable” was considered an industry consensus for decades.
 
@@ -62,7 +62,7 @@ Therefore, directly targeting the RAS pathway has long been considered a key dir
 
 # Mechanistic Features of daraxonrasib
 
-![RAS signaling pathway and targeted inhibition](/images/blog/daraxonrasib-ras-pathway.png)
+![RAS signaling pathway and targeted inhibition](/assets/images/daraxonrasib-ras-pathway.png)
 
 daraxonrasib is a next-generation RAS pathway-targeted inhibitor whose development focus extends beyond a single KRAS G12C mutation, aiming instead to achieve broader suppression of RAS signaling.
 
