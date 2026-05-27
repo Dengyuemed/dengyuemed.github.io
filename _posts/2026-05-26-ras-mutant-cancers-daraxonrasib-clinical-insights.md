@@ -12,10 +12,10 @@ tags:
   - Targeted Therapy
   - Daraxonrasib
   - DengYueMed
-coverImage: "/images/blog/daraxonrasib-cover.png"
+coverImage: "/assets/images/daraxonrasib-cover.png"
 images:
-  - "/images/blog/daraxonrasib-cover.png"
-  - "/images/blog/daraxonrasib-ras-pathway.png"
+  - "/assets/images/daraxonrasib-cover.png"
+  - "/assets/images/daraxonrasib-ras-pathway.png"
 author: "DengYueMed"
 ---
 
