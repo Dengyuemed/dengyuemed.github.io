@@ -119,9 +119,9 @@ Patients should immediately contact physicians or pharmacists if:
 
 ## DengYueMed’s Commitment to Pharmaceutical Safety
 
-As a licensed importer and [wholesaler of specialty pharmaceuticals](https://dengyuemed.com/) authorized by the Hong Kong Department of Health, [DengYueMed](https://dengyuemed.github.io/) has also observed the rapid expansion of gray-market distribution channels within cross-border pharmaceutical trade. Unlicensed intermediaries frequently exploit information asymmetry to sell low-priced cancer medicines of uncertain origin.
+As a licensed importer and [wholesaler of specialty pharmaceuticals](https://dengyuemed.com/) authorized by the Hong Kong Department of Health, DengYueMed has also observed the rapid expansion of gray-market distribution channels within cross-border pharmaceutical trade. Unlicensed intermediaries frequently exploit information asymmetry to sell low-priced cancer medicines of uncertain origin.
 
-DengYueMed supports global efforts against counterfeit medicines through:
+[DengYueMed](https://dengyuemed.github.io/) supports global efforts against counterfeit medicines through:
 
 - Working with qualified and verified pharmaceutical supply channels
 - Maintaining transparent sourcing processes
