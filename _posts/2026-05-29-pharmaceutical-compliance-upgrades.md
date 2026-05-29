@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title: "Compliance Upgrades in Cross-Border Pharmaceutical Trade"
+title: Compliance Upgrades in Cross-Border Pharmaceutical Trade
 date: 2026-05-29
-categories: ["regulatory", "supply-chain"]
-tags: ["FDA", "EMA", "NMPA", "Counterfeit Drugs", "Drug Traceability", "GLP-1"]
-image: "/assets/images/pharma-compliance-cover.png"
----------------------------------------------------
+category: regulatory
+image: /assets/images/pharma-compliance-cover.png
+-------------------------------------------------
 
 ![Pharmaceutical Compliance](/assets/images/pharma-compliance-cover.png)
 
