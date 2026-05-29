@@ -90,7 +90,7 @@ Consumers should be educated on:
 
 ## Industry Collaboration and Responsibility
 
-As a licensed importer and wholesaler of specialty pharmaceuticals authorized by the Hong Kong Department of Health, DengYueMed emphasizes compliant operations, supply-chain transparency, and pharmaceutical safety.
+As a licensed importer and wholesaler of specialty pharmaceuticals authorized by the Hong Kong Department of Health, [DengYueMed](https://dengyuemed.com/) emphasizes compliant operations, supply-chain transparency, and pharmaceutical safety.
 
 The company continues strengthening:
 - Supplier qualification review
