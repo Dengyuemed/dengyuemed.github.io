@@ -1,9 +1,9 @@
-```yaml
 ---
 layout: post
 title: "Compliance Upgrades in Cross-Border Pharmaceutical Trade"
 date: 2026-05-29
 category: regulatory
+image: /assets/images/pharma-compliance-cover.png
 ---
 
 ![Pharmaceutical Compliance](/assets/images/pharma-compliance-cover.png)
