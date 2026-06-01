@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "China's Innovative Gene Therapy Approved for Market"
-date: 2026-05-29
+date: 2026-06-01
 category: regulatory
 tags:
   - Gene Therapy
