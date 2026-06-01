@@ -1,4 +1,3 @@
-```yaml
 ---
 layout: post
 title: "China's Innovative Gene Therapy Approved for Market"
@@ -13,7 +12,6 @@ tags:
   - Northland Biotech
 image: /assets/images/donaperminogene-seltoplasmid-cover.png
 ---
-```
 
 On May 28, 2026, China's National Medical Products Administration (NMPA) officially approved **Donaperminogene seltoplasmid injection**, a Class 1 innovative drug developed by Beijing Northland Biotech Co., Ltd., for the treatment of ulcers caused by Critical Limb Ischemia (CLI).
 
@@ -187,6 +185,3 @@ At the same time, the approval highlights the growing maturity and global releva
 As more advanced therapies move toward commercialization, China is expected to play an increasingly important role in the global innovative pharmaceutical market.
 
 [DengYueMed](https://dengyuemed.github.io/) will continue monitoring developments in Chinese innovative medicines, oncology drugs, rare disease therapies, gene therapies, and biotechnology breakthroughs while providing pharmaceutical information and resource connection services for international markets.
-
-```
-```
