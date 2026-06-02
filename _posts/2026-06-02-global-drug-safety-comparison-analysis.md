@@ -15,7 +15,7 @@ tags:
   - drug-procurement
   - healthcare-supply-chain
   - pharmaceutical-distribution
-image: /assets/images/global-drug-safety-standards-cover.png
+image: /assets/images/global-drug-safety-standards-cover.jpeg
 excerpt: "A comparative analysis of drug safety challenges across North America, Europe, Asia, Africa, and Latin America, examining counterfeit medicines, regulatory systems, pharmaceutical supply chains, and global compliance trends."
 ---
 
@@ -37,7 +37,7 @@ In addition, the global pharmaceutical supply chain has become increasingly comp
 
 High drug prices are also a major driver of counterfeit medicines. For expensive products such as [cancer therapies](https://dengyuemed.com/oncology-diseases/), weight-loss drugs, and biologics, patients are often more likely to seek lower-cost alternatives, creating opportunities for illegal markets.
 
-![Online Pharmacy Drug Purchase](/assets/images/online-pharmacy-drug-purchase.png)
+![Online Pharmacy Drug Purchase](/assets/images/online-pharmacy-drug-purchase.jpeg)
 
 ---
 
@@ -81,7 +81,7 @@ In simple terms, medicines are purchased in lower-priced countries and then reso
 
 Europe's challenges are not primarily caused by weak regulation, but rather by the highly active cross-border circulation enabled by the EU free trade system. Price differences between countries also drive the growth of the parallel import market.
 
-![Drug Serialization and Traceability](/assets/images/drug-serialization-traceability.png)
+![Drug Serialization and Traceability](/assets/images/drug-serialization-traceability.jpeg)
 
 ---
 
@@ -154,7 +154,7 @@ Frequent border trade, combined with limited healthcare coverage in some countri
 
 Economic disparities and policy instability also increase the difficulty of market supervision.
 
-![Patient Medication Access](/assets/images/patient-medication-access.png)
+![Patient Medication Access](/assets/images/patient-medication-access.jpeg)
 
 ---
 
@@ -184,7 +184,7 @@ For readers interested in this topic, we also recommend reading:
 
 **Causes of the Global Counterfeit Drug Problem and Safe Pharmaceutical Procurement Guide**
 
-![Pharmaceutical Inspection Supply Chain](/assets/images/pharmaceutical-inspection-supply-chain.png)
+![Pharmaceutical Inspection Supply Chain](/assets/images/pharmaceutical-inspection-supply-chain.jpeg)
 
 ---
 
