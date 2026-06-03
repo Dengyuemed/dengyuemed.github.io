@@ -12,7 +12,7 @@ tags:
   - international healthcare
   - drug traceability
   - patient safety
-image: "/images/blog/avoid-medical-broker-scams-overseas-treatment.png"
+image: "/images/articles/avoid-medical-broker-scams-overseas-treatment.png"
 author: "DengYueMed Editorial Team"
 featured: false
 ---
