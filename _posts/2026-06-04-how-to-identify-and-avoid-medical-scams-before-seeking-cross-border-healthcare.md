@@ -194,4 +194,4 @@ By verifying information carefully and remaining aware of common scams, patients
 
 ### About DengYueMed
 
-DengYueMed is dedicated to connecting patients with global healthcare resources, pharmaceutical information, cross-border medical services, and international healthcare solutions. Through a commitment to transparency, compliance, and patient-centered support, DengYueMed helps individuals make informed healthcare decisions in an increasingly global medical landscape.
+[DengYueMed](https://dengyuemed.com/) is dedicated to connecting patients with global healthcare resources, pharmaceutical information, cross-border medical services, and international healthcare solutions. Through a commitment to transparency, compliance, and patient-centered support, DengYueMed helps individuals make informed healthcare decisions in an increasingly global medical landscape.
