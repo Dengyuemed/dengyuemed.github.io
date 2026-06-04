@@ -10,7 +10,7 @@ tags:
   - patient safety
   - overseas treatment
   - regulatory compliance
-image: /assets/images/how-to-identify-and-avoid-medical-scams-a-practical-guide-before-seeking-cross-border-healthcare.png
+image: /assets/images/how-to-identify-and-avoid-medical-scams-before-seeking-cross-border-healthcare.png
 author: DengYueMed
 ---
 
