@@ -196,4 +196,4 @@ For patients considering medical care abroad, understanding health insurance cov
 
 ## About DengYueMed
 
-DengYueMed focuses on global healthcare resources, pharmaceutical information, cross-border medical services, and innovative treatment developments. We help patients better understand international healthcare options, pharmaceutical accessibility, medical compliance, and emerging therapies, enabling informed decisions in an increasingly connected global healthcare environment.
+[DengYueMed](https://dengyuemed.com/) focuses on global healthcare resources, pharmaceutical information, cross-border medical services, and innovative treatment developments. We help patients better understand international healthcare options, pharmaceutical accessibility, medical compliance, and emerging therapies, enabling informed decisions in an increasingly connected global healthcare environment.
