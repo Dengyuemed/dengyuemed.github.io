@@ -11,7 +11,7 @@ tags:
   - Pharmaceutical Supply Chain
   - Global Health
 excerpt: "A medicine may fade from major urban hospitals while remaining indispensable in community healthcare settings. This phenomenon reveals important truths about medicine distribution, healthcare equity, and global access to medicines."
-image: "/images/blog/medicine-distribution-global-drug-access.png"
+image: "/assets/images/medicine-distribution-global-drug-access.png"
 author: "DengYueMed Editorial Team"
 ---
 
