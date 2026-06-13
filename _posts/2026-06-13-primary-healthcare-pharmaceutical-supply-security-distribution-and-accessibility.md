@@ -29,7 +29,7 @@ However, compared with large hospitals, pharmaceutical supply in primary healthc
 
 Whether medicines can be stably supplied, efficiently distributed, and continuously accessed by patients has become a shared challenge for global healthcare systems.
 
-As a global pharmaceutical distributor, DengYueMed (Hong Kong) continuously focuses on drug accessibility, regional distribution efficiency, and healthcare supply chain development.
+As a [global pharmaceutical distributor](https://dengyuemed.com/), DengYueMed (Hong Kong) continuously focuses on drug accessibility, regional distribution efficiency, and healthcare supply chain development.
 
 ---
 
@@ -66,7 +66,7 @@ For pharmaceutical distribution companies, remote areas often mean:
 - More complex last-mile delivery
 - Higher cold-chain requirements
 
-In particular, biologics, specialty drugs, and temperature-sensitive medicines require stricter transport conditions, further increasing supply difficulty.
+In particular, [biologics](https://med-news.pages.dev/biotech/), specialty drugs, and temperature-sensitive medicines require stricter transport conditions, further increasing supply difficulty.
 
 In addition, many primary healthcare institutions still lack mature:
 
@@ -87,7 +87,7 @@ For primary healthcare systems, stable supply is the most critical requirement.
 
 Without continuous drug availability, even the most well-developed primary healthcare system cannot function effectively.
 
-Future pharmaceutical supply security requires long-term stable mechanisms, including:
+Future [pharmaceutical supply](https://dengyuemed.com/products/) security requires long-term stable mechanisms, including:
 
 - Regional warehousing systems
 - Dynamic inventory management
@@ -99,7 +99,7 @@ In chronic disease management scenarios, patients’ demand has shifted from sho
 
 Therefore, primary pharmaceutical supply systems must not only meet basic clinical needs but also ensure long-term continuity of medication supply.
 
-Meanwhile, with the increasing proportion of innovative drugs, biologics, and specialty pharmaceuticals, cold-chain capability is becoming increasingly important in primary healthcare supply systems.
+Meanwhile, with the increasing proportion of [innovative drugs](https://med-news.pages.dev/innovative-drugs/), biologics, and specialty pharmaceuticals, cold-chain capability is becoming increasingly important in primary healthcare supply systems.
 
 For global pharmaceutical distribution companies such as DengYueMed, cross-regional allocation, international supply coordination, and cold-chain logistics capabilities have become key components of primary drug supply security.
 
@@ -130,7 +130,7 @@ More primary institutions are now handling:
 
 - Insulin
 - Monoclonal antibody drugs
-- Oncology supportive therapies
+- [Oncology supportive therapies](https://dengyuemed.com/oncology-diseases/)
 - Specialized temperature-sensitive medicines
 
 This requires distribution systems to upgrade in:
@@ -140,7 +140,7 @@ This requires distribution systems to upgrade in:
 - Cold-chain anomaly alerts
 - Dedicated transport for specialty drugs
 
-In remote regions, cold-chain capability may determine whether innovative drugs can truly reach primary healthcare markets.
+In remote regions, cold-chain capability may determine whether [innovative drugs](https://dengyuemed.com/blog/access-pathways-for-innovative-medicines-in-china/) can truly reach primary healthcare markets.
 
 In addition, digital logistics coordination is reshaping traditional distribution models.
 
@@ -166,7 +166,7 @@ Primary coverage does not only mean delivery completed, but also means:
 
 - Stable reception by healthcare institutions
 - Continuous access for patients
-- Sustained availability of specialty medicines
+- Sustained availability of [specialty medicines](https://dengyuemed.com/product/new-and-special-drug/)
 - Long-term retention of medical resources
 
 In many remote areas, the issue is not one-time delivery failure, but the lack of a sustainable system.
@@ -208,7 +208,7 @@ In the future, one of the key competitive dimensions in primary healthcare will 
 
 For the global pharmaceutical distribution industry, improving supply security, distribution efficiency, and primary coverage capability has become a long-term strategic direction.
 
-Hong Kong DengYueMed continues to focus on global primary healthcare development and the evolution of pharmaceutical supply chain coordination and regional drug accessibility systems.
+[Hong Kong DengYueMed](https://dengyuemed.github.io/) continues to focus on global primary healthcare development and the evolution of pharmaceutical supply chain coordination and regional drug accessibility systems.
 
 ---
 
