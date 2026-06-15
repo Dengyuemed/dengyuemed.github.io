@@ -2,7 +2,7 @@
 title: "How Is the Rare Disease Drug Supply Chain Changing as Patient Assistance Programs Expand?"
 description: "Explore how patient assistance programs are transforming rare disease drug accessibility, demand forecasting, pharmaceutical distribution, and global supply chain management."
 pubDate: 2026-06-15
-heroImage: "/assets/images/rare-disease-drug-supply-chain-patient-assistance-cover.png"
+image: "/assets/images/rare-disease-drug-supply-chain-patient-assistance-cover.png"
 category: "rare-diseases"
 tags:
   - Rare Diseases
