@@ -42,7 +42,7 @@ T-cell engagers act as a bridge between cancer cells and T cells, enabling immun
 
 ## How Do T-Cell Engagers Work?
 
-![Comparison of CAR-T, TCR-T, and T-Cell Engager Mechanisms](/images/blog/t-cell-engager-mechanism.png)
+![Comparison of CAR-T, TCR-T, and T-Cell Engager Mechanisms](/assets/images/t-cell-engager-mechanism.png)
 
 *Comparison of CAR-T, TCR-T, and T-cell engager (TCE) mechanisms. T-cell engagers act as a bridge between T cells and tumor cells, enabling precise immune-mediated tumor killing through CD3 activation.*
 
