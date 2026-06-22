@@ -15,7 +15,7 @@ tags:
   - Targeted Therapy
   - PDAC
 image: "/assets/images/ras-mutant-pancreatic-cancer-rmc6236.png"
-author: "DengYue Pharma"
+author: "DengYueMed"
 featured: false
 ---
 
