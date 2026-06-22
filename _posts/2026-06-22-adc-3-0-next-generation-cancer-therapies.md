@@ -4,7 +4,7 @@ date: 2026-06-22
 description: "Explore the key innovations driving the ADC 3.0 era, including new targets, advanced linker technologies, novel payloads, enhanced bystander effects, and combination therapy strategies that are reshaping precision oncology."
 image: "/assets/images/adc-3-0-next-generation-cancer-therapies.png"
 category: "oncology"
-author: "DengYue Pharma"
+author: "DengYueMed"
 tags:
   - ADC
   - Antibody Drug Conjugate
