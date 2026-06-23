@@ -4,7 +4,7 @@ date: 2026-06-23
 description: "Explore why ADC therapies achieving a 50% objective response rate are attracting global attention and how advances in ADC technology are translating into meaningful benefits for cancer patients."
 excerpt: "Antibody-drug conjugates (ADCs) are redefining precision oncology. As more ADC therapies report objective response rates (ORRs) of 50% or higher, researchers and clinicians are paying close attention."
 author: "DengYue Pharmaceutical"
-category: "Oncology"
+category: "oncology"
 tags:
   - ADC
   - Antibody Drug Conjugate
@@ -14,7 +14,7 @@ tags:
   - ORR
   - Targeted Therapy
   - Cancer Innovation
-featuredImage: "/assets/images/adc-50-percent-orr-mechanism.png"
+image: "/assets/images/adc-50-percent-orr-mechanism.png"
 featuredImageAlt: "Antibody-drug conjugate mechanism of action showing targeted delivery of cytotoxic payloads to cancer cells"
 slug: "when-adcs-achieve-50-percent-orr-how-innovation-translates-into-patient-benefit"
 ---
