@@ -15,7 +15,6 @@ tags:
   - Targeted Therapy
   - Cancer Innovation
 image: "/assets/images/adc-50-percent-orr-mechanism.png"
-featuredImageAlt: "Antibody-drug conjugate mechanism of action showing targeted delivery of cytotoxic payloads to cancer cells"
 slug: "when-adcs-achieve-50-percent-orr-how-innovation-translates-into-patient-benefit"
 ---
 
