@@ -3,7 +3,7 @@ title: "Five Innovative Drugs Approved in China on the Same Day: Breakthroughs i
 slug: "five-innovative-drugs-approved-in-china-same-day"
 date: "2026-06-27"
 excerpt: "China approved five innovative medicines on the same day, including the world's first anti-rabies bispecific antibody, the world's first bispecific ADC, the world's first solid tumor CAR-T therapy, China's first oral SERD, and a first-in-class antimicrobial peptide drug."
-image: "/assets/images/five-innovative-drugs-approved-in-china-same-day.png"
+image: "/assets/images/five-innovative-drugs-approved-in-china-same-day.webp"
 category: "regulatory"
 author: "DengYueMed Editorial Team"
 tags:
