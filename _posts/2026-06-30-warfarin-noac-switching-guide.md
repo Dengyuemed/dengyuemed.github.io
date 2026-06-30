@@ -2,7 +2,7 @@
 layout: post
 title: "How to Safely Switch Between Warfarin and NOACs: Key Timing and Monitoring Considerations"
 date: 2026-06-30
-categories: [healthcare-policy]
+categories: [regulatory]
 tags: [Warfarin, NOACs, Anticoagulation, INR, Atrial Fibrillation, DVT, Pulmonary Embolism, Clinical Pharmacy, Medication Safety]
 image: /assets/images/warfarin-noac-switch-cover.png
 ---
