@@ -3,9 +3,9 @@
 layout: post
 title: "Understanding the FDA Pregnancy Drug Classification and Procurement Recommendations: From A/B/C/D/X to PLLR—How Can Pharmacies Optimize Medication Management for Pregnant Patients?"
 date: 2026-06-30
-categories: [regulatory]
+category: [regulatory]
 tags: [FDA, PLLR, Pregnancy, Medication Safety, Drug Labeling, Pharmacy, Pharmaceutical Procurement, Maternal Health]
-image: /assets/images/fda-pregnancy-drug-classification-pllr.png
+image: "/assets/images/fda-pregnancy-drug-classification-pllr.png"
 ---
 
 Medication safety during pregnancy has long been a critical concern in global healthcare. For hospitals, pharmacies, [pharmaceutical distributors](https://dengyuemed.com/), and healthcare professionals, accurately evaluating the risks of medications during pregnancy and establishing appropriate procurement strategies are essential not only for protecting maternal and fetal health but also for improving the quality of pharmaceutical care.
