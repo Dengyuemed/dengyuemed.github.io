@@ -1,4 +1,3 @@
-````markdown
 ---
 layout: post
 title: "How DTP Pharmacies Are Transforming Innovative Drug Commercialization and Patient Access"
