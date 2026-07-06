@@ -19,8 +19,6 @@ image: /assets/images/protac-vepdegestrant-fda.png
 author: DengYueMed
 ---
 
-# A Milestone for Targeted Protein Degradation: The World’s First PROTAC Drug Approved
-
 On May 1, 2026, the U.S. Food and Drug Administration officially approved **Vepdegestrant (trade name: Veppanu)** for the treatment of adult patients with estrogen receptor–positive (ER+), human epidermal growth factor receptor 2–negative (HER2−), ESR1-mutant advanced or metastatic [breast cancer](https://dengyuemed.com/product/breast-cancer/), whose disease has progressed after at least one line of endocrine therapy.
 
 ![Vepdegestrant (Veppanu)](/assets/images/veppanu-protac-mechanism.png)
