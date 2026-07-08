@@ -24,14 +24,6 @@ tags:
 image: /assets/images/oral-targeted-therapy-china.png
 ---
 
-# Why Are More Cancer Drugs Becoming Oral Therapies? The Current Landscape of Oral Targeted Therapy in China
-
-![Why Are More Cancer Drugs Becoming Oral Therapies?](/assets/images/oral-targeted-therapy-china.png)
-
-**By:** https://dengyuemed.com/
-
----
-
 Over the past two decades, the global oncology treatment landscape has undergone a major transformation. Traditional cancer treatment was largely centered around hospital-based infusion therapy. Whether chemotherapy, early monoclonal antibodies, or some first-generation immunotherapies, patients often needed to travel repeatedly to hospitals and rely heavily on infusion centers throughout the treatment cycle. For many patients with advanced cancer, treatment meant not only the drugs themselves, but also prolonged hospitalization, frequent follow-up visits, infusion-related complications, infection risks, and significant disruption to daily life.
 
 With the rapid development of precision medicine, many solid tumors have entered the era of molecular classification. Oncology treatment strategies have gradually shifted from broad cytotoxic approaches toward long-term precision control targeting specific molecular pathways. In this context, oral targeted therapies have become an increasingly important part of modern cancer treatment systems.
