@@ -21,12 +21,12 @@ tags:
   - Breast Cancer
   - Cross-border Healthcare
   - DengYueMed
-image: /assets/images/posts/oral-targeted-therapy-china.png
+image: /assets/images/oral-targeted-therapy-china.png
 ---
 
 # Why Are More Cancer Drugs Becoming Oral Therapies? The Current Landscape of Oral Targeted Therapy in China
 
-![Why Are More Cancer Drugs Becoming Oral Therapies?](/assets/images/posts/oral-targeted-therapy-china.png)
+![Why Are More Cancer Drugs Becoming Oral Therapies?](/assets/images/oral-targeted-therapy-china.png)
 
 **By:** https://dengyuemed.com/
 
