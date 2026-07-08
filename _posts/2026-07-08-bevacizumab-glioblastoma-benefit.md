@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Which GBM Patients May Benefit from Bevacizumab?"
 description: "Learn which glioblastoma (GBM) patients may benefit from bevacizumab, its clinical benefits, treatment approaches, side effects, and role in recurrent GBM management."
 date: 2026-07-08
