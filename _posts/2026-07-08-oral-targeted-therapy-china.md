@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Why Are More Cancer Drugs Becoming Oral Therapies? The Current Landscape of Oral Targeted Therapy in China"
 description: "Explore why oral targeted therapies are transforming modern oncology, how China's innovative pharmaceutical industry is driving this shift, and what it means for long-term cancer management and international patients."
 date: 2026-07-08
