@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "A Milestone for Targeted Protein Degradation: The World’s First PROTAC Drug Approved"
 description: "The U.S. FDA has approved Vepdegestrant (Veppanu), the world's first PROTAC therapy, for ER-positive, HER2-negative, ESR1-mutant advanced or metastatic breast cancer—marking a historic milestone for targeted protein degradation."
 date: 2026-07-06
