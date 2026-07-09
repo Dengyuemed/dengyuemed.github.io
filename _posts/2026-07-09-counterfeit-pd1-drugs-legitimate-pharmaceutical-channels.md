@@ -16,7 +16,7 @@ tags:
   - Oncology
   - DengYueMed
 author: DengYueMed
-image: /assets/images/blog/counterfeit-pd1-drugs.png
+image: /assets/images/counterfeit-pd1-drugs.png
 ---
 
 In recent years, PD-1/PD-L1 immunotherapy has rapidly transformed cancer treatment worldwide and become an important therapeutic option for multiple malignancies, including lung cancer, liver cancer, melanoma, and gastric cancer. As immunotherapy gains wider acceptance among patients, market demand continues to grow. However, alongside this rapid expansion, counterfeit PD-1 drugs have also become an increasingly serious problem.
