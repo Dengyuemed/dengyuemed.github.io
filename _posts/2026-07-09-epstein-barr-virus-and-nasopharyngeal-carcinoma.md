@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Why Does the Epstein-Barr Virus Cause Nasopharyngeal Carcinoma? Understanding High-Risk Factors and Early Warning Signs"
 description: "Learn how Epstein-Barr virus (EBV) contributes to nasopharyngeal carcinoma (NPC), discover high-risk factors, early warning signs, screening methods, and the latest advances in precision medicine and innovative therapies."
 date: 2026-07-09
