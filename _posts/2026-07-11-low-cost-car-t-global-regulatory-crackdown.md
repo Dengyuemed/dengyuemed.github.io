@@ -5,7 +5,7 @@ date: 2026-07-11
 author: DengYueMed Editorial Team
 description: "Learn why global regulators are cracking down on low-cost CAR-T therapy programs, the hidden risks behind gray-market cell therapies, and how patients can identify legitimate CAR-T treatment providers."
 excerpt: "As CAR-T therapy transforms cancer treatment, illegal low-cost programs are also emerging. Discover the risks behind unauthorized CAR-T services and how regulatory agencies worldwide are responding."
-category: Oncology
+category: regulatory oncology
 tags:
   - CAR-T
   - Cell Therapy
