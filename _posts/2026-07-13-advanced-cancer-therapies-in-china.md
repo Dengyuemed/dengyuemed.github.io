@@ -4,25 +4,21 @@ title: "What Advanced Cancer Therapies Are Available in China? Which Internation
 slug: "advanced-cancer-therapies-in-china"
 date: "2026-07-13"
 author: "DengYueMed Editorial Team"
-description: "Explore advanced cancer therapies available in China, including CAR-T cell therapy, immunotherapy, proton and heavy ion therapy, NanoKnife, cryoablation, and precision targeted therapy. Learn which international patients may benefit from receiving cancer treatment in China."
-category: "Medical Tourism"
+description: "Explore advanced cancer therapies available in China, including CAR-T cell therapy, immunotherapy, proton and heavy ion therapy, NanoKnife, cryoablation, and precision targeted therapy."
+category: oncology
 tags:
   - Cancer Treatment
-  - China Healthcare
-  - Medical Tourism
-  - CAR-T Therapy
+  - CAR-T
   - Immunotherapy
   - Proton Therapy
   - Heavy Ion Therapy
   - NanoKnife
   - Cryoablation
+  - Precision Oncology
   - Targeted Therapy
-  - Precision Medicine
-image: "/assets/images/advanced-cancer-therapies-china-cover.png"
+  - China
 featured: true
-seo:
-  title: "Advanced Cancer Therapies in China | CAR-T, Proton Therapy & Precision Oncology"
-  description: "Learn about China's advanced cancer treatment options, including CAR-T therapy, immunotherapy, proton therapy, NanoKnife, cryoablation, and precision targeted therapy for international patients."
+image: "/assets/images/advanced-cancer-therapies-china-cover.png"
 ---
 
 As more international patients begin exploring [cancer treatments in China](https://dengyuemed.com/blog/cancer-treatment-in-china-for-international-patients/), the demand for cross-border medical care continues to grow.
