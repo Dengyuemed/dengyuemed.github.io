@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "What Is the Survival Rate of Medulloblastoma? Key Factors Affecting Prognosis"
 date: "2026-07-14"
 description: "Learn about medulloblastoma survival rates, molecular subtypes, recurrence risks, treatment options, and the key factors that influence long-term prognosis."
