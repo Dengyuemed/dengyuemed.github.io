@@ -21,8 +21,6 @@ image: "/assets/images/car-t-therapy-head-and-neck-cancer-hnscc.png"
 alt: "CAR-T therapy research for head and neck squamous cell carcinoma"
 ---
 
-# CAR-T Therapy for Head and Neck Cancer: Challenges, Clinical Progress, and Future Perspectives
-
 In recent years, **Chimeric Antigen Receptor T-cell (CAR-T) therapy** has emerged as one of the most groundbreaking innovations in cancer treatment. From its remarkable success in treating acute lymphoblastic leukemia (ALL) to its widespread application in lymphoma and [multiple myeloma](https://dengyuepharma.com/blog/terapia-car-t-dirigida-a-bcma-mieloma-multiple/), CAR-T therapy has fundamentally transformed the treatment outcomes of many patients with hematologic malignancies.
 
 However, compared with its rapid success in blood cancers, the clinical development of CAR-T therapy for head and neck cancers, particularly **head and neck squamous cell carcinoma (HNSCC)**, has progressed much more slowly. Although numerous clinical trials are currently underway worldwide, no CAR-T therapy has yet been approved for the treatment of head and neck solid tumors.
