@@ -38,8 +38,6 @@ seo:
     - Precision Oncology
 ---
 
-# Advances in HER3 ADC Development for Head and Neck Squamous Cell Carcinoma (HNSCC): Latest Clinical Research and Future Perspectives
-
 In recent years, [antibody-drug conjugates (ADCs)](https://dengyuepharma.com/noticias-medicas/nuevos-farmacos-adc-innovacion-oncologia/) have emerged as one of the most promising therapeutic innovations in precision oncology. Following the remarkable clinical success of HER2-targeted ADCs and TROP2-targeted ADCs, the ADC field has continued to expand toward novel therapeutic targets. Among these, HER3-targeted antibody-drug conjugates (HER3 ADCs) have attracted growing attention as a potential treatment strategy for head and neck squamous cell carcinoma (HNSCC).
 
 Human epidermal growth factor receptor 3 (HER3, also known as ERBB3) is widely expressed across multiple solid tumors and has been closely associated with tumor progression, therapeutic resistance, and poor clinical outcomes in patients with HNSCC. As several HER3 ADC candidates continue to advance through clinical development, increasing evidence suggests that they may offer new treatment opportunities for patients with advanced or recurrent HNSCC.
