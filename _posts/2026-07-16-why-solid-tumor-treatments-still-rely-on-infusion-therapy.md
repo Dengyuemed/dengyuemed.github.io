@@ -15,7 +15,7 @@ keywords:
   - oncology
   - cancer treatment
   - DengYueMed
-category: Oncology
+category: oncology
 tags:
   - Oncology
   - ADC
