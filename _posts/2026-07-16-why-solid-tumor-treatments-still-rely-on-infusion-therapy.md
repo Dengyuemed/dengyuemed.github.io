@@ -29,7 +29,7 @@ featured: false
 toc: true
 ---
 
-Over the past decade, oncology treatment has undergone a significant transition toward **de-chemotherapy** and **oral targeted therapy**. Oral targeted drugs against **EGFR, ALK, ROS1, RET, BRAF,** and **KRAS G12C** have enabled some solid tumors to evolve into long-term chronic disease management models, allowing many patients to receive treatment in outpatient clinics or even at home.
+Over the past decade, [oncology treatment](https://dengyuemed.com/oncology-diseases/) has undergone a significant transition toward **de-chemotherapy** and **oral targeted therapy**. Oral targeted drugs against **EGFR, ALK, ROS1, RET, BRAF,** and **KRAS G12C** have enabled some solid tumors to evolve into long-term chronic disease management models, allowing many patients to receive treatment in outpatient clinics or even at home.
 
 At the same time, however, another major trend has emerged. The most important innovative therapies that define the upper limit of advanced solid tumor treatment increasingly rely on **intravenous infusion therapy**.
 
@@ -54,7 +54,7 @@ For international patients, the challenge is no longer simply obtaining medicati
 - Build stable cross-border follow-up systems
 - Coordinate multidisciplinary cancer care
 
-At **DengYueMed**, we continuously follow developments in China's innovative oncology ecosystem—including **ADCs, PD-1 therapies, bispecific antibodies, and cell therapies**—while helping international patients better understand the rapidly evolving treatment landscape.
+At **[DengYueMed](https://dengyuemed.com/)**, we continuously follow developments in China's innovative oncology ecosystem—including **ADCs, PD-1 therapies, bispecific antibodies, and cell therapies**—while helping international patients better understand the rapidly evolving treatment landscape.
 
 ---
 
@@ -290,7 +290,7 @@ Rather than replacing infusion therapy, oral therapies and infusion-based biolog
 
 ## Conclusion
 
-By 2026, solid tumor treatment is no longer simply about receiving chemotherapy.
+By 2026, solid [tumor treatment](https://dengyuemed.com/oncology-diseases/) is no longer simply about receiving chemotherapy.
 
 Instead, modern oncology has evolved into a comprehensive treatment ecosystem characterized by:
 
@@ -303,7 +303,7 @@ Instead, modern oncology has evolved into a comprehensive treatment ecosystem ch
 
 For international patients, successful treatment increasingly depends on establishing a stable, continuous, and sustainable care pathway rather than simply obtaining access to medication.
 
-DengYueMed continues to closely monitor developments in China's innovative oncology therapies, including ADCs, PD-1 inhibitors, bispecific antibodies, and emerging cellular therapies. Through compliant pharmaceutical sourcing and international medical coordination, DengYueMed supports overseas patients seeking access to China's rapidly evolving cancer treatment ecosystem.
+[DengYueMed](https://dengyuemed.github.io/) continues to closely monitor developments in China's innovative oncology therapies, including ADCs, PD-1 inhibitors, bispecific antibodies, and emerging cellular therapies. Through compliant pharmaceutical sourcing and international medical coordination, DengYueMed supports overseas patients seeking access to China's rapidly evolving cancer treatment ecosystem.
 
 Our services include:
 
@@ -314,7 +314,7 @@ Our services include:
 - Long-term infusion treatment coordination
 - Remote medical assessment and cross-border healthcare assistance
 
-As precision oncology continues to evolve, comprehensive treatment management—including access to innovative medicines, multidisciplinary expertise, and coordinated long-term care—will become increasingly important for improving survival outcomes and quality of life.
+As precision oncology continues to evolve, comprehensive treatment management—including access to [innovative medicines](https://hkdengyue.github.io/innovative-drugs/), multidisciplinary expertise, and coordinated long-term care—will become increasingly important for improving survival outcomes and quality of life.
 
 ---
 
