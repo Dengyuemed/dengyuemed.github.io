@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "38 Innovative Drugs Approved in China in the First Half of 2026"
 description: "Explore the 38 innovative drugs approved by China's NMPA in the first half of 2026, including oncology, rare disease, metabolic, autoimmune, and CNS therapies."
 date: "2026-07-20"
