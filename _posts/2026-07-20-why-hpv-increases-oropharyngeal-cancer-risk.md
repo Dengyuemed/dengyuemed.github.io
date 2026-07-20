@@ -2,9 +2,11 @@
 layout: post
 title: "Why Does HPV Increase the Risk of Oropharyngeal Cancer? Carcinogenic Mechanisms, Diagnosis, and the Latest Treatment Advances"
 date: 2026-07-20
-description: "Explore how HPV infection causes oropharyngeal cancer, the roles of E6/E7 proteins, p16 testing, current diagnostic approaches, immunotherapy, ADCs, and emerging treatment strategies."
+description: "Learn how persistent HPV infection causes oropharyngeal cancer, the roles of E6/E7 proteins, current diagnostic methods, and the latest advances in immunotherapy and ADCs."
 author: "DengYueMed"
-category: "Head & Neck Cancer"
+
+category: oncology
+
 tags:
   - HPV
   - Oropharyngeal Cancer
@@ -17,7 +19,7 @@ tags:
   - HER3
   - EGFR
   - B7-H3
-  - Precision Oncology
+
 image: "/assets/images/hpv-oropharyngeal-cancer.png"
 featured: true
 ---
