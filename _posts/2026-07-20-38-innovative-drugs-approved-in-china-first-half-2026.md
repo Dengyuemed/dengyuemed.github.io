@@ -17,8 +17,6 @@ tags:
 slug: "38-innovative-drugs-approved-in-china-first-half-2026"
 ---
 
-# 38 Innovative Drugs Approved in China in the First Half of 2026
-
 According to public information released on the website of China's National Medical Products Administration (NMPA), **38 innovative drugs** had been approved in China as of **July 14, 2026**.
 
 [Chinese pharmaceutical wholesaler](https://dengyuemed.com/) **DengYueMed** has compiled an overview of these newly approved innovative drugs, summarizing their **Marketing Authorization Holders (MAHs)** and approved indications to provide professional market information that supports greater global accessibility of high-quality medicines from China.
