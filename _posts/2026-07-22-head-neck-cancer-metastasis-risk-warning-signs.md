@@ -19,7 +19,7 @@ tags:
   - "Cancer Diagnosis"
   - "Cancer Treatment"
 
-image: "/images/blog/head-neck-cancer-metastasis-warning-signs.jpg"
+image: "/assets/images/head-neck-cancer-metastasis-warning-signs.png"
 
 featured: false
 
