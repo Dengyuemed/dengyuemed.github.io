@@ -1,36 +1,39 @@
 ---
-
 layout: post
 title: "How High Is the Risk of Metastasis in Head and Neck Cancer? Understanding Common Metastatic Sites and Warning Signs"
-slug: "head-neck-cancer-metastasis-risk-warning-signs"
+
 date: "2026-07-22"
-excerpt: "Learn how head and neck cancers spread, which organs are most commonly affected, what symptoms may indicate metastasis, and how early detection can improve treatment outcomes."
+
+excerpt: "Learn how head and neck cancer spreads, common metastatic sites, warning signs, risk factors, diagnosis, and the latest treatment strategies for metastatic HNSCC."
+
+author: "DengYueMed Editorial Team"
+
 category: "oncology"
+
 tags:
+  - "Head and Neck Cancer"
+  - "HNSCC"
+  - "Cancer Metastasis"
+  - "Lymph Node Metastasis"
+  - "Lung Metastasis"
+  - "Cancer Diagnosis"
+  - "Cancer Treatment"
 
-* Head and Neck Cancer
-* HNSCC
-* Metastasis
-* Lymph Nodes
-* Lung Metastasis
-* Bone Metastasis
-* Oncology
-* DengYueMed
-  image: "/assets/images/head-neck-cancer-metastasis-risk-warning-signs.png"
-  seo:
-  title: "Head and Neck Cancer Metastasis Risk: Common Sites and Warning Signs"
-  description: "Understand the risk of metastasis in head and neck cancer, including cervical lymph node, lung, bone, liver, and brain metastases, warning signs, diagnosis, and treatment options."
+image: "/images/blog/head-neck-cancer-metastasis-warning-signs.jpg"
+
+featured: false
+
+seo:
+  title: "Head and Neck Cancer Metastasis: Common Sites, Symptoms and Diagnosis"
+  description: "Understand how head and neck cancer spreads, common metastatic organs, early warning signs, diagnostic methods, and the latest treatment advances."
   keywords:
-
-  * head and neck cancer metastasis
-  * HNSCC metastasis
-  * cervical lymph node metastasis
-  * lung metastasis head and neck cancer
-  * bone metastasis HNSCC
-  * metastatic head and neck cancer
-  * head and neck cancer warning signs
-  * DengYueMed
-
+    - "Head and Neck Cancer"
+    - "HNSCC"
+    - "Cancer Metastasis"
+    - "Lymph Node Metastasis"
+    - "Lung Metastasis"
+    - "Cancer Symptoms"
+    - "Cancer Diagnosis"
 ---
 
 Head and neck cancer is not a single disease but a collective term for [malignant tumors](https://dengyuemed.com/oncology-diseases/) that arise in the **oral cavity, oropharynx, hypopharynx, larynx, nasopharynx, nasal cavity and paranasal sinuses, salivary glands, and other anatomical sites**.
