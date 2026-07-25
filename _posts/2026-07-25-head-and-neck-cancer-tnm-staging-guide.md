@@ -13,7 +13,7 @@ tags:
   - Immunotherapy
   - Targeted Therapy
   - Oncology
-image: /assets/images/head-and-neck-cancer-tnm-staging-guide.png
+image: /assets/images/head-and-neck-cancer-staging.png
 featured: false
 ---
 
