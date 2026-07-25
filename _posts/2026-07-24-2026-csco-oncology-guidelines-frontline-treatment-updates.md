@@ -22,7 +22,7 @@ tags:
   - Biomarker
   - China Innovative Drugs
 author: "DengYueMed Editorial Team"
-image: "/assets/images/2026-csco-oncology-guidelines.png"
+image: "/assets/images/csco-oncology-guidelines.png"
 featured: true
 seoTitle: "2026 CSCO Oncology Guidelines | Precision Medicine, ADCs & Bispecific Antibodies"
 seoDescription: "Review the latest 2026 CSCO oncology guideline updates, including ADCs, bispecific antibodies, immunotherapy, biomarker-guided treatment, and the global rise of Chinese innovative cancer therapies."
