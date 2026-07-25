@@ -5,7 +5,7 @@ date: "2026-07-25"
 description: "China launches the world's first APOC3 siRNA therapy, Plozasiran Sodium (Redemplo®), offering a new precision treatment option for Familial Chylomicronemia Syndrome (FCS) patients with persistently high triglyceride levels."
 summary: "Plozasiran Sodium (Redemplo®), the world's first APOC3-targeted siRNA therapy, is now commercially available in China, bringing a new precision medicine option for patients with Familial Chylomicronemia Syndrome (FCS)."
 slug: "plozasiran-sodium-fcs-apoc3-sirna-china-launch"
-category: "Rare Diseases"
+category: "rare-diseases"
 tags:
   - FCS
   - Familial Chylomicronemia Syndrome
