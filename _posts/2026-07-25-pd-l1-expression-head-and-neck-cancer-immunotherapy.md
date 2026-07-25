@@ -4,7 +4,7 @@ title: "The Role of PD-L1 Expression in Head and Neck Cancer: Treatment Decision
 slug: "role-of-pd-l1-expression-in-head-and-neck-cancer"
 date: "2026-07-25"
 excerpt: "Explore the role of PD-L1 expression in head and neck cancer, including CPS testing, immunotherapy selection, PD-1/PD-L1 inhibitors, and the latest advances in precision oncology."
-image: "/assets/images/pd-l1-head-and-neck-cancer.png"
+image: "/assets/images/pd-l1-head-neck-cancer-immunotherapy.png"
 category: "oncology"
 tags:
   - PD-L1
