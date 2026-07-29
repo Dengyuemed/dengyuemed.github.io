@@ -14,7 +14,7 @@ tags:
   - Antibody Drug Conjugates
   - Precision Oncology
   - Innovative Medicines
-image: /assets/images/her2-adc-brain-metastases-cover.png
+image: /assets/images/dengyuemed-global-pharmaceutical-distributor.png
 alt: "Global leading HER2 ADC therapies for brain metastases"
 ---
 
