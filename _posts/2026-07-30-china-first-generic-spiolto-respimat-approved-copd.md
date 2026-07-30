@@ -4,17 +4,18 @@ title: "China's First Generic Tiotropium Bromide and Olodaterol Inhalation Spray
 date: 2026-07-30
 description: "China approves its first generic Tiotropium Bromide and Olodaterol Hydrochloride Inhalation Spray, ending eight years of market exclusivity and advancing complex inhalation therapy for COPD."
 categories:
-  - Respiratory Diseases
-  - Generic Drugs
-  - China Drug Approval
+  - regulatory
 tags:
   - COPD
   - Tiotropium
   - Olodaterol
   - Spiolto Respimat
   - Generic Drugs
-  - Respiratory
+  - Inhalation Therapy
+  - LAMA
+  - LABA
   - NMPA
+  - Drug Approval
   - China Pharma
   - DengYueMed
 author: DengYueMed
