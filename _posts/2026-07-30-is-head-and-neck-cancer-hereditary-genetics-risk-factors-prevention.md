@@ -29,6 +29,8 @@ featured: false
 draft: false
 ---
 
+# Is Head and Neck Cancer Hereditary?
+
 ## A Comprehensive Guide to Genetics, Risk Factors, and Prevention Strategies
 
 *"Someone in my family has been diagnosed with head and neck cancer. Does that mean I'm more likely to develop it too?"*
