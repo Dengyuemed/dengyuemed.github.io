@@ -14,7 +14,7 @@ keywords:
   - Precision Medicine
   - Oncology
   - DengYueMed
-category: Oncology
+category: oncology
 tags:
   - Head and Neck Cancer
   - HNSCC
