@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Biotechnology
+title: Biotech
 permalink: /biotech/
-description: Strategic intelligence on biotechnology innovation, drug discovery platforms, targeted protein degradation, cell and gene therapy, antibody engineering, and emerging pharmaceutical technologies.
+description: Strategic intelligence on biotechnology innovation, drug discovery, AI drug development, gene therapy, cell therapy and next-generation pharmaceutical technologies.
 ---
 
-# Biotechnology Intelligence
+# Biotech Intelligence
 
-Focused analysis of next-generation drug discovery technologies, biotechnology innovation, targeted protein degradation, antibody engineering, cell and gene therapies, AI-driven drug development, and emerging pharmaceutical platforms shaping the future of medicine.
+Focused analysis of global biotechnology innovation, next-generation drug discovery, gene and cell therapies, AI-powered pharmaceutical research, protein degradation technologies and emerging life science trends.
 
 ---
 
-> Biotechnology is transforming modern medicine.
-> PROTACs, molecular glues, ADCs, bispecific antibodies, CAR-T therapies, gene editing, RNA therapeutics and AI-powered drug discovery are reshaping the future of pharmaceutical innovation.
+> Biotechnology is reshaping the future of medicine.
+> AI drug discovery, gene editing, cell therapy, PROTACs, RNA therapeutics and synthetic biology are driving the next wave of pharmaceutical innovation.
 
 ---
 
