@@ -12,7 +12,7 @@ tags:
   - Cold Chain Logistics
   - Global Healthcare
 excerpt: "Explore how underserved and emerging markets are becoming a new growth engine for the pharmaceutical industry, the opportunities created by expanding medicine accessibility, and the supply chain challenges pharmaceutical companies must overcome."
-coverImage: "/assets/images/supplying-medicines-to-underserved-markets.jpg"
+image: "/assets/images/supplying-medicines-to-underserved-markets.jpg"
 featured: false
 author: "DengYueMed Editorial Team"
 ---
