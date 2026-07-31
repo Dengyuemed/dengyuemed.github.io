@@ -13,7 +13,7 @@ tags:
   - E3 Ligase
   - Biotechnology
 excerpt: "Discover how PROTAC technology is transforming drug discovery by shifting from protein inhibition to targeted protein degradation, opening new possibilities for previously undruggable diseases."
-coverImage: "/assets/images/protac-vs-traditional-inhibitors.png"
+image: "/assets/images/protac-vs-traditional-inhibitors.png"
 featured: false
 author: "DengYueMed Editorial Team"
 ---
