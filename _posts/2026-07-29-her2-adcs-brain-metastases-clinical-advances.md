@@ -26,7 +26,7 @@ As a global pharmaceutical distributor, **DengYueMed** reviews several of the wo
 
 ---
 
-# Why Have HER2 Brain Metastases Become a Key Focus of ADC Development?
+## Why Have HER2 Brain Metastases Become a Key Focus of ADC Development?
 
 [HER2-positive breast cancer](https://dengyuemed.com/product/breast-cancer/) is among the tumor types with the highest incidence of brain metastases. As anti-HER2 therapies continue to improve overall survival, brain metastases have become an increasingly important determinant of long-term patient outcomes.
 
@@ -43,9 +43,9 @@ These advantages have made HER2 ADCs an increasingly important focus in brain me
 
 ---
 
-# Global Leading HER2 ADC Therapies
+## Global Leading HER2 ADC Therapies
 
-## 1. Trastuzumab Deruxtecan (T-DXd)
+### 1. Trastuzumab Deruxtecan (T-DXd)
 
 ![Trastuzumab Deruxtecan (T-DXd)](/assets/images/trastuzumab-deruxtecan-tdxd.png)
 
@@ -71,7 +71,7 @@ Today, T-DXd is widely regarded as the global benchmark for HER2 ADC development
 
 ---
 
-## 2. Trastuzumab Emtansine (T-DM1)
+### 2. Trastuzumab Emtansine (T-DM1)
 
 ![Trastuzumab Emtansine (T-DM1)](/assets/images/trastuzumab-emtansine-tdm1.png)
 
@@ -83,7 +83,7 @@ With the emergence of stronger clinical evidence supporting newer agents such as
 
 ---
 
-## 3. Disitamab Vedotin (RC48)
+### 3. Disitamab Vedotin (RC48)
 
 ![Disitamab Vedotin (RC48)](/assets/images/disitamab-vedotin-rc48.png)
 
@@ -97,7 +97,7 @@ Its continued development reflects the rapid progress of China's innovative ADC 
 
 ---
 
-## 4. ARX788
+### 4. ARX788
 
 ARX788 is one of the most closely watched next-generation HER2 ADCs currently in clinical development. It utilizes **site-specific conjugation technology**, which is designed to improve molecular stability, optimize pharmacokinetic properties, and enhance the therapeutic index.
 
@@ -112,7 +112,7 @@ Although clinical evidence in brain metastases is still emerging, ARX788 continu
 
 ---
 
-## 5. SHR-A1811
+### 5. SHR-A1811
 
 SHR-A1811 is another promising next-generation HER2 ADC developed in China.
 
@@ -128,7 +128,7 @@ As China's ADC innovation ecosystem continues to mature, SHR-A1811 has become an
 
 ---
 
-## 6. DB-1303
+### 6. DB-1303
 
 DB-1303 is another emerging HER2 ADC that has attracted considerable international attention.
 
@@ -140,25 +140,25 @@ Although intracranial clinical evidence remains limited, continued global develo
 
 ---
 
-# Key Clinical Studies Driving the Development of HER2 ADCs
+## Key Clinical Studies Driving the Development of HER2 ADCs
 
 Several landmark clinical studies have accelerated the application of HER2 ADCs in the treatment of brain metastases.
 
 Among the most influential are:
 
-## DESTINY-Breast03
+### DESTINY-Breast03
 
 DESTINY-Breast03 demonstrated that **Trastuzumab Deruxtecan (T-DXd)** significantly improved progression-free survival compared with T-DM1 in patients with HER2-positive metastatic breast cancer while also showing encouraging activity in patients with brain metastases.
 
-## DESTINY-Breast12
+### DESTINY-Breast12
 
 DESTINY-Breast12 further expanded the evidence supporting T-DXd in patients with active or stable brain metastases, reinforcing its role in controlling central nervous system disease.
 
-## TUXEDO-1
+### TUXEDO-1
 
 The TUXEDO-1 study investigated T-DXd in patients with active HER2-positive brain metastases and reported encouraging intracranial responses, providing additional evidence supporting the use of ADCs in CNS disease.
 
-## DEBBRAH
+### DEBBRAH
 
 The DEBBRAH study explored the activity of T-DXd in patients with HER2-low breast cancer and brain metastases, further expanding the potential clinical application of HER2 ADC therapy.
 
@@ -166,7 +166,7 @@ Collectively, these studies suggest that next-generation HER2 ADCs can not only 
 
 ---
 
-# The HER2 ADC Market Is Entering a New Phase of Competition
+## The HER2 ADC Market Is Entering a New Phase of Competition
 
 As ADC technology continues to mature, HER2 has become one of the most competitive targets in global oncology drug development.
 
@@ -185,7 +185,7 @@ Future development trends are expected to include:
 
 ---
 
-# China Continues to Accelerate HER2 ADC Innovation
+## China Continues to Accelerate HER2 ADC Innovation
 
 China has rapidly become one of the world's most active regions for ADC innovation.
 
@@ -197,7 +197,7 @@ Beyond technological innovation, Chinese pharmaceutical companies are also expan
 
 ---
 
-# Conclusion
+## Conclusion
 
 HER2 ADCs are rapidly reshaping the treatment landscape for patients with HER2-positive cancers and brain metastases.
 
@@ -209,7 +209,7 @@ For the pharmaceutical industry, staying informed about leading HER2 ADC therapi
 
 ---
 
-## About DengYueMed
+### About DengYueMed
 
 ![DengYueMed Global Pharmaceutical Distributor](/assets/images/dengyuemed-global-pharmaceutical-distributor.png)
 
