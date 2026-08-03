@@ -46,7 +46,7 @@ Based on current scientific evidence and ongoing clinical research, **[DengYueMe
 
 ---
 
-# What Are EGFR×CD3 Bispecific Antibodies?
+## What Are EGFR×CD3 Bispecific Antibodies?
 
 Bispecific antibodies (BsAbs) are a new generation of engineered antibodies capable of simultaneously recognizing two different molecular targets.
 
@@ -61,7 +61,7 @@ This enables T cells that would otherwise have difficulty recognizing tumors to 
 
 ---
 
-# Why Is EGFR an Important Therapeutic Target in Head and Neck Cancer?
+## Why Is EGFR an Important Therapeutic Target in Head and Neck Cancer?
 
 EGFR is one of the most extensively studied therapeutic targets in HNSCC.
 
@@ -80,11 +80,11 @@ By directly recruiting cytotoxic T cells, EGFR×CD3 bispecific antibodies provid
 
 ---
 
-# How Do EGFR×CD3 Bispecific Antibodies Activate T Cells?
+## How Do EGFR×CD3 Bispecific Antibodies Activate T Cells?
 
 The therapeutic mechanism is known as **T-cell redirection**, which can be divided into four major steps.
 
-## Step 1. Precise Recognition of Tumor Cells
+### Step 1. Precise Recognition of Tumor Cells
 
 The EGFR-binding arm selectively recognizes EGFR molecules on tumor cells.
 
@@ -92,7 +92,7 @@ Because EGFR is highly expressed in most HNSCC tumors, bispecific antibodies pre
 
 ---
 
-## Step 2. Recruitment and Activation of T Cells
+### Step 2. Recruitment and Activation of T Cells
 
 The CD3-binding arm simultaneously binds CD3 receptors on T cells.
 
@@ -106,7 +106,7 @@ Instead, the antibody actively forces T cells into direct contact with tumor cel
 
 ---
 
-## Step 3. Formation of the Immune Synapse
+### Step 3. Formation of the Immune Synapse
 
 After binding both cells, a stable immune synapse is formed.
 
@@ -121,7 +121,7 @@ These molecules induce apoptosis and destruction of tumor cells.
 
 ---
 
-## Step 4. Serial Killing
+### Step 4. Serial Killing
 
 One activated T cell can eliminate multiple tumor cells sequentially.
 
@@ -129,9 +129,9 @@ This serial killing capability allows sustained antitumor activity even when tum
 
 ---
 
-# Advantages Over Conventional Therapies
+## Advantages Over Conventional Therapies
 
-## 1. No Dependence on Tumor Antigen Presentation
+### 1. No Dependence on Tumor Antigen Presentation
 
 Conventional T-cell responses require recognition of peptide antigens presented by MHC molecules.
 
@@ -139,7 +139,7 @@ EGFR×CD3 bispecific antibodies bypass this requirement and directly activate T 
 
 ---
 
-## 2. Recruitment of More T Cells
+### 2. Recruitment of More T Cells
 
 Both:
 
@@ -152,7 +152,7 @@ This broadens the immune response.
 
 ---
 
-## 3. Potential to Overcome Certain Forms of PD-1 Resistance
+### 3. Potential to Overcome Certain Forms of PD-1 Resistance
 
 Some tumors respond poorly to PD-1 inhibitors because of:
 
@@ -164,7 +164,7 @@ EGFR×CD3 bispecific antibodies actively recruit circulating T cells into tumors
 
 ---
 
-## 4. Excellent Combination Therapy Potential
+### 4. Excellent Combination Therapy Potential
 
 Current research is evaluating combinations with:
 
@@ -178,7 +178,7 @@ These combinations may produce synergistic antitumor effects.
 
 ---
 
-# Latest Clinical Progress
+## Latest Clinical Progress
 
 Several international biotechnology and pharmaceutical companies have advanced EGFR×CD3 bispecific antibodies into early-phase clinical development.
 
@@ -197,11 +197,11 @@ Next-generation molecules are also being designed with conditional activation me
 
 ---
 
-# Challenges That Remain
+## Challenges That Remain
 
 Despite encouraging progress, several important hurdles remain.
 
-## Cytokine Release Syndrome (CRS)
+### Cytokine Release Syndrome (CRS)
 
 Rapid activation of T cells may trigger immune-related adverse events such as:
 
@@ -213,7 +213,7 @@ Dose-escalation strategies and supportive care remain important.
 
 ---
 
-## Off-Target Toxicity
+### Off-Target Toxicity
 
 EGFR is also expressed in healthy tissues including:
 
@@ -224,7 +224,7 @@ Improving tumor selectivity remains essential for reducing adverse effects.
 
 ---
 
-## Tumor Heterogeneity
+### Tumor Heterogeneity
 
 Not all HNSCC tumors express EGFR at the same level.
 
@@ -232,7 +232,7 @@ Future treatment strategies may rely on biomarker-guided patient selection to ma
 
 ---
 
-## Resistance Mechanisms
+### Resistance Mechanisms
 
 Tumors may eventually develop resistance through:
 
@@ -244,7 +244,7 @@ Combination therapies and next-generation bispecific antibodies are expected to 
 
 ---
 
-# Future Outlook
+## Future Outlook
 
 As bispecific antibody engineering continues to evolve, EGFR×CD3 bispecific antibodies are becoming an increasingly important component of precision immunotherapy for head and neck cancer.
 
@@ -263,7 +263,7 @@ As additional clinical trial results become available, EGFR×CD3 bispecific anti
 
 ---
 
-# Conclusion
+## Conclusion
 
 EGFR×CD3 bispecific antibodies represent one of the most promising advances in immunotherapy for head and neck squamous cell carcinoma.
 
