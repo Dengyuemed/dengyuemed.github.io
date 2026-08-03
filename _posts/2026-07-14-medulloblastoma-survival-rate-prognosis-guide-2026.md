@@ -50,7 +50,7 @@ This article reviews the latest evidence regarding survival outcomes, recurrence
 
 ---
 
-# Table of Contents
+## Table of Contents
 
 - Overall Survival Rates
 - Molecular Subtypes and Prognosis
@@ -65,7 +65,7 @@ This article reviews the latest evidence regarding survival outcomes, recurrence
 
 ---
 
-# Overall Survival Rates of Medulloblastoma
+## Overall Survival Rates of Medulloblastoma
 
 Compared with many other malignant pediatric brain tumors, medulloblastoma now has relatively favorable treatment outcomes when managed at experienced [neuro-oncology](https://dengyuemed.com/product/nervous-system-diseases/) centers.
 
@@ -94,7 +94,7 @@ Thanks to precision medicine, some patients belonging to favorable molecular sub
 
 ---
 
-# Molecular Subtype Is the Most Important Prognostic Factor
+## Molecular Subtype Is the Most Important Prognostic Factor
 
 Modern neuro-oncology has fundamentally changed how medulloblastoma is classified.
 
@@ -111,7 +111,7 @@ Each subgroup behaves differently and requires individualized treatment planning
 
 ---
 
-## WNT Subgroup
+### WNT Subgroup
 
 The WNT subgroup generally has the most favorable prognosis of all medulloblastoma types.
 
@@ -128,7 +128,7 @@ Because outcomes are so favorable, ongoing international clinical trials are inv
 
 ---
 
-## SHH Subgroup
+### SHH Subgroup
 
 The SHH (Sonic Hedgehog) subgroup demonstrates greater biological diversity.
 
@@ -145,7 +145,7 @@ Meanwhile, many adult SHH patients may achieve favorable long-term survival foll
 
 For this reason, molecular testing beyond basic subgroup classification has become increasingly important when planning treatment for SHH-associated disease.
 
-## Group 3
+### Group 3
 
 Among all four molecular subgroups, **Group 3 medulloblastoma** is generally associated with the poorest prognosis.
 
@@ -162,7 +162,7 @@ Because of these challenges, numerous international clinical trials are evaluati
 
 ---
 
-## Group 4
+### Group 4
 
 Group 4 is the **most common molecular subtype**, accounting for approximately one-third of all medulloblastoma cases.
 
@@ -177,7 +177,7 @@ Most patients with Group 4 disease respond well to standard treatment protocols 
 
 ---
 
-# Does Tumor Dissemination Affect Survival?
+## Does Tumor Dissemination Affect Survival?
 
 One of the most important prognostic factors is whether the tumor has already spread through the cerebrospinal fluid (CSF).
 
@@ -202,7 +202,7 @@ Early identification of metastatic disease is essential because it directly infl
 
 ---
 
-# How Surgical Resection Influences Prognosis
+## How Surgical Resection Influences Prognosis
 
 Surgery is the first and one of the most important steps in medulloblastoma treatment.
 
@@ -228,11 +228,11 @@ Modern neurosurgical techniques—including neuronavigation, intraoperative MRI,
 
 ---
 
-# Why Patient Age Matters
+## Why Patient Age Matters
 
 Age remains an important prognostic factor.
 
-## Children Younger Than Three Years
+### Children Younger Than Three Years
 
 Treating infants presents unique challenges because their developing brains are highly sensitive to radiation.
 
@@ -246,7 +246,7 @@ Although survival has improved considerably, very young children continue to exp
 
 ---
 
-## Older Children and Adolescents
+### Older Children and Adolescents
 
 Children older than three years generally tolerate standard therapy more successfully.
 
@@ -261,7 +261,7 @@ These patients often achieve the highest long-term cure rates, particularly when
 
 ---
 
-## Adults
+### Adults
 
 Although medulloblastoma is much less common in adults, treatment principles are broadly similar.
 
@@ -276,7 +276,7 @@ Because adult medulloblastoma differs biologically from pediatric disease, treat
 
 ---
 
-# Importance of Standard Multidisciplinary Treatment
+## Importance of Standard Multidisciplinary Treatment
 
 Modern medulloblastoma management relies on collaboration among multiple medical specialties.
 
@@ -307,7 +307,7 @@ Each stage contributes to reducing recurrence risk and improving overall surviva
 
 ---
 
-# Is Medulloblastoma Likely to Recur After Treatment?
+## Is Medulloblastoma Likely to Recur After Treatment?
 
 Although many patients achieve long-term remission after completing therapy, medulloblastoma can recur. The likelihood of recurrence depends on several clinical factors, including molecular subtype, metastatic status, treatment response, and completion of standard therapy.
 
@@ -322,7 +322,7 @@ Because recurrence can significantly affect prognosis, early detection through r
 
 ---
 
-# Long-Term Follow-Up Is Essential
+## Long-Term Follow-Up Is Essential
 
 Completing treatment does not mark the end of medical care.
 
@@ -342,11 +342,11 @@ Follow-up schedules are individualized, but imaging is generally performed every
 
 ---
 
-# How Can Long-Term Survival Be Improved?
+## How Can Long-Term Survival Be Improved?
 
 Several factors can help maximize long-term outcomes for patients with medulloblastoma.
 
-## Receive Treatment at Experienced Centers
+### Receive Treatment at Experienced Centers
 
 Patients should seek care at hospitals with specialized pediatric neuro-oncology teams whenever possible.
 
@@ -360,7 +360,7 @@ Experienced multidisciplinary centers typically provide:
 
 ---
 
-## Complete Molecular Testing
+### Complete Molecular Testing
 
 Modern treatment decisions increasingly rely on molecular classification.
 
@@ -373,7 +373,7 @@ Testing for molecular subgroup and relevant genetic alterations helps physicians
 
 ---
 
-## Complete the Recommended Treatment Plan
+### Complete the Recommended Treatment Plan
 
 Survival outcomes are significantly better among patients who complete the entire recommended treatment course.
 
@@ -389,7 +389,7 @@ Interrupting treatment or receiving non-standard therapy may reduce the likeliho
 
 ---
 
-## Maintain Regular Follow-Up
+### Maintain Regular Follow-Up
 
 Even patients who remain disease-free for years should continue long-term surveillance.
 
@@ -403,7 +403,7 @@ Regular monitoring allows physicians to:
 
 ---
 
-## Focus on Quality of Life
+### Focus on Quality of Life
 
 Long-term survivorship extends beyond tumor control.
 
@@ -419,27 +419,27 @@ These interventions can substantially improve long-term quality of life.
 
 ---
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
-## Is medulloblastoma curable?
+### Is medulloblastoma curable?
 
 Yes. Many patients, particularly those with standard-risk disease and favorable molecular subtypes such as WNT, can achieve long-term remission or cure following standardized multidisciplinary treatment.
 
 ---
 
-## What is the average five-year survival rate?
+### What is the average five-year survival rate?
 
 Overall five-year survival generally ranges from **80% to 90%** for standard-risk patients, while high-risk patients typically achieve **60% to 75%** depending on disease characteristics.
 
 ---
 
-## Which molecular subtype has the best prognosis?
+### Which molecular subtype has the best prognosis?
 
 The **WNT subgroup** consistently demonstrates the highest survival rates and the lowest recurrence risk among all molecular classifications.
 
 ---
 
-## Can medulloblastoma recur years after treatment?
+### Can medulloblastoma recur years after treatment?
 
 Yes.
 
@@ -447,7 +447,7 @@ Although recurrence most commonly occurs within the first five years, late recur
 
 ---
 
-## Does complete surgical removal guarantee a cure?
+### Does complete surgical removal guarantee a cure?
 
 No.
 
@@ -455,7 +455,7 @@ While maximal safe surgical resection improves outcomes, prognosis also depends 
 
 ---
 
-# Conclusion
+## Conclusion
 
 The prognosis of medulloblastoma has improved dramatically over the past two decades as advances in neurosurgery, radiotherapy, chemotherapy, molecular diagnostics, and multidisciplinary care have transformed treatment strategies.
 
@@ -467,7 +467,7 @@ Early diagnosis, evidence-based treatment, and comprehensive long-term follow-up
 
 ---
 
-# About DengYueMed
+## About DengYueMed
 
 [DengYueMed](https://dengyuemed.com/) is committed to improving access to high-quality healthcare information and compliant pharmaceutical resources for patients worldwide.
 
@@ -477,7 +477,7 @@ For information about innovative medicines, cross-border pharmaceutical services
 
 ---
 
-# Disclaimer
+## Disclaimer
 
 This article is intended for educational and informational purposes only and should not be interpreted as medical advice, diagnosis, or treatment recommendations.
 
@@ -485,7 +485,7 @@ Treatment decisions should always be made in consultation with qualified healthc
 
 ---
 
-# References
+## References
 
 1. World Health Organization (WHO). Classification of Tumours of the Central Nervous System.
 2. National Comprehensive Cancer Network (NCCN). Central Nervous System Cancers Guidelines.
