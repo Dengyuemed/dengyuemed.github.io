@@ -33,7 +33,7 @@ In many cases, long before a new indication receives regulatory approval, stakeh
 
 ---
 
-# Demand for New Indications Often Emerges Before Approval
+## Demand for New Indications Often Emerges Before Approval
 
 Many people assume that demand for a medicine only increases after a regulatory authority officially approves a new indication.
 
@@ -53,7 +53,7 @@ As a result, market demand frequently increases before approval, making proactiv
 
 ---
 
-# Why Does Indication Expansion Create New Supply Chain Challenges?
+## Why Does Indication Expansion Create New Supply Chain Challenges?
 
 For pharmaceutical manufacturers and supply chain organizations, a new indication means far more than an expanded label.
 
@@ -85,17 +85,17 @@ For this reason, forecasting future demand has become one of the most important 
 
 ---
 
-# How Is Future Demand Predicted?
+## How Is Future Demand Predicted?
 
 Before a new indication receives approval, pharmaceutical companies closely monitor multiple signals that may indicate future demand.
 
-## Clinical Development Progress
+### Clinical Development Progress
 
 Positive Phase III clinical trial results are among the strongest indicators that a new indication may eventually receive regulatory approval.
 
 Strong efficacy and safety data typically increase confidence among physicians and healthcare organizations.
 
-## Regulatory Signals
+### Regulatory Signals
 
 Regulatory designations may also indicate accelerated timelines, including:
 
@@ -106,7 +106,7 @@ Regulatory designations may also indicate accelerated timelines, including:
 
 These pathways often suggest that commercialization may occur sooner than expected.
 
-## Clinical Guidelines
+### Clinical Guidelines
 
 Updates from international treatment guidelines and professional societies are another important signal.
 
@@ -116,7 +116,7 @@ Together, these indicators allow pharmaceutical companies, hospitals, pharmacies
 
 ---
 
-# Accessibility Differences Caused by Global Approval Timelines
+## Accessibility Differences Caused by Global Approval Timelines
 
 Around the world, the same medicine rarely receives approval simultaneously across all countries.
 
@@ -150,7 +150,7 @@ to asking:
 
 ![The Strategic Value of Pharmaceutical Supply Chains](/assets/images/the-strategic-value-of-pharmaceutical-supply-chains.png)
 
-# Beyond Stockpiling: The Strategic Value of Pharmaceutical Supply Chains
+## Beyond Stockpiling: The Strategic Value of Pharmaceutical Supply Chains
 
 Preparing for a new indication launch involves much more than increasing inventory.
 
@@ -181,7 +181,7 @@ Ultimately, successful innovation depends not only on scientific breakthroughs a
 
 ---
 
-# Drug Accessibility Depends on More Than Innovation
+## Drug Accessibility Depends on More Than Innovation
 
 Innovative therapies create tremendous opportunities for patients.
 
@@ -200,7 +200,7 @@ As pharmaceutical innovation accelerates worldwide, supply chains have become a 
 
 ---
 
-# Conclusion
+## Conclusion
 
 As precision medicine, genetic testing, and real-world evidence continue to advance, an increasing number of approved medicines are revealing new therapeutic potential.
 
