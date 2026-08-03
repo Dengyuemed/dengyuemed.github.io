@@ -32,7 +32,7 @@ At **DengYueMed**, a Hong Kong-based pharmaceutical wholesaler, we continuously 
 
 ---
 
-# What Is Tiotropium Bromide and Olodaterol Hydrochloride Inhalation Spray?
+## What Is Tiotropium Bromide and Olodaterol Hydrochloride Inhalation Spray?
 
 ![Spiolto Respimat](/assets/images/spiolto-respimat-product.png)
 
@@ -47,13 +47,13 @@ It helps:
 
 The product combines two long-acting bronchodilators.
 
-## 1. Tiotropium
+### 1. Tiotropium
 
 Tiotropium is a **long-acting muscarinic antagonist (LAMA)**.
 
 It blocks M3 muscarinic receptors in airway smooth muscle, producing sustained bronchodilation and improving airflow limitation.
 
-## 2. Olodaterol
+### 2. Olodaterol
 
 Olodaterol is a **long-acting β₂-adrenergic receptor agonist (LABA)**.
 
@@ -63,7 +63,7 @@ Together, these complementary mechanisms provide **24-hour bronchodilation**, al
 
 ---
 
-# What Does China's First Generic Approval Mean?
+## What Does China's First Generic Approval Mean?
 
 The approval of China's first generic [Tiotropium Bromide and Olodaterol Hydrochloride](https://dengyuemed.com/product/spiolto-respimat-olodaterol-copd/) Inhalation Spray represents an important milestone for both patients and the domestic pharmaceutical industry.
 
@@ -92,7 +92,7 @@ This achievement:
 
 ---
 
-# Why Is This Considered a High-End Complex Formulation?
+## Why Is This Considered a High-End Complex Formulation?
 
 Compared with conventional tablets or injections, inhalation products require both sophisticated pharmaceutical formulations and highly precise drug-device combination systems.
 
@@ -118,7 +118,7 @@ they are widely regarded as one of the most technically demanding dosage forms i
 
 ---
 
-# Why Do COPD Patients Need Long-Term Maintenance Therapy?
+## Why Do COPD Patients Need Long-Term Maintenance Therapy?
 
 COPD is a progressive respiratory disease characterized by persistent airflow limitation.
 
@@ -146,7 +146,7 @@ Although COPD cannot currently be cured, long-term maintenance therapy can:
 
 ---
 
-# Global Market Continues to Expand
+## Global Market Continues to Expand
 
 According to publicly available market data:
 
@@ -164,7 +164,7 @@ Future growth is expected to be driven by:
 
 ---
 
-# Conclusion
+## Conclusion
 
 ![DengYueMed Global Supply](/assets/images/dengyuemed-global-pharma.png)
 
