@@ -39,7 +39,7 @@ This article introduces several advanced cancer therapies currently available in
 
 ---
 
-# Table of Contents
+## Table of Contents
 
 - CAR-T Cell Therapy
 - Immunotherapy
@@ -53,11 +53,11 @@ This article introduces several advanced cancer therapies currently available in
 
 ---
 
-# CAR-T Cell Therapy: A Major Breakthrough for Hematologic Malignancies
+## CAR-T Cell Therapy: A Major Breakthrough for Hematologic Malignancies
 
 ![CAR-T Cell Therapy](/assets/images/car-t-cell-therapy.png)
 
-## What Is CAR-T?
+### What Is CAR-T?
 
 CAR-T (Chimeric Antigen Receptor T-cell Therapy) is one of the most important breakthroughs in modern cellular immunotherapy.
 
@@ -78,7 +78,7 @@ Because every product is manufactured individually for each patient, CAR-T thera
 
 ---
 
-## Which Diseases Currently Benefit the Most?
+### Which Diseases Currently Benefit the Most?
 
 CAR-T therapy has demonstrated the strongest clinical evidence in hematologic malignancies, including:
 
@@ -95,7 +95,7 @@ China has become one of the world's leading centers for CAR-T clinical research,
 
 ---
 
-## Which International Patients May Be Suitable?
+### Which International Patients May Be Suitable?
 
 CAR-T therapy may be considered for international patients who:
 
@@ -120,11 +120,11 @@ Every patient should undergo comprehensive medical evaluation before determining
 
 ---
 
-# Immunotherapy: Reactivating the Body's Anti-Cancer Immune Response
+## Immunotherapy: Reactivating the Body's Anti-Cancer Immune Response
 
 ![Cancer Immunotherapy](/assets/images/immunotherapy-treatment.png)
 
-## What Is Immunotherapy?
+### What Is Immunotherapy?
 
 Immunotherapy is one of the most important advances in modern oncology. Instead of attacking cancer cells directly, immunotherapy helps the body's own immune system recognize and eliminate malignant cells more effectively.
 
@@ -142,7 +142,7 @@ These medicines are now routinely incorporated into treatment strategies for man
 
 ---
 
-## Which Cancers May Benefit?
+### Which Cancers May Benefit?
 
 Immunotherapy has demonstrated clinical benefit across a wide range of malignancies, including:
 
@@ -163,7 +163,7 @@ China has also accumulated extensive clinical experience in treating Asian patie
 
 ---
 
-## Which International Patients May Be Suitable?
+### Which International Patients May Be Suitable?
 
 Immunotherapy may be considered for patients who:
 
@@ -188,11 +188,11 @@ Some patients achieve long-lasting responses, while others may derive limited be
 
 ---
 
-# Proton and Heavy Ion Therapy: High-Precision Radiation Treatment
+## Proton and Heavy Ion Therapy: High-Precision Radiation Treatment
 
 ![Proton and Heavy Ion Therapy](/assets/images/proton-heavy-ion-center.png)
 
-## What Is Proton or Heavy Ion Therapy?
+### What Is Proton or Heavy Ion Therapy?
 
 Proton therapy and heavy ion therapy represent some of the world's most advanced forms of radiation oncology.
 
@@ -212,7 +212,7 @@ For tumors located near critical anatomical structures, these advantages can be 
 
 ---
 
-## Which Cancers May Benefit?
+### Which Cancers May Benefit?
 
 Proton or heavy ion therapy may be considered for selected patients with:
 
@@ -241,7 +241,7 @@ By reducing unnecessary radiation to surrounding tissues, particle therapy may d
 
 ---
 
-## China's Experience in Particle Therapy
+### China's Experience in Particle Therapy
 
 China has invested heavily in advanced radiation oncology over the past decade.
 
@@ -253,7 +253,7 @@ Continuous clinical research is also expanding treatment indications and improvi
 
 ---
 
-## Which International Patients May Benefit?
+### Which International Patients May Benefit?
 
 International patients may consider proton or heavy ion therapy if they:
 
@@ -268,11 +268,11 @@ Compared with several Western countries, treatment costs in China may also be su
 
 ---
 
-# NanoKnife (Irreversible Electroporation): A New Option for Difficult-to-Treat Tumors
+## NanoKnife (Irreversible Electroporation): A New Option for Difficult-to-Treat Tumors
 
 ![NanoKnife Therapy](/assets/images/nanoknife-treatment.png)
 
-## What Is NanoKnife?
+### What Is NanoKnife?
 
 NanoKnife, also known as **Irreversible Electroporation (IRE)**, is an innovative minimally invasive tumor ablation technology.
 
@@ -291,7 +291,7 @@ This unique characteristic makes NanoKnife particularly valuable for tumors loca
 
 ---
 
-## Which Cancers Commonly Use NanoKnife?
+### Which Cancers Commonly Use NanoKnife?
 
 NanoKnife has been increasingly applied in carefully selected patients with:
 
@@ -308,7 +308,7 @@ Rather than replacing surgery, NanoKnife may become part of a multidisciplinary 
 
 ---
 
-## Which International Patients May Benefit?
+### Which International Patients May Benefit?
 
 NanoKnife may be appropriate for patients who:
 
@@ -324,11 +324,11 @@ Comprehensive evaluation by an experienced multidisciplinary oncology team remai
 
 ---
 
-# Cryoablation: Minimally Invasive Precision Tumor Destruction
+## Cryoablation: Minimally Invasive Precision Tumor Destruction
 
 ![Cryoablation Therapy](/assets/images/cryoablation-treatment.png)
 
-## What Is Cryoablation?
+### What Is Cryoablation?
 
 Cryoablation is a minimally invasive interventional oncology technique that destroys tumor tissue by exposing it to extremely low temperatures.
 
@@ -347,7 +347,7 @@ Because the procedure is image-guided, physicians can precisely monitor the trea
 
 ---
 
-## Which Cancers May Benefit?
+### Which Cancers May Benefit?
 
 Cryoablation has been used in selected patients with:
 
@@ -364,7 +364,7 @@ Although cryoablation is not appropriate for every patient, it can provide meani
 
 ---
 
-## Which International Patients May Benefit?
+### Which International Patients May Benefit?
 
 Cryoablation may be considered for:
 
@@ -378,11 +378,11 @@ Treatment suitability depends on tumor size, anatomical location, previous treat
 
 ---
 
-# Precision Targeted Therapy: Personalized Treatment Based on Genetic Testing
+## Precision Targeted Therapy: Personalized Treatment Based on Genetic Testing
 
 ![Precision Targeted Therapy](/assets/images/precision-targeted-therapy.png)
 
-## Entering the Era of Precision Medicine
+### Entering the Era of Precision Medicine
 
 Cancer treatment has increasingly shifted from traditional "one-size-fits-all" therapy toward personalized precision medicine.
 
@@ -400,7 +400,7 @@ This approach allows doctors to design more individualized treatment plans for e
 
 ---
 
-## Common Molecular Targets
+### Common Molecular Targets
 
 China has become one of the world's leading centers for targeted oncology drug development.
 
@@ -420,7 +420,7 @@ Numerous targeted medicines developed in China have also gained international re
 
 ---
 
-## Which Patients May Benefit?
+### Which Patients May Benefit?
 
 Precision targeted therapy may be especially appropriate for patients with:
 
@@ -441,7 +441,7 @@ For this reason, comprehensive molecular testing is an essential first step befo
 
 ---
 
-# Why Is China Attracting More International Cancer Patients?
+## Why Is China Attracting More International Cancer Patients?
 
 ![International Cancer Care in China](/assets/images/international-patient-services.png)
 
@@ -449,7 +449,7 @@ China has rapidly become one of Asia's leading destinations for advanced cancer 
 
 For many international patients, the decision to travel to China is influenced by several important factors.
 
-## 1. Rapid Development of Innovative Therapies
+### 1. Rapid Development of Innovative Therapies
 
 China has made significant progress in:
 
@@ -464,7 +464,7 @@ Many hospitals actively participate in international clinical research and conti
 
 ---
 
-## 2. More Affordable Treatment Costs
+### 2. More Affordable Treatment Costs
 
 Compared with some Western countries, many advanced oncology treatments are available at substantially lower overall costs in China.
 
@@ -472,7 +472,7 @@ For certain therapies, this may significantly reduce the financial burden on int
 
 ---
 
-## 3. Extensive Clinical Experience
+### 3. Extensive Clinical Experience
 
 China treats one of the world's largest populations of cancer patients.
 
@@ -482,7 +482,7 @@ Large treatment volumes often support continuous improvement in clinical experti
 
 ---
 
-## 4. Mature Multidisciplinary Team (MDT) Care
+### 4. Mature Multidisciplinary Team (MDT) Care
 
 Many leading Chinese hospitals provide treatment through MDT (Multidisciplinary Team) programs that integrate specialists from multiple disciplines.
 
@@ -501,7 +501,7 @@ This collaborative approach enables individualized treatment planning tailored t
 
 ---
 
-# Which International Patients May Consider Cancer Treatment in China?
+## Which International Patients May Consider Cancer Treatment in China?
 
 Cancer treatment in China is not suitable for every patient.
 
@@ -551,7 +551,7 @@ These documents allow Chinese hospitals to conduct an initial medical evaluation
 
 ---
 
-## How DengYueMed Supports International Patients
+### How DengYueMed Supports International Patients
 
 For many overseas patients, arranging cancer treatment in another country involves much more than selecting a hospital. Medical records must be translated and reviewed, appointments coordinated, and travel plans organized.
 
@@ -571,7 +571,7 @@ Every patient's situation is different. Final treatment recommendations are alwa
 
 ---
 
-## Preparing for Cancer Treatment in China
+### Preparing for Cancer Treatment in China
 
 Patients considering medical care in China can often benefit from preparing their information before contacting a hospital.
 
@@ -591,7 +591,7 @@ Providing complete medical information can help specialists evaluate potential t
 
 ---
 
-## Why Early Medical Evaluation Matters
+### Why Early Medical Evaluation Matters
 
 Not every advanced therapy is appropriate for every patient.
 
@@ -610,7 +610,7 @@ A comprehensive evaluation helps physicians develop an individualized treatment 
 
 ---
 
-## The Future of Cancer Treatment in China
+### The Future of Cancer Treatment in China
 
 China continues to invest heavily in oncology research and clinical innovation.
 
@@ -629,7 +629,7 @@ At the same time, international collaboration between hospitals, research instit
 
 ---
 
-## Conclusion
+### Conclusion
 
 China has become an increasingly important destination for advanced cancer care, offering a growing range of innovative treatment options, experienced multidisciplinary teams, and expanding clinical research programs.
 
@@ -643,7 +643,7 @@ As oncology continues to evolve worldwide, international collaboration and respo
 
 ---
 
-## Disclaimer
+### Disclaimer
 
 **This article is intended for educational and informational purposes only. It does not constitute medical advice, diagnosis, or treatment recommendations.**
 
@@ -653,7 +653,7 @@ Treatment availability, eligibility criteria, regulatory approvals, and clinical
 
 ---
 
-### About DengYueMed
+#### About DengYueMed
 
 **[DengYueMed](https://dengyuemed.github.io/)** is a cross-border medical collaboration platform dedicated to helping international patients connect with healthcare resources in China.
 
