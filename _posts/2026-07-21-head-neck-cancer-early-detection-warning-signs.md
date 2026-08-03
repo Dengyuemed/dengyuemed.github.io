@@ -47,7 +47,7 @@ This article reviews the major warning signs, high-risk populations, current dia
 
 ---
 
-# Why Is Early Detection of Head and Neck Cancer So Important?
+## Why Is Early Detection of Head and Neck Cancer So Important?
 
 Head and neck cancers typically arise in critical anatomical areas responsible for:
 
@@ -73,7 +73,7 @@ Increasing public awareness of early symptoms is therefore essential for improvi
 
 ---
 
-# Who Is at High Risk for Head and Neck Cancer?
+## Who Is at High Risk for Head and Neck Cancer?
 
 Several lifestyle, environmental, and viral factors can increase the risk of developing head and neck cancers.
 
@@ -92,11 +92,11 @@ For these populations, regular examinations by ENT specialists or oral surgeons 
 
 ---
 
-# What Are the Early Warning Signs of Head and Neck Cancer?
+## What Are the Early Warning Signs of Head and Neck Cancer?
 
 Many early symptoms resemble common illnesses such as sore throat, oral ulcers, sinusitis, or the common cold. However, symptoms that persist for **more than two weeks** should never be ignored.
 
-## 1. Persistent Mouth Ulcers or White Patches
+### 1. Persistent Mouth Ulcers or White Patches
 
 Most mouth ulcers heal within one or two weeks.
 
@@ -112,7 +112,7 @@ These changes may represent precancerous lesions or early oral cancer.
 
 ---
 
-## 2. Hoarseness Lasting More Than Two Weeks
+### 2. Hoarseness Lasting More Than Two Weeks
 
 Persistent hoarseness is one of the earliest warning signs of laryngeal cancer.
 
@@ -127,7 +127,7 @@ Early evaluation can greatly improve treatment success.
 
 ---
 
-## 3. Difficulty Swallowing or a Sensation of Something Stuck in the Throat
+### 3. Difficulty Swallowing or a Sensation of Something Stuck in the Throat
 
 Patients with cancers involving the pharynx or hypopharynx often experience:
 
@@ -141,7 +141,7 @@ Persistent symptoms warrant specialist evaluation.
 
 ---
 
-## 4. A Painless Lump in the Neck
+### 4. A Painless Lump in the Neck
 
 Head and neck cancers frequently spread to cervical lymph nodes.
 
@@ -163,7 +163,7 @@ Early assessment is critical.
 
 ---
 
-## 5. Recurrent Nasal Congestion or Nosebleeds
+### 5. Recurrent Nasal Congestion or Nosebleeds
 
 Persistent one-sided nasal symptoms should not be ignored, especially when accompanied by:
 
@@ -177,7 +177,7 @@ These symptoms may indicate nasopharyngeal cancer or another serious condition.
 
 ---
 
-## 6. Persistent Ear Pain Without an Ear Disorder
+### 6. Persistent Ear Pain Without an Ear Disorder
 
 Some tumors of the throat and pharynx can cause referred ear pain through shared nerve pathways.
 
@@ -191,7 +191,7 @@ Persistent unexplained ear pain deserves careful evaluation.
 
 ---
 
-## 7. Unexplained Weight Loss
+### 7. Unexplained Weight Loss
 
 Unexpected weight loss may accompany many cancers.
 
@@ -207,9 +207,9 @@ Although these symptoms are not specific to head and neck cancer, they should al
 
 ---
 
-# How Can Head and Neck Cancer Be Detected Early?
+## How Can Head and Neck Cancer Be Detected Early?
 
-## Regular Health Checkups
+### Regular Health Checkups
 
 Routine health examinations remain one of the most effective ways to identify diseases before symptoms become severe.
 
@@ -219,7 +219,7 @@ Early consultation with an otolaryngologist (ENT specialist) or oral and maxillo
 
 ---
 
-## Specialist Examinations
+### Specialist Examinations
 
 Depending on a patient's symptoms, physicians may recommend one or more of the following examinations:
 
@@ -243,7 +243,7 @@ When imaging findings are suspicious, a pathological biopsy remains the gold sta
 
 ---
 
-## HPV and EBV Screening
+### HPV and EBV Screening
 
 Certain virus-associated head and neck cancers may benefit from laboratory testing.
 
@@ -265,7 +265,7 @@ No single laboratory test can independently diagnose head and neck cancer.
 
 ---
 
-## Healthy Lifestyle Choices
+### Healthy Lifestyle Choices
 
 Many risk factors for head and neck cancer are preventable.
 
@@ -286,13 +286,13 @@ Adopting these healthy habits can reduce the likelihood of developing several ty
 
 ---
 
-# What Are the Latest Advances in Head and Neck Cancer Treatment?
+## What Are the Latest Advances in Head and Neck Cancer Treatment?
 
 Treatment options for head and neck cancers have evolved rapidly over the past decade.
 
 While surgery, radiotherapy, and chemotherapy remain the foundation of treatment, precision medicine has introduced several innovative therapeutic strategies.
 
-## Surgery
+### Surgery
 
 Surgery remains the preferred treatment for many early-stage tumors.
 
@@ -311,7 +311,7 @@ Modern surgical techniques aim to completely remove tumors while preserving:
 
 ---
 
-## Radiotherapy
+### Radiotherapy
 
 Radiotherapy plays an essential role in treating many head and neck cancers.
 
@@ -327,7 +327,7 @@ For HPV-positive oropharyngeal cancer, researchers are also investigating treatm
 
 ---
 
-## Chemotherapy
+### Chemotherapy
 
 Chemotherapy remains an important option for:
 
@@ -346,7 +346,7 @@ Chemotherapy is often combined with radiotherapy or immunotherapy depending on i
 
 ---
 
-## Immunotherapy
+### Immunotherapy
 
 Immunotherapy has transformed the treatment landscape for recurrent and metastatic head and neck squamous cell carcinoma (HNSCC).
 
@@ -363,7 +363,7 @@ Research continues to explore combination immunotherapy strategies aimed at achi
 
 ---
 
-## Targeted Therapy
+### Targeted Therapy
 
 Targeted therapy remains another important component of precision oncology.
 
@@ -383,7 +383,7 @@ These therapies may provide additional treatment options for carefully selected 
 
 ---
 
-## Antibody-Drug Conjugates (ADCs)
+### Antibody-Drug Conjugates (ADCs)
 
 [Antibody-drug conjugates (ADCs)](https://dengyuepharma.com/noticias-medicas/el-primer-adc-biespecifico-del-mundo/) represent one of the fastest-growing areas in head and neck cancer research.
 
@@ -398,7 +398,7 @@ Numerous ADC candidates have entered clinical development and may expand treatme
 
 ---
 
-## Multidisciplinary Team (MDT) Care
+### Multidisciplinary Team (MDT) Care
 
 Modern head and neck cancer management increasingly relies on a multidisciplinary team approach.
 
@@ -417,7 +417,7 @@ Individualized treatment planning helps maximize survival while preserving funct
 
 ---
 
-# Conclusion
+## Conclusion
 
 Early detection remains one of the most effective ways to improve outcomes for patients with head and neck cancer.
 
