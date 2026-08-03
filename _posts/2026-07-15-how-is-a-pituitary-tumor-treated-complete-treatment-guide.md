@@ -37,7 +37,7 @@ This article explains the major treatment options for pituitary tumors, discusse
 
 ---
 
-# What Is a Pituitary Tumor?
+## What Is a Pituitary Tumor?
 
 The **pituitary gland** is a pea-sized endocrine organ located at the base of the brain beneath the hypothalamus. It is often called the body's **"master endocrine gland"** because it regulates hormone production throughout the body.
 
@@ -57,7 +57,7 @@ Most pituitary adenomas are benign and slow growing. However, depending on their
 
 Pituitary tumors are generally classified into two major categories:
 
-## Functioning Pituitary Adenomas
+### Functioning Pituitary Adenomas
 
 These tumors actively produce excessive hormones.
 
@@ -72,7 +72,7 @@ Because these tumors disrupt the body's hormonal balance, they often require act
 
 ---
 
-## Non-Functioning Pituitary Adenomas (NFPA)
+### Non-Functioning Pituitary Adenomas (NFPA)
 
 Non-functioning adenomas do not produce biologically active hormones.
 
@@ -96,7 +96,7 @@ Treatment decisions depend on both tumor size and symptom severity.
 
 ---
 
-# Which Pituitary Tumors Require Treatment?
+## Which Pituitary Tumors Require Treatment?
 
 Not every pituitary tumor requires immediate intervention.
 
@@ -126,7 +126,7 @@ The decision to begin treatment should always be based on a comprehensive evalua
 
 ---
 
-# Main Treatment Options for Pituitary Tumors
+## Main Treatment Options for Pituitary Tumors
 
 The primary treatment options for pituitary tumors include **medication, endoscopic transsphenoidal surgery, radiation therapy, and combination therapy**.
 
@@ -144,7 +144,7 @@ An individualized treatment plan developed by a multidisciplinary team (MDT) gen
 
 ---
 
-## 1. Medication
+### 1. Medication
 
 Medication is considered the **first-line treatment** for certain hormone-secreting pituitary tumors, particularly **prolactinomas**.
 
@@ -160,7 +160,7 @@ Because different pituitary tumors produce different hormones, treatment varies 
 
 ---
 
-### Prolactinoma
+#### Prolactinoma
 
 Prolactinomas are the most common functioning pituitary adenomas and usually respond extremely well to dopamine agonists.
 
@@ -180,7 +180,7 @@ In many patients, dopamine agonists can reduce prolactin levels to normal and si
 
 ---
 
-### Growth Hormone-Secreting Adenoma
+#### Growth Hormone-Secreting Adenoma
 
 Growth hormone-producing adenomas cause **acromegaly** in adults and **gigantism** in children.
 
@@ -205,7 +205,7 @@ For selected patients, combination medical therapy may provide better hormonal c
 
 ---
 
-### ACTH-Secreting Adenoma
+#### ACTH-Secreting Adenoma
 
 ACTH-producing tumors cause **Cushing's disease**, characterized by excessive cortisol production.
 
@@ -232,7 +232,7 @@ These therapies reduce cortisol production and improve symptoms such as:
 
 ---
 
-### TSH-Secreting Adenoma
+#### TSH-Secreting Adenoma
 
 TSH-secreting pituitary adenomas are rare.
 
@@ -242,7 +242,7 @@ However, definitive treatment usually involves surgery.
 
 ---
 
-## Advantages of Medical Therapy
+### Advantages of Medical Therapy
 
 Compared with surgery, medication offers several advantages for selected patients:
 
@@ -257,7 +257,7 @@ However, long-term treatment often requires regular hormone monitoring and MRI e
 
 ---
 
-## 2. Endoscopic Transsphenoidal Surgery
+### 2. Endoscopic Transsphenoidal Surgery
 
 For many pituitary tumors, **endoscopic endonasal transsphenoidal surgery** has become the international standard of care.
 
@@ -267,7 +267,7 @@ This minimally invasive approach has largely replaced traditional microscopic su
 
 ---
 
-### Advantages of Endoscopic Surgery
+#### Advantages of Endoscopic Surgery
 
 Compared with conventional craniotomy, endoscopic transsphenoidal surgery offers numerous advantages:
 
@@ -292,7 +292,7 @@ This allows surgeons to safely remove more tumor tissue while minimizing neurolo
 
 ---
 
-### When Is Surgery Recommended?
+#### When Is Surgery Recommended?
 
 Surgery is commonly recommended for patients with:
 
@@ -309,7 +309,7 @@ In experienced pituitary centers, complete tumor removal can often be achieved f
 
 ---
 
-### Technological Advances
+#### Technological Advances
 
 Modern pituitary surgery continues to improve through several technological innovations, including:
 
@@ -324,7 +324,7 @@ These technologies improve both surgical precision and long-term treatment outco
 
 ---
 
-## 3. Radiation Therapy
+### 3. Radiation Therapy
 
 Radiation therapy plays an important role when surgery cannot completely eliminate the tumor or when disease recurs.
 
@@ -340,7 +340,7 @@ Modern radiation techniques are significantly more precise than conventional rad
 
 ---
 
-### Stereotactic Radiosurgery (SRS)
+#### Stereotactic Radiosurgery (SRS)
 
 Stereotactic radiosurgery delivers highly focused radiation to the tumor while minimizing damage to surrounding healthy tissues.
 
@@ -368,7 +368,7 @@ Hormone normalization may require months or even years after treatment, making l
 
 ---
 
-### Conventional Fractionated Radiotherapy
+#### Conventional Fractionated Radiotherapy
 
 Fractionated radiotherapy remains valuable for patients with:
 
@@ -381,7 +381,7 @@ Rather than delivering radiation in a single session, treatment is divided into 
 
 ---
 
-## 4. Combination Therapy
+### 4. Combination Therapy
 
 Increasingly, patients benefit from a multidisciplinary treatment strategy that combines multiple therapies.
 
@@ -402,7 +402,7 @@ Combination therapy may:
 
 The optimal sequence of treatments should always be individualized according to tumor characteristics and patient-specific factors.
 
-## 3. Radiation Therapy
+### 3. Radiation Therapy
 
 Radiation therapy is generally recommended for patients with:
 
@@ -413,7 +413,7 @@ Radiation therapy is generally recommended for patients with:
 
 Common radiation techniques include:
 
-### Stereotactic Radiosurgery (SRS)
+#### Stereotactic Radiosurgery (SRS)
 
 This includes technologies such as:
 
@@ -431,7 +431,7 @@ Its advantages include:
 - Single-session or limited-session treatment
 - Minimal damage to surrounding healthy tissue
 
-### Conventional Fractionated Radiotherapy
+#### Conventional Fractionated Radiotherapy
 
 This approach is generally used for:
 
@@ -443,7 +443,7 @@ Although conventional radiotherapy requires multiple treatment sessions, it rema
 
 ---
 
-## 4. Combination Therapy
+### 4. Combination Therapy
 
 An increasing number of patients benefit from **multidisciplinary combination therapy** to achieve better long-term outcomes.
 
@@ -464,7 +464,7 @@ Combination therapy may help:
 
 ---
 
-# How Is Treatment Selected for Different Types of Pituitary Tumors?
+## How Is Treatment Selected for Different Types of Pituitary Tumors?
 
 Different pituitary tumors require different treatment strategies.
 
@@ -499,7 +499,7 @@ Because pituitary tumors involve both neurosurgical and endocrine management, tr
 
 ---
 
-# What Is the Prognosis for Patients with Pituitary Tumors?
+## What Is the Prognosis for Patients with Pituitary Tumors?
 
 Fortunately, **most pituitary tumors are benign**, and modern treatment has significantly improved long-term outcomes.
 
@@ -522,7 +522,7 @@ Regular follow-up remains essential because some tumors may recur years after in
 
 ---
 
-# Long-Term Follow-Up After Treatment
+## Long-Term Follow-Up After Treatment
 
 Patients are usually advised to undergo regular monitoring after treatment.
 
@@ -546,15 +546,15 @@ Long-term surveillance helps detect recurrence early and optimize endocrine repl
 
 ---
 
-# Frequently Asked Questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-## Can pituitary tumors be cured?
+### Can pituitary tumors be cured?
 
 Many pituitary tumors can be completely removed through surgery or effectively controlled with medication. Long-term remission is common, particularly for small tumors diagnosed early.
 
 ---
 
-## Is surgery always necessary?
+### Is surgery always necessary?
 
 No.
 
@@ -562,19 +562,19 @@ Many prolactinomas can be successfully treated with medication alone, while some
 
 ---
 
-## Are pituitary tumors cancerous?
+### Are pituitary tumors cancerous?
 
 The vast majority of pituitary tumors are benign (pituitary adenomas). Pituitary carcinoma is extremely rare.
 
 ---
 
-## Will hormone levels return to normal after treatment?
+### Will hormone levels return to normal after treatment?
 
 Many patients experience normalization of hormone levels following successful treatment, although some may require lifelong hormone replacement therapy if normal pituitary function is affected.
 
 ---
 
-# Future Perspectives
+## Future Perspectives
 
 Advances in pituitary tumor management continue to improve patient outcomes.
 
@@ -591,7 +591,7 @@ These innovations are expected to further increase cure rates while minimizing t
 
 ---
 
-# Conclusion
+## Conclusion
 
 Today, most patients with pituitary tumors can achieve excellent disease control through medication, minimally invasive surgery, radiation therapy, or a combination of these approaches.
 
@@ -601,7 +601,7 @@ Early diagnosis, standardized multidisciplinary treatment, and long-term follow-
 
 ---
 
-## About DengYueMed
+### About DengYueMed
 
 **Hong Kong DengYue Pharmaceutical Limited (DengYueMed)** is a [global pharmaceutical distributor](https://dengyuemed.com/) specializing in innovative medicines, oncology therapies, rare disease treatments, and international pharmaceutical supply solutions.
 
@@ -609,6 +609,6 @@ We connect healthcare providers, pharmacies, distributors, and compliant partner
 
 ---
 
-### Disclaimer
+#### Disclaimer
 
 This article is intended for educational and informational purposes only and should not replace professional medical advice, diagnosis, or treatment. Patients should always consult qualified healthcare professionals regarding diagnosis and treatment decisions.
