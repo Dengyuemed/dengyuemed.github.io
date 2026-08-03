@@ -46,7 +46,7 @@ Drawing upon recently published clinical studies, presentations at international
 
 ---
 
-# What Are PD-1 Inhibitors?
+## What Are PD-1 Inhibitors?
 
 Programmed Death-1 (PD-1) is an immune checkpoint receptor expressed on activated T lymphocytes. When PD-1 binds to its ligand PD-L1, which is frequently overexpressed on tumor cells, T-cell activity is suppressed, allowing cancer cells to evade immune surveillance.
 
@@ -62,7 +62,7 @@ In HNSCC, PD-1 inhibitors are now widely used in several clinical settings, incl
 
 ---
 
-# Why Have PD-1 Inhibitors Changed the Treatment Landscape of HNSCC?
+## Why Have PD-1 Inhibitors Changed the Treatment Landscape of HNSCC?
 
 Conventional treatment options primarily include:
 
@@ -84,9 +84,9 @@ These characteristics provide a strong biological rationale for PD-1 blockade.
 
 ---
 
-# Globally Approved PD-1 Drugs for Head and Neck Cancer
+## Globally Approved PD-1 Drugs for Head and Neck Cancer
 
-## 1. Pembrolizumab (Keytruda)
+### 1. Pembrolizumab (Keytruda)
 
 **Developer**
 
@@ -102,7 +102,7 @@ Approved indications include:
 
 ---
 
-## 2. Nivolumab (Opdivo)
+### 2. Nivolumab (Opdivo)
 
 **Developer**
 
@@ -119,7 +119,7 @@ Nivolumab remains a preferred second-line treatment recommended by major interna
 
 ---
 
-## 3. Toripalimab (Tuoyi®)
+### 3. Toripalimab (Tuoyi®)
 
 **Developer**
 
@@ -129,7 +129,7 @@ Junshi Biosciences
 
 ---
 
-## 4. Penpulimab (Annike®)
+### 4. Penpulimab (Annike®)
 
 **Developer**
 
@@ -139,9 +139,9 @@ Akeso / SinoMab
 
 ---
 
-# Landmark Clinical Trials
+## Landmark Clinical Trials
 
-## KEYNOTE-048
+### KEYNOTE-048
 
 KEYNOTE-048 established pembrolizumab as the standard first-line therapy for recurrent or metastatic HNSCC.
 
@@ -153,7 +153,7 @@ Major findings included:
 
 ---
 
-## CheckMate-141
+### CheckMate-141
 
 Among platinum-refractory patients, nivolumab demonstrated:
 
@@ -163,19 +163,19 @@ Among platinum-refractory patients, nivolumab demonstrated:
 
 ---
 
-# Combination Therapy Is the Future
+## Combination Therapy Is the Future
 
 Current research increasingly focuses on combination strategies.
 
-## PD-1 + Chemotherapy
+### PD-1 + Chemotherapy
 
 The current standard first-line treatment for many patients.
 
-## PD-1 + EGFR Targeted Therapy
+### PD-1 + EGFR Targeted Therapy
 
 Potentially enhances immune activation while overcoming resistance.
 
-## PD-1 + Antibody-Drug Conjugates (ADCs)
+### PD-1 + Antibody-Drug Conjugates (ADCs)
 
 Active areas include:
 
@@ -185,17 +185,17 @@ Active areas include:
 
 These combinations are among the hottest areas of oncology research.
 
-## PD-1 + Radiotherapy
+### PD-1 + Radiotherapy
 
 Radiotherapy induces immunogenic cell death, potentially enhancing responses to PD-1 blockade.
 
-## Perioperative Immunotherapy
+### Perioperative Immunotherapy
 
 Neoadjuvant and adjuvant PD-1 therapy may reduce recurrence risk and move immunotherapy into earlier disease stages.
 
 ---
 
-# Future Development Trends
+## Future Development Trends
 
 Future research is expected to focus on:
 
@@ -211,7 +211,7 @@ Future research is expected to focus on:
 
 ---
 
-# Conclusion
+## Conclusion
 
 PD-1 inhibitors have become a cornerstone of systemic therapy for head and neck squamous cell carcinoma.
 
@@ -223,6 +223,6 @@ As immunotherapy continues to evolve, more personalized and biomarker-driven tre
 
 ---
 
-## Medical Disclaimer
+### Medical Disclaimer
 
 This article is intended for educational and informational purposes only and should not be considered medical advice, diagnosis, or treatment recommendations. Patients should consult qualified oncology specialists before making any treatment decisions.
