@@ -30,7 +30,7 @@ seo:
     - Targeted Therapy
 ---
 
-# Latest Advances in Vebreltinib for High-Grade Glioma: Further Validation of Its Therapeutic Value
+## Latest Advances in Vebreltinib for High-Grade Glioma: Further Validation of Its Therapeutic Value
 
 High-grade glioma (HGG) is one of the most aggressive malignant tumors of the central nervous system. Despite continuous advances in surgery, radiotherapy, and chemotherapy, patients still face major challenges, including high recurrence rates, poor prognosis, and limited survival outcomes.
 
@@ -42,7 +42,7 @@ As a pharmaceutical information platform dedicated to innovative medicines and p
 
 ---
 
-# What Is High-Grade Glioma?
+## What Is High-Grade Glioma?
 
 High-grade glioma refers to highly malignant primary brain tumors classified by the World Health Organization (WHO).
 
@@ -65,7 +65,7 @@ Consequently, identifying novel molecular targets has become an important direct
 
 ---
 
-# What Is Vebreltinib?
+## What Is Vebreltinib?
 
 Vebreltinib (development code **APL-101**) is a National Class 1 [innovative drug](https://hkdengyue.github.io/innovative-drugs/) developed by Avistone Biotechnology.
 
@@ -82,7 +82,7 @@ Vebreltinib has become the **first MET-targeted therapy approved globally for PT
 
 ---
 
-# Why Is MET-Targeted Therapy Important?
+## Why Is MET-Targeted Therapy Important?
 
 Gliomas are genetically heterogeneous.
 
@@ -104,7 +104,7 @@ Not all patients are suitable candidates for MET-targeted therapy. Molecular tes
 
 ---
 
-# Latest Clinical Research Further Validates Therapeutic Value
+## Latest Clinical Research Further Validates Therapeutic Value
 
 A multicenter Phase III clinical study published in March 2026 further evaluated the efficacy and safety of Vebreltinib in patients with previously treated PTPRZ1-MET fusion-positive high-grade glioma.
 
@@ -112,7 +112,7 @@ The trial enrolled **81 patients** across **28 [neurosurgical centers](https://d
 
 ---
 
-# Main Clinical Results
+## Main Clinical Results
 
 Compared with conventional treatment, Vebreltinib demonstrated encouraging improvements across multiple efficacy endpoints.
 
@@ -126,7 +126,7 @@ The results demonstrated significant improvement in overall survival together wi
 
 ---
 
-# Which Patients Benefited Most?
+## Which Patients Benefited Most?
 
 Subgroup analyses suggested greater treatment benefit among:
 
@@ -138,7 +138,7 @@ These findings further highlight the importance of precision molecular diagnosis
 
 ---
 
-# Safety Profile
+## Safety Profile
 
 Safety remains an important consideration for recurrent brain tumors.
 
@@ -153,7 +153,7 @@ Overall, Vebreltinib improved survival without substantially increasing severe t
 
 ---
 
-# Which Patients May Be Eligible?
+## Which Patients May Be Eligible?
 
 Current evidence suggests Vebreltinib may be considered for patients who meet the following criteria:
 
@@ -166,7 +166,7 @@ Because molecular characteristics differ among patients, treatment decisions sho
 
 ---
 
-# Future Perspectives
+## Future Perspectives
 
 Precision medicine continues transforming the treatment landscape of glioma.
 
@@ -186,7 +186,7 @@ These advances may further optimize patient selection and improve long-term outc
 
 ---
 
-# Conclusion
+## Conclusion
 
 High-grade glioma remains one of the most challenging diseases in neuro-oncology.
 
