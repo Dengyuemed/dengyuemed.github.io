@@ -34,7 +34,7 @@ This article reviews the latest research on the carcinogenic mechanisms, diagnos
 
 ---
 
-# What Is HPV-Related Oropharyngeal Cancer?
+## What Is HPV-Related Oropharyngeal Cancer?
 
 Oropharyngeal cancer mainly arises in the:
 
@@ -60,7 +60,7 @@ Compared with traditional smoking-associated cancers, HPV-positive tumors usuall
 
 ---
 
-# Why Does HPV Increase the Risk of Oropharyngeal Cancer?
+## Why Does HPV Increase the Risk of Oropharyngeal Cancer?
 
 HPV infection alone does **not** immediately cause cancer.
 
@@ -79,7 +79,7 @@ Persistent viral infection may eventually lead to viral DNA integration into the
 
 ---
 
-# Carcinogenic Mechanisms of HPV-Induced Oropharyngeal Cancer
+## Carcinogenic Mechanisms of HPV-Induced Oropharyngeal Cancer
 
 Current evidence indicates that HPV-associated carcinogenesis is primarily driven by two viral oncoproteins:
 
@@ -90,7 +90,7 @@ Together they disrupt normal cell-cycle regulation.
 
 ---
 
-## 1. E6 Protein Promotes p53 Degradation
+### 1. E6 Protein Promotes p53 Degradation
 
 The tumor suppressor **p53** is often called the **"guardian of the genome."**
 
@@ -110,7 +110,7 @@ This greatly increases mutation accumulation.
 
 ---
 
-## 2. E7 Protein Inactivates Rb
+### 2. E7 Protein Inactivates Rb
 
 The **retinoblastoma protein (Rb)** controls progression from the G1 phase into the S phase.
 
@@ -124,7 +124,7 @@ This promotes malignant transformation.
 
 ---
 
-## 3. p16 Overexpression
+### 3. p16 Overexpression
 
 Loss of Rb function induces compensatory overexpression of **p16INK4a**.
 
@@ -132,7 +132,7 @@ Consequently, **p16 immunohistochemistry (IHC)** has become the most widely used
 
 ---
 
-## 4. Genomic Instability
+### 4. Genomic Instability
 
 Persistent HPV infection may also induce:
 
@@ -146,7 +146,7 @@ These changes further accelerate tumor progression.
 
 ---
 
-## 5. Immune Evasion
+### 5. Immune Evasion
 
 HPV-associated tumors also evade immune surveillance through:
 
@@ -159,7 +159,7 @@ These mechanisms also explain why immune checkpoint inhibitors can be effective.
 
 ---
 
-# Symptoms of HPV-Related Oropharyngeal Cancer
+## Symptoms of HPV-Related Oropharyngeal Cancer
 
 Early symptoms are often nonspecific.
 
@@ -178,7 +178,7 @@ Because symptoms are subtle, many patients present with locally advanced disease
 
 ---
 
-# How Is HPV-Related Oropharyngeal Cancer Diagnosed?
+## How Is HPV-Related Oropharyngeal Cancer Diagnosed?
 
 | Diagnostic Method | Main Purpose | Clinical Value |
 |-------------------|-------------|---------------|
@@ -199,7 +199,7 @@ to establish an accurate diagnosis and guide treatment planning.
 
 ---
 
-# Treatment of HPV-Positive Oropharyngeal Cancer
+## Treatment of HPV-Positive Oropharyngeal Cancer
 
 Treatment depends on:
 
@@ -209,7 +209,7 @@ Treatment depends on:
 
 ---
 
-## Surgery
+### Surgery
 
 For early-stage disease, **Transoral Robotic Surgery (TORS)** is increasingly used.
 
@@ -221,7 +221,7 @@ Advantages include:
 
 ---
 
-## Radiotherapy
+### Radiotherapy
 
 HPV-positive tumors are generally highly radiosensitive.
 
@@ -229,7 +229,7 @@ Current research is exploring **treatment de-escalation**, aiming to maintain ef
 
 ---
 
-## Chemotherapy
+### Chemotherapy
 
 For locally advanced disease, concurrent chemoradiotherapy remains standard.
 
@@ -240,7 +240,7 @@ Common agents include:
 
 ---
 
-# Latest Advances in Immunotherapy
+## Latest Advances in Immunotherapy
 
 PD-1 inhibitors have transformed treatment for recurrent and metastatic HNSCC.
 
@@ -260,7 +260,7 @@ making many patients good candidates for immune checkpoint inhibition.
 
 ---
 
-# Emerging ADCs and Targeted Therapies
+## Emerging ADCs and Targeted Therapies
 
 Antibody-drug conjugates (ADCs) have become one of the hottest areas in head and neck oncology.
 
@@ -281,7 +281,7 @@ Other emerging approaches include:
 
 ---
 
-# Can HPV Vaccination Prevent Oropharyngeal Cancer?
+## Can HPV Vaccination Prevent Oropharyngeal Cancer?
 
 Current HPV vaccines are approved for preventing:
 
@@ -297,7 +297,7 @@ Vaccination at the recommended age remains one of the most effective preventive 
 
 ---
 
-# Future Perspectives
+## Future Perspectives
 
 Precision medicine continues to reshape treatment strategies for HPV-positive OPSCC.
 
@@ -314,7 +314,7 @@ These innovations aim to improve survival while reducing treatment-related toxic
 
 ---
 
-# Conclusion
+## Conclusion
 
 Persistent infection with high-risk HPV—particularly HPV16—has become one of the most important causes of oropharyngeal cancer.
 
