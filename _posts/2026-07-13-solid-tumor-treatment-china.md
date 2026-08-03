@@ -30,13 +30,13 @@ DengYueMed serves as a professional bridge connecting international patients wit
 
 ---
 
-# China's Solid Tumor Treatment Landscape in 2026
+## China's Solid Tumor Treatment Landscape in 2026
 
 China has one of the world's largest cancer patient populations. Continuous investment in oncology research, regulatory reform, and biotechnology innovation has transformed the country's cancer treatment landscape.
 
 Three major trends define solid tumor treatment in China during 2026.
 
-## 1. CAR-T Therapy Is Expanding into Solid Tumors
+### 1. CAR-T Therapy Is Expanding into Solid Tumors
 
 For many years, CAR-T therapy was mainly used for hematologic malignancies.
 
@@ -50,7 +50,7 @@ Multiple leading Chinese cancer centers continue to participate in CAR-T clinica
 
 ---
 
-## 2. Rapid Expansion of Immunotherapy and ADC Therapy
+### 2. Rapid Expansion of Immunotherapy and ADC Therapy
 
 China has approved more than twenty PD-1 and PD-L1 inhibitors.
 
@@ -80,7 +80,7 @@ These therapies are expanding treatment options for patients with:
 
 ---
 
-## 3. Precision Medicine Continues to Advance
+### 3. Precision Medicine Continues to Advance
 
 Comprehensive molecular testing has become increasingly routine before treatment decisions.
 
@@ -106,11 +106,11 @@ China has also expanded access to minimally invasive interventional oncology, in
 
 ---
 
-# Why More International Patients Are Choosing China
+## Why More International Patients Are Choosing China
 
 Several factors continue attracting international cancer patients.
 
-## Faster Access to Innovative Therapies
+### Faster Access to Innovative Therapies
 
 Many innovative medicines and treatment approaches become available in China earlier through:
 
@@ -120,7 +120,7 @@ Many innovative medicines and treatment approaches become available in China ear
 
 ---
 
-## Cost Advantages
+### Cost Advantages
 
 Many advanced cancer treatments cost substantially less than comparable treatment in Western countries.
 
@@ -134,7 +134,7 @@ Patients may find cost advantages in:
 
 ---
 
-## Extensive Clinical Experience
+### Extensive Clinical Experience
 
 China treats one of the world's largest numbers of cancer patients each year.
 
@@ -146,7 +146,7 @@ Leading oncology centers therefore accumulate extensive experience in managing:
 
 ---
 
-## Mature MDT Care
+### Mature MDT Care
 
 Many leading hospitals operate comprehensive MDT systems integrating:
 
@@ -162,11 +162,11 @@ This collaborative approach helps develop individualized treatment strategies.
 
 ---
 
-# Leading Cancer Hospitals in China
+## Leading Cancer Hospitals in China
 
 Several hospitals are widely recognized for solid tumor treatment.
 
-## National Cancer Center / Cancer Hospital, Chinese Academy of Medical Sciences (Beijing)
+### National Cancer Center / Cancer Hospital, Chinese Academy of Medical Sciences (Beijing)
 
 Areas of expertise include:
 
@@ -179,7 +179,7 @@ Areas of expertise include:
 
 ---
 
-## Peking University Cancer Hospital (Beijing)
+### Peking University Cancer Hospital (Beijing)
 
 Internationally recognized for:
 
@@ -191,7 +191,7 @@ Internationally recognized for:
 
 ---
 
-## Fudan University Shanghai Cancer Center
+### Fudan University Shanghai Cancer Center
 
 Major specialties include:
 
@@ -204,7 +204,7 @@ The hospital has extensive experience in minimally invasive surgery and translat
 
 ---
 
-## Sun Yat-sen University Cancer Center (Guangzhou)
+### Sun Yat-sen University Cancer Center (Guangzhou)
 
 Leading specialties include:
 
@@ -217,9 +217,9 @@ The hospital is particularly experienced in liver cancer interventions and multi
 
 ---
 
-# Current Treatment Status of Major Solid Tumors
+## Current Treatment Status of Major Solid Tumors
 
-## Non-Small Cell Lung Cancer (NSCLC)
+### Non-Small Cell Lung Cancer (NSCLC)
 
 Modern treatment increasingly combines:
 
@@ -230,7 +230,7 @@ Modern treatment increasingly combines:
 
 ---
 
-## Gastric Cancer
+### Gastric Cancer
 
 Emerging treatment options include:
 
@@ -240,7 +240,7 @@ Emerging treatment options include:
 
 ---
 
-## Liver Cancer
+### Liver Cancer
 
 Treatment strategies increasingly integrate:
 
@@ -252,7 +252,7 @@ Treatment strategies increasingly integrate:
 
 ---
 
-## Breast Cancer
+### Breast Cancer
 
 Patients now have broader access to:
 
@@ -263,7 +263,7 @@ Patients now have broader access to:
 
 ---
 
-## Colorectal Cancer
+### Colorectal Cancer
 
 Important advances include:
 
@@ -273,7 +273,7 @@ Important advances include:
 
 ---
 
-# Practical Guidance for International Patients
+## Practical Guidance for International Patients
 
 Before traveling to China, patients are encouraged to prepare:
 
@@ -295,7 +295,7 @@ All treatment decisions should ultimately be made by qualified oncology speciali
 
 ---
 
-# How Med Supports International Patients
+## How Med Supports International Patients
 
 DengYueMed helps overseas patients connect with China's leading oncology resources through services including:
 
@@ -310,7 +310,7 @@ Our goal is to help international patients better understand treatment options a
 
 ---
 
-# Conclusion
+## Conclusion
 
 China has become one of the world's fastest-growing centers for advanced solid tumor treatment.
 
@@ -324,7 +324,7 @@ As global oncology continues to evolve, responsible international collaboration 
 
 ---
 
-## Disclaimer
+### Disclaimer
 
 This article is intended for educational and informational purposes only.
 
@@ -336,7 +336,7 @@ Treatment availability, regulatory approvals, and eligibility criteria may vary 
 
 ---
 
-## About DengYueMed
+### About DengYueMed
 
 [DengYueMed](https://dengyuemed.github.io/) is a cross-border medical collaboration platform dedicated to helping international patients connect with leading hospitals, oncology specialists, and innovative therapies in China.
 
