@@ -28,9 +28,9 @@ featured: false
 draft: false
 ---
 
-# How Effective Is Afatinib for Head and Neck Cancer?
+## How Effective Is Afatinib for Head and Neck Cancer?
 
-## Indications, Clinical Efficacy, and Safety Overview
+### Indications, Clinical Efficacy, and Safety Overview
 
 Head and neck cancer is one of the most common malignancies worldwide, with more than 90% of cases classified as **Head and Neck Squamous Cell Carcinoma (HNSCC)**. Although surgery, radiotherapy, and chemotherapy remain the primary treatment modalities, therapeutic options for patients with recurrent or metastatic disease remain limited, and long-term survival outcomes still need improvement.
 
@@ -40,7 +40,7 @@ So, how effective is Afatinib in treating head and neck cancer? Which patients m
 
 ---
 
-# What Is Afatinib?
+## What Is Afatinib?
 
 Afatinib is an oral small-molecule targeted therapy belonging to the **second generation of EGFR tyrosine kinase inhibitors (EGFR-TKIs)**.
 
@@ -54,7 +54,7 @@ By continuously inhibiting EGFR signaling pathways, Afatinib suppresses tumor ce
 
 ---
 
-# Why Is EGFR an Important Therapeutic Target in Head and Neck Cancer?
+## Why Is EGFR an Important Therapeutic Target in Head and Neck Cancer?
 
 Extensive research has shown that:
 
@@ -71,7 +71,7 @@ Common EGFR-targeted therapies include:
 
 ---
 
-# Indications for Afatinib in Head and Neck Cancer
+## Indications for Afatinib in Head and Neck Cancer
 
 At present, Afatinib has **not become the standard first-line treatment** for all patients with HNSCC.
 
@@ -86,9 +86,9 @@ Current use of Afatinib in HNSCC is primarily supported by clinical studies and 
 
 ---
 
-# How Effective Is Afatinib in Head and Neck Cancer?
+## How Effective Is Afatinib in Head and Neck Cancer?
 
-## 1. Delaying Disease Progression
+### 1. Delaying Disease Progression
 
 The **LUX-Head & Neck** clinical trial program demonstrated that, compared with methotrexate, Afatinib improved **progression-free survival (PFS)** in selected patients with recurrent or metastatic HNSCC.
 
@@ -100,7 +100,7 @@ Additional benefits observed in some patients included:
 
 ---
 
-## 2. Improving Objective Response
+### 2. Improving Objective Response
 
 Although not every patient experiences significant tumor shrinkage, some individuals achieve:
 
@@ -112,7 +112,7 @@ Patients whose tumors are highly dependent on EGFR signaling may derive greater 
 
 ---
 
-## 3. Improving Quality of Life
+### 3. Improving Quality of Life
 
 Clinical studies have also shown that Afatinib may improve several symptoms experienced by patients with head and neck cancer, including:
 
@@ -125,29 +125,29 @@ Improving quality of life remains a major therapeutic goal in head and neck canc
 
 ---
 
-# What Are the Advantages of Afatinib?
+## What Are the Advantages of Afatinib?
 
 Compared with conventional chemotherapy, Afatinib offers several potential advantages.
 
-## Oral Administration
+### Oral Administration
 
 Afatinib is taken once daily by mouth, eliminating the need for intravenous infusion and providing greater convenience.
 
-## Targeted EGFR Inhibition
+### Targeted EGFR Inhibition
 
 It directly inhibits EGFR and other ErbB family signaling pathways, suppressing tumor growth through targeted molecular mechanisms.
 
-## Irreversible Mechanism of Action
+### Irreversible Mechanism of Action
 
 Unlike first-generation EGFR-TKIs, Afatinib irreversibly inhibits the ErbB receptor family, resulting in more sustained receptor blockade.
 
-## An Option After Platinum Failure
+### An Option After Platinum Failure
 
 For patients whose disease progresses following platinum-based chemotherapy, Afatinib may offer an alternative treatment strategy.
 
 ---
 
-# Common Adverse Reactions
+## Common Adverse Reactions
 
 Because EGFR is widely expressed in normal skin and gastrointestinal tissues, most adverse reactions are related to these organ systems.
 
@@ -164,7 +164,7 @@ Most adverse events are **Grade 1 or Grade 2** and can usually be managed throug
 
 ---
 
-# What Should Patients Be Aware of During Afatinib Treatment?
+## What Should Patients Be Aware of During Afatinib Treatment?
 
 Patients receiving Afatinib should:
 
@@ -180,7 +180,7 @@ Regular imaging studies should also be performed throughout treatment to evaluat
 
 ---
 
-# Future Research Directions
+## Future Research Directions
 
 Research involving Afatinib in head and neck cancer continues to expand.
 
@@ -196,7 +196,7 @@ As precision oncology continues to evolve, Afatinib may demonstrate even greater
 
 ---
 
-# Summary
+## Summary
 
 As a second-generation EGFR tyrosine kinase inhibitor, Afatinib irreversibly blocks signaling across the ErbB receptor family, providing a promising therapeutic option for selected patients with recurrent or metastatic head and neck squamous cell carcinoma.
 
@@ -208,12 +208,12 @@ With the rapid development of innovative therapies—including immunotherapy, bi
 
 ---
 
-# About DengYueMed
+## About DengYueMed
 
 [DengYueMed](https://dengyuemed.github.io/) is committed to connecting global patients with innovative medicines and the latest advances in oncology. By sharing evidence-based medical information, clinical updates, and emerging therapeutic developments, we help healthcare professionals, patients, and international partners stay informed about the rapidly evolving landscape of precision cancer treatment.
 
 ---
 
-## Disclaimer
+### Disclaimer
 
 This article is intended for educational and informational purposes only and should not be considered medical advice. Patients should consult qualified healthcare professionals before making any treatment decisions.
