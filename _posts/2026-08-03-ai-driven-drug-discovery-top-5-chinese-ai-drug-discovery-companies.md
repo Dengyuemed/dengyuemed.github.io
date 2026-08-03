@@ -29,7 +29,7 @@ In this article, DengYueMed reviews the current landscape of China's leading AI 
 
 ---
 
-# AI Drug Discovery Is Entering the "Value Validation" Stage
+## AI Drug Discovery Is Entering the "Value Validation" Stage
 
 Traditional [innovative drug development](https://dengyuemed.github.io/regulatory/oncology/rare-diseases/2026/04/10/global-innovative-drugs-2026/) typically requires more than **10 years** and investments averaging **several billion U.S. dollars**, while the overall clinical success rate remains below **10%**.
 
@@ -58,9 +58,9 @@ Meanwhile, industry evaluation standards have also evolved. Investors are no lon
 
 ---
 
-# Top 5 Chinese AI Drug Discovery Companies
+## Top 5 Chinese AI Drug Discovery Companies
 
-## 1. XtalPi: Building a Digital R&D Platform with AI and Robotics
+### 1. XtalPi: Building a Digital R&D Platform with AI and Robotics
 
 XtalPi is one of China's earliest platform companies dedicated to AI-powered drug discovery and is among the country's most internationally recognized AI pharmaceutical enterprises.
 
@@ -86,7 +86,7 @@ Compared with software-only AI platforms, XtalPi places greater emphasis on a cl
 
 ---
 
-## 2. Insilico Medicine: One of the World's Leading AI Drug Discovery Companies
+### 2. Insilico Medicine: One of the World's Leading AI Drug Discovery Companies
 
 Although Insilico Medicine operates as a globally oriented company, an important portion of its research and development team is based in China, making it widely recognized as one of China's representative AI drug discovery enterprises.
 
@@ -104,7 +104,7 @@ Today, the company has established partnerships with Sanofi, Fosun Pharma, and n
 
 ---
 
-## 3. DP Technology: Empowering Molecular Simulation and Life Sciences with AI
+### 3. DP Technology: Empowering Molecular Simulation and Life Sciences with AI
 
 DP Technology initially positioned itself as an AI for Science (AI4S) company, focusing on:
 
@@ -126,7 +126,7 @@ With the rapid advancement of AI foundation models, DP Technology is becoming on
 
 ---
 
-## 4. BioMap: Building Foundation Models for Life Sciences
+### 4. BioMap: Building Foundation Models for Life Sciences
 
 BioMap has emerged as one of China's most closely watched AI life science companies in recent years.
 
@@ -143,7 +143,7 @@ This strategy represents an important trend in AI drug discovery—the evolution
 
 ---
 
-## 5. Galixir: Focusing on Generative AI for Drug Design
+### 5. Galixir: Focusing on Generative AI for Drug Design
 
 Galixir is among the earliest Chinese companies dedicated to generative AI-driven drug discovery.
 
@@ -155,7 +155,7 @@ As generative AI technologies continue to mature, platforms of this type are exp
 
 ---
 
-# China's Competitive Advantages in AI Drug Discovery Are Becoming Increasingly Evident
+## China's Competitive Advantages in AI Drug Discovery Are Becoming Increasingly Evident
 
 Compared with Europe and the United States, China's AI drug discovery industry started later but has developed remarkably quickly in recent years, with several key competitive advantages.
 
@@ -169,7 +169,7 @@ Chinese AI drug discovery companies are also actively expanding international co
 
 ---
 
-# AI Is Driving Drug Discovery into a New Era
+## AI Is Driving Drug Discovery into a New Era
 
 The development of AI-driven drug development is propelling innovative drug research and development from a traditional experience-driven model to a new model driven by data, algorithms, and intelligent decision-making.
 
@@ -190,7 +190,7 @@ DengYueMed, as a long-term provider of international pharmaceutical services and
 
 ---
 
-# Conclusion
+## Conclusion
 
 Artificial intelligence is rapidly transforming the pharmaceutical industry from target discovery to clinical development.
 
