@@ -16,7 +16,7 @@ tags:
   - CNS Tumors
 description: "Learn how NTRK gene fusions drive certain brain tumors and explore the role of Larotrectinib and Entrectinib in precision treatment, molecular diagnosis, and neuro-oncology."
 keywords: "NTRK fusion brain tumor, Larotrectinib, Entrectinib, TRK inhibitor, NTRK gene fusion, glioma targeted therapy, neuro-oncology, precision medicine, CNS tumor treatment, DengYueMed"
-image: /assets/images/ntrk-fusion-brain-tumors-larotrectinib-vs-entrectinib.webp
+image: /assets/images/ntrk-fusion-brain-tumors-cover.webp
 ---
 
 With the advancement of precision medicine, [brain tumor](https://dengyuemed.com/oncology-diseases/) treatment has gradually shifted from traditional histological classification toward individualized treatment strategies based on molecular characteristics. As an important molecular target, **NTRK gene fusion** can be identified through genetic testing and may provide treatment strategy options for some patients with brain tumors.
