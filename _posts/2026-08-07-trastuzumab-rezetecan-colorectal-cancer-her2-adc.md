@@ -39,7 +39,7 @@ For patients whose disease progresses after standard chemotherapy with Fluoroura
 
 In recent years, antibody-drug conjugates (ADCs) have become one of the most promising therapeutic strategies for HER2-positive malignancies. By combining the targeting ability of monoclonal antibodies with highly potent cytotoxic agents, ADCs offer more precise tumor targeting while minimizing damage to healthy tissues, bringing new hope to patients with HER2-positive colorectal cancer.
 
-![Trastuzumab Rezetecan and colorectal cancer](/assets/images/trastuzumab-rezetecan-colorectal-cancer.jpeg)
+![Trastuzumab Rezetecan and colorectal cancer](/assets/images/trastuzumab-rezetecan-colorectal-cancer.png)
 
 ## Trastuzumab Rezetecan Receives Its Third Approved Indication
 
@@ -54,7 +54,7 @@ This represents the drug's third approved indication in China, following approva
 
 With this latest approval, Trastuzumab Rezetecan further expands its role across HER2-positive solid tumors.
 
-![Trastuzumab Rezetecan for Injection](/assets/images/trastuzumab-rezetecan-for-injection.png)
+![Trastuzumab Rezetecan for Injection](/assets/images/trastuzumab-rezetecan-for-injection.jpeg)
 
 ## Phase III HORIZON-CRC01 Trial Met Its Primary Endpoint
 
