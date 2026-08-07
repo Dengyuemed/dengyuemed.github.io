@@ -33,8 +33,6 @@ The development of precision medicine has fundamentally changed this landscape. 
 
 Therefore, for patients with advanced or metastatic gastric cancer, choosing the right treatment is no longer simply about selecting a drug. Instead, the priority is to determine whether the tumor harbors actionable biomarkers that can be targeted with precision therapies.
 
-![Precision Medicine in Gastric Cancer](/assets/images/gastric-cancer-precision-medicine.png)
-
 ## HER2: The Most Established Target in Precision Treatment for Gastric Cancer
 
 Among all biomarkers associated with gastric cancer, **HER2 (Human Epidermal Growth Factor Receptor 2)** remains one of the most extensively studied and clinically validated therapeutic targets.
