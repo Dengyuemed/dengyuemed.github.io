@@ -141,4 +141,4 @@ The approval of Ivarmacitinib sulfate tablets for non-radiographic axial spondyl
 
 As research into the mechanisms of axial spondyloarthritis and targeted therapies continues to advance, further treatment developments in this disease area may emerge.
 
-As a Chinese pharmaceutical wholesaler focused on the global pharmaceutical supply chain, [DengYueMed](https://dengyuemed.github.io/) continues to follow developments in Chinese [innovative medicines](https://dengyuemed.com/products/), specialty drugs, and biologics, providing global partners with information and professional services related to the Chinese [pharmaceutical supply chain]([https://dengyuemed.com/pharmaceutical-wholesaler/](https://dengyuemed.github.io/supply-chain/)).
+As a Chinese pharmaceutical wholesaler focused on the global pharmaceutical supply chain, [DengYueMed](https://dengyuemed.github.io/) continues to follow developments in Chinese [innovative medicines](https://dengyuemed.com/products/), specialty drugs, and biologics, providing global partners with information and professional services related to the Chinese [pharmaceutical supply chain](https://dengyuemed.github.io/supply-chain/).
