@@ -235,7 +235,7 @@ Patients should not increase, reduce, or discontinue anticancer medications on t
 
 Some adverse effects associated with targeted drugs can be managed through dose adjustments, supportive treatment, or temporary treatment interruption. However, the appropriate management approach must be determined by a physician.
 
-![Pharmaceutical supply chain](/assets/images/liver-cancer/pharmaceutical-supply-chain.png)
+![Pharmaceutical supply chain](/assets/images/liver-cancer/pharmaceutical-supply-chain.jpg)
 
 ## Conclusion
 
