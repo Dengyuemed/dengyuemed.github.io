@@ -15,7 +15,7 @@ tags:
   - ramucirumab
   - HCC
 description: "Learn about common targeted therapy drugs for liver cancer, including sorafenib, lenvatinib, regorafenib, cabozantinib, and ramucirumab, their treatment settings, and key factors physicians consider when selecting therapy."
-image: /assets/images/liver-cancer/liver-cancer-symptoms.png
+image: /assets/images/liver-cancer-symptoms.png
 ---
 
 [Liver cancer](https://dengyuemed.com/product/liver-cancer/) is one of the most common malignant tumors worldwide. Among them, [hepatocellular carcinoma](https://dengyuemed.com/product/liver-cancer/) (HCC) is the most common type of primary liver cancer.
@@ -49,7 +49,7 @@ For example:
 
 Systemic treatment for liver cancer has gradually evolved from targeted therapy alone toward an approach that includes targeted therapy, immunotherapy, and combination treatment. The European Association for the Study of the Liver (EASL) updated its clinical practice guidelines for hepatocellular carcinoma in 2024, highlighting the importance of combination strategies in systemic treatment for advanced liver cancer.
 
-![Targeted therapy and liver cancer treatment](/assets/images/liver-cancer/liver-cancer-targeted-therapy.png)
+![Targeted therapy and liver cancer treatment](/assets/images/liver-cancer-targeted-therapy.png)
 
 ## What Are the Common Targeted Therapy Drugs for Liver Cancer?
 
@@ -82,7 +82,7 @@ Common adverse effects include:
 - **Hypertension**
 - **Decreased appetite**
 
-![Sorafenib tablets](/assets/images/liver-cancer/sorafenib-tablets.png)
+![Sorafenib tablets](/assets/images/sorafenib-tablets.png)
 
 With the development of immunotherapy-based combination treatments, sorafenib is no longer the only first-line systemic treatment option for all patients with advanced liver cancer. Physicians generally consider factors such as liver function, tumor burden, bleeding risk, and previous treatment history when developing a treatment plan.
 
@@ -104,7 +104,7 @@ Common adverse effects may include:
 - **Diarrhea**
 - **Hand-foot syndrome**
 
-![Lenvatinib capsules](/assets/images/liver-cancer/lenvatinib-capsules.png)
+![Lenvatinib capsules](/assets/images/lenvatinib-capsules.png)
 
 For patients receiving lenvatinib, regular monitoring of blood pressure, urinary protein, liver function, and kidney function is generally recommended during treatment.
 
@@ -126,7 +126,7 @@ Common adverse effects include:
 - **Diarrhea**
 - **Decreased appetite**
 
-![Regorafenib tablets](/assets/images/liver-cancer/regorafenib-tablets.png)
+![Regorafenib tablets](/assets/images/regorafenib-tablets.png)
 
 Therefore, patients receiving regorafenib also need close monitoring of blood pressure, liver function, and skin-related toxicity.
 
@@ -147,7 +147,7 @@ Common adverse effects include:
 - **Decreased appetite**
 - **Abnormal liver function**
 
-![Cabozantinib tablets](/assets/images/liver-cancer/cabozantinib-tablets.png)
+![Cabozantinib tablets](/assets/images/cabozantinib-tablets.png)
 
 Because cabozantinib can cause a range of adverse effects, whether it is appropriate and how it should be used need to be evaluated based on the patient's overall condition.
 
@@ -159,7 +159,7 @@ Tumor growth and metastasis require the formation of new blood vessels to supply
 
 The use of ramucirumab in hepatocellular carcinoma is associated with a specific biomarker requirement. For some patients with advanced HCC who have previously received sorafenib and have an alpha-fetoprotein (AFP) level of ≥400 ng/mL, ramucirumab may be considered as a treatment option. NCI liver cancer treatment information also identifies this AFP level as an important criterion for its use in HCC.
 
-![Ramucirumab injection](/assets/images/liver-cancer/ramucirumab-injection.png)
+![Ramucirumab injection](/assets/images/ramucirumab-injection.png)
 
 ## How Are Targeted Drugs for Liver Cancer Selected?
 
@@ -235,7 +235,7 @@ Patients should not increase, reduce, or discontinue anticancer medications on t
 
 Some adverse effects associated with targeted drugs can be managed through dose adjustments, supportive treatment, or temporary treatment interruption. However, the appropriate management approach must be determined by a physician.
 
-![Pharmaceutical supply chain](/assets/images/liver-cancer/pharmaceutical-supply-chain.jpg)
+![Pharmaceutical supply chain](/assets/images/pharmaceutical-supply-chain.jpg)
 
 ## Conclusion
 
