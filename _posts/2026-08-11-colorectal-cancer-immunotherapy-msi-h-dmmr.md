@@ -14,7 +14,7 @@ tags:
   - ipilimumab
   - precision oncology
 description: "Learn how MSI-H and dMMR testing helps identify colorectal cancer patients who may benefit from immunotherapy, including PD-1 and CTLA-4-based treatment options."
-image: /assets/images/colorectal-cancer-immunotherapy/colorectal-cancer-immunotherapy.png
+image: /assets/images/colorectal-cancer-immunotherapy.png
 ---
 
 The treatment landscape for colorectal cancer is changing rapidly. With advances in precision medicine, treatment decisions are increasingly guided by tumor biomarkers rather than relying solely on cancer stage and traditional chemotherapy.
@@ -61,7 +61,7 @@ Nivolumab targets the PD-1 pathway, while ipilimumab targets CTLA-4, providing t
 
 The FDA has approved the combination for certain patients with unresectable or metastatic MSI-H/dMMR colorectal cancer. Clinical evidence from CheckMate-8HW has further supported the role of this combination in this biomarker-defined population.
 
-![Ipilimumab injection for colorectal cancer immunotherapy](/assets/images/colorectal-cancer-immunotherapy/ipilimumab-injection.png)
+![Ipilimumab injection for colorectal cancer immunotherapy](/assets/images/ipilimumab-injection.png)
 
 ## What About MSS or pMMR Colorectal Cancer?
 
