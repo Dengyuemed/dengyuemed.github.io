@@ -4,8 +4,6 @@ title: "Colorectal Cancer Immunotherapy: How MSI-H/dMMR Helps Identify Patients 
 date: 2026-08-11
 categories:
   - oncology
-  - colorectal-cancer
-  - immunotherapy
 tags:
   - colorectal cancer
   - immunotherapy
