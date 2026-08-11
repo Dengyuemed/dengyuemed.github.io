@@ -17,7 +17,7 @@ description: "Learn how MSI-H and dMMR testing helps identify colorectal cancer 
 image: /assets/images/colorectal-cancer-immunotherapy.png
 ---
 
-The treatment landscape for colorectal cancer is changing rapidly. With advances in precision medicine, treatment decisions are increasingly guided by tumor biomarkers rather than relying solely on cancer stage and traditional chemotherapy.
+The treatment landscape for [colorectal cancer](https://dengyuerx.com/product-category/prescription-medicines/colorectal-cancer/) is changing rapidly. With advances in precision medicine, treatment decisions are increasingly guided by tumor biomarkers rather than relying solely on cancer stage and traditional chemotherapy.
 
 Among these biomarkers, **microsatellite instability-high (MSI-H)** and **deficient mismatch repair (dMMR)** are particularly important when evaluating patients for immunotherapy.
 
@@ -41,7 +41,7 @@ Several immune checkpoint inhibitors have demonstrated clinical value in patient
 
 ### 1. Pembrolizumab
 
-Pembrolizumab is a programmed cell death protein 1 (PD-1) inhibitor.
+[Pembrolizumab](https://dengyuerx.com/product/keytruda-pembrolizumab-injection-metastatic-melanoma/) is a programmed cell death protein 1 (PD-1) inhibitor.
 
 The U.S. FDA approved pembrolizumab as a first-line treatment for patients with unresectable or metastatic MSI-H/dMMR colorectal cancer. Results from the KEYNOTE-177 study demonstrated a clinically meaningful improvement in progression-free survival compared with standard chemotherapy.
 
@@ -49,7 +49,7 @@ By blocking the PD-1 pathway, pembrolizumab can help restore the ability of T ce
 
 ### 2. Nivolumab
 
-Nivolumab is another PD-1 inhibitor used in selected patients with MSI-H/dMMR metastatic colorectal cancer.
+[Nivolumab](https://dengyuerx.com/product/opdivo-nivolumab-injection-nsclc/) is another PD-1 inhibitor used in selected patients with MSI-H/dMMR metastatic colorectal cancer.
 
 It may be used as monotherapy or, for appropriate patients, as part of a combination immunotherapy strategy.
 
