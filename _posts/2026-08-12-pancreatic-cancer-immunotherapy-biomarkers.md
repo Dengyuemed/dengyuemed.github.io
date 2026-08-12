@@ -17,7 +17,7 @@ tags:
   - immune checkpoint inhibitors
   - precision oncology
 description: "Which pancreatic cancer patients may benefit from immunotherapy? Learn how MSI-H, dMMR, TMB, and other biomarkers may help identify patients who could be candidates for immune checkpoint inhibitors."
-image: /assets/images/pancreatic-cancer-immunotherapy/pancreatic-cancer-symptoms.webp
+image: /assets/images/pancreatic-cancer-symptoms.webp
 ---
 
 Pancreatic cancer is one of the common malignant tumors of the digestive system, with pancreatic ductal adenocarcinoma (PDAC) accounting for the vast majority of cases.
@@ -28,7 +28,7 @@ So, which pancreatic cancer patients may be more suitable for immunotherapy? Wha
 
 In this article, we explore the potential role of immunotherapy in pancreatic cancer, the biomarkers that may help identify eligible patients, and the treatment strategies currently available.
 
-![Pancreatic cancer symptoms and abdominal pain](/assets/images/pancreatic-cancer-immunotherapy/pancreatic-cancer-symptoms.webp)
+![Pancreatic cancer symptoms and abdominal pain](/assets/images/pancreatic-cancer-symptoms.webp)
 
 ## Can Pancreatic Cancer Be Treated with Immunotherapy?
 
@@ -44,7 +44,7 @@ Therefore, not all pancreatic cancer patients are suitable for immunotherapy or 
 
 At present, an important focus is to identify patients who may be sensitive to immunotherapy through biomarkers and clinical characteristics.
 
-![Pancreatic cancer immunotherapy and immune checkpoint inhibition](/assets/images/pancreatic-cancer-immunotherapy/pancreatic-cancer-immunotherapy.png)
+![Pancreatic cancer immunotherapy and immune checkpoint inhibition](/assets/images/pancreatic-cancer-immunotherapy.png)
 
 ## Which Pancreatic Cancer Patients May Benefit from Immunotherapy?
 
@@ -100,7 +100,7 @@ For certain patients with specific molecular characteristics, immune checkpoint 
 
 ### Pembrolizumab
 
-![Pembrolizumab Keytruda injection](/assets/images/pancreatic-cancer-immunotherapy/pembrolizumab-keytruda.png)
+![Pembrolizumab Keytruda injection](/assets/images/pembrolizumab-keytruda.png)
 
 Pembrolizumab is a programmed cell death protein 1 (PD-1) immune checkpoint inhibitor.
 
@@ -114,7 +114,7 @@ Treatment decisions generally need to take into account molecular test results, 
 
 ### Nivolumab
 
-![Nivolumab Opdivo injection](/assets/images/pancreatic-cancer-immunotherapy/nivolumab-opdivo.png)
+![Nivolumab Opdivo injection](/assets/images/nivolumab-opdivo.png)
 
 Nivolumab is another PD-1 immune checkpoint inhibitor that enhances antitumor immune responses by blocking the PD-1 signaling pathway.
 
@@ -160,7 +160,7 @@ Patients interested in such options should consult qualified medical institution
 
 ## What Should Pancreatic Cancer Patients Be Evaluated for Before Receiving Immunotherapy?
 
-![Pancreatic cancer doctor consultation](/assets/images/pancreatic-cancer-immunotherapy/pancreatic-cancer-consultation.png)
+![Pancreatic cancer doctor consultation](/assets/images/pancreatic-cancer-consultation.png)
 
 If a physician believes that a patient may be suitable for immunotherapy, several factors are generally assessed.
 
