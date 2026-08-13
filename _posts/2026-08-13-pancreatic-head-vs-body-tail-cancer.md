@@ -7,8 +7,6 @@ description: "Learn how pancreatic head cancer differs from pancreatic body and 
 image: /assets/images/pancreatic-cancer-head-body-tail.jpg
 ---
 
-![Pancreatic head cancer vs. pancreatic body and tail cancer](/assets/images/pancreatic-cancer-head-body-tail.jpg)
-
 Pancreatic cancer is a malignant tumor that develops in the pancreas. While many people know that pancreatic cancer can progress rapidly, fewer realize that the location of the tumor within the pancreas can affect its symptoms, diagnosis, and treatment options.
 
 Based on its anatomical location, pancreatic cancer is generally classified as pancreatic head cancer, pancreatic body cancer, or pancreatic tail cancer. Tumors arising in the body and tail are often collectively referred to as pancreatic body and tail cancer.
@@ -108,10 +106,10 @@ Chemotherapy remains an important component of systemic treatment for pancreatic
 
 Commonly used chemotherapy drugs include:
 
-- Gemcitabine
+- [Gemcitabine](https://dengyuerx.com/product/gemzar-gemcitabine-hydrochloride-for-injection-nsclc/)
 - Nab-paclitaxel
-- Oxaliplatin
-- Irinotecan
+- [Oxaliplatin](https://dengyuerx.com/product/eloxatin-oxaliplatin-for-injction-stage-iii-colon-cancermcrc-and-agc/)
+- [Irinotecan](https://dengyuerx.com/product/campto-irinotecan-hydrochloride-injection-mcrc-and-agc/)
 - 5-Fluorouracil (5-FU)
 
 For example, FOLFIRINOX combines 5-FU, leucovorin, oxaliplatin, and irinotecan and may be considered for selected patients. Gemcitabine combined with nab-paclitaxel is another established treatment option in appropriate patients.
@@ -138,7 +136,7 @@ More importantly, pancreatic cancer treatment is no longer limited to a single a
 
 As treatment options for pancreatic cancer continue to evolve, reliable access to chemotherapy medicines, targeted therapies, and other innovative oncology products remains an important part of the healthcare supply chain.
 
-DengYue Pharmacy specializes in the supply of innovative and specialty medicines, supporting qualified healthcare institutions, pharmacies, pharmaceutical distributors, and professional customers with pharmaceutical procurement and supply-chain services.
+[DengYue Pharmacy](https://dengyuerx.com/) specializes in the supply of innovative and specialty medicines, supporting qualified healthcare institutions, pharmacies, pharmaceutical distributors, and professional customers with pharmaceutical procurement and supply-chain services.
 
 We continue to follow developments in pancreatic cancer and other gastrointestinal cancers, with a focus on supporting access to specialty and innovative medicines through professional and compliant supply channels.
 
