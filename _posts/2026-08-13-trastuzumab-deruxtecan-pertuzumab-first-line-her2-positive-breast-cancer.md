@@ -7,8 +7,6 @@ tags: [Breast Cancer, HER2, Trastuzumab Deruxtecan, Enhertu, Pertuzumab, ADC, DE
 image: /assets/images/her2-breast-cancer-doctor-pink-ribbon.png
 ---
 
-![HER2-positive breast cancer and oncology treatment](/assets/images/her2-breast-cancer-doctor-pink-ribbon.png)
-
 On August 12, 2026, Daiichi Sankyo announced that trastuzumab deruxtecan (T-DXd, brand name: [Enhertu](https://dengyuemed.com/product/enhertu-trastuzumab-deruxtecan-her2-cancers/)), a HER2-targeted [antibody-drug conjugate](https://dengyuemed.com/blog/adc-drugs-by-target-in-2026/) (ADC) developed in collaboration with AstraZeneca, received approval in China for a new indication. In combination with pertuzumab, trastuzumab deruxtecan is approved for the first-line treatment of adults with unresectable or metastatic [HER2-positive breast cancer](https://dengyuemed.com/product/breast-cancer/).
 
 The significance of this approval goes beyond simply expanding the breast cancer indications for trastuzumab deruxtecan. More importantly, its treatment line has moved further forward, from use in patients who have previously received anti-HER2 therapy to first-line treatment for patients with HER2-positive advanced or metastatic breast cancer.
@@ -37,7 +35,7 @@ Therefore, optimizing first-line treatment strategies remains an important area 
 
 [Trastuzumab deruxtecan](https://dengyuemed.com/product/enhertu-trastuzumab-deruxtecan-her2-cancers/) ([T-DXd](https://dengyuemed.com/product/enhertu-trastuzumab-deruxtecan-her2-cancers/)) is a HER2-targeted antibody-drug conjugate (ADC) developed by Daiichi Sankyo in collaboration with AstraZeneca for global development and commercialization.
 
-![Trastuzumab deruxtecan (Enhertu)](/assets/images/enhertu-trastuzumab-deruxtecan.png)
+![Trastuzumab deruxtecan (Enhertu)](/assets/images/enhertu-trastuzumab-deruxtecan.jpeg)
 
 Trastuzumab deruxtecan consists primarily of three components:
 
@@ -142,7 +140,7 @@ In the future, competition among HER2 ADCs is expected to extend beyond the numb
 
 As trastuzumab deruxtecan enters first-line treatment for HER2-positive advanced breast cancer, competition in China's HER2 ADC market is also expected to increasingly focus on clinical value and overall commercialization capabilities.
 
-![DengYueMed pharmaceutical partnership and supply support](/assets/images/pharmaceutical-partnership.png)
+![DengYueMed pharmaceutical partnership and supply support](/assets/images/pharmaceutical-partnership.jpg)
 
 ---
 
