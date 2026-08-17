@@ -3,7 +3,7 @@ layout: post
 title: "From Health Checkups to Cancer Treatment: China’s Medical Travel Market Is Rapidly Expanding"
 date: 2026-08-17
 categories:
-  - Biotech
+  - biotech
 tags:
   - Medical Travel
   - China Healthcare
