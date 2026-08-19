@@ -28,6 +28,7 @@ just_the_docs:
 # ===== Navigation =====
 
 header_pages:
+  - biotech.md
   - oncology.md
   - rare-diseases.md
   - supply-chain.md
