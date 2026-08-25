@@ -3,7 +3,7 @@ layout: post
 title: "Breaking Through for an Asian Cancer: China’s Innovation Rewrites the Future of Nasopharyngeal Cancer Treatment"
 date: 2026-08-25
 categories:
-  - Oncology
+  - oncology
 tags:
   - Nasopharyngeal Cancer
   - Izalontamab Brengitecan
