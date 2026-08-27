@@ -4,7 +4,6 @@ title: "Bone Marrow Protection Throughout Chemotherapy: Trilaciclib Approved for
 date: 2026-08-27
 categories:
   - oncology
-  - lung-cancer
 tags:
   - Trilaciclib
   - Cosela
@@ -17,7 +16,7 @@ tags:
 description: "China has approved a new indication for trilaciclib in relapsed extensive-stage small cell lung cancer, extending pre-chemotherapy bone marrow protection to Topotecan-containing regimens."
 ---
 
-For patients with extensive-stage small cell lung cancer (ES-SCLC), treatment challenges extend beyond the cancer itself.
+For patients with [extensive-stage small cell lung cancer](https://dengyuemed.com/product-tag/extensive-stage-small-cell-lung-cancer/) (ES-SCLC), treatment challenges extend beyond the cancer itself.
 
 Small cell lung cancer is characterized by rapid growth and aggressive progression. Once the disease reaches the extensive stage, patients typically require systemic anticancer therapy. Chemotherapy remains an important treatment option and may be used across both first-line treatment and subsequent therapy after disease relapse.
 
@@ -31,7 +30,7 @@ For patients with ES-SCLC who require multiple cycles of treatment, an important
 
 ## Trilaciclib Approved for a New Indication, Extending Bone Marrow Protection to Post-Relapse Chemotherapy
 
-On August 24, Simcere Pharmaceutical Group Limited announced that Cosela® (Trilaciclib Hydrochloride for Injection) had received approval from China’s National Medical Products Administration (NMPA) for a new indication.
+On August 24, Simcere Pharmaceutical Group Limited announced that Cosela® ([Trilaciclib Hydrochloride for Injection](https://dengyuemed.com/product/cosela-trilaciclib-es-sclc/)) had received approval from China’s National Medical Products Administration (NMPA) for a new indication.
 
 The new indication is for patients with relapsed extensive-stage small cell lung cancer, with administration prior to a Topotecan-containing regimen to reduce the incidence of chemotherapy-induced myelosuppression.
 
@@ -41,7 +40,7 @@ Previously, Trilaciclib had been approved for bone marrow protection prior to fi
 
 This means that bone marrow protection is no longer limited to a single stage of treatment but can extend across different treatment settings, from first-line therapy to chemotherapy after relapse.
 
-As innovative drugs from China continue to expand their clinical applications, treatment approaches addressing patients' needs throughout the treatment journey are also gaining broader attention in the global pharmaceutical market. As a Chinese pharmaceutical wholesaler participating in the global pharmaceutical supply chain, DengYueMed is also following this development.
+As [innovative drugs from China](https://dengyuemed.github.io/regulatory/2026/07/20/38-innovative-drugs-approved-in-china-first-half-2026/) continue to expand their clinical applications, treatment approaches addressing patients' needs throughout the treatment journey are also gaining broader attention in the global pharmaceutical market. As a Chinese pharmaceutical wholesaler participating in the global pharmaceutical supply chain, DengYueMed is also following this development.
 
 ![Simcere Cosela new indication announcement](/assets/images/2026-08-27-trilaciclib-cosela-02.png)
 
@@ -49,7 +48,7 @@ As innovative drugs from China continue to expand their clinical applications, t
 
 Patients with ES-SCLC generally require systemic treatment.
 
-Chemotherapy works by targeting rapidly dividing cells, but hematopoietic stem and progenitor cells in the bone marrow also have high proliferative activity and can therefore be affected by chemotherapy.
+[Chemotherapy](https://dengyuemed.com/blog/china-innovative-oncology-drugs/) works by targeting rapidly dividing cells, but hematopoietic stem and progenitor cells in the bone marrow also have high proliferative activity and can therefore be affected by chemotherapy.
 
 When bone marrow function is suppressed, patients may develop:
 
@@ -69,7 +68,7 @@ After first-line treatment for ES-SCLC, some patients may experience disease rel
 
 At this stage, patients have already undergone previous anticancer treatment, which may have affected their overall condition and bone marrow reserve. As they receive chemotherapy again, treatment tolerability becomes an even greater consideration.
 
-Topotecan is an important chemotherapy option for relapsed small cell lung cancer, but myelosuppression is also an important hematologic toxicity associated with the treatment.
+[Topotecan](https://dengyuemed.com/product/hycamtin-topotecan-hydrochloride-cancers/) is an important chemotherapy option for relapsed small cell lung cancer, but myelosuppression is also an important hematologic toxicity associated with the treatment.
 
 This raises a practical question for patients with relapsed disease:
 
@@ -81,7 +80,7 @@ The approval of Trilaciclib for relapsed ES-SCLC further extends bone marrow pro
 
 ## What Is Trilaciclib? A CDK4/6 Inhibitor Used Before Chemotherapy
 
-Trilaciclib is a cyclin-dependent kinase 4/6 (CDK4/6) inhibitor.
+[Trilaciclib](https://dengyuemed.com/product/cosela-trilaciclib-es-sclc/) is a cyclin-dependent kinase 4/6 (CDK4/6) inhibitor.
 
 Unlike CDK4/6 inhibitors primarily used to directly inhibit tumor cell proliferation, Trilaciclib has an important clinical role in ES-SCLC as a bone marrow protective therapy administered before chemotherapy.
 
@@ -113,7 +112,7 @@ For patients, the value of bone marrow protection goes beyond improving hematolo
 
 ## Conclusion: Cancer Control Is Only Part of the Treatment Journey
 
-The treatment of extensive-stage small cell lung cancer is a race against a rapidly progressing disease.
+The treatment of extensive-stage small cell [lung cancer](https://dengyuemed.com/product-category/lung-cancer/) is a race against a rapidly progressing disease.
 
 Chemotherapy needs to target rapidly proliferating tumor cells, but it can also affect the normal hematopoietic system. How to reduce treatment-related damage while controlling the disease is therefore an important consideration throughout the treatment journey.
 
@@ -123,6 +122,6 @@ From a single treatment stage to a more comprehensive chemotherapy course, bone 
 
 For the global pharmaceutical industry, the value of innovative drugs from China is also expanding beyond breakthroughs in individual drugs or indications toward addressing a broader range of clinical treatment needs.
 
-As a Chinese pharmaceutical wholesaler, DengYueMed actively participates in the global pharmaceutical supply chain, providing global pharmaceutical industry stakeholders with information on innovative oncology drugs, the Chinese pharmaceutical market, and related treatment developments.
+As a Chinese pharmaceutical wholesaler, DengYueMed actively participates in the global pharmaceutical supply chain, providing global pharmaceutical industry stakeholders with information on [innovative oncology drugs](https://dengyuemed.github.io/oncology/), the Chinese pharmaceutical market, and related treatment developments.
 
 ![Hong Kong DengYue Pharmaceutical](/assets/images/2026-08-27-trilaciclib-cosela-04.png)
