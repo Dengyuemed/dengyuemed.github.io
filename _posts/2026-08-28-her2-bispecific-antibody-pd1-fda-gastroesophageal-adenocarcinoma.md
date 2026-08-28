@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Chinese HER2 Bispecific Antibody + PD-1 Combination Approved in the U.S. for Gastroesophageal Adenocarcinoma, Advancing to the Forefront of Global Oncology"
-date: 2026-08-26
+date: 2026-08-28
 categories:
   - oncology
   - regulatory
@@ -17,8 +17,6 @@ tags:
 description: "The U.S. FDA approved zanidatamab with tislelizumab and chemotherapy as a first-line treatment option for adults with HER2-positive unresectable locally advanced or metastatic gastric, gastroesophageal junction, or esophageal adenocarcinoma."
 image: /assets/images/zanidatamab-tislelizumab-fda-approval.png
 ---
-
-# Chinese HER2 Bispecific Antibody + PD-1 Combination Approved in the U.S. for Gastroesophageal Adenocarcinoma, Advancing to the Forefront of Global Oncology
 
 For patients with advanced [gastroesophageal adenocarcinoma](https://dengyuemed.com/product-category/stomach-cancer/) (GEA), treatment is entering a new phase.
 
