@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Chinese HER2 Bispecific Antibody + PD-1 Combination Approved in the U.S. for Gastroesophageal Adenocarcinoma, Advancing to the Forefront of Global Oncology"
 date: 2026-08-28
 categories:
