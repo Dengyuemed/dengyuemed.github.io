@@ -62,7 +62,7 @@ However, having a BRCA alteration or HRD does not automatically mean that a pati
 
 PARP inhibitors have been incorporated into treatment strategies for several types of cancer, including certain cases of **ovarian cancer, breast cancer, pancreatic cancer, and prostate cancer**.
 
-![PARP inhibitors and cancer treatment](/assets/images/synthetic-lethality-parp-2.png)
+![PARP inhibitors and cancer treatment](/assets/images/synthetic-lethality-parp-2.jpg)
 
 Well-known PARP inhibitors include:
 
