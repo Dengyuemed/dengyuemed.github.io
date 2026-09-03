@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Global Accessibility of Spinal Muscular Atrophy (SMA) Treatment: Current Status Analysis"
-date: 2026-09-02
+date: 2026-09-03
 categories:
   - rare-diseases
 tags:
