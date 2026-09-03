@@ -15,7 +15,7 @@ tags:
   - Drug Accessibility
   - Pharmaceutical Supply Chain
 description: "An analysis of the global accessibility of spinal muscular atrophy treatments, including nusinersen, risdiplam, and gene therapy, focusing on treatment availability, affordability, healthcare infrastructure, reimbursement, and pharmaceutical supply chains."
-image: /assets/images/sma-overview.jpg
+image: /assets/images/sma-overview.png
 ---
 
 [Spinal muscular atrophy](https://dengyuemed.com/blog/advances-in-spinal-muscular-atrophy/) (SMA) is a rare genetic neuromuscular disorder characterized by the progressive loss of motor neurons, leading to muscle weakness and impaired motor function. For many years, SMA was regarded as a condition with limited therapeutic options. The development of disease-modifying therapies has significantly changed this landscape.
@@ -26,7 +26,7 @@ The availability of [innovative medicines](https://dengyuemed.github.io/regulato
 
 This article examines the current global accessibility of SMA treatment and the major factors influencing whether patients can actually receive these therapies.
 
-![Spinal muscular atrophy and healthcare concept](/assets/images/sma-overview.jpg)
+![Spinal muscular atrophy and healthcare concept](/assets/images/sma-overview.png)
 
 ---
 
@@ -54,7 +54,7 @@ The development of therapies targeting the molecular mechanisms of SMA has funda
 
 Several disease-modifying treatments are now available internationally.
 
-![Major SMA treatment options including nusinersen, risdiplam, and gene therapy](/assets/images/sma-treatments.jpg)
+![Major SMA treatment options including nusinersen, risdiplam, and gene therapy](/assets/images/sma-treatments.png)
 
 ### Nusinersen
 
@@ -286,7 +286,7 @@ A compliant supply chain may require:
 
 These capabilities can be particularly important for medicines used to treat small patient populations across geographically dispersed markets.
 
-![Pharmaceutical manufacturing and supply-chain infrastructure](/assets/images/sma-pharmaceutical-supply.jpg)
+![Pharmaceutical manufacturing and supply-chain infrastructure](/assets/images/sma-pharmaceutical-supply.png)
 
 ---
 
