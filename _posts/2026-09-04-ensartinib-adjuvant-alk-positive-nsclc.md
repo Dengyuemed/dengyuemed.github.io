@@ -14,8 +14,6 @@ description: "Ensartinib Approved for Adjuvant Treatment of ALK-Positive NSCLC, 
 image: /assets/images/ensartinib-nmpa-approval.png
 ---
 
-# Ensartinib Approved for Adjuvant Treatment of ALK-Positive NSCLC, Marking Another Step Forward for China's ALK Inhibitors
-
 For patients with early-stage ALK-positive [non-small cell lung cancer](https://dengyuemed.com/product-category/lung-cancer/) (NSCLC), surgery does not eliminate the risk of disease recurrence, particularly recurrence in the central nervous system (CNS). 
 
 Therefore, how to reduce the risk of recurrence through adjuvant therapy has remained an important focus in the treatment of ALK-positive lung cancer.
