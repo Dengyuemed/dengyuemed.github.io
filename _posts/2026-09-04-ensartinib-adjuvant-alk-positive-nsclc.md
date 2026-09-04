@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ensartinib Approved for Adjuvant Treatment of ALK-Positive NSCLC, Marking Another Step Forward for China's ALK Inhibitors"
-date: 2026-09-03
+date: 2026-09-04
 categories:
   - oncology
 tags:
