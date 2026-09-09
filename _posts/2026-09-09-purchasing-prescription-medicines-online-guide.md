@@ -3,8 +3,7 @@ layout: post
 title: "What Should You Pay Attention to When Purchasing Prescription Medicines? A Practical Guide You Should Read Before Buying Medicines Online"
 date: 2026-09-09
 categories:
-  - pharmacy
-  - prescription-medicines
+  - supply-chain
 tags:
   - Prescription Medicines
   - Online Pharmacy
@@ -12,8 +11,6 @@ tags:
   - Chinese Medicines
   - Specialty Medicines
 ---
-
-# What Should You Pay Attention to When Purchasing Prescription Medicines? A Practical Guide You Should Read Before Buying Medicines Online
 
 With the development of online healthcare and cross-border pharmaceutical services, more and more people are searching online for [**prescription medicines**](https://dengyuerx.com/product-category/prescription-medicines/), specialty medicines, and innovative medicines. For patients who require long-term treatment, online pharmacies can reduce the time needed to find medicines and provide more options for medicines that may not be readily available in their local area.
 
