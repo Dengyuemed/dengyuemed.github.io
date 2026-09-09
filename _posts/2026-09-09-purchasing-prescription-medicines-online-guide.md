@@ -10,6 +10,7 @@ tags:
   - DengYueRX
   - Chinese Medicines
   - Specialty Medicines
+image: /assets/images/online-pharmacy-delivery.jpg
 ---
 
 With the development of online healthcare and cross-border pharmaceutical services, more and more people are searching online for [**prescription medicines**](https://dengyuerx.com/product-category/prescription-medicines/), specialty medicines, and innovative medicines. For patients who require long-term treatment, online pharmacies can reduce the time needed to find medicines and provide more options for medicines that may not be readily available in their local area.
@@ -17,8 +18,6 @@ With the development of online healthcare and cross-border pharmaceutical servic
 However, prescription medicines are different from ordinary products. **When purchasing prescription medicines, it is important to pay attention not only to price and delivery speed, but also to prescription requirements, medicine sources, information verification, and transportation and storage conditions.**
 
 So, what should you pay attention to when purchasing prescription medicines online? And what steps should you follow if you choose [**DengYueRX**](https://dengyuerx.com/)?
-
-![Online pharmacy delivery](../assets/images/online-pharmacy-delivery.jpg)
 
 ## First, Confirm Your Medication Needs When Purchasing Prescription Medicines
 
@@ -50,7 +49,7 @@ Prescription information can help confirm:
 
 ● Whether the medicine selected by the user is consistent with the prescription information.
 
-![Upload prescription](../assets/images/dengyuerx-upload-prescription.webp)
+![Upload prescription](/assets/images/dengyuerx-upload-prescription.webp)
 
 **DengYueRX will review the prescription and order information submitted by the user and proceed with the subsequent purchasing process after the relevant information has been confirmed.**
 
@@ -70,7 +69,7 @@ It should be particularly noted that **uploading a prescription does not mean th
 
 If the medicine, specification, or quantity in the order differs from the prescription, confirmation should be obtained first rather than changing the medicine or dosage on your own.
 
-![Online prescription service](../assets/images/pharmacist-online-prescription.png)
+![Online prescription service](/assets/images/pharmacist-online-prescription.png)
 
 ## Do Not Only Compare Prices; Pay More Attention to the Source of the Medicine
 
