@@ -17,7 +17,7 @@ tags:
   - FGFR Inhibitor
 description: "China has approved tasurgratinib succinate tablets for unresectable biliary tract cancer with FGFR2 gene fusions or rearrangements, adding another FGFR-targeted option to China's precision oncology landscape."
 author: DengYueMed
-image: /images/tasurgratinib-nmpa-approval.jpg
+image: /assets/images/tasurgratinib-nmpa-approval.jpg
 ---
 
 # New Drug for Biliary Tract Cancer! A Japanese Innovation Enters China, Adding a New Variable to the Global FGFR Landscape
@@ -28,7 +28,7 @@ As more drugs targeting the FGFR pathway receive regulatory approvals, patients 
 
 On September 3, 2026, the official website of China’s NMPA showed that SciClone’s application for [tasurgratinib succinate tablets](https://dengyuemed.com/contact/) (Tasurgratinib), developed by Japan’s Eisai, had been approved in China. The drug is indicated for patients with unresectable biliary tract cancer who have failed prior chemotherapy and have been confirmed to have FGFR2 gene fusions or rearrangements.
 
-![China NMPA approval information for tasurgratinib](/images/tasurgratinib-nmpa-approval.png)
+![China NMPA approval information for tasurgratinib](/assets/images/tasurgratinib-nmpa-approval.png)
 
 ## Biliary Tract Cancer: A Significant Unmet Treatment Need Globally
 
@@ -70,7 +70,7 @@ Patient populations defined by clear biomarkers are also becoming important targ
 
 ## Tasurgratinib: The Globalization Path of a Japanese Innovation
 
-![Tasurgratinib Tasfygo](/images/tasurgratinib-tasfygo.jpeg)
+![Tasurgratinib Tasfygo](/assets/images/tasurgratinib-tasfygo.jpeg)
 
 [Tasurgratinib Tasfygo®](https://dengyuemed.com/pharmaceutical-wholesaler/) was developed by Japan’s Eisai.
 
@@ -128,7 +128,7 @@ Before tasurgratinib, three FGFR-related drugs had already been approved in Chin
 - [Tinengotinib](https://dengyuemed.com/news/tinengotinib-approved-for-cholangiocarcinoma/), independently developed by TransThera; and
 - [Fanregratinib](https://dengyuemed.com/product/atled-fanregratinib-icc/) from HUTCHMED.
 
-![Pemigatinib and FGFR-targeted therapy](/images/pemigatinib-fgfr.npg)
+![Pemigatinib and FGFR-targeted therapy](/assets/images/pemigatinib-fgfr.npg)
 
 Among them, tinengotinib is a China-developed multitarget small-molecule kinase inhibitor designed to target multiple tumor-related pathways, including FGFR/VEGFR, JAK and Aurora.
 
@@ -164,7 +164,7 @@ But it does highlight one important trend:
 
 As a [China pharmaceutical exporter](https://dengyuemed.com/), DengYueMed will continue to follow developments in China’s pharmaceutical market and global pharmaceutical collaboration, providing overseas industry partners with information on China’s pharmaceutical market, pharmaceutical supply chains, and [China pharmacy wholesale online](https://dengyuerx.com/) services, while supporting cross-border business connections and helping global partners better understand and connect with China’s pharmaceutical market.
 
-![DengYueMed pharmaceutical wholesale and global supply](/images/dengyuemed-pharmaceutical-wholesale.jpg)
+![DengYueMed pharmaceutical wholesale and global supply](/assets/images/dengyuemed-pharmaceutical-wholesale.jpg)
 
 ---
 
