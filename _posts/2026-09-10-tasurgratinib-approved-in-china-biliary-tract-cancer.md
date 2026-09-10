@@ -128,7 +128,7 @@ Before tasurgratinib, three FGFR-related drugs had already been approved in Chin
 - [Tinengotinib](https://dengyuemed.com/news/tinengotinib-approved-for-cholangiocarcinoma/), independently developed by TransThera; and
 - [Fanregratinib](https://dengyuemed.com/product/atled-fanregratinib-icc/) from HUTCHMED.
 
-![Pemigatinib and FGFR-targeted therapy](/assets/images/pemigatinib-fgfr.npg)
+![Pemigatinib and FGFR-targeted therapy](/assets/images/pemigatinib-fgfr.png)
 
 Among them, tinengotinib is a China-developed multitarget small-molecule kinase inhibitor designed to target multiple tumor-related pathways, including FGFR/VEGFR, JAK and Aurora.
 
