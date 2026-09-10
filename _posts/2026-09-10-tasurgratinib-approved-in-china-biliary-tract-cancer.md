@@ -17,7 +17,7 @@ tags:
   - FGFR Inhibitor
 description: "China has approved tasurgratinib succinate tablets for unresectable biliary tract cancer with FGFR2 gene fusions or rearrangements, adding another FGFR-targeted option to China's precision oncology landscape."
 author: DengYueMed
-image: /assets/images/tasurgratinib-nmpa-approval.jpg
+image: /assets/images/tasurgratinib-nmpa-approval.png
 ---
 
 # New Drug for Biliary Tract Cancer! A Japanese Innovation Enters China, Adding a New Variable to the Global FGFR Landscape
