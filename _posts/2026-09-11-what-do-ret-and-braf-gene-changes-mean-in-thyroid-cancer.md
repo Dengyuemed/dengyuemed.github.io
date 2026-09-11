@@ -13,15 +13,14 @@ tags:
   - anlotinib
 author: DengYueMed
 description: "An overview of RET, BRAF, NTRK and RAS genetic alterations in thyroid cancer, the role of molecular testing, and how precision medicine is influencing treatment decisions."
+image: /assets/images/thyroid-cancer-ret-braf-gene-changes.png
 ---
 
 # What Do RET and BRAF Gene Changes Mean in Thyroid Cancer?
 
-Thyroid cancer is one of the most common cancers affecting the endocrine system. Many patients have a favorable prognosis with appropriate treatment, particularly when the disease is diagnosed at an early stage. However, thyroid cancer is not a single, uniform disease. Different tumors can have different genetic characteristics, and these molecular differences may influence how the cancer develops and how it responds to treatment.
+Thyroid cancer is one of the most [common cancers](https://dengyuerx.com/product-category/prescription-medicines/malignant-tumour/) affecting the endocrine system. Many patients have a favorable prognosis with appropriate treatment, particularly when the disease is diagnosed at an early stage. However, thyroid cancer is not a single, uniform disease. Different tumors can have different genetic characteristics, and these molecular differences may influence how the cancer develops and how it responds to treatment.
 
 In recent years, genetic alterations involving BRAF, RET, NTRK, and RAS have attracted increasing attention in thyroid cancer research and clinical practice. Understanding these genetic changes can help patients better understand why molecular testing may be recommended and why precision medicine is becoming increasingly important in thyroid cancer care.
-
-![Thyroid gland anatomy and location](/images/thyroid-cancer-ret-braf-gene-changes.png)
 
 ## BRAF: An Important Genetic Alteration in Thyroid Cancer
 
@@ -67,11 +66,11 @@ For patients with potentially resectable disease, thyroid surgery is often an im
 
 For patients with advanced disease or radioactive iodine-refractory differentiated thyroid cancer (RAIR-DTC), treatment can be more challenging. In these situations, physicians may consider systemic therapies, including multi-target tyrosine kinase inhibitors (TKIs).
 
-China's pharmaceutical industry has also made significant progress in the development of innovative cancer medicines. One example is Anlotinib, a China-developed Class 1.1 innovative drug and multi-target tyrosine kinase inhibitor. It has been approved in China for the treatment of radioactive iodine-refractory differentiated thyroid cancer and other indications, providing an additional treatment option for appropriate patients.
+China's pharmaceutical industry has also made significant progress in the development of innovative cancer medicines. One example is , a China-developed Class 1.1 innovative drug and multi-target tyrosine kinase inhibitor. It has been approved in China for the treatment of radioactive iodine-refractory differentiated thyroid cancer and other indications, providing an additional treatment option for appropriate patients.
 
-![Anlotinib hydrochloride capsules](/images/anlotinib-thyroid-cancer.png)
+![ hydrochloride capsules](/assets/images/anlotinib-thyroid-cancer.png)
 
-It is important to understand that anlotinib is a multi-target TKI rather than a selective inhibitor designed specifically for BRAF, RET, or NTRK. Whether it is appropriate depends on the patient's specific disease characteristics and should be determined by a qualified healthcare professional.
+It is important to understand that [anlotinib](https://dengyuemed.com/product/fukewai-anlotinib-hydrochloride-nsclc/) is a multi-target TKI rather than a selective inhibitor designed specifically for BRAF, RET, or NTRK. Whether it is appropriate depends on the patient's specific disease characteristics and should be determined by a qualified healthcare professional.
 
 ## How Precision Medicine Is Changing Thyroid Cancer Care
 
@@ -83,7 +82,7 @@ For patients who require long-term treatment or access to specialty medicines, t
 
 ## DengYueRX: Supporting Access to Specialty and Innovative Medicines
 
-At DengYue Chinese Online Pharmacy, we focus on specialty medicines and innovative pharmaceutical products, providing professional pharmaceutical sourcing and supply services for customers with specific medication needs.
+At [DengYue Chinese Online Pharmacy](https://dengyuerx.com/), we focus on specialty medicines and innovative pharmaceutical products, providing professional pharmaceutical sourcing and supply services for customers with specific medication needs.
 
 For conditions such as thyroid cancer that may require long-term disease management, patients should first obtain a proper diagnosis and treatment recommendation from a qualified medical institution. Prescription medicines and targeted therapies should be selected according to an appropriate medical evaluation and prescription requirements.
 
