@@ -307,3 +307,5 @@ In terms of professional pharmaceutical services, [DengYueRX](https://dengyuerx.
 It is important to note that different medicines and services may be subject to regulatory requirements in China and in the destination country or region. Specific service availability, prescription requirements, and delivery conditions should be determined according to the actual services provided by the platform and applicable regulations.
 
 By combining online information services with offline pharmacy-related services, DengYueRX aims to help international users better understand medicines and [pharmacy services in China](https://dengyuerx.com/) while facilitating information connections between China's pharmaceutical resources and users around the world.
+
+![DengYue Pharmacy professional pharmaceutical services](/assets/images/2026-09-17-online-pharmacy-professional-services-02.webp)
