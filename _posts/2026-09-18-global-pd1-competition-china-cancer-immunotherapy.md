@@ -7,9 +7,7 @@ image: /assets/images/pd1-lineup-cadonilimab-ivonescimab.png
 description: "From toripalimab and tislelizumab's FDA approvals to ivonescimab's PD-1/VEGF bispecific breakthrough, China's PD-1 sector is moving from domestic scale to global clinical and regulatory leadership."
 ---
 
-![Cadonilimab and ivonescimab injection product lineup](/assets/images/pd1-lineup-cadonilimab-ivonescimab.png)
-
-Over the past decade, PD-1/PD-L1 immune checkpoint inhibitors have reshaped the landscape of cancer treatment. Keytruda and Opdivo were among the first to establish the commercial era of PD-1 therapies, expanding their indications across multiple cancer types, including lung cancer, melanoma, gastric cancer, and esophageal cancer. PD-1 has evolved from a promising new target into an important pillar of modern oncology.
+Over the past decade, [PD-1/PD-L1 immune checkpoint inhibitors](https://dengyuemed.com/blog/approved-immune-checkpoint-inhibitors-in-china/) have reshaped the landscape of cancer treatment. Keytruda and Opdivo were among the first to establish the commercial era of PD-1 therapies, expanding their indications across multiple cancer types, including lung cancer, melanoma, gastric cancer, and esophageal cancer. PD-1 has evolved from a promising new target into an important pillar of modern oncology.
 
 Today, the competitive landscape of this field is changing. The PD-1 market, once dominated primarily by multinational pharmaceutical companies from the United States, Japan, and other major markets, is now seeing an increasing number of innovative products developed by Chinese companies.
 
@@ -53,7 +51,7 @@ In 2023, the FDA approved toripalimab (Tuoyi) in combination with gemcitabine an
 
 In 2024, the FDA also approved tislelizumab (Tevimbra) for patients with unresectable or metastatic esophageal squamous cell carcinoma following prior systemic therapy. Its supporting RATIONALE-302 study included patients from multiple countries and regions across Asia, Europe, and the United States, reflecting the trend of Chinese-developed products entering global regulatory systems through international multicenter clinical research.
 
-By 2026, the U.S. indications for tislelizumab continued to expand. On August 25, the FDA approved tislelizumab in combination with zanidatamab and chemotherapy for the first-line treatment of HER2-positive gastric cancer, gastroesophageal junction cancer, or esophageal adenocarcinoma.
+By 2026, the U.S. indications for tislelizumab continued to expand. On August 25, the FDA approved tislelizumab in combination with zanidatamab and [chemotherapy](https://dengyuemed.com/qa/what-are-the-most-common-chemotherapy-drugs/) for the first-line treatment of HER2-positive gastric cancer, gastroesophageal junction cancer, or esophageal adenocarcinoma.
 
 The significance of these developments is not simply that another Chinese PD-1 product has entered the international market. They show that Chinese innovative pharmaceutical companies are gradually moving from Chinese clinical development, Chinese regulatory approval, and the Chinese market toward global clinical development, global regulatory review, and global commercialization.
 
@@ -88,7 +86,7 @@ These findings indicate that competition among Chinese companies in the PD-1 fie
 
 ![Clinical team reviewing patient data on screen](/assets/images/oncology-clinical-team-review.jpeg)
 
-In the past, discussions of Chinese innovative medicines in international markets often focused first on cost advantages. There is evidence supporting this perspective. Studies have shown that spending on PD-1/PD-L1 drugs launched in both China and the United States is generally much lower in China than in the United States. Another study comparing domestically developed and imported anticancer medicines in China also found that monthly treatment prices for targeted anticancer drugs were generally lower for Chinese products than for imported products.
+In the past, discussions of Chinese innovative medicines in international markets often focused first on cost advantages. There is evidence supporting this perspective. Studies have shown that spending on PD-1/PD-L1 drugs launched in both China and the United States is generally much lower in China than in the United States. Another study comparing domestically developed and imported anticancer medicines in China also found that monthly treatment prices for [targeted anticancer drugs](https://dengyuemed.com/qa/what-are-the-most-common-targeted-cancer-drugs/) were generally lower for Chinese products than for imported products.
 
 However, the development of PD-1 therapies shows that Chinese companies are building a more complex set of competitive capabilities.
 
@@ -106,4 +104,4 @@ From products such as toripalimab and tislelizumab receiving international regul
 
 More importantly, the next question is whether Chinese companies can continue to develop new therapeutic mechanisms, conduct higher-quality global clinical research, and translate these innovations into global products that can serve patients across different countries. As competition among PD-1 monoclonal antibodies becomes increasingly mature, bispecific antibodies, combination immunotherapies, and other emerging cancer immunotherapy mechanisms are becoming important areas of the next stage of development.
 
-As a China pharmaceutical wholesaler, DengYueMed continues to follow developments in Chinese pharmaceutical innovation and global pharmaceutical markets. Leveraging our China online pharmacy platform, we also focus on connecting pharmaceutical resources in China with international users and partners, while observing new opportunities for industry collaboration and supply-chain development as innovative medicines expand globally.
+As a China pharmaceutical wholesaler, DengYueMed continues to follow developments in Chinese pharmaceutical innovation and global pharmaceutical markets. Leveraging our [China online pharmacy](https://dengyuerx.com/) platform, we also focus on connecting pharmaceutical resources in China with international users and partners, while observing new opportunities for industry collaboration and supply-chain development as innovative medicines expand globally.
