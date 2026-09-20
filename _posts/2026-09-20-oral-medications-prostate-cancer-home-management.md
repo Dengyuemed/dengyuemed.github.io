@@ -7,13 +7,11 @@ image: /assets/images/prostate-gland-anatomy-diagram.png
 description: "Oral androgen receptor pathway inhibitors, abiraterone, and oral GnRH antagonists let eligible prostate cancer patients manage part of their treatment at home, supported by regular PSA, testosterone, and safety monitoring."
 ---
 
-![Diagram of the prostate gland and prostate cancer location](/assets/images/prostate-gland-anatomy-diagram.png)
-
-As prostate cancer treatment continues to evolve, some patients no longer need to rely entirely on treatment administered in a hospital or clinic. For eligible patients, certain prostate cancer therapies can be taken orally, allowing them to follow their physician's treatment plan at home while undergoing regular follow-up visits, laboratory tests, and, when necessary, imaging examinations to evaluate treatment response.
+As [prostate cancer treatment](https://dengyuerx.com/product-category/prescription-medicines/prostate-cancer/) continues to evolve, some patients no longer need to rely entirely on treatment administered in a hospital or clinic. For eligible patients, certain prostate cancer therapies can be taken orally, allowing them to follow their physician's treatment plan at home while undergoing regular follow-up visits, laboratory tests, and, when necessary, imaging examinations to evaluate treatment response.
 
 This approach can generally be understood as home-based management. However, it is important to clarify that home-based management does not mean that patients should purchase medications on their own, adjust doses independently, or manage their cancer treatment without medical supervision. Rather, it means that certain parts of treatment can be carried out at home while regular medical follow-up and monitoring help maintain treatment continuity and safety.
 
-For patients who require long-term treatment, understanding oral anticancer medications, taking them correctly at home, and coordinating treatment with PSA, testosterone, and other medical tests are all important aspects of long-term disease management. Patients, families, and qualified professional procurement customers who need further information about medicines, specifications, or supply options can also contact DengYueRX for relevant pharmaceutical information and supply consultation.
+For patients who require long-term treatment, understanding oral anticancer medications, taking them correctly at home, and coordinating treatment with PSA, testosterone, and other medical tests are all important aspects of long-term disease management. Patients, families, and qualified professional procurement customers who need further information about medicines, specifications, or supply options can also contact [DengYueRX](https://dengyuerx.com/) for relevant pharmaceutical information and supply consultation.
 
 ## Why Can Some Prostate Cancer Treatments Be Administered at Home?
 
@@ -44,7 +42,7 @@ It is important to note that the indications, dosage, administration, and combin
 
 **2. Abiraterone**
 
-Abiraterone is a medicine that inhibits androgen synthesis and can reduce androgen production in the body.
+[Abiraterone](https://dengyuerx.com/product/akeega-niraparib-tosylate-and-abiraterone-acetate-tablets/) is a medicine that inhibits androgen synthesis and can reduce androgen production in the body.
 
 Unlike some oral medicines that may be used alone within a particular treatment regimen, abiraterone is generally administered in combination with a low-dose corticosteroid. Therefore, patients taking it at home need to follow the prescribed combination treatment carefully rather than focusing only on the abiraterone itself.
 
