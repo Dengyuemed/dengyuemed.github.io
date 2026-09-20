@@ -7,11 +7,9 @@ image: /assets/images/csco-2026-mizar-003-presentation.jpeg
 description: "Nolgileucel (GC101), a China-originated TIL therapy, has entered the 2026 CSCO melanoma guideline recommendations, backed by the MIZAR-003 Phase II study in anti-PD-1-resistant advanced melanoma."
 ---
 
-![MIZAR-003 clinical trial data presented at the 2026 CSCO Annual Meeting in Jinan, China](/assets/images/csco-2026-mizar-003-presentation.jpeg)
+On September 17, 2026, the 29th Annual Meeting of the Chinese Society of [Clinical Oncology](https://dengyuemed.com/blog/modern-cancer-treatment-in-china/) (CSCO) opened in Jinan, China. During the meeting, the CSCO Guidelines for the Diagnosis and [Treatment of Melanoma](https://dengyuemed.com/product-category/melanoma/) (2026 Edition) introduced important updates, with tumor-infiltrating lymphocyte (TIL) cell therapy included in the relevant guideline content. Nolgileucel (GC101), a China-originated TIL therapy, has also entered the relevant treatment recommendation framework.
 
-On September 17, 2026, the 29th Annual Meeting of the Chinese Society of Clinical Oncology (CSCO) opened in Jinan, China. During the meeting, the CSCO Guidelines for the Diagnosis and Treatment of Melanoma (2026 Edition) introduced important updates, with tumor-infiltrating lymphocyte (TIL) cell therapy included in the relevant guideline content. Nolgileucel (GC101), a China-originated TIL therapy, has also entered the relevant treatment recommendation framework.
-
-This development is supported by the MIZAR-003 pivotal Phase II randomized controlled study. The study evaluated patients with advanced melanoma who had failed anti-PD-1 antibody treatment, and GC101 demonstrated encouraging results in endpoints including progression-free survival (PFS) and objective response rate (ORR).
+This development is supported by the MIZAR-003 pivotal Phase II randomized controlled study. The study evaluated patients with advanced melanoma who had failed [anti-PD-1 antibody treatment](https://dengyuemed.com/blog/approved-immune-checkpoint-inhibitors-in-china/), and GC101 demonstrated encouraging results in endpoints including progression-free survival (PFS) and objective response rate (ORR).
 
 Following the release of key data at the 2026 ASCO Annual Meeting, Nolgileucel has subsequently been included in the CSCO guideline, further advancing the clinical evidence development of China-originated TIL therapy.
 
@@ -35,7 +33,7 @@ This approach is primarily intended to address the treatment burden associated w
 
 ![Pigmented skin lesion consistent with melanoma](/assets/images/melanoma-skin-lesion.png)
 
-Anti-PD-1 antibodies and other immune checkpoint inhibitors have become important treatment options for advanced melanoma, but not all patients achieve durable benefit. Some patients may have primary resistance, while others may experience disease progression during treatment.
+Anti-PD-1 antibodies and other [immune checkpoint inhibitors](https://dengyuemed.com/blog/approved-immune-checkpoint-inhibitors-in-china/) have become important treatment options for [advanced melanoma](https://dengyuemed.github.io/oncology/2026/05/22/april-2026-cancer-treatment-breakthroughs-immunotherapy-precision-targeting/), but not all patients achieve durable benefit. Some patients may have primary resistance, while others may experience disease progression during treatment.
 
 At the same time, the distribution of melanoma subtypes among Chinese patients differs to some extent from that observed in Western populations. In Chinese clinical studies, acral and mucosal melanoma account for a relatively high proportion of cases, and these subtypes have different disease characteristics and responses to certain immunotherapies compared with cutaneous melanoma, which represents a larger proportion of cases in Western populations.
 
@@ -45,7 +43,7 @@ MIZAR-003 was designed around this clinical setting. The study enrolled patients
 
 ## What Are the Key Findings From the MIZAR-003 Study?
 
-MIZAR-003 was a multicenter, randomized, open-label Phase II clinical study conducted at 25 research centers in China to evaluate GC101 TIL therapy in patients with advanced melanoma who had developed resistance to anti-PD-1 antibody treatment. The study compared GC101 TIL therapy with investigator's choice of chemotherapy.
+MIZAR-003 was a multicenter, randomized, open-label Phase II clinical study conducted at 25 research centers in China to evaluate GC101 TIL therapy in patients with advanced melanoma who had developed resistance to anti-PD-1 antibody treatment. The study compared GC101 TIL therapy with investigator's choice of [chemotherapy](https://dengyuemed.com/qa/what-are-the-most-common-chemotherapy-drugs/).
 
 Key results presented at the 2026 ASCO Annual Meeting showed that the median progression-free survival (mPFS) was 4.3 months in the GC101 group, compared with 1.6 months in the investigator's choice chemotherapy group.
 
@@ -62,7 +60,7 @@ In terms of tumor response, the objective response rate (ORR) was 42.0% in the G
 | ORR | 42.0% | 6.1% |
 | OS | Not yet mature | — |
 
-These findings make MIZAR-003 one of the randomized controlled studies receiving attention in the field of TIL therapy for advanced melanoma and provide randomized controlled evidence for TIL treatment following failure of anti-PD-1 antibody therapy.
+These findings make MIZAR-003 one of the randomized controlled studies receiving attention in the field of TIL therapy for advanced [melanoma](https://dengyuerx.com/product/aibite-famitinib-malate-capsules-cervical-cancer/) and provide randomized controlled evidence for TIL treatment following failure of anti-PD-1 antibody therapy.
 
 ## How Does Nolgileucel Differ From Conventional TIL Therapy?
 
@@ -96,7 +94,7 @@ However, broader clinical application will require continued observation of long
 
 At the same time, TIL therapy involves multiple processes, including tumor tissue collection, individualized cell manufacturing, quality control, and treatment process management. Further improving manufacturing consistency, shortening production cycles, and reducing treatment complexity will also be important directions for the future industrial development of TIL therapy.
 
-For China's innovative medicine and cell therapy sectors, the progress of GC101 also provides a useful window into the evolving landscape: China-originated cell therapies are gradually moving from early-stage technical validation toward evidence-based evaluation centered on randomized controlled studies and clinical guidelines.
+For [China's innovative medicine](https://dengyuemed.com/blog/china-innovative-oncology-drugs/) and cell therapy sectors, the progress of GC101 also provides a useful window into the evolving landscape: China-originated cell therapies are gradually moving from early-stage technical validation toward evidence-based evaluation centered on randomized controlled studies and clinical guidelines.
 
 ## Conclusion
 
@@ -110,4 +108,4 @@ From key findings presented at ASCO to its subsequent progress in the CSCO guide
 
 As additional follow-up data and clinical research findings become available, the potential role of TIL therapy in advanced melanoma and other solid tumors will remain an area of continued interest.
 
-As a China pharmaceutical exporter, DengYueMed follows developments in Chinese innovative medicines, TIL therapy, and the Chinese Pharmacy sector, connecting pharmaceutical resources in China with global markets through professional, compliant supply-chain support.
+As a [China pharmaceutical exporter](https://dengyuemed.com/), DengYueMed follows developments in Chinese innovative medicines, TIL therapy, and the [Chinese Pharmacy](https://dengyuerx.com/) sector, connecting pharmaceutical resources in China with global markets through professional, compliant supply-chain support.
