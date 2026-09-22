@@ -7,13 +7,11 @@ image: /assets/images/nf1-clinical-signs-overview.webp
 description: "China's NMPA approved Luvometinib (FCN-159, Fumaining) for adult patients with symptomatic, unresectable NF1-associated plexiform neurofibroma, extending its use beyond children and adolescents."
 ---
 
-![Overview of clinical signs of neurofibromatosis type 1, including Lisch nodules, neurofibromas, skin fold freckling, and cafe-au-lait spots](/assets/images/nf1-clinical-signs-overview.webp)
-
 Neurofibromatosis type 1 (NF1) is a genetic disorder that can manifest from childhood, and some patients develop plexiform neurofibroma (PN).
 
 PN can grow diffusely along nerves and their branches and may involve important surrounding structures, making complete surgical removal difficult in some cases. For adults with symptomatic, unresectable NF1-associated PN (NF1-PN), pain, changes in appearance, and functional impairment can have a lasting impact on quality of life, making long-term disease control an important clinical need.
 
-In recent years, as understanding of the molecular mechanisms underlying NF1 has deepened, targeted therapies such as MEK inhibitors have emerged as an important treatment approach. In September 2026, China approved a new indication for the treatment of adult patients with NF1-PN, further advancing the field.
+In recent years, as understanding of the molecular mechanisms underlying NF1 has deepened, [targeted therapies](https://dengyuemed.com/qa/what-are-the-most-common-targeted-cancer-drugs/) such as MEK inhibitors have emerged as an important treatment approach. In September 2026, China approved a new indication for the treatment of adult patients with NF1-PN, further advancing the field.
 
 DengYueMed reviews the latest regulatory information and clinical research to provide an overview of this treatment development and the drug behind it.
 
@@ -48,7 +46,7 @@ This is why recent NF1-PN research has increasingly focused on the relationship 
 
 NF1-associated disease is closely linked to abnormal activation of the RAS/MAPK signaling pathway, while MEK1/2 is an important component of this signaling network.
 
-Therefore, inhibiting MEK1/2 can interfere with abnormal signaling at the molecular level and suppress related cellular proliferation. Based on this mechanism, MEK inhibitors have gradually become an important area of targeted treatment research in NF1-PN.
+Therefore, inhibiting MEK1/2 can interfere with abnormal signaling at the molecular level and suppress related cellular proliferation. Based on this mechanism, MEK inhibitors have gradually become an important area of [targeted treatment](https://dengyuemed.github.io/oncology/2026/07/08/oral-targeted-therapy-china/) research in NF1-PN.
 
 Several MEK inhibitors have now reached clinical development and regulatory milestones in the NF1-PN field. For example, selumetinib and mirdametinib have been used for the treatment of NF1-associated PN, while other MEK inhibitors continue to be investigated in both adult and pediatric patients.
 
@@ -124,6 +122,6 @@ As research into NF1 and the RAS/MAPK signaling pathway continues to advance, tr
 
 ![Hong Kong Dengyue Pharmaceutical Co., Limited company banner](/assets/images/hongkong-dengyue-pharmaceutical-banner.png)
 
-As a China pharmaceutical exporter with a focus on the Chinese Pharmacy landscape, DengYueMed continues to follow developments in drug research, regulatory approvals, and clinical studies in areas including oncology and rare diseases. Through professional pharmaceutical information and supply-chain services, DengYueMed helps global partners better understand China's pharmaceutical market and developments in innovative medicines. Going forward, DengYueMed will continue to monitor advances in rare diseases such as NF1-PN and opportunities for international collaboration in the pharmaceutical field.
+As a [China pharmaceutical exporter](https://dengyuemed.com/) with a focus on the Chinese Pharmacy landscape, DengYueMed continues to follow developments in drug research, regulatory approvals, and clinical studies in areas including oncology and rare diseases. Through professional pharmaceutical information and supply-chain services, DengYueMed helps global partners better understand China's pharmaceutical market and developments in innovative medicines. Going forward, DengYueMed will continue to monitor advances in rare diseases such as NF1-PN and opportunities for international collaboration in the pharmaceutical field.
 
-Learn more about rare disease medicines: [Rare Disease Drugs in China: 6 Innovative Medicines Approved in H1 2026 and Their Indications](#)
+Learn more about rare disease medicines: [[Rare Disease Drugs in China: 6 Innovative Medicines Approved in H1 2026 and Their Indications](https://dengyuemed.com/blog/rare-disease-drugs-in-china/)](#)
