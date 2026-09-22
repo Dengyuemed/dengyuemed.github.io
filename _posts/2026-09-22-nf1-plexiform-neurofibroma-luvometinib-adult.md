@@ -2,7 +2,7 @@
 layout: post
 title: "NF1-Associated Plexiform Neurofibroma: Treatment Needs and the Latest Advances in Adult Patients"
 date: 2026-09-22
-categories: [rare-disease, regulatory]
+categories: [rare-diseases, regulatory]
 image: /assets/images/nf1-clinical-signs-overview.webp
 description: "China's NMPA approved Luvometinib (FCN-159, Fumaining) for adult patients with symptomatic, unresectable NF1-associated plexiform neurofibroma, extending its use beyond children and adolescents."
 ---
