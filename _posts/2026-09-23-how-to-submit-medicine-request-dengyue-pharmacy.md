@@ -2,18 +2,16 @@
 layout: post
 title: "How to Submit a Medicine Request? A Guide to DengYue Pharmacy's Online Medicine Request Service"
 date: 2026-09-23
-categories: [guides]
+categories: [supply-chain]
 image: /assets/images/pharmacist-online-price-comparison.jpg
 description: "A step-by-step look at how DengYue Pharmacy's online medicine request service helps patients, pharmacies, hospitals, and distributors confirm products and coordinate cross-border pharmaceutical supply."
 ---
 
-![Pharmacist comparing medicine pricing and stock across suppliers on a computer screen](/assets/images/pharmacist-online-price-comparison.jpg)
-
 As the internet and digital services continue to become an increasingly important part of healthcare and the pharmaceutical industry, the way people access medicine information and find pharmaceutical supply channels is also changing. In the past, when patients, pharmacies, hospitals, or other healthcare institutions needed to source a specific medicine, they often had to rely on multiple rounds of offline inquiries and communication. For requests involving imported medicines, specialty medicines, specific pharmaceutical products, or cross-border procurement, the process may also involve product specifications, supply availability, purchase quantities, destination countries, and transportation requirements.
 
-The development of online pharmacies has created a more convenient digital entry point for accessing medicine information and communicating pharmaceutical supply needs. For people who already know the name of the medicine they are looking for but are unsure where to source it, submitting a clear medicine request can be an important starting point for further communication.
+The development of [online pharmacies](https://dengyuerx.com/) has created a more convenient digital entry point for accessing medicine information and communicating pharmaceutical supply needs. For people who already know the name of the medicine they are looking for but are unsure where to source it, submitting a clear medicine request can be an important starting point for further communication.
 
-DengYueRX provides medicine information support, pharmaceutical sourcing coordination, and related pharmaceutical supply chain services for customers worldwide. Customers can submit information about the medicine they are looking for online, allowing the DengYue Pharmacy team to further confirm the product, supply requirements, and related service needs based on the specific request.
+[DengYueRX](https://dengyuerx.com/) provides medicine information support, pharmaceutical sourcing coordination, and related pharmaceutical supply chain services for customers worldwide. Customers can submit information about the medicine they are looking for online, allowing the DengYue Pharmacy team to further confirm the product, supply requirements, and related service needs based on the specific request.
 
 ## What Is a Medicine Request?
 
@@ -123,7 +121,7 @@ For individual customers, pharmacies, hospitals, distributors, and other qualifi
 
 As digital healthcare continues to develop, access to medicines is gradually evolving from traditional offline inquiries toward more convenient online information services and pharmaceutical supply chain connections. For people looking for specific medicines, clearly communicating their requirements is an important first step toward obtaining relevant supply information.
 
-DengYue Online Pharmacy provides online medicine request services that support customers from medicine information confirmation and pharmaceutical sourcing coordination to relevant cross-border logistics services. Whether the request comes from an individual customer or involves bulk procurement by hospitals, pharmacies, distributors, or other qualified procurement institutions, the process can begin with clearly communicating the required medicine information.
+[DengYue Online Pharmacy](https://dengyuerx.com/) provides online medicine request services that support customers from medicine information confirmation and pharmaceutical sourcing coordination to relevant cross-border logistics services. Whether the request comes from an individual customer or involves bulk procurement by hospitals, pharmacies, distributors, or other qualified procurement institutions, the process can begin with clearly communicating the required medicine information.
 
 If you are looking for a specific medicine, you can prepare the medicine name, strength, dosage form, quantity, and destination, and submit your request. The DengYue Pharmacy team can then further review the information and communicate with you regarding the product and relevant supply services based on your specific requirements.
 
