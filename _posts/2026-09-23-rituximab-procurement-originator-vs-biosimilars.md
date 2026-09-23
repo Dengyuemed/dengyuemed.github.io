@@ -7,9 +7,7 @@ image: /assets/images/rituximab-injection-innovent-lilly.png
 description: "As Rituximab biosimilars expand the supply landscape alongside originator products, hospitals, pharmacies, and distributors can weigh brand requirements against budget when planning procurement."
 ---
 
-![Rituximab Injection box, 10ml:100mg, from Innovent and Lilly](/assets/images/rituximab-injection-innovent-lilly.png)
-
-In the field of hematologic oncology, Rituximab is a classic targeted biologic with a long history of clinical use. Since its introduction, Rituximab has been widely used in the treatment of various B-cell-related hematologic malignancies and has become an important component of treatment regimens for certain types of non-Hodgkin lymphoma, follicular lymphoma, diffuse large B-cell lymphoma, and chronic lymphocytic leukemia.
+In the field of hematologic oncology, [Rituximab](https://dengyuerx.com/product/halpryza-rituximab-injection-lymphoma/) is a classic targeted biologic with a long history of clinical use. Since its introduction, Rituximab has been widely used in the treatment of various B-cell-related hematologic malignancies and has become an important component of treatment regimens for certain types of non-Hodgkin lymphoma, follicular lymphoma, diffuse large B-cell lymphoma, and chronic lymphocytic leukemia.
 
 As biosimilars have increasingly entered different markets, the supply of Rituximab is no longer limited to a single originator product. For hospitals, pharmacies, pharmaceutical distributors, and other qualified procurement organizations, originator Rituximab and different biosimilar options may be considered according to product requirements, procurement budgets, supply conditions, and the regulatory requirements of the destination market, provided that applicable regulations and clinical-use requirements are met.
 
@@ -67,7 +65,7 @@ Providing this information can help determine suitable products and supply solut
 
 For international procurement customers, finding Rituximab involves more than comparing prices. It is also important to determine whether a product meets the buyer's procurement requirements and the regulatory requirements of the destination market.
 
-DengYueRX provides product information and procurement consultation for Rituximab. Customers can provide the brand name or generic name, specific product specifications, required quantity, and destination. The supply team can then further assess available products and supply conditions based on the procurement request.
+[DengYueRX](https://dengyuerx.com/) provides product information and procurement consultation for Rituximab. Customers can provide the brand name or generic name, specific product specifications, required quantity, and destination. The supply team can then further assess available products and supply conditions based on the procurement request.
 
 For customers requiring an originator product, inquiries can be made based on the specified brand. For customers looking to manage procurement budgets while meeting applicable regulatory and procurement requirements, available biosimilar options can also be explored.
 
@@ -79,4 +77,4 @@ As a classic targeted biologic in hematologic oncology, Rituximab has developed 
 
 For hospitals, pharmacies, distributors, and other qualified procurement organizations, originator products and biosimilars should not be viewed simply in terms of one being "better" than the other. Product selection should instead take into account the specific product, clinical requirements, local regulations, supply conditions, and procurement budget.
 
-DengYue can provide qualified customers with Rituximab product information, originator and biosimilar supply consultation, and cross-border pharmaceutical procurement coordination. Customers can simply provide the product name, specifications, required quantity, and destination to learn more about available supply options that may meet their requirements.
+DengYue can provide qualified customers with [Rituximab product information, originator and biosimilar supply consultation, and cross-border pharmaceutical procurement coordination](https://dengyuerx.com/contact/). Customers can simply provide the product name, specifications, required quantity, and destination to learn more about available supply options that may meet their requirements.
