@@ -124,4 +124,4 @@ As research into NF1 and the RAS/MAPK signaling pathway continues to advance, tr
 
 As a [China pharmaceutical exporter](https://dengyuemed.com/) with a focus on the Chinese Pharmacy landscape, DengYueMed continues to follow developments in drug research, regulatory approvals, and clinical studies in areas including oncology and rare diseases. Through professional pharmaceutical information and supply-chain services, DengYueMed helps global partners better understand China's pharmaceutical market and developments in innovative medicines. Going forward, DengYueMed will continue to monitor advances in rare diseases such as NF1-PN and opportunities for international collaboration in the pharmaceutical field.
 
-Learn more about rare disease medicines: [[Rare Disease Drugs in China: 6 Innovative Medicines Approved in H1 2026 and Their Indications](https://dengyuemed.com/blog/rare-disease-drugs-in-china/)](#)
+Learn more about rare disease medicines: [[Rare Disease Drugs in China: 6 Innovative Medicines Approved in H1 2026 and Their Indications](https://dengyuemed.com/blog/rare-disease-drugs-in-china/)]
