@@ -7,25 +7,23 @@ image: /assets/images/ruxolitinib-cream-box-waiting-room.png
 description: "China's NMPA approved Ruxolitinib Phosphate Cream (Lumirix) for mild-to-moderate atopic dermatitis in children aged 2 and older and adults, expanding on its earlier vitiligo indication."
 ---
 
-![Box of Ruxolitinib Phosphate Cream (Lumirix) on a table in a clinic waiting area](/assets/images/ruxolitinib-cream-box-waiting-room.png)
-
 For patients living with atopic dermatitis (AD), the burden of the disease goes beyond redness, dry skin, and rashes. Persistent itching, disrupted sleep, and recurrent skin lesions can all have a lasting impact on quality of life.
 
 For children and adolescents in particular, AD can also affect sleep, learning, and daily activities.
 
-Therefore, finding ways to control inflammation while relieving itching and providing patients with more treatment options has remained an important focus in AD treatment.
+Therefore, finding ways to control inflammation while relieving itching and providing patients with more treatment options has remained an important focus in [AD treatment](https://dengyuemed.com/product-category/atopic-dermatitis/).
 
 On September 3, 2026, according to the latest announcement from China's National Medical Products Administration (NMPA), Ruxolitinib Phosphate Cream received approval for a new indication in China for the topical short-term and non-continuous chronic treatment of mild-to-moderate atopic dermatitis in children aged 2 years and older and adults.
 
 The expanded indication provides Chinese patients with AD with another topical treatment option and has brought renewed attention to this innovative topical JAK inhibitor.
 
-As a pharmaceutical distributor following developments in innovative medicines from China, DengYueMed also continues to monitor new treatment advances in this field and related developments in global markets.
+As a [pharmaceutical distributor](https://dengyuemed.com/) following developments in innovative medicines from China, DengYueMed also continues to monitor new treatment advances in this field and related developments in global markets.
 
 ## Atopic Dermatitis: More Than "Itchy Skin," but a Chronic and Relapsing Disease in Need of New Treatment Options
 
 ![Close-up of a hand with atopic dermatitis flare-up applying cream](/assets/images/atopic-dermatitis-hand-applying-cream.jpg)
 
-Atopic dermatitis (AD) is a chronic, recurrent, inflammatory skin disease commonly characterized by dry skin, redness, eczematous lesions, and significant itching.
+[Atopic dermatitis](https://dengyuerx.com/medical-insights/what-triggers-atopic-dermatitis/) (AD) is a chronic, recurrent, inflammatory skin disease commonly characterized by dry skin, redness, eczematous lesions, and significant itching.
 
 Among these symptoms, persistent itching is often one of the most difficult symptoms for patients to tolerate, particularly when it becomes worse at night and affects sleep and daily life. Repeated scratching can also damage the skin barrier, further aggravating inflammation and skin lesions and creating a cycle of "itching–scratching–skin damage."
 
@@ -63,7 +61,7 @@ Atopic dermatitis often begins during childhood and may persist into adolescence
 
 For children, treatment needs to address not only skin lesions but also the potential impact of the disease on sleep, daily activities, and family life.
 
-Therefore, the expanded indication covering children aged 2 years and older and adults provides a new topical treatment option for patients with mild-to-moderate AD across different age groups.
+Therefore, the expanded indication covering children aged 2 years and older and adults provides a new topical treatment option for patients with [mild-to-moderate AD](https://dengyuemed.com/blog/is-atopic-dermatitis-a-skin-condition/) across different age groups.
 
 It is important to note that approved indications, age ranges, and conditions of use may vary between countries and regions. International patients should refer to the information approved by the relevant regulatory authorities in their respective countries or regions and consult healthcare professionals.
 
@@ -126,4 +124,4 @@ Ruxolitinib Phosphate Cream has been approved in China for the treatment of mild
 
 This development also reflects the continued expansion of treatment approaches for dermatological diseases as innovative medicines advance. For patients worldwide and the international pharmaceutical industry, new developments in China's dermatology treatment landscape are also worth watching.
 
-Leveraging our Chinese Pharmacy network and pharmaceutical distribution capabilities, DengYueMed continues to follow developments in innovative medicines from China and global treatment advances, supporting pharmaceutical access and connections between China and international markets.
+Leveraging our [Chinese Pharmacy](https://dengyuerx.com/) network and pharmaceutical distribution capabilities, DengYueMed continues to follow developments in innovative medicines from China and global treatment advances, supporting pharmaceutical access and connections between China and international markets.
