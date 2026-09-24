@@ -7,9 +7,7 @@ image: /assets/images/leukemia-types-diagram.png
 description: "AML, ALL, CML, and CLL differ in disease progression and treatment needs, which is why DengYue RX sources leukemia medicines by specific product rather than the general term \"leukemia medicine.\""
 ---
 
-![Illustration comparing acute lymphoblastic, acute myeloid, chronic lymphocytic, and chronic myeloid leukemia cells](/assets/images/leukemia-types-diagram.png)
-
-Leukemia is a group of malignant blood disorders that affect the blood-forming tissues and is not a single disease. Among the different types of leukemia, acute leukemia and chronic leukemia are two major classifications. Although both affect the hematopoietic system, they differ in disease progression, the maturity of abnormal blood cells, clinical manifestations, and treatment approaches.
+[Leukemia](https://dengyuerx.com/product-category/prescription-medicines/hematologic-malignancies/) is a group of malignant blood disorders that affect the blood-forming tissues and is not a single disease. Among the different types of leukemia, acute leukemia and chronic leukemia are two major classifications. Although both affect the hematopoietic system, they differ in disease progression, the maturity of abnormal blood cells, clinical manifestations, and treatment approaches.
 
 For patients, families, healthcare providers, pharmacies, and pharmaceutical procurement organizations, understanding these differences can provide a clearer picture of the disease and the medicines that may be involved in its management.
 
@@ -92,7 +90,7 @@ For certain products, additional information such as the manufacturer, batch inf
 
 ![Illustration of the global medicine supply chain: manufacturing, packaging, air and sea logistics](/assets/images/global-medicine-supply-chain-icon.png)
 
-For healthcare institutions, pharmacies, pharmaceutical distributors, and other qualified procurement customers looking for leukemia-related medicines, DengYue RX provides pharmaceutical information and supply-chain support from a sourcing perspective.
+For healthcare institutions, pharmacies, pharmaceutical distributors, and other qualified procurement customers looking for leukemia-related medicines, [DengYue RX](https://dengyuerx.com/) provides pharmaceutical information and supply-chain support from a sourcing perspective.
 
 Customers can provide basic product information such as the INN, brand name, dosage form, strength, pack size, required quantity, and destination market.
 
@@ -134,6 +132,6 @@ Acute and chronic leukemia are different categories of blood cancer with distinc
 
 From a pharmaceutical supply perspective, sourcing leukemia medicines also requires attention to product identity, source, supply channels, regulatory requirements, documentation, storage conditions, and transportation. These considerations can become particularly important when dealing with prescription medicines, biologics, oncology products, and medicines requiring controlled-temperature transportation.
 
-DengYue RX supports healthcare institutions, pharmacies, distributors, and qualified procurement customers with pharmaceutical information inquiries, sourcing connections, and cross-border medicine supply-chain services.
+DengYue RX supports healthcare institutions, pharmacies, distributors, and qualified procurement customers with [pharmaceutical information inquiries](https://dengyuerx.com/contact/), sourcing connections, and cross-border medicine supply-chain services.
 
 If you are looking for a specific leukemia medicine, you can provide the medicine name, dosage form, strength, required quantity, and destination to begin a supply inquiry.
