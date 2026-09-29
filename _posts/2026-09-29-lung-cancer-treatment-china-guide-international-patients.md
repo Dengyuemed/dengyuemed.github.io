@@ -7,13 +7,11 @@ description: "A reference guide to lung cancer treatment costs, hospitals, and t
 image: /assets/images/lung-cancer-patient-coughing.jpg
 ---
 
-![Man coughing with an illustrated overlay highlighting the lungs](/assets/images/lung-cancer-patient-coughing.jpg)
-
 Lung cancer is one of the most common cancers and a leading cause of cancer-related deaths worldwide. China records more than 1 million new lung cancer cases each year, and this large patient population has contributed to the continued development of clinical experience in lung cancer diagnosis and treatment.
 
 For international patients, China's appeal goes beyond medical technology. From video-assisted thoracoscopic surgery (VATS) to targeted therapy and immunotherapy, China offers a wide range of modern lung cancer treatment options, while the costs of some treatments and medicines can be 60%–85% lower than in the United States and other markets.
 
-This has made China a medical destination of interest for international cancer patients. In this guide, DengYueMed covers the key aspects of seeking lung cancer treatment in China, including treatment costs, hospitals, treatment options, and considerations for international patients.
+This has made China a medical destination of interest for international cancer patients. In this guide, DengYueMed covers the key aspects of seeking [lung cancer treatment in China](https://dengyuemed.com/news/innovative-lung-cancer-drug-asandeutertinib/), including treatment costs, hospitals, treatment options, and considerations for international patients.
 
 ## How Much Does Lung Cancer Treatment Cost in China Compared With the United States?
 
@@ -49,7 +47,7 @@ For some patients with early-stage non-small cell lung cancer (NSCLC) who are no
 
 **Targeted Therapy**
 
-China has access to many major lung cancer drugs, including targeted therapies used in the treatment of lung cancer. Domestic generic medicines and national drug price negotiations have also contributed to lower treatment costs for some therapies. Commonly used targeted medicines include osimertinib, gefitinib, erlotinib, afatinib, alectinib, and lorlatinib.
+China has access to many major [lung cancer drugs](https://dengyuemed.com/blog/complete-lung-cancer-drugs-list-2026-update/), including targeted therapies used in the treatment of lung cancer. Domestic generic medicines and national drug price negotiations have also contributed to lower treatment costs for some therapies. Commonly used targeted medicines include osimertinib, gefitinib, erlotinib, afatinib, alectinib, and lorlatinib.
 
 **Immunotherapy**
 
@@ -63,7 +61,7 @@ For eligible patients, clinical trials may provide additional treatment options.
 
 ## Leading Hospitals for Lung Cancer Treatment in China
 
-China has a wide range of lung cancer medical resources across different cities. International patients can explore hospitals based on their medical condition and treatment needs.
+China has a wide range of [lung cancer medical resources](https://dengyuemed.com/blog/complete-lung-cancer-drugs-list-2026-update/) across different cities. International patients can explore hospitals based on their medical condition and treatment needs.
 
 **Cancer Hospital, Chinese Academy of Medical Sciences — Beijing**
 
@@ -91,7 +89,7 @@ Foresea Yihe International Medical Center is an international medical service pl
 
 ## How Should International Patients Prepare for Lung Cancer Treatment in China?
 
-For international patients considering lung cancer diagnosis or treatment in China, it is important not to make decisions about a hospital or treatment plan based solely on information found online. From preparing medical records and communicating with hospitals to arranging travel and follow-up care, several aspects need to be planned in advance.
+For international patients considering [lung cancer diagnosis or treatment in China](https://dengyuemed.com/blog/lung-cancer-treatment-in-2026/), it is important not to make decisions about a hospital or treatment plan based solely on information found online. From preparing medical records and communicating with hospitals to arranging travel and follow-up care, several aspects need to be planned in advance.
 
 First, patients should organize complete medical records, including pathology reports, imaging examinations, previous treatment records, and genetic testing results. These materials can help Chinese medical institutions better understand the patient's condition.
 
