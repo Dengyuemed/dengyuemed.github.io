@@ -7,11 +7,9 @@ image: /assets/images/voxzogo-box-refrigerator.webp
 description: "China's NMPA approved vosoritide (Voxzogo) on September 18, 2026, the first targeted therapy in China for children with achondroplasia, backed by Phase III and long-term extension data."
 ---
 
-![Voxzogo (vosoritide) 1.2 mg boxes stored in a refrigerator](/assets/images/voxzogo-box-refrigerator.webp)
-
 On September 18, 2026, the official website of China's National Medical Products Administration (NMPA) announced that vosoritide injection (Voxzogo®) had been approved for marketing in China for the treatment of children with achondroplasia (ACH).
 
-As an innovative therapy developed based on the underlying disease mechanism of achondroplasia, the approval of vosoritide in China is of significant importance.
+As an [innovative therapy](https://dengyuemed.com/news/fda-five-innovative-therapies-in-september-2025/) developed based on the underlying disease mechanism of achondroplasia, the approval of vosoritide in China is of significant importance.
 
 Publicly available information shows that this is the first targeted therapy approved in China for achondroplasia, providing a new treatment option for Chinese children with ACH, a population that has long lacked disease-modifying treatment options.
 
@@ -83,7 +81,7 @@ Nevertheless, for pediatric patients with rare diseases, continued long-term fol
 
 ## Chinese Children with ACH Gain a New Treatment Option
 
-The global incidence of achondroplasia is estimated at approximately 1 in 22,000 births, with publicly available data estimating that around 250,000 people worldwide are living with the condition. ACH has also been included in China's Second National Rare Disease List.
+The global incidence of achondroplasia is estimated at approximately 1 in 22,000 births, with publicly available data estimating that around 250,000 people worldwide are living with the condition. ACH has also been included in China's Second National [Rare Disease](https://dengyuemed.com/blog/rare-disease-drugs-in-china/) List.
 
 Because of the relatively small patient population, limited disease awareness, and the historical lack of disease-modifying therapies, ACH has long represented an area of significant unmet medical need.
 
@@ -101,8 +99,8 @@ As rare disease diagnosis and treatment systems continue to improve and China's 
 
 The approval of vosoritide in China also highlights the important role of the Chinese rare disease market in providing access to innovative therapies from around the world. As more innovative treatments enter China, demand is also growing for services related to pharmaceutical registration, supply chain management, cross-border distribution, and international pharmaceutical market information exchange.
 
-As a China pharmaceutical exporter, DengYueMed continues to follow developments in Chinese innovative medicines, rare disease therapies, and specialty medicines, while working to connect pharmaceutical resources in China with global markets.
+As a [China pharmaceutical exporter](https://dengyuemed.com/), DengYueMed continues to follow developments in Chinese innovative medicines, rare disease therapies, and specialty medicines, while working to connect pharmaceutical resources in China with global markets.
 
-For international pharmaceutical industry stakeholders, the approval of innovative medicines in China not only means more treatment options for patients in the country, but also reflects increasingly close connections between pharmaceutical resources in China and the global healthcare market.
+For international pharmaceutical industry stakeholders, the approval of innovative medicines in China not only means more treatment options for patients in the country, but also reflects increasingly close connections between [pharmaceutical resources](https://dengyuemed.github.io/) in China and the global healthcare market.
 
 From R&D and regulatory approval to global supply chain collaboration, China's pharmaceutical industry is becoming increasingly integrated into the global pharmaceutical ecosystem. The approval of vosoritide in China is one example of this broader trend in the field of rare diseases.
