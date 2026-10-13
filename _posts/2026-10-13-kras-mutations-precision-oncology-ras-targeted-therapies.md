@@ -7,9 +7,7 @@ image: /assets/images/kras-gtp-gdp-signaling-cycle.png
 description: "How KRAS mutation subtypes shape targeted treatment, from approved KRAS G12C inhibitors in China to investigational RAS(ON) inhibitors such as daraxonrasib."
 ---
 
-![KRAS cycling between active GTP-bound and inactive GDP-bound states](/assets/images/kras-gtp-gdp-signaling-cycle.png)
-
-One of the key goals of precision oncology is to identify more targeted treatment strategies based on the molecular characteristics of a tumor. Among the genes involved in tumor development and progression, KRAS has long been a major focus of cancer research and targeted drug development. The KRAS gene encodes a protein involved in regulating cell growth, differentiation, and survival. When specific KRAS mutations occur, related signaling pathways may become abnormally activated, promoting tumor cell proliferation and survival.
+One of the key goals of [precision oncology](https://dengyuerx.com/product-category/prescription-medicines/oncology/) is to identify more targeted treatment strategies based on the molecular characteristics of a tumor. Among the genes involved in tumor development and progression, KRAS has long been a major focus of cancer research and targeted drug development. The KRAS gene encodes a protein involved in regulating cell growth, differentiation, and survival. When specific KRAS mutations occur, related signaling pathways may become abnormally activated, promoting tumor cell proliferation and survival.
 
 Historically, developing drugs that directly target KRAS has been challenging because of the protein's structural characteristics and biological functions. As researchers have gained a deeper understanding of different KRAS mutation subtypes and drug-design technologies have advanced, KRAS-targeted therapy has made significant progress. KRAS G12C inhibitors have provided new treatment options for certain patients, while next-generation inhibitors targeting other KRAS mutation subtypes and active-state RAS proteins are expanding the scope of research in precision oncology.
 
@@ -55,8 +53,8 @@ Among the KRAS G12C inhibitors approved in China, fulzerasib and garsorasib are 
 
 | Generic name | Drug class | Relevant information |
 |---|---|---|
-| Fulzerasib | KRAS G12C inhibitor | Approved in China for adult patients with advanced KRAS G12C-mutated non-small cell lung cancer who meet the applicable indication criteria. |
-| Garsorasib | KRAS G12C inhibitor | Approved in China for adult patients with advanced KRAS G12C-mutated non-small cell lung cancer who meet the applicable indication criteria. |
+| [Fulzerasib](https://dengyuerx.com/product/dupert-fulzerasib-tablets-lung-cancer/) | KRAS G12C inhibitor | Approved in China for adult patients with advanced KRAS G12C-mutated non-small cell lung cancer who meet the applicable indication criteria. |
+| [Garsorasib](https://dengyuerx.com/product/anfangning-garsorasib-tablets-lung-cancer/) | KRAS G12C inhibitor | Approved in China for adult patients with advanced KRAS G12C-mutated non-small cell lung cancer who meet the applicable indication criteria. |
 
 The table lists representative medicines only. Their brand names, approval dates, indications, and prescribing requirements should be verified against the latest announcements from China's National Medical Products Administration (NMPA) and the official prescribing information before publication. Particular care should be taken to ensure that each generic name is correctly matched with its corresponding brand name and registration details.
 
