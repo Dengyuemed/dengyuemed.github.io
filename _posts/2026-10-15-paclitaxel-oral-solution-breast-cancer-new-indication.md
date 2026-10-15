@@ -7,9 +7,7 @@ image: /assets/images/paclitaxel-oral-solution-liporaxel.png
 description: "China's NMPA approved paclitaxel oral solution on October 8, 2026 for recurrent or metastatic HER2-negative breast cancer, supported by the OPTIMAL Phase III non-inferiority trial."
 ---
 
-![Paclitaxel Oral Solution (Liporaxel) 30ml:300mg carton and bottle](/assets/images/paclitaxel-oral-solution-liporaxel.png)
-
-In October 2026, a new development in the formulation of anticancer medicines emerged in China. On October 8, paclitaxel oral solution was approved by the National Medical Products Administration (NMPA) for an additional indication: the treatment of recurrent or metastatic HER2-negative breast cancer. The medicine had previously been approved in 2024 for certain patients with advanced gastric cancer and was included in China's National Reimbursement Drug List in 2025. The latest approval has once again brought this oral anticancer formulation into the spotlight.
+In October 2026, a new development in the formulation of anticancer medicines emerged in China. On October 8, [paclitaxel oral solution](https://dengyuerx.com/product/liporaxel-paclitaxel-solution-breast-cancer/) was approved by the National Medical Products Administration (NMPA) for an additional indication: the treatment of recurrent or metastatic HER2-negative breast cancer. The medicine had previously been approved in 2024 for certain patients with advanced [gastric cancer](https://dengyuerx.com/product-category/prescription-medicines/gastric-cancer/) and was included in China's National Reimbursement Drug List in 2025. The latest approval has once again brought this oral anticancer formulation into the spotlight.
 
 Compared with conventional intravenous paclitaxel, what is the most significant change introduced by the oral formulation? What do clinical studies tell us about its efficacy and safety?
 
@@ -23,7 +21,7 @@ However, oral administration does not mean that patients can take the medicine i
 
 ## 2. New Breast Cancer Indication: What Evidence Does Clinical Research Provide?
 
-The newly approved indication covers recurrent or metastatic HER2-negative breast cancer. HER2-negative means that the tumor test results do not meet the criteria for HER2-positive disease. However, this classification does not mean that all patients have the same tumor characteristics or require the same treatment. Hormone receptor status, previous treatment history, and the patient's overall condition can all influence treatment decisions.
+The newly approved indication covers recurrent or metastatic HER2-negative [breast cancer](https://dengyuerx.com/product-category/prescription-medicines/breast-cancer/). HER2-negative means that the tumor test results do not meet the criteria for HER2-positive disease. However, this classification does not mean that all patients have the same tumor characteristics or require the same treatment. Hormone receptor status, previous treatment history, and the patient's overall condition can all influence treatment decisions.
 
 One important source of evidence supporting this approval is the OPTIMAL international, multicenter Phase III clinical trial. The study enrolled 549 patients with recurrent or metastatic HER2-negative breast cancer and compared the efficacy and safety of paclitaxel oral solution with those of weekly intravenous paclitaxel.
 
