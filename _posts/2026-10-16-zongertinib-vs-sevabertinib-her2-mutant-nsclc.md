@@ -7,13 +7,11 @@ image: /assets/images/her2-mutant-nsclc-lung-overview.jpg
 description: "A side-by-side look at zongertinib (Hernexeos) and sevabertinib (Hyrnuo), the first two oral TKIs approved for HER2-mutant NSCLC, covering mechanism, clinical data, approvals, and safety."
 ---
 
-![Doctor reviewing lung and molecular data on a digital interface](/assets/images/her2-mutant-nsclc-lung-overview.jpg)
-
-Beginning in 2025, zongertinib became the first oral targeted therapy approved worldwide for HER2-mutant NSCLC. Sevabertinib subsequently received approval as the second oral TKI for this disease.
+Beginning in 2025, zongertinib became the first oral targeted therapy approved worldwide for [HER2-mutant NSCLC](https://dengyuemed.com/product-category/lung-cancer/). Sevabertinib subsequently received approval as the second oral TKI for this disease.
 
 The emergence of these two major new drugs has introduced additional oral targeted treatment options for advanced HER2-mutant NSCLC and marked further progress in this field.
 
-What are the key characteristics of each drug? How do they differ in mechanism of action, clinical research, and potential clinical applications? Hong Kong DengYue Medicine takes a closer look.
+What are the key characteristics of each drug? How do they differ in mechanism of action, clinical research, and potential clinical applications? [Hong Kong DengYue Medicine](https://dengyuemed.github.io/) takes a closer look.
 
 ## 1. Zongertinib: Pioneering a New Era of Oral Targeted Therapy for HER2-Mutant Lung Cancer
 
@@ -43,7 +41,7 @@ Safety monitoring for zongertinib should focus on hepatotoxicity, interstitial l
 
 During treatment, appropriate monitoring should be conducted in accordance with the prescribing information, with treatment benefits and risks assessed in light of the patient's underlying conditions and concomitant medications.
 
-## 2. Sevabertinib: The World's Second Oral HER2-Targeted TKI for Lung Cancer
+## 2. Sevabertinib: The World's Second Oral HER2-Targeted TKI for 
 
 ![Hyrnuo (sevabertinib) 10 mg tablets packaging on display](/assets/images/hyrnuo-sevabertinib-tablets.jpeg)
 
@@ -108,7 +106,7 @@ Dosing frequency and food requirements may affect daily medication routines. How
 
 ## 4. How Should the Two Drugs Be Considered in Different Clinical Scenarios?
 
-The availability of these two drugs has expanded treatment options for HER2-mutant lung cancer. In practice, treatment decisions should account for molecular diagnosis, treatment stage, patient-specific risks, and local drug availability.
+The availability of these two drugs has expanded treatment options for HER2-mutant [lung cancer](https://dengyuerx.com/product-category/prescription-medicines/lung-cancer/). In practice, treatment decisions should account for molecular diagnosis, treatment stage, patient-specific risks, and local drug availability.
 
 **4.1 Brain Metastases and Convenience of Administration**
 
@@ -136,4 +134,4 @@ The emergence of zongertinib and sevabertinib has opened up new possibilities fo
 
 Differences in efficacy and safety across patient populations, long-term benefits, resistance mechanisms, and subsequent treatment strategies remain areas for further investigation.
 
-As a global pharmaceutical distributor, DengYueMed will continue to follow developments in Chinese pharmaceutical innovation, pharmaceutical internationalization, and global pharmaceutical supply chains. Through professional industry updates and trend analysis, DengYueMed aims to help global partners better understand the development of China's pharmaceutical industry, as well as the opportunities and challenges involved in bringing innovative medicines to broader markets.
+As a [global pharmaceutical distributor](https://dengyuemed.com/), DengYueMed will continue to follow developments in Chinese pharmaceutical innovation, pharmaceutical internationalization, and global pharmaceutical supply chains. Through professional industry updates and trend analysis, DengYueMed aims to help global partners better understand the development of China's pharmaceutical industry, as well as the opportunities and challenges involved in bringing innovative medicines to broader markets.
