@@ -7,9 +7,7 @@ image: /assets/images/besremi-prefilled-syringe-box.jpg
 description: "China's NMPA approved ropeginterferon alfa-2b (Besremi) on October 15, 2026 for adults with essential thrombocythemia and an inadequate response to hydroxyurea, supported by the Phase III SURPASS-ET trial."
 ---
 
-![Besremi (ropeginterferon alfa-2b) 500 mcg/mL prefilled syringe and carton](/assets/images/besremi-prefilled-syringe-box.jpg)
-
-On October 15, 2026, the official website of China's National Medical Products Administration (NMPA) indicated that ropeginterferon alfa-2b (Besremi®), developed by PharmaEssentia Corp., had received approval for a new indication in mainland China. The approval covers adult patients with essential thrombocythemia (ET) who have had an inadequate response to hydroxyurea, offering a new treatment option for this rare hematologic disease.
+On October 15, 2026, the official website of China's National Medical Products Administration (NMPA) indicated that ropeginterferon alfa-2b ([Besremi®](https://dengyuemed.com/product/ropeginterferon-alfa-2b-soft-tissue-sarcoma/)), developed by PharmaEssentia Corp., had received approval for a new indication in mainland China. The approval covers adult patients with essential thrombocythemia (ET) who have had an inadequate response to hydroxyurea, offering a new treatment option for this rare hematologic disease.
 
 Ropeginterferon alfa-2b is a long-acting interferon therapy that was first approved in the European Union in February 2019 for the treatment of polycythemia vera (PV).
 
@@ -21,7 +19,7 @@ In this article, Hong Kong DengYueMed explores the characteristics of ET, the ch
 
 ![Illustration of red blood cells, white blood cells, and platelets in a blood vessel](/assets/images/blood-vessel-platelets-illustration.jpeg)
 
-Essential thrombocythemia (ET) is a rare disease and a chronic myeloproliferative neoplasm (MPN) characterized by the persistent overproduction of platelets in the bone marrow.
+Essential thrombocythemia (ET) is a [rare disease](https://dengyuemed.github.io/rare-diseases/) and a chronic myeloproliferative neoplasm (MPN) characterized by the persistent overproduction of platelets in the bone marrow.
 
 ET is commonly associated with mutations in genes such as JAK2, CALR, and MPL. These abnormalities can affect the proliferation and differentiation of hematopoietic cells, leading to persistently elevated platelet counts.
 
@@ -51,7 +49,7 @@ Interferon-based therapies have therefore attracted attention. Beyond their effe
 
 ![Ropeginterferon alfa-2b injection carton (Besremi, PharmaEssentia) sold in China](/assets/images/ropeginterferon-alfa-2b-china-carton.jpg)
 
-Ropeginterferon alfa-2b (Besremi®) is a long-acting, pegylated interferon alfa-2b formulation designed to provide a prolonged duration of action.
+[Ropeginterferon alfa-2b](https://dengyuemed.com/product/ropeginterferon-alfa-2b-soft-tissue-sarcoma/) (Besremi®) is a long-acting, pegylated interferon alfa-2b formulation designed to provide a prolonged duration of action.
 
 The drug first gained recognition in the treatment of polycythemia vera (PV) and has subsequently been investigated in other myeloproliferative neoplasms.
 
@@ -63,7 +61,7 @@ Because both diseases involve abnormal hematopoietic clones, the potential appli
 
 In 2026, ropeginterferon alfa-2b made further progress in ET. PharmaEssentia had previously announced approval of the ET indication in Taiwan, followed by regulatory developments for the indication in the United States. On October 15, PharmaEssentia also announced that the drug had received approval in mainland China for adults with ET who had an inadequate response to hydroxyurea.
 
-This development expands the drug's indication profile beyond PV and reflects ongoing efforts in hematology to extend the clinical application of long-acting interferon therapy to additional MPN patient populations.
+This development expands the drug's indication profile beyond PV and reflects ongoing efforts in [hematology](https://dengyuemed.com/product-category/hematology/) to extend the clinical application of long-acting interferon therapy to additional MPN patient populations.
 
 ## The Phase III SURPASS-ET Trial: What Do the Clinical Data Show?
 
@@ -116,4 +114,4 @@ The approval of ropeginterferon alfa-2b in mainland China for adults with ET who
 
 As additional long-term follow-up and real-world evidence become available, the long-term efficacy, safety profile, and appropriate patient population for ropeginterferon alfa-2b in ET will remain important areas of interest.
 
-As a pharmaceutical wholesaler in China, DengYueMed continues to follow developments in Chinese pharmaceutical innovation and international pharmaceutical distribution. By connecting pharmaceutical resources in China with global markets, DengYueMed supports international pharmaceutical collaboration and the development of global pharmaceutical supply chains.
+As a [pharmaceutical wholesaler in China](https://dengyuemed.com/), DengYueMed continues to follow developments in Chinese pharmaceutical innovation and international pharmaceutical distribution. By connecting pharmaceutical resources in China with global markets, DengYueMed supports international pharmaceutical collaboration and the development of global pharmaceutical supply chains.
