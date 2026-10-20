@@ -3,15 +3,13 @@ layout: post
 title: "Understanding the Global Pharmaceutical Supply Chain: How Medicines Cross Markets and Borders"
 date: 2026-10-20
 categories: [supply-chain]
-image: /assets/images/pharmaceutical-warehouse-medicine-cartons.png
+image: /assets/images/pharmaceutical-warehouse-medicine-cartons.jpg
 description: "How procurement coordination, storage, quality management, and cross-border logistics move medicines between markets, and how to prepare a clear medicine inquiry with DengYue Pharmacy."
 ---
 
-![Staff handling cartons of medicines in a pharmaceutical warehouse](/assets/images/pharmaceutical-warehouse-medicine-cartons.png)
-
 Access to medicines is an important issue in global healthcare. For patients, pharmacies, and healthcare institutions, obtaining the medicines they need depends not only on whether a product has been approved for marketing, but also on supply channels, procurement efficiency, cross-border transportation, quality management, and local regulatory requirements.
 
-The global pharmaceutical supply chain connects medicine suppliers with demand across different countries and regions. Through procurement coordination, warehousing, quality control, and international logistics, it supports the compliant distribution of medicines. DengYue RX focuses on connecting pharmaceutical supply resources with practical procurement needs, helping eligible buyers better understand international pharmaceutical procurement processes through clear product information and supply coordination services.
+The global pharmaceutical supply chain connects medicine suppliers with demand across different countries and regions. Through procurement coordination, warehousing, quality control, and international logistics, it supports the compliant distribution of medicines. [DengYue RX](https://dengyuerx.com/) focuses on connecting pharmaceutical supply resources with practical procurement needs, helping eligible buyers better understand international pharmaceutical procurement processes through clear product information and supply coordination services.
 
 ## 1. What Is the Global Pharmaceutical Supply Chain?
 
@@ -34,7 +32,7 @@ The global pharmaceutical supply chain does more than transport medicines. By ex
 
 ## 3. Why Does Cross-Border Pharmaceutical Procurement Require Professional Coordination?
 
-![Pharmaceutical procurement analysis with charts, medicines, and a laptop](/assets/images/pharmaceutical-supply-chain-data-analysis.png)
+![Pharmaceutical procurement analysis with charts, medicines, and a laptop](/assets/images/pharmaceutical-supply-chain-data-analysis.jpg)
 
 Cross-border pharmaceutical procurement involves more than locating a medicine and arranging transportation. Buyers need to verify product information, assess the suitability of supply sources, and ensure that the procurement process complies with the laws and regulations of the relevant countries and regions.
 
@@ -73,7 +71,7 @@ Start by identifying the required medicine name, brand, dosage form, strength, p
 
 Visit [dengyuerx.com](https://dengyuerx.com) to explore medicine information and available inquiry channels. DengYue Pharmacy will assist with relevant procurement and supply discussions based on specific requirements and applicable regulations.
 
-Please note that submitting a medicine inquiry does not guarantee product availability, nor does it mean that the medicine can necessarily be imported or delivered to the destination. Specific arrangements must be confirmed based on product availability, buyer qualifications, and the regulatory requirements of the destination market.
+Please note that [submitting a medicine inquiry](https://dengyuerx.com/contact/) does not guarantee product availability, nor does it mean that the medicine can necessarily be imported or delivered to the destination. Specific arrangements must be confirmed based on product availability, buyer qualifications, and the regulatory requirements of the destination market.
 
 ## Conclusion
 
