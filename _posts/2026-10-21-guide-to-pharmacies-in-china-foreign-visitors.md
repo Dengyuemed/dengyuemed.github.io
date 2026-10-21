@@ -7,8 +7,6 @@ image: /assets/images/china-pharmacy-shelves-traditional-medicines.jpeg
 description: "A practical overview of pharmacy types in China, the medicines and healthcare supplies foreign visitors can find, and what to check before buying or carrying medicines abroad."
 ---
 
-![Pharmacist checking traditional Chinese patent medicines on pharmacy shelves in China](/assets/images/china-pharmacy-shelves-traditional-medicines.jpeg)
-
 For foreign tourists, international customers, and people visiting or living in China, understanding Chinese pharmacies is an important step toward navigating local healthcare services. Whether you are looking for cold medicines, fever reducers, or everyday healthcare products such as adhesive bandages and thermometers, Chinese pharmacies offer a wide range of options.
 
 Chinese pharmacies carry a variety of products, including conventional Western medicines, traditional Chinese patent medicines, certain medications for chronic conditions, and healthcare supplies. The product range, business scope, and services vary from one pharmacy to another, and some medicines can only be purchased with a prescription.
@@ -33,13 +31,13 @@ Medicines available in Chinese pharmacies can be understood by their intended us
 
 **1. Fever Reducers and Pain Relievers**
 
-Common active ingredients include paracetamol (acetaminophen) and ibuprofen, which are used to reduce fever and relieve certain types of pain. Products may differ in dosage forms, strengths, and usage restrictions.
+Common active ingredients include [paracetamol](https://dengyuerx.com/?post_type=product&s=Paracetamol) ([acetaminophen](https://dengyuerx.com/?post_type=product&s=Acetaminophen)) and [ibuprofen](https://dengyuerx.com/?post_type=product&s=Ibuprofen), which are used to reduce fever and relieve certain types of pain. Products may differ in dosage forms, strengths, and usage restrictions.
 
 When purchasing these medicines, check whether combination cold remedies contain the same active ingredients to avoid duplicate dosing. Always follow the product instructions or professional advice.
 
 **2. Cold Medicines and Antihistamines**
 
-Chinese pharmacies may offer medicines intended to relieve cold symptoms such as nasal congestion, a runny nose, and coughing. Common antihistamine ingredients include loratadine and cetirizine, which are often used to relieve certain symptoms of allergic rhinitis and other allergic reactions.
+Chinese pharmacies may offer medicines intended to relieve cold symptoms such as nasal congestion, a runny nose, and coughing. Common antihistamine ingredients include [loratadine](https://dengyuerx.com/product/peimin-desloratadine-oral-solution-allergic-rhinitis/) and cetirizine, which are often used to relieve certain symptoms of allergic rhinitis and other allergic reactions.
 
 Different medicines have different approved uses, and some may cause drowsiness. If symptoms are severe or you experience difficulty breathing, seek medical attention promptly.
 
