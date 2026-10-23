@@ -7,11 +7,9 @@ image: /assets/images/pharmacy-cold-remedies-thermometer.jpg
 description: "How international visitors can find 24-hour pharmacies in China, what medicines and supplies are commonly available at night, and when to seek emergency care instead."
 ---
 
-![Cold remedies, thermometer, face mask, and tissues on a pharmacy counter](/assets/images/pharmacy-cold-remedies-thermometer.jpg)
-
 For international visitors traveling, working, or staying in China temporarily, experiencing a cold, headache, allergy, or stomach discomfort at night can be stressful. Is there a pharmacy still open nearby? How can you find the right medicine if you are unfamiliar with Chinese?
 
-Some pharmacies in China operate 24 hours a day, and certain online pharmacy platforms offer medicine delivery services. However, availability depends on the city, pharmacy opening hours, medicine stock, and delivery coverage. Understanding nighttime pharmacy services in China can help tourists manage common health needs more confidently during their trip.
+Some pharmacies in China operate 24 hours a day, and certain [online pharmacy platforms](https://dengyuerx.com/) offer medicine delivery services. However, availability depends on the city, pharmacy opening hours, medicine stock, and delivery coverage. Understanding nighttime pharmacy services in China can help tourists manage common health needs more confidently during their trip.
 
 ## Are There 24-Hour Pharmacies in China?
 
@@ -29,7 +27,7 @@ If you need medicine at night, consider the following options:
 
 ## What Medicines and Healthcare Products Can You Find at Night?
 
-Pharmacies in China generally offer a variety of medicines and everyday healthcare products. However, the actual selection depends on each pharmacy's business scope and stock.
+[Pharmacies in China](https://dengyuemed.com/) generally offer a variety of medicines and everyday healthcare products. However, the actual selection depends on each pharmacy's business scope and stock.
 
 | Common need | Medicines or products that may be available |
 |---|---|
@@ -88,7 +86,7 @@ If you plan to carry medicines across international borders, check the relevant 
 
 In addition to everyday medicine purchases, international visitors, long-term residents, and organizations with procurement needs may wish to learn more about the availability of specific medicines.
 
-DengYue Pharmacy provides services related to pharmaceutical import, export, wholesale, and cross-border pharmaceutical supply chains. Customers with medicine procurement requirements can inquire about relevant supply arrangements by providing information such as the generic or brand name, strength, dosage form, packaging, quantity, and destination.
+DengYue Pharmacy provides services related to pharmaceutical import, export, wholesale, and [cross-border pharmaceutical supply chains](https://dengyuemed.github.io/supply-chain/). Customers with medicine procurement requirements can inquire about relevant supply arrangements by providing information such as the generic or brand name, strength, dosage form, packaging, quantity, and destination.
 
 To learn more about our services, visit the official DengYue Pharmacy website: [dengyuerx.com](https://dengyuerx.com)
 
