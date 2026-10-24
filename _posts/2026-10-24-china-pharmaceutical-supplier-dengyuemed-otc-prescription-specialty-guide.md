@@ -7,15 +7,13 @@ image: /assets/images/pharmaceutical-packaging-conveyor-line.webp
 description: "An overview of the OTC, prescription, biological, and specialty medicine categories offered by Chinese pharmaceutical suppliers, and DengYueMed's import, export, and cross-border supply chain services."
 ---
 
-![Medicine packaging moving along a conveyor line](/assets/images/pharmaceutical-packaging-conveyor-line.webp)
-
 As the global pharmaceutical supply chain continues to evolve, Chinese medicines and related supply chain services are attracting growing interest from overseas pharmaceutical wholesalers, distributors and healthcare institutions.
 
 Founded in 2019 and headquartered in Hong Kong, DengYueMed is a pharmaceutical import, export and wholesale company holding relevant pharmaceutical business licences issued by the Department of Health of the Hong Kong Special Administrative Region.
 
 The company is committed to connecting pharmaceutical supply resources in China with global partners, providing pharmaceutical supply, channel coordination and cross-border supply chain support to pharmaceutical wholesalers, distributors, pharmacies and other healthcare-related institutions.
 
-This article explores the main product categories offered by Chinese pharmaceutical suppliers, key therapeutic areas, and DengYueMed's capabilities in pharmaceutical supply and international distribution.
+This article explores the main product categories offered by [Chinese pharmaceutical suppliers](https://dengyuemed.com/new-pharmaceutical-wholesaler/), key therapeutic areas, and DengYueMed's capabilities in pharmaceutical supply and international distribution.
 
 ## 1. What Types of Medicines Do Chinese Pharmaceutical Suppliers Offer?
 
@@ -25,7 +23,7 @@ Common categories include over-the-counter (OTC) medicines, prescription medicin
 
 ![Pharmacy shelves stocked with OTC medicines](/assets/images/pharmacy-shelves-otc-medicines.jpeg)
 
-Over-the-counter (OTC) medicines are products that can be purchased and used without a prescription in accordance with applicable regulatory requirements.
+[Over-the-counter (OTC) medicines](https://dengyuerx.com/product-category/otc-pharmacy/) are products that can be purchased and used without a prescription in accordance with applicable regulatory requirements.
 
 Common categories include:
 - Cold and related symptom relief medicines
@@ -38,7 +36,7 @@ OTC medicines are widely used in retail pharmacy settings and everyday healthcar
 
 ### 1.2 Prescription Medicines
 
-Prescription medicines generally require a prescription issued by a qualified healthcare professional in accordance with local regulations and must be dispensed or used in line with applicable requirements.
+[Prescription medicines](https://dengyuerx.com/product-category/prescription-medicines/) generally require a prescription issued by a qualified healthcare professional in accordance with local regulations and must be dispensed or used in line with applicable requirements.
 
 They cover a wide range of therapeutic areas, including:
 - Cardiovascular and metabolic diseases
@@ -89,13 +87,13 @@ China's innovative drug development has continued to advance in recent years, wi
 
 ### 2.2 Medicines for Chronic Diseases
 
-Medicines for chronic diseases cover long-term treatment areas such as cardiovascular diseases, diabetes and other metabolic disorders. Product forms include conventional oral formulations, injections and certain biological products.
+[Medicines for chronic diseases](https://dengyuemed.github.io/) cover long-term treatment areas such as cardiovascular diseases, diabetes and other metabolic disorders. Product forms include conventional oral formulations, injections and certain biological products.
 
 Supply planning for these medicines generally takes into account product specifications, batch and expiry management, storage requirements and subsequent replenishment arrangements.
 
 ### 2.3 Rare Disease and Other Specialty Medicines
 
-Rare disease medicines and other specialty medicines typically target specific conditions or patient populations. Some products involve complex manufacturing processes, special storage and transportation conditions, and more detailed product traceability requirements.
+[Rare disease medicines](https://dengyuerx.com/product-category/prescription-medicines/rare-diseases/) and other specialty medicines typically target specific conditions or patient populations. Some products involve complex manufacturing processes, special storage and transportation conditions, and more detailed product traceability requirements.
 
 When sourcing these medicines, international buyers need to understand not only product supply information but also supply channels, relevant quality documentation and the import and distribution requirements of the destination market.
 
