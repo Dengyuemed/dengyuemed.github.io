@@ -7,15 +7,13 @@ image: /assets/images/adcetris-brentuximab-vedotin-50mg-cartons.jpeg
 description: "China's NMPA approved brentuximab vedotin plus CHP on October 23, 2026 for previously untreated CD30-positive peripheral T-cell lymphoma, backed by the global ECHELON-2 trial and a Chinese bridging study."
 ---
 
-![Adcetris (brentuximab vedotin) 50 mg cartons](/assets/images/adcetris-brentuximab-vedotin-50mg-cartons.jpeg)
-
 Peripheral T-cell lymphoma (PTCL) is a group of aggressive non-Hodgkin lymphomas originating from mature T cells or natural killer (NK) cells. These diseases are characterized by substantial heterogeneity, rapid clinical progression, and a high risk of relapse in certain subtypes.
 
 For patients receiving initial treatment, achieving a deep response early in the course of the disease and prolonging survival remain important clinical challenges.
 
-On October 23, 2026, Takeda China announced that the National Medical Products Administration (NMPA) of China had approved a new indication for brentuximab vedotin, its CD30-targeted antibody-drug conjugate (ADC).
+On October 23, 2026, Takeda China announced that the National Medical Products Administration (NMPA) of China had approved a new indication for [brentuximab vedotin](https://dengyuemed.com/product/adcetris-brentuximab-vedotin-lymphoma/), its CD30-targeted antibody-drug conjugate (ADC).
 
-In combination with cyclophosphamide, doxorubicin, and prednisone (the CHP regimen), the drug is indicated for the treatment of previously untreated adults with systemic anaplastic large cell lymphoma (sALCL) or other CD30-positive PTCLs, including angioimmunoblastic T-cell lymphoma (AITL) and PTCL not otherwise specified (PTCL-NOS).
+In combination with cyclophosphamide, doxorubicin, and [prednisone](https://dengyuerx.com/product/meilesong-prednisone-allergy-and-inflammation/) (the CHP regimen), the drug is indicated for the treatment of previously untreated adults with systemic anaplastic large cell lymphoma (sALCL) or other CD30-positive PTCLs, including angioimmunoblastic T-cell lymphoma (AITL) and PTCL not otherwise specified (PTCL-NOS).
 
 Hong Kong-based DengYueMed will explore the background and clinical significance of this approval, covering the characteristics of PTCL, the drug's mechanism of action, and key clinical trial findings.
 
@@ -23,7 +21,7 @@ Hong Kong-based DengYueMed will explore the background and clinical significance
 
 ![Patient having blood drawn during lymphoma care](/assets/images/patient-blood-draw-lymphoma-care.jpg)
 
-PTCL is not a single disease but a group of lymphomas with distinct biological characteristics and clinical presentations. sALCL, AITL, and PTCL-NOS are among its representative subtypes.
+PTCL is not a single disease but a group of [lymphomas](https://dengyuemed.com/product-category/lymphoma/) with distinct biological characteristics and clinical presentations. sALCL, AITL, and PTCL-NOS are among its representative subtypes.
 
 Compared with certain B-cell lymphomas, PTCL has relatively limited treatment options. Traditional chemotherapy regimens, such as CHOP, have long been used as first-line treatment for various PTCL subtypes. However, treatment responses and long-term outcomes vary, and some patients remain at risk of relapse or disease progression.
 
@@ -37,14 +35,14 @@ By recognizing CD30 and delivering cytotoxic payloads to target cells, researche
 
 ![Brentuximab Vedotin for Injection 50 mg boxes stored in a refrigerator](/assets/images/adcetris-brentuximab-vedotin-boxes-shelf.jpeg)
 
-Brentuximab vedotin (Adcetris®) is a CD30-targeted antibody-drug conjugate (ADC) consisting of an anti-CD30 monoclonal antibody linked to the microtubule-disrupting agent monomethyl auristatin E (MMAE).
+Brentuximab vedotin ([Adcetris®](https://dengyuemed.com/product/adcetris-brentuximab-vedotin-lymphoma/)) is a CD30-targeted antibody-drug conjugate (ADC) consisting of an anti-CD30 monoclonal antibody linked to the microtubule-disrupting agent monomethyl auristatin E (MMAE).
 
 Its mechanism of action involves three main steps:
 - **Target Recognition:** The antibody specifically recognizes and binds to CD30 on the surface of tumor cells.
 - **Payload Delivery:** The drug complex is internalized by the cell, releasing the cytotoxic payload MMAE.
 - **Tumor Cell Inhibition:** MMAE disrupts microtubule structure and function, inhibits cell division, and promotes tumor cell death.
 
-This mechanism combines the target-recognition capabilities of an antibody with the antitumor activity of a cytotoxic agent, providing a treatment approach for CD30-positive lymphomas that differs from conventional chemotherapy alone.
+This mechanism combines the target-recognition capabilities of an antibody with the antitumor activity of a cytotoxic agent, providing a treatment approach for CD30-positive lymphomas that differs from conventional [chemotherapy](https://dengyuemed.github.io/oncology/2026/08/27/trilaciclib-new-indication-es-sclc/) alone.
 
 Brentuximab vedotin was originally developed by Seagen. In 2023, Pfizer completed its acquisition of Seagen. Pfizer and Takeda currently share responsibility for the drug's global development and commercialization.
 
@@ -114,4 +112,4 @@ Evidence from the global Phase III trial and the Chinese bridging study suggests
 
 As China's innovative drug development and clinical applications continue to advance, more potential treatment options are attracting global attention.
 
-As a China pharmaceutical exporter, DengYueMed closely follows developments in Chinese drug approvals, innovative drug research and development, and pharmaceutical supply chains. The company provides business support related to Chinese pharmaceutical resources and supply chains for international pharmaceutical companies, drug distributors, and healthcare institutions, helping global partners better understand China's pharmaceutical innovation landscape and available supply channels.
+As a [China pharmaceutical exporter](https://dengyuemed.com/), DengYueMed closely follows developments in Chinese drug approvals, innovative drug research and development, and pharmaceutical supply chains. The company provides business support related to Chinese pharmaceutical resources and supply chains for international pharmaceutical companies, drug distributors, and healthcare institutions, helping global partners better understand China's pharmaceutical innovation landscape and available supply channels.
