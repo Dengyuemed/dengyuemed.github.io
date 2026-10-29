@@ -7,13 +7,11 @@ image: /assets/images/oncologist-patient-infusion-consultation.jpg
 description: "China's NMPA approved teclistamab (Tecvayli) on October 22, 2026 for relapsed or refractory multiple myeloma after at least one prior line of therapy, supported by the Phase 3 MajesTEC-9 study."
 ---
 
-![Oncologist speaking with a patient in an infusion treatment area](/assets/images/oncologist-patient-infusion-consultation.jpg)
-
 On October 22, 2026, China's National Medical Products Administration (NMPA) approved a new indication for teclistamab injection for adults with relapsed or refractory multiple myeloma who have received at least one prior line of therapy, including an anti-CD38 monoclonal antibody and lenalidomide. The approval, supported by findings from the Phase 3 MajesTEC-9 study, provides a new immunotherapy option for eligible patients.
 
 ## I. Challenges in Multiple Myeloma Treatment
 
-Multiple myeloma is a malignant plasma cell disorder that primarily affects the bone marrow. It can lead to bone damage, anemia, kidney impairment, and abnormalities in immune function.
+[Multiple myeloma](https://dengyuemed.com/product/elranatamab-multiple-myeloma/) is a [malignant plasma cell](https://dengyuerx.com/product-category/prescription-medicines/malignant-tumour/) disorder that primarily affects the bone marrow. It can lead to bone damage, anemia, kidney impairment, and abnormalities in immune function.
 
 In recent years, treatment options have expanded with the development of proteasome inhibitors, immunomodulatory drugs, and anti-CD38 monoclonal antibodies. However, disease relapse, treatment resistance, and limited options after multiple lines of therapy remain important challenges.
 
@@ -61,7 +59,7 @@ These findings highlight the importance of infection prevention, close monitorin
 
 The approval of a new teclistamab indication reflects continued progress in bispecific antibody therapy for multiple myeloma. As innovative medicines advance, patients, healthcare institutions, and pharmaceutical procurement organizations increasingly need reliable drug information, compliant procurement channels, and cross-border supply-chain support.
 
-DengYue Pharmacy focuses on pharmaceutical import, export, wholesale, and cross-border pharmaceutical supply-chain services. The company supports pharmaceutical sourcing, procurement coordination, and supply-chain information services for eligible procurement needs across markets.
+[DengYue Pharmacy](https://dengyuemed.github.io/) focuses on pharmaceutical import, export, wholesale, and cross-border pharmaceutical supply-chain services. The company supports pharmaceutical sourcing, procurement coordination, and supply-chain information services for eligible procurement needs across markets.
 
 For specialized medicines such as teclistamab, availability, registration status, distribution authorization, and procurement requirements must be verified for each destination market in accordance with applicable laws and regulations.
 
