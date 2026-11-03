@@ -7,9 +7,7 @@ image: /assets/images/colorectal-cancer-colon-anatomy-illustration.png
 description: "How the BRAF V600E mutation guides treatment in metastatic colorectal cancer, and why encorafenib plus cetuximab, supported by the BEACON CRC and BREAKWATER trials, is an important targeted option."
 ---
 
-![Illustration of colon cancer and the regions of the colon and rectum](/assets/images/colorectal-cancer-colon-anatomy-illustration.png)
-
-When people think of colorectal cancer, they often think first of surgery, chemotherapy, and conventional drug treatments. However, as medical research continues to advance, doctors can now analyze the genetic characteristics of tumors to identify more targeted treatment options for patients.
+When people think of [colorectal cancer](https://dengyuerx.com/product-category/prescription-medicines/gastroenterology/), they often think first of surgery, chemotherapy, and conventional drug treatments. However, as medical research continues to advance, doctors can now analyze the genetic characteristics of tumors to identify more targeted treatment options for patients.
 
 One important biomarker is the BRAF V600E mutation. For patients with BRAF V600E-mutated metastatic colorectal cancer, the combination of encorafenib and cetuximab offers an important targeted treatment option.
 
@@ -47,7 +45,7 @@ Of course, combination treatment is not suitable for every patient with colorect
 
 ## III. What Advances Have Clinical Studies Demonstrated?
 
-The therapeutic value of combining encorafenib and cetuximab has been evaluated in several clinical studies.
+The therapeutic value of combining [encorafenib](https://dengyuemed.com/product/encorafenib-non-small-cell-lung-cancer/) and [cetuximab](https://dengyuemed.com/product/enlitux-cetuximab-beta-injection-crc/) has been evaluated in several clinical studies.
 
 The BEACON CRC trial focused on patients with BRAF V600E-mutated metastatic colorectal cancer whose disease had progressed after previous treatment. The results supported the use of this combination, providing an additional treatment option for eligible patients.
 
@@ -77,7 +75,7 @@ If testing identifies a BRAF V600E mutation, patients can discuss the significan
 
 As precision medicine advances, an increasing number of specialized medicines are entering clinical practice. For healthcare institutions, professional procurement partners, and companies involved in international pharmaceutical supply chains, understanding a medicine's indications, regulatory status, and supply requirements has become increasingly important.
 
-DengYueRX follows pharmaceutical developments across different therapeutic areas and provides pharmaceutical sourcing coordination, supply-chain connections, and cross-border pharmaceutical supply-chain services. These services help eligible procurement partners understand relevant medicine supply arrangements and procurement processes.
+[DengYueRX](https://dengyuerx.com/) follows pharmaceutical developments across different therapeutic areas and provides pharmaceutical sourcing coordination, supply-chain connections, and cross-border pharmaceutical supply-chain services. These services help eligible procurement partners understand relevant medicine supply arrangements and procurement processes.
 
 For specialized medicines such as encorafenib and cetuximab, actual supply arrangements must be verified according to the registration requirements of the destination market, product availability, and applicable import and export regulations. Whether a medicine can be supplied or imported, and the conditions under which it may be used legally, must be assessed in accordance with the relevant laws and regulatory requirements.
 
