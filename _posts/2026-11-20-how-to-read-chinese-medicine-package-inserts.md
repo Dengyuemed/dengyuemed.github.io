@@ -7,8 +7,6 @@ image: /assets/images/tourist-pharmacist-medicine-label-translation.jpg
 description: "A practical guide for international consumers on reading Chinese medicine labels and package inserts, from ingredients and directions to contraindications, storage, and cross-border rules."
 ---
 
-![Traveler showing a medicine photo on a phone to a pharmacist in China](/assets/images/tourist-pharmacist-medicine-label-translation.jpg)
-
 Have you ever purchased traditional Chinese medicine at a pharmacy in China but struggled to understand the Chinese packaging and instructions? Without being familiar with the language, it can be difficult to identify a medicine's ingredients, intended uses, and directions for use.
 
 For international consumers who are unfamiliar with Chinese, purchasing traditional Chinese medicine in China can be a challenging experience. The wide variety of medicine packaging, different dosage forms, and unfamiliar Chinese terminology may all cause confusion.
@@ -208,6 +206,6 @@ For consumers who are unfamiliar with Chinese, mobile translation tools can help
 
 The next time you visit a pharmacy in China, take a moment to review the information printed on the medicine packaging. Understanding a medicine starts with knowing how to read its label.
 
-If you have questions about identifying Chinese medicine labels, verifying product information, or understanding cross-border pharmaceutical procurement, you can contact DengYueRX for information about relevant pharmaceutical supply and procurement coordination services.
+If you have questions about identifying Chinese medicine labels, verifying product information, or understanding cross-border pharmaceutical procurement, you can contact [DengYueRX](https://dengyuerx.com/) for information about relevant pharmaceutical supply and procurement coordination services.
 
 Have you ever purchased traditional Chinese medicine in China? Which part of the medicine packaging or package insert do you find most difficult to understand? Share your experience and thoughts in the comments!
