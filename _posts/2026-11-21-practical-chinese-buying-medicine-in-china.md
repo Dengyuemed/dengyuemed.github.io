@@ -7,9 +7,7 @@ image: /assets/images/china-pharmacy-chain-storefront-signs.png
 description: "A phrasebook-style guide with Chinese vocabulary, Pinyin, and English for buying medicine in China at pharmacies, through online delivery platforms, and at hospitals."
 ---
 
-![Storefront signs of pharmacy chains in China: GuoDa, a health pharmacy, DengYue, and LBX](/assets/images/china-pharmacy-chain-storefront-signs.png)
-
-Medicines in China are divided into two categories: prescription medicines, which require a doctor's prescription, and over-the-counter (OTC) medicines, which can be purchased without one.
+Medicines in China are divided into two categories: [prescription medicines](https://dengyuerx.com/product-category/prescription-medicines/), which require a doctor's prescription, and [over-the-counter (OTC) medicines](https://dengyuerx.com/product-category/otc-pharmacy/), which can be purchased without one.
 
 There are three common ways to obtain medicines in China:
 - **Physical pharmacies:** Offer medicines for colds, pain relief, stomach problems, and minor injuries.
@@ -60,7 +58,7 @@ When purchasing medicines, it is generally more helpful to use the generic name 
 
 Chinese retail pharmacies usually have a green cross sign and storefront signage featuring terms such as "药房" or "大药房".
 
-Common pharmacy chains include LBX Pharmacy, GuoDa Pharmacy, and DengYue Pharmacy. Pharmacies generally have licensed pharmacists available to provide consultation, and medicine prices are usually displayed clearly.
+Common pharmacy chains include LBX Pharmacy, GuoDa Pharmacy, and [DengYue Pharmacy](https://dengyuerx.com/). Pharmacies generally have licensed pharmacists available to provide consultation, and medicine prices are usually displayed clearly.
 
 **Common Pharmacy Signage**
 
