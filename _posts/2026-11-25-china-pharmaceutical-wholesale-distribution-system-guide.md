@@ -7,15 +7,13 @@ image: /assets/images/pharmaceutical-supply-chain-diagram.jpg
 description: "How medicines move through China's wholesale and distribution system, from MAHs and manufacturers to hospitals and pharmacies, plus the regulations involved and how international buyers can source from China."
 ---
 
-![Pharmaceutical supply chain from manufacturer and wholesaler to distributor, hospital, pharmacy, nursing home, and patient](/assets/images/pharmaceutical-supply-chain-diagram.jpg)
-
-After medicines leave the manufacturing stage and enter the market, they do not reach all end users directly. Instead, they pass through multiple stages, including procurement, warehousing, quality management, distribution and transportation. Throughout this process, Marketing Authorization Holders (MAHs), pharmaceutical manufacturers, wholesalers, pharmaceutical logistics providers, hospitals and retail pharmacies work together to form China's pharmaceutical wholesale and distribution system.
+After medicines leave the manufacturing stage and enter the market, they do not reach all end users directly. Instead, they pass through multiple stages, including procurement, warehousing, quality management, distribution and transportation. Throughout this process, Marketing Authorization Holders (MAHs), pharmaceutical manufacturers, wholesalers, pharmaceutical logistics providers, hospitals and [retail pharmacies](https://dengyuerx.com/) work together to form China's pharmaceutical wholesale and distribution system.
 
 This system not only connects pharmaceutical suppliers with buyers but also plays an important role in distribution efficiency, supply stability and quality management. As China's pharmaceutical market and international pharmaceutical trade continue to develop, understanding the structure, operational processes and regulatory requirements of China's pharmaceutical wholesale and distribution system is practically important for domestic and international pharmaceutical buyers, hospitals, pharmacies and pharmaceutical distributors.
 
 ## What Is Pharmaceutical Wholesale and Distribution in China?
 
-China's pharmaceutical wholesale and distribution system refers to the network through which medicines are procured from upstream suppliers, stored, processed, transported and delivered to hospitals, pharmacies and other qualified buyers. Pharmaceutical wholesalers play an important role in connecting upstream medicine suppliers with downstream buyers.
+China's pharmaceutical wholesale and distribution system refers to the network through which medicines are procured from upstream suppliers, stored, processed, transported and delivered to hospitals, pharmacies and other qualified buyers. [Pharmaceutical wholesalers](https://dengyuemed.com/) play an important role in connecting upstream medicine suppliers with downstream buyers.
 
 Although pharmaceutical wholesale and retail are both pharmaceutical business activities, they differ in their customer groups and business models. Wholesale primarily serves hospitals, pharmacies and other qualified organizations, focusing on bulk medicine procurement and supply. Retail, on the other hand, mainly serves patients and consumers through direct medicine sales.
 
@@ -35,7 +33,7 @@ China's pharmaceutical distribution system is not operated by a single type of b
 - **Pharmaceutical Manufacturers:** Manufacture medicines in accordance with approved production processes and quality standards, providing products for the distribution system.
 - **Pharmaceutical Wholesalers:** Procure medicines from qualified suppliers and supply them to hospitals, pharmacies and other eligible buyers.
 - **Pharmaceutical Logistics Providers:** Provide specialized warehousing, transportation and delivery services, supporting the movement of medicines across different regions.
-- **Hospitals and Retail Pharmacies:** Act as downstream buyers, purchasing medicines for clinical use or for supply to patients and consumers.
+- **Hospitals and:** Act as downstream buyers, purchasing medicines for clinical use or for supply to patients and consumers.
 
 The business relationships among these participants are not always fixed. For example, medicines may be supplied directly by MAHs or manufacturers to eligible buyers, or they may pass through pharmaceutical wholesalers and regional distribution channels. The specific arrangement generally depends on the product category, supply structure and procurement requirements.
 
